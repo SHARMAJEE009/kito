@@ -1,0 +1,25 @@
+{
+  "table_name": "B.  GATE ENTRY WITHOUT GRPO  –  DATA LIST",
+  "body": [
+    {
+      "#": 682,
+      "DocEntry": 64992,
+      "Gate Entry No": 8495,
+      "Gate Entry Date": "31-Jan-2026",
+      "Vendor Code": "V01269",
+      "VendorName": "IKIO SOLUTIONS PRIVATE LIMITED(UNIT-2)",
+      "VendorBillNo": "ISPLI252600637",
+      "Vendor Bill Date": "30-Jan-2026"
+    },
+    {
+      "#": 2320,
+      "DocEntry": 66629,
+      "Gate Entry No": 10116,
+      "Gate Entry Date": "31-Mar-2026",
+      "Vendor Code": "V00195",
+      "VendorName": "NOVATEUR ELECTRICAL & DIGITAL SYSTEMS PVT. LTD",
+      "VendorBillNo": "HDC000469",
+      "Vendor Bill Date": "31-Mar-2026"
+    }
+  ]
+}

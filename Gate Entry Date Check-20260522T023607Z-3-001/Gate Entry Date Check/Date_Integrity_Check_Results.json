@@ -1,0 +1,32 @@
+{
+  "body": [
+    {
+      "Check": "Total Gate Entries",
+      "Records": 2323
+    },
+    {
+      "Check": "GE = GRPO date (same day)",
+      "Records": 2091
+    },
+    {
+      "Check": "GE < GRPO date (normal flow)",
+      "Records": 228
+    },
+    {
+      "Check": "GE > GRPO date (EXCEPTION - illogical)",
+      "Records": 2
+    },
+    {
+      "Check": "Vendor Bill Date > GE date (EXCEPTION)",
+      "Records": 0
+    },
+    {
+      "Check": "Missing GRPO Date",
+      "Records": 2
+    },
+    {
+      "Check": "Missing Vendor Bill Date",
+      "Records": 0
+    }
+  ]
+}

@@ -1,0 +1,3795 @@
+{
+  "table_name": "VENDOR-WISE GL BALANCE  –  TRANSACTION DATA LIST",
+  "body": [
+    {
+      "Vendor Code": "V00128",
+      "Vendor Name": "RUNZ LIGHTING CO., LIMITED",
+      "Total Debit (₹)": 10683448.235,
+      "Total Credit (₹)": 24196020.41,
+      "Txn Count": 23,
+      "Latest Txn Date": "31-Mar-2026",
+      "Net Balance (₹)": 13512572.175,
+      "Status": "Outstanding (Payable)"
+    },
+    {
+      "Vendor Code": "V00698",
+      "Vendor Name": "ROYALUX LIGHTING PVT LTD",
+      "Total Debit (₹)": 22425795.82,
+      "Total Credit (₹)": 27691123,
+      "Txn Count": 68,
+      "Latest Txn Date": "31-Mar-2026",
+      "Net Balance (₹)": 5265327.18,
+      "Status": "Outstanding (Payable)"
+    },
+    {
+      "Vendor Code": "V00999",
+      "Vendor Name": "Luxlite Industry Co.,Ltd",
+      "Total Debit (₹)": 111599.511,
+      "Total Credit (₹)": 3334882.59,
+      "Txn Count": 7,
+      "Latest Txn Date": "31-Mar-2026",
+      "Net Balance (₹)": 3223283.079,
+      "Status": "Outstanding (Payable)"
+    },
+    {
+      "Vendor Code": "V00989",
+      "Vendor Name": "Zhongshan Feitu Electronics Co.Ltd",
+      "Total Debit (₹)": 22177758.481,
+      "Total Credit (₹)": 24832442.188,
+      "Txn Count": 28,
+      "Latest Txn Date": "31-Mar-2026",
+      "Net Balance (₹)": 2654683.707,
+      "Status": "Outstanding (Payable)"
+    },
+    {
+      "Vendor Code": "V01347",
+      "Vendor Name": "Sincere Business Service Zhongshan Co.,Ltd",
+      "Total Debit (₹)": 4329639.934,
+      "Total Credit (₹)": 6287625.004,
+      "Txn Count": 6,
+      "Latest Txn Date": "31-Mar-2026",
+      "Net Balance (₹)": 1957985.07,
+      "Status": "Outstanding (Payable)"
+    },
+    {
+      "Vendor Code": "V01022",
+      "Vendor Name": "Wenzhou Chengshen Electronics Co., Ltd",
+      "Total Debit (₹)": 4643976,
+      "Total Credit (₹)": 6503250,
+      "Txn Count": 3,
+      "Latest Txn Date": "31-Mar-2026",
+      "Net Balance (₹)": 1859274,
+      "Status": "Outstanding (Payable)"
+    },
+    {
+      "Vendor Code": "V00084",
+      "Vendor Name": "SAV ELECTRONICS",
+      "Total Debit (₹)": 2934929,
+      "Total Credit (₹)": 4657010,
+      "Txn Count": 70,
+      "Latest Txn Date": "31-Mar-2026",
+      "Net Balance (₹)": 1722081,
+      "Status": "Outstanding (Payable)"
+    },
+    {
+      "Vendor Code": "V01004",
+      "Vendor Name": "ZHONGSHAN BINGAO LIGHTING CO.,LTD",
+      "Total Debit (₹)": 482246.62,
+      "Total Credit (₹)": 2157298.81,
+      "Txn Count": 7,
+      "Latest Txn Date": "31-Mar-2026",
+      "Net Balance (₹)": 1675052.19,
+      "Status": "Outstanding (Payable)"
+    },
+    {
+      "Vendor Code": "V00037",
+      "Vendor Name": "Formax Electronics Pvt Ltd",
+      "Total Debit (₹)": 702630,
+      "Total Credit (₹)": 2218343,
+      "Txn Count": 40,
+      "Latest Txn Date": "31-Mar-2026",
+      "Net Balance (₹)": 1515713,
+      "Status": "Outstanding (Payable)"
+    },
+    {
+      "Vendor Code": "V00755",
+      "Vendor Name": "AVM TRADERS",
+      "Total Debit (₹)": 641773,
+      "Total Credit (₹)": 2155250,
+      "Txn Count": 11,
+      "Latest Txn Date": "31-Mar-2026",
+      "Net Balance (₹)": 1513477,
+      "Status": "Outstanding (Payable)"
+    },
+    {
+      "Vendor Code": "V01301",
+      "Vendor Name": "PAI-AIM SOLDER (INDIA) PRIVATE LIMITED",
+      "Total Debit (₹)": 8594069,
+      "Total Credit (₹)": 9862263,
+      "Txn Count": 15,
+      "Latest Txn Date": "31-Mar-2026",
+      "Net Balance (₹)": 1268194,
+      "Status": "Outstanding (Payable)"
+    },
+    {
+      "Vendor Code": "V01335",
+      "Vendor Name": "AP COLOUR FUSION",
+      "Total Debit (₹)": 981760,
+      "Total Credit (₹)": 1938740,
+      "Txn Count": 9,
+      "Latest Txn Date": "28-Mar-2026",
+      "Net Balance (₹)": 956980,
+      "Status": "Outstanding (Payable)"
+    },
+    {
+      "Vendor Code": "V00181",
+      "Vendor Name": "Calco Poly Technik Pvt Ltd",
+      "Total Debit (₹)": 0,
+      "Total Credit (₹)": 885000,
+      "Txn Count": 1,
+      "Latest Txn Date": "23-Mar-2026",
+      "Net Balance (₹)": 885000,
+      "Status": "Outstanding (Payable)"
+    },
+    {
+      "Vendor Code": "V01367",
+      "Vendor Name": "PAI-AIM SOLDER (INDIA) PRIVATE LIMITED",
+      "Total Debit (₹)": 2829817,
+      "Total Credit (₹)": 3706852,
+      "Txn Count": 6,
+      "Latest Txn Date": "25-Mar-2026",
+      "Net Balance (₹)": 877035,
+      "Status": "Outstanding (Payable)"
+    },
+    {
+      "Vendor Code": "V00056",
+      "Vendor Name": "Kevin Electrochem",
+      "Total Debit (₹)": 1905842,
+      "Total Credit (₹)": 2777856,
+      "Txn Count": 26,
+      "Latest Txn Date": "31-Mar-2026",
+      "Net Balance (₹)": 872014,
+      "Status": "Outstanding (Payable)"
+    },
+    {
+      "Vendor Code": "V00831",
+      "Vendor Name": "APT Electronics Co.Ltd.",
+      "Total Debit (₹)": 1019967.242,
+      "Total Credit (₹)": 1840358.028,
+      "Txn Count": 9,
+      "Latest Txn Date": "31-Mar-2026",
+      "Net Balance (₹)": 820390.786,
+      "Status": "Outstanding (Payable)"
+    },
+    {
+      "Vendor Code": "V00887",
+      "Vendor Name": "DXL ELECTRONIC MATERIALS INDIA PRIVATE LIMITED",
+      "Total Debit (₹)": 6911678,
+      "Total Credit (₹)": 7682095,
+      "Txn Count": 22,
+      "Latest Txn Date": "31-Mar-2026",
+      "Net Balance (₹)": 770417,
+      "Status": "Outstanding (Payable)"
+    },
+    {
+      "Vendor Code": "V00913",
+      "Vendor Name": "LUMEN PLUS CORPORATION(HARIDWAR)",
+      "Total Debit (₹)": 2611567,
+      "Total Credit (₹)": 3343188,
+      "Txn Count": 42,
+      "Latest Txn Date": "31-Mar-2026",
+      "Net Balance (₹)": 731621,
+      "Status": "Outstanding (Payable)"
+    },
+    {
+      "Vendor Code": "V00647",
+      "Vendor Name": "BGJC & ASSOCIATES LLP",
+      "Total Debit (₹)": 530824,
+      "Total Credit (₹)": 1229414,
+      "Txn Count": 12,
+      "Latest Txn Date": "31-Mar-2026",
+      "Net Balance (₹)": 698590,
+      "Status": "Outstanding (Payable)"
+    },
+    {
+      "Vendor Code": "V00278",
+      "Vendor Name": "Ningbo Siejee Lighting Co Ltd",
+      "Total Debit (₹)": 6501.6,
+      "Total Credit (₹)": 674157.67,
+      "Txn Count": 3,
+      "Latest Txn Date": "31-Mar-2026",
+      "Net Balance (₹)": 667656.07,
+      "Status": "Outstanding (Payable)"
+    },
+    {
+      "Vendor Code": "V00025",
+      "Vendor Name": "DESAI ELECTRONICS PVT LTD",
+      "Total Debit (₹)": 1195732,
+      "Total Credit (₹)": 1848904,
+      "Txn Count": 15,
+      "Latest Txn Date": "31-Mar-2026",
+      "Net Balance (₹)": 653172,
+      "Status": "Outstanding (Payable)"
+    },
+    {
+      "Vendor Code": "V00108",
+      "Vendor Name": "VALLABH IMPEX [I] PVT LTD",
+      "Total Debit (₹)": 315615,
+      "Total Credit (₹)": 966362,
+      "Txn Count": 10,
+      "Latest Txn Date": "31-Mar-2026",
+      "Net Balance (₹)": 650747,
+      "Status": "Outstanding (Payable)"
+    },
+    {
+      "Vendor Code": "V00095",
+      "Vendor Name": "SPACE MICRO DEVICES",
+      "Total Debit (₹)": 2455419,
+      "Total Credit (₹)": 3097605,
+      "Txn Count": 34,
+      "Latest Txn Date": "31-Mar-2026",
+      "Net Balance (₹)": 642186,
+      "Status": "Outstanding (Payable)"
+    },
+    {
+      "Vendor Code": "V00835",
+      "Vendor Name": "SURAJ MOULDERS (PVT) LTD.",
+      "Total Debit (₹)": 1462263,
+      "Total Credit (₹)": 2080322,
+      "Txn Count": 47,
+      "Latest Txn Date": "31-Mar-2026",
+      "Net Balance (₹)": 618059,
+      "Status": "Outstanding (Payable)"
+    },
+    {
+      "Vendor Code": "V01391",
+      "Vendor Name": "PIONEER TECHNOLOGIES PRIVATE LIMITED",
+      "Total Debit (₹)": 0,
+      "Total Credit (₹)": 612420,
+      "Txn Count": 1,
+      "Latest Txn Date": "31-Mar-2026",
+      "Net Balance (₹)": 612420,
+      "Status": "Outstanding (Payable)"
+    },
+    {
+      "Vendor Code": "V00085",
+      "Vendor Name": "WATTS ELECTRONICS PVT. LTD.",
+      "Total Debit (₹)": 1641576,
+      "Total Credit (₹)": 2227634,
+      "Txn Count": 37,
+      "Latest Txn Date": "31-Mar-2026",
+      "Net Balance (₹)": 586058,
+      "Status": "Outstanding (Payable)"
+    },
+    {
+      "Vendor Code": "V00627",
+      "Vendor Name": "YMD ELECTROMAC INDIA",
+      "Total Debit (₹)": 1271584,
+      "Total Credit (₹)": 1837793.21,
+      "Txn Count": 37,
+      "Latest Txn Date": "31-Mar-2026",
+      "Net Balance (₹)": 566209.21,
+      "Status": "Outstanding (Payable)"
+    },
+    {
+      "Vendor Code": "V01320",
+      "Vendor Name": "LIGHTANIUM TECHNOLOGIES PRIVATE LIMITED",
+      "Total Debit (₹)": 4355685.04,
+      "Total Credit (₹)": 4907566.12,
+      "Txn Count": 32,
+      "Latest Txn Date": "31-Mar-2026",
+      "Net Balance (₹)": 551881.08,
+      "Status": "Outstanding (Payable)"
+    },
+    {
+      "Vendor Code": "V00078",
+      "Vendor Name": "Rama Krishana Electro Cpmponents Pvt Ltd",
+      "Total Debit (₹)": 10030,
+      "Total Credit (₹)": 536346,
+      "Txn Count": 9,
+      "Latest Txn Date": "27-Mar-2026",
+      "Net Balance (₹)": 526316,
+      "Status": "Outstanding (Payable)"
+    },
+    {
+      "Vendor Code": "V00160",
+      "Vendor Name": "NANTONG SUNION ELECTRONIC CO., LTD.",
+      "Total Debit (₹)": 1526631.34,
+      "Total Credit (₹)": 2052210.73,
+      "Txn Count": 27,
+      "Latest Txn Date": "31-Mar-2026",
+      "Net Balance (₹)": 525579.39,
+      "Status": "Outstanding (Payable)"
+    },
+    {
+      "Vendor Code": "V00419",
+      "Vendor Name": "SIDHANT PROMOTERS PVT LTD",
+      "Total Debit (₹)": 247666,
+      "Total Credit (₹)": 742998,
+      "Txn Count": 4,
+      "Latest Txn Date": "31-Mar-2026",
+      "Net Balance (₹)": 495332,
+      "Status": "Outstanding (Payable)"
+    },
+    {
+      "Vendor Code": "V01350",
+      "Vendor Name": "MAX  INC.",
+      "Total Debit (₹)": 625730,
+      "Total Credit (₹)": 1111730,
+      "Txn Count": 4,
+      "Latest Txn Date": "24-Feb-2026",
+      "Net Balance (₹)": 486000,
+      "Status": "Outstanding (Payable)"
+    },
+    {
+      "Vendor Code": "V00087",
+      "Vendor Name": "Semitech Opto Solutions Pvt Ltd",
+      "Total Debit (₹)": 276120,
+      "Total Credit (₹)": 757079,
+      "Txn Count": 5,
+      "Latest Txn Date": "30-Mar-2026",
+      "Net Balance (₹)": 480959,
+      "Status": "Outstanding (Payable)"
+    },
+    {
+      "Vendor Code": "V00024",
+      "Vendor Name": "Deki Electronics Ltd",
+      "Total Debit (₹)": 1332529.9,
+      "Total Credit (₹)": 1804756.9,
+      "Txn Count": 28,
+      "Latest Txn Date": "31-Mar-2026",
+      "Net Balance (₹)": 472227,
+      "Status": "Outstanding (Payable)"
+    },
+    {
+      "Vendor Code": "V00547",
+      "Vendor Name": "GT MAGNETICS PVT LTD",
+      "Total Debit (₹)": 2907055.97,
+      "Total Credit (₹)": 3371229.42,
+      "Txn Count": 63,
+      "Latest Txn Date": "31-Mar-2026",
+      "Net Balance (₹)": 464173.45,
+      "Status": "Outstanding (Payable)"
+    },
+    {
+      "Vendor Code": "V01340",
+      "Vendor Name": "MESSE FRANKURT TRADE FARS PVT LTD",
+      "Total Debit (₹)": 1385910,
+      "Total Credit (₹)": 1847880,
+      "Txn Count": 6,
+      "Latest Txn Date": "31-Mar-2026",
+      "Net Balance (₹)": 461970,
+      "Status": "Outstanding (Payable)"
+    },
+    {
+      "Vendor Code": "V00121",
+      "Vendor Name": "EPITOME COMPONENTS PVT. LTD.",
+      "Total Debit (₹)": 735883,
+      "Total Credit (₹)": 1193501,
+      "Txn Count": 38,
+      "Latest Txn Date": "31-Mar-2026",
+      "Net Balance (₹)": 457618,
+      "Status": "Outstanding (Payable)"
+    },
+    {
+      "Vendor Code": "V01381",
+      "Vendor Name": "TEAM COMPUTERS PVT LTD",
+      "Total Debit (₹)": 761512,
+      "Total Credit (₹)": 1142248,
+      "Txn Count": 5,
+      "Latest Txn Date": "16-Mar-2026",
+      "Net Balance (₹)": 380736,
+      "Status": "Outstanding (Payable)"
+    },
+    {
+      "Vendor Code": "V00098",
+      "Vendor Name": "SINGODIA ELECTRONICS PVT LTD",
+      "Total Debit (₹)": 226372,
+      "Total Credit (₹)": 575617,
+      "Txn Count": 10,
+      "Latest Txn Date": "31-Mar-2026",
+      "Net Balance (₹)": 349245,
+      "Status": "Outstanding (Payable)"
+    },
+    {
+      "Vendor Code": "V00446",
+      "Vendor Name": "Hongli Zhihui Group Co. Ltd Guangzhou Branch",
+      "Total Debit (₹)": 5800183.586,
+      "Total Credit (₹)": 6141794.946,
+      "Txn Count": 21,
+      "Latest Txn Date": "31-Mar-2026",
+      "Net Balance (₹)": 341611.36,
+      "Status": "Outstanding (Payable)"
+    },
+    {
+      "Vendor Code": "V01205",
+      "Vendor Name": "VARDHAMANA  TESTING LABORATORY",
+      "Total Debit (₹)": 241920,
+      "Total Credit (₹)": 544320,
+      "Txn Count": 9,
+      "Latest Txn Date": "27-Mar-2026",
+      "Net Balance (₹)": 302400,
+      "Status": "Outstanding (Payable)"
+    },
+    {
+      "Vendor Code": "V00984",
+      "Vendor Name": "AARKAY ASSOCIATE",
+      "Total Debit (₹)": 962880,
+      "Total Credit (₹)": 1264960,
+      "Txn Count": 10,
+      "Latest Txn Date": "25-Mar-2026",
+      "Net Balance (₹)": 302080,
+      "Status": "Outstanding (Payable)"
+    },
+    {
+      "Vendor Code": "V01129",
+      "Vendor Name": "R.F. ELECTROTECH",
+      "Total Debit (₹)": 205243,
+      "Total Credit (₹)": 497012,
+      "Txn Count": 13,
+      "Latest Txn Date": "27-Mar-2026",
+      "Net Balance (₹)": 291769,
+      "Status": "Outstanding (Payable)"
+    },
+    {
+      "Vendor Code": "V00387",
+      "Vendor Name": "GEE ENN SALES PVT LTD",
+      "Total Debit (₹)": 324000,
+      "Total Credit (₹)": 594000,
+      "Txn Count": 7,
+      "Latest Txn Date": "31-Mar-2026",
+      "Net Balance (₹)": 270000,
+      "Status": "Outstanding (Payable)"
+    },
+    {
+      "Vendor Code": "V01246",
+      "Vendor Name": "WT MICROELECTRONICS SINGAPORE PTE. LTD.",
+      "Total Debit (₹)": 2461726.95,
+      "Total Credit (₹)": 2703100.902,
+      "Txn Count": 18,
+      "Latest Txn Date": "31-Mar-2026",
+      "Net Balance (₹)": 241373.952,
+      "Status": "Outstanding (Payable)"
+    },
+    {
+      "Vendor Code": "V01384",
+      "Vendor Name": "SAI SANYAM INDUSTRIES",
+      "Total Debit (₹)": 0,
+      "Total Credit (₹)": 217120,
+      "Txn Count": 1,
+      "Latest Txn Date": "17-Mar-2026",
+      "Net Balance (₹)": 217120,
+      "Status": "Outstanding (Payable)"
+    },
+    {
+      "Vendor Code": "V00074",
+      "Vendor Name": "PRIMUS TECHNOLOGY",
+      "Total Debit (₹)": 48144,
+      "Total Credit (₹)": 263671,
+      "Txn Count": 2,
+      "Latest Txn Date": "13-Mar-2026",
+      "Net Balance (₹)": 215527,
+      "Status": "Outstanding (Payable)"
+    },
+    {
+      "Vendor Code": "V00359",
+      "Vendor Name": "BHARAT SWITCHES",
+      "Total Debit (₹)": 177000,
+      "Total Credit (₹)": 389400,
+      "Txn Count": 5,
+      "Latest Txn Date": "25-Mar-2026",
+      "Net Balance (₹)": 212400,
+      "Status": "Outstanding (Payable)"
+    },
+    {
+      "Vendor Code": "V00081",
+      "Vendor Name": "ROSY  ELECTRONICS  PVT LTD",
+      "Total Debit (₹)": 1002055,
+      "Total Credit (₹)": 1209898,
+      "Txn Count": 41,
+      "Latest Txn Date": "31-Mar-2026",
+      "Net Balance (₹)": 207843,
+      "Status": "Outstanding (Payable)"
+    },
+    {
+      "Vendor Code": "V01220",
+      "Vendor Name": "FERRICS TECHNOLOGY CO., LIMITED.",
+      "Total Debit (₹)": 2681.544,
+      "Total Credit (₹)": 207279,
+      "Txn Count": 2,
+      "Latest Txn Date": "31-Jan-2026",
+      "Net Balance (₹)": 204597.456,
+      "Status": "Outstanding (Payable)"
+    },
+    {
+      "Vendor Code": "V00212",
+      "Vendor Name": "C L S PRODUCTS",
+      "Total Debit (₹)": 4637,
+      "Total Credit (₹)": 191549,
+      "Txn Count": 4,
+      "Latest Txn Date": "31-Mar-2026",
+      "Net Balance (₹)": 186912,
+      "Status": "Outstanding (Payable)"
+    },
+    {
+      "Vendor Code": "V01369",
+      "Vendor Name": "A P ENTERPRISES",
+      "Total Debit (₹)": 44250,
+      "Total Credit (₹)": 221250,
+      "Txn Count": 4,
+      "Latest Txn Date": "28-Mar-2026",
+      "Net Balance (₹)": 177000,
+      "Status": "Outstanding (Payable)"
+    },
+    {
+      "Vendor Code": "V01014",
+      "Vendor Name": "INDIA CIRCUITS PRIVATE LIMITED",
+      "Total Debit (₹)": 884979,
+      "Total Credit (₹)": 1060889,
+      "Txn Count": 26,
+      "Latest Txn Date": "31-Mar-2026",
+      "Net Balance (₹)": 175910,
+      "Status": "Outstanding (Payable)"
+    },
+    {
+      "Vendor Code": "V01333",
+      "Vendor Name": "TEKTRONICS EMS PRIVATE LIMITED",
+      "Total Debit (₹)": 306682,
+      "Total Credit (₹)": 447928,
+      "Txn Count": 7,
+      "Latest Txn Date": "27-Mar-2026",
+      "Net Balance (₹)": 141246,
+      "Status": "Outstanding (Payable)"
+    },
+    {
+      "Vendor Code": "V01349",
+      "Vendor Name": "DINESH KUMAR SONI",
+      "Total Debit (₹)": 202500,
+      "Total Credit (₹)": 337500,
+      "Txn Count": 9,
+      "Latest Txn Date": "31-Mar-2026",
+      "Net Balance (₹)": 135000,
+      "Status": "Outstanding (Payable)"
+    },
+    {
+      "Vendor Code": "V01271",
+      "Vendor Name": "BK PRINTPACK INNOVATIONS PRIVATE LIMITED",
+      "Total Debit (₹)": 5843515.06,
+      "Total Credit (₹)": 5969245,
+      "Txn Count": 177,
+      "Latest Txn Date": "31-Mar-2026",
+      "Net Balance (₹)": 125729.94,
+      "Status": "Outstanding (Payable)"
+    },
+    {
+      "Vendor Code": "V00159",
+      "Vendor Name": "MULTILINE ELECTRONICS PVT LTD",
+      "Total Debit (₹)": 41300,
+      "Total Credit (₹)": 153053,
+      "Txn Count": 4,
+      "Latest Txn Date": "31-Mar-2026",
+      "Net Balance (₹)": 111753,
+      "Status": "Outstanding (Payable)"
+    },
+    {
+      "Vendor Code": "V01134",
+      "Vendor Name": "LUMENS TECHNOLOGIES PRIVATE LIMITED",
+      "Total Debit (₹)": 38940,
+      "Total Credit (₹)": 136715,
+      "Txn Count": 3,
+      "Latest Txn Date": "10-Mar-2026",
+      "Net Balance (₹)": 97775,
+      "Status": "Outstanding (Payable)"
+    },
+    {
+      "Vendor Code": "V01176",
+      "Vendor Name": "ALPS ENGINEERS",
+      "Total Debit (₹)": 38763,
+      "Total Credit (₹)": 130862,
+      "Txn Count": 5,
+      "Latest Txn Date": "31-Mar-2026",
+      "Net Balance (₹)": 92099,
+      "Status": "Outstanding (Payable)"
+    },
+    {
+      "Vendor Code": "V00141",
+      "Vendor Name": "JAGAT INDIAN OIL",
+      "Total Debit (₹)": 52584,
+      "Total Credit (₹)": 140224,
+      "Txn Count": 3,
+      "Latest Txn Date": "17-Mar-2026",
+      "Net Balance (₹)": 87640,
+      "Status": "Outstanding (Payable)"
+    },
+    {
+      "Vendor Code": "V00406",
+      "Vendor Name": "SOARING LIGHT LED LIMITED",
+      "Total Debit (₹)": 18224,
+      "Total Credit (₹)": 104462.28,
+      "Txn Count": 2,
+      "Latest Txn Date": "31-Mar-2026",
+      "Net Balance (₹)": 86238.28,
+      "Status": "Outstanding (Payable)"
+    },
+    {
+      "Vendor Code": "V01279",
+      "Vendor Name": "VG ELECTRONICS LIMITED",
+      "Total Debit (₹)": 206244,
+      "Total Credit (₹)": 290171,
+      "Txn Count": 8,
+      "Latest Txn Date": "31-Mar-2026",
+      "Net Balance (₹)": 83927,
+      "Status": "Outstanding (Payable)"
+    },
+    {
+      "Vendor Code": "V00258",
+      "Vendor Name": "Dhl Express India Pvt Ltd (F)",
+      "Total Debit (₹)": 1224305,
+      "Total Credit (₹)": 1306973,
+      "Txn Count": 32,
+      "Latest Txn Date": "31-Mar-2026",
+      "Net Balance (₹)": 82668,
+      "Status": "Outstanding (Payable)"
+    },
+    {
+      "Vendor Code": "V00634",
+      "Vendor Name": "KATYAAYANI SALES & SERVICES PVT LTD",
+      "Total Debit (₹)": 216825,
+      "Total Credit (₹)": 293525,
+      "Txn Count": 14,
+      "Latest Txn Date": "31-Mar-2026",
+      "Net Balance (₹)": 76700,
+      "Status": "Outstanding (Payable)"
+    },
+    {
+      "Vendor Code": "V00288",
+      "Vendor Name": "Rajesh Tempo Service",
+      "Total Debit (₹)": 108192,
+      "Total Credit (₹)": 179144,
+      "Txn Count": 6,
+      "Latest Txn Date": "31-Mar-2026",
+      "Net Balance (₹)": 70952,
+      "Status": "Outstanding (Payable)"
+    },
+    {
+      "Vendor Code": "V00046",
+      "Vendor Name": "HS & SONS",
+      "Total Debit (₹)": 4011442,
+      "Total Credit (₹)": 4080950,
+      "Txn Count": 37,
+      "Latest Txn Date": "31-Mar-2026",
+      "Net Balance (₹)": 69508,
+      "Status": "Outstanding (Payable)"
+    },
+    {
+      "Vendor Code": "V00594",
+      "Vendor Name": "Nanjing Yusheng Electronic Co.,Ltd",
+      "Total Debit (₹)": 323447.4,
+      "Total Credit (₹)": 382702.2,
+      "Txn Count": 11,
+      "Latest Txn Date": "31-Mar-2026",
+      "Net Balance (₹)": 59254.8,
+      "Status": "Outstanding (Payable)"
+    },
+    {
+      "Vendor Code": "V00101",
+      "Vendor Name": "SUPREME CIRCUITS",
+      "Total Debit (₹)": 0,
+      "Total Credit (₹)": 57703,
+      "Txn Count": 4,
+      "Latest Txn Date": "31-Mar-2026",
+      "Net Balance (₹)": 57703,
+      "Status": "Outstanding (Payable)"
+    },
+    {
+      "Vendor Code": "V01290",
+      "Vendor Name": "B.S.ELECTRONICS PRIVATE LIMITED",
+      "Total Debit (₹)": 342947,
+      "Total Credit (₹)": 398948,
+      "Txn Count": 8,
+      "Latest Txn Date": "31-Mar-2026",
+      "Net Balance (₹)": 56001,
+      "Status": "Outstanding (Payable)"
+    },
+    {
+      "Vendor Code": "V01329",
+      "Vendor Name": "VAISHNAVI ELECTRONICS",
+      "Total Debit (₹)": 5310,
+      "Total Credit (₹)": 58410,
+      "Txn Count": 8,
+      "Latest Txn Date": "31-Mar-2026",
+      "Net Balance (₹)": 53100,
+      "Status": "Outstanding (Payable)"
+    },
+    {
+      "Vendor Code": "V01355",
+      "Vendor Name": "Cakes & Bakes",
+      "Total Debit (₹)": 0,
+      "Total Credit (₹)": 50350,
+      "Txn Count": 2,
+      "Latest Txn Date": "31-Jan-2026",
+      "Net Balance (₹)": 50350,
+      "Status": "Outstanding (Payable)"
+    },
+    {
+      "Vendor Code": "V01376",
+      "Vendor Name": "ARKTRON ELECTRONICS",
+      "Total Debit (₹)": 0,
+      "Total Credit (₹)": 47351,
+      "Txn Count": 1,
+      "Latest Txn Date": "31-Mar-2026",
+      "Net Balance (₹)": 47351,
+      "Status": "Outstanding (Payable)"
+    },
+    {
+      "Vendor Code": "V01358",
+      "Vendor Name": "SATSAVI FILLING STATION",
+      "Total Debit (₹)": 200000,
+      "Total Credit (₹)": 244760,
+      "Txn Count": 9,
+      "Latest Txn Date": "31-Mar-2026",
+      "Net Balance (₹)": 44760,
+      "Status": "Outstanding (Payable)"
+    },
+    {
+      "Vendor Code": "V00385",
+      "Vendor Name": "VB INFOTECH INDIA PVT LTD",
+      "Total Debit (₹)": 0,
+      "Total Credit (₹)": 42480,
+      "Txn Count": 1,
+      "Latest Txn Date": "18-Mar-2026",
+      "Net Balance (₹)": 42480,
+      "Status": "Outstanding (Payable)"
+    },
+    {
+      "Vendor Code": "V00051",
+      "Vendor Name": "INDO TECH MAGNETICS PVTLTD",
+      "Total Debit (₹)": 132441,
+      "Total Credit (₹)": 173886,
+      "Txn Count": 7,
+      "Latest Txn Date": "25-Mar-2026",
+      "Net Balance (₹)": 41445,
+      "Status": "Outstanding (Payable)"
+    },
+    {
+      "Vendor Code": "V00069",
+      "Vendor Name": "OM ENTERPRISES",
+      "Total Debit (₹)": 362625,
+      "Total Credit (₹)": 404031,
+      "Txn Count": 25,
+      "Latest Txn Date": "28-Mar-2026",
+      "Net Balance (₹)": 41406,
+      "Status": "Outstanding (Payable)"
+    },
+    {
+      "Vendor Code": "V00930",
+      "Vendor Name": "KFIN TECHNOLOIGES LIMITED",
+      "Total Debit (₹)": 82218,
+      "Total Credit (₹)": 123258,
+      "Txn Count": 5,
+      "Latest Txn Date": "27-Mar-2026",
+      "Net Balance (₹)": 41040,
+      "Status": "Outstanding (Payable)"
+    },
+    {
+      "Vendor Code": "V01154",
+      "Vendor Name": "Fujian GW Technology CO.,Ltd.",
+      "Total Debit (₹)": 349.04,
+      "Total Credit (₹)": 40678,
+      "Txn Count": 2,
+      "Latest Txn Date": "31-Jan-2026",
+      "Net Balance (₹)": 40328.96,
+      "Status": "Outstanding (Payable)"
+    },
+    {
+      "Vendor Code": "V00534",
+      "Vendor Name": "NESTOR CONVERTERS PRIVATE LIMITED",
+      "Total Debit (₹)": 449770,
+      "Total Credit (₹)": 489359,
+      "Txn Count": 13,
+      "Latest Txn Date": "31-Mar-2026",
+      "Net Balance (₹)": 39589,
+      "Status": "Outstanding (Payable)"
+    },
+    {
+      "Vendor Code": "V01356",
+      "Vendor Name": "PREETI BHATIA",
+      "Total Debit (₹)": 117600,
+      "Total Credit (₹)": 156800,
+      "Txn Count": 7,
+      "Latest Txn Date": "31-Mar-2026",
+      "Net Balance (₹)": 39200,
+      "Status": "Outstanding (Payable)"
+    },
+    {
+      "Vendor Code": "V01363",
+      "Vendor Name": "SSVI NAV UDYOG LLP",
+      "Total Debit (₹)": 0,
+      "Total Credit (₹)": 38350,
+      "Txn Count": 3,
+      "Latest Txn Date": "24-Mar-2026",
+      "Net Balance (₹)": 38350,
+      "Status": "Outstanding (Payable)"
+    },
+    {
+      "Vendor Code": "V00158",
+      "Vendor Name": "MLS OVERSEAS (HK) TRADING CO., LTD",
+      "Total Debit (₹)": 669106.698,
+      "Total Credit (₹)": 706563.518,
+      "Txn Count": 12,
+      "Latest Txn Date": "31-Mar-2026",
+      "Net Balance (₹)": 37456.8200000001,
+      "Status": "Outstanding (Payable)"
+    },
+    {
+      "Vendor Code": "V00270",
+      "Vendor Name": "Indian Security Services",
+      "Total Debit (₹)": 591224,
+      "Total Credit (₹)": 628071,
+      "Txn Count": 11,
+      "Latest Txn Date": "31-Mar-2026",
+      "Net Balance (₹)": 36847,
+      "Status": "Outstanding (Payable)"
+    },
+    {
+      "Vendor Code": "V01069",
+      "Vendor Name": "ANUSHREE ASSOCIATES",
+      "Total Debit (₹)": 240364,
+      "Total Credit (₹)": 273516,
+      "Txn Count": 8,
+      "Latest Txn Date": "31-Mar-2026",
+      "Net Balance (₹)": 33152,
+      "Status": "Outstanding (Payable)"
+    },
+    {
+      "Vendor Code": "V01230",
+      "Vendor Name": "Trotting Wheels Pvt Ltd",
+      "Total Debit (₹)": 0,
+      "Total Credit (₹)": 31210,
+      "Txn Count": 4,
+      "Latest Txn Date": "31-Mar-2026",
+      "Net Balance (₹)": 31210,
+      "Status": "Outstanding (Payable)"
+    },
+    {
+      "Vendor Code": "V01314",
+      "Vendor Name": "EFFICIENT ENGINEERING",
+      "Total Debit (₹)": 0,
+      "Total Credit (₹)": 29949,
+      "Txn Count": 2,
+      "Latest Txn Date": "27-Mar-2026",
+      "Net Balance (₹)": 29949,
+      "Status": "Outstanding (Payable)"
+    },
+    {
+      "Vendor Code": "V00333",
+      "Vendor Name": "SDD ENTERPRISES",
+      "Total Debit (₹)": 0,
+      "Total Credit (₹)": 28426,
+      "Txn Count": 2,
+      "Latest Txn Date": "31-Mar-2026",
+      "Net Balance (₹)": 28426,
+      "Status": "Outstanding (Payable)"
+    },
+    {
+      "Vendor Code": "V00964",
+      "Vendor Name": "ONUS INTERNATIONAL",
+      "Total Debit (₹)": 0,
+      "Total Credit (₹)": 28273,
+      "Txn Count": 1,
+      "Latest Txn Date": "17-Mar-2026",
+      "Net Balance (₹)": 28273,
+      "Status": "Outstanding (Payable)"
+    },
+    {
+      "Vendor Code": "V01353",
+      "Vendor Name": "GUPTA EMPIRE",
+      "Total Debit (₹)": 61410,
+      "Total Credit (₹)": 89441,
+      "Txn Count": 15,
+      "Latest Txn Date": "31-Mar-2026",
+      "Net Balance (₹)": 28031,
+      "Status": "Outstanding (Payable)"
+    },
+    {
+      "Vendor Code": "V00473",
+      "Vendor Name": "ABDHESH KUMAR",
+      "Total Debit (₹)": 322013,
+      "Total Credit (₹)": 350007,
+      "Txn Count": 6,
+      "Latest Txn Date": "31-Mar-2026",
+      "Net Balance (₹)": 27994,
+      "Status": "Outstanding (Payable)"
+    },
+    {
+      "Vendor Code": "V00149",
+      "Vendor Name": "LASERSEC TECHNOLOGIES PVT LTD",
+      "Total Debit (₹)": 212577,
+      "Total Credit (₹)": 240425,
+      "Txn Count": 7,
+      "Latest Txn Date": "27-Mar-2026",
+      "Net Balance (₹)": 27848,
+      "Status": "Outstanding (Payable)"
+    },
+    {
+      "Vendor Code": "V00294",
+      "Vendor Name": "SHALINI TRADERS",
+      "Total Debit (₹)": 73926,
+      "Total Credit (₹)": 100670,
+      "Txn Count": 5,
+      "Latest Txn Date": "31-Mar-2026",
+      "Net Balance (₹)": 26744,
+      "Status": "Outstanding (Payable)"
+    },
+    {
+      "Vendor Code": "V00780",
+      "Vendor Name": "TECHNO MACHINES INDIA",
+      "Total Debit (₹)": 55156,
+      "Total Credit (₹)": 78470,
+      "Txn Count": 5,
+      "Latest Txn Date": "25-Mar-2026",
+      "Net Balance (₹)": 23314,
+      "Status": "Outstanding (Payable)"
+    },
+    {
+      "Vendor Code": "V00694",
+      "Vendor Name": "AKG & Co",
+      "Total Debit (₹)": 92940,
+      "Total Credit (₹)": 116100,
+      "Txn Count": 7,
+      "Latest Txn Date": "31-Mar-2026",
+      "Net Balance (₹)": 23160,
+      "Status": "Outstanding (Payable)"
+    },
+    {
+      "Vendor Code": "V01181",
+      "Vendor Name": "HICOTRONICS DEVICES PVT LTD",
+      "Total Debit (₹)": 377187,
+      "Total Credit (₹)": 395418,
+      "Txn Count": 4,
+      "Latest Txn Date": "13-Mar-2026",
+      "Net Balance (₹)": 18231,
+      "Status": "Outstanding (Payable)"
+    },
+    {
+      "Vendor Code": "V00262",
+      "Vendor Name": "Gangotri Guest Houes",
+      "Total Debit (₹)": 15676,
+      "Total Credit (₹)": 33856,
+      "Txn Count": 6,
+      "Latest Txn Date": "31-Mar-2026",
+      "Net Balance (₹)": 18180,
+      "Status": "Outstanding (Payable)"
+    },
+    {
+      "Vendor Code": "V00376",
+      "Vendor Name": "UR UDYOG PRIVATE LIMITED",
+      "Total Debit (₹)": 327115,
+      "Total Credit (₹)": 345239,
+      "Txn Count": 6,
+      "Latest Txn Date": "25-Mar-2026",
+      "Net Balance (₹)": 18124,
+      "Status": "Outstanding (Payable)"
+    },
+    {
+      "Vendor Code": "V01273",
+      "Vendor Name": "SR ELECTRO PRIVATE LIMITED",
+      "Total Debit (₹)": 0,
+      "Total Credit (₹)": 17405,
+      "Txn Count": 1,
+      "Latest Txn Date": "28-Feb-2026",
+      "Net Balance (₹)": 17405,
+      "Status": "Outstanding (Payable)"
+    },
+    {
+      "Vendor Code": "V01276",
+      "Vendor Name": "WORLD PHONE INTERNET SERVICES  PVT LTD",
+      "Total Debit (₹)": 34800,
+      "Total Credit (₹)": 52200,
+      "Txn Count": 5,
+      "Latest Txn Date": "31-Mar-2026",
+      "Net Balance (₹)": 17400,
+      "Status": "Outstanding (Payable)"
+    },
+    {
+      "Vendor Code": "V00741",
+      "Vendor Name": "K.G. SIJU",
+      "Total Debit (₹)": 100500,
+      "Total Credit (₹)": 117000,
+      "Txn Count": 6,
+      "Latest Txn Date": "31-Mar-2026",
+      "Net Balance (₹)": 16500,
+      "Status": "Outstanding (Payable)"
+    },
+    {
+      "Vendor Code": "V00510",
+      "Vendor Name": "KMK INDUSTRIES",
+      "Total Debit (₹)": 257482,
+      "Total Credit (₹)": 273135,
+      "Txn Count": 7,
+      "Latest Txn Date": "25-Mar-2026",
+      "Net Balance (₹)": 15653,
+      "Status": "Outstanding (Payable)"
+    },
+    {
+      "Vendor Code": "V01296",
+      "Vendor Name": "B P L LIMITED",
+      "Total Debit (₹)": 378703.14,
+      "Total Credit (₹)": 393786.66,
+      "Txn Count": 15,
+      "Latest Txn Date": "31-Mar-2026",
+      "Net Balance (₹)": 15083.52,
+      "Status": "Outstanding (Payable)"
+    },
+    {
+      "Vendor Code": "V00994",
+      "Vendor Name": "S.M. MINI TOUR AND TRAVEL SERVICE",
+      "Total Debit (₹)": 8719,
+      "Total Credit (₹)": 23581,
+      "Txn Count": 3,
+      "Latest Txn Date": "31-Mar-2026",
+      "Net Balance (₹)": 14862,
+      "Status": "Outstanding (Payable)"
+    },
+    {
+      "Vendor Code": "V00330",
+      "Vendor Name": "MANGAL DEEP TRADING CP",
+      "Total Debit (₹)": 0,
+      "Total Credit (₹)": 14203,
+      "Txn Count": 2,
+      "Latest Txn Date": "21-Feb-2026",
+      "Net Balance (₹)": 14203,
+      "Status": "Outstanding (Payable)"
+    },
+    {
+      "Vendor Code": "V00815",
+      "Vendor Name": "National Stock Exchange of India Limited",
+      "Total Debit (₹)": 10800,
+      "Total Credit (₹)": 23600,
+      "Txn Count": 3,
+      "Latest Txn Date": "18-Mar-2026",
+      "Net Balance (₹)": 12800,
+      "Status": "Outstanding (Payable)"
+    },
+    {
+      "Vendor Code": "V00450",
+      "Vendor Name": "SHREE RAM INDUSTRIAL SOLUTTION",
+      "Total Debit (₹)": 0,
+      "Total Credit (₹)": 11535,
+      "Txn Count": 2,
+      "Latest Txn Date": "31-Mar-2026",
+      "Net Balance (₹)": 11535,
+      "Status": "Outstanding (Payable)"
+    },
+    {
+      "Vendor Code": "V01005",
+      "Vendor Name": "LALIT CHAUHAN",
+      "Total Debit (₹)": 62301,
+      "Total Credit (₹)": 72972,
+      "Txn Count": 18,
+      "Latest Txn Date": "31-Mar-2026",
+      "Net Balance (₹)": 10671,
+      "Status": "Outstanding (Payable)"
+    },
+    {
+      "Vendor Code": "V00269",
+      "Vendor Name": "Hyphen A Smart Stopover",
+      "Total Debit (₹)": 5616,
+      "Total Credit (₹)": 15821,
+      "Txn Count": 2,
+      "Latest Txn Date": "31-Mar-2026",
+      "Net Balance (₹)": 10205,
+      "Status": "Outstanding (Payable)"
+    },
+    {
+      "Vendor Code": "V00773",
+      "Vendor Name": "SAI IMPEX",
+      "Total Debit (₹)": 77085,
+      "Total Credit (₹)": 87074,
+      "Txn Count": 11,
+      "Latest Txn Date": "25-Mar-2026",
+      "Net Balance (₹)": 9989,
+      "Status": "Outstanding (Payable)"
+    },
+    {
+      "Vendor Code": "v00233",
+      "Vendor Name": "MAGIC INDUSTRIES",
+      "Total Debit (₹)": 17464,
+      "Total Credit (₹)": 26196,
+      "Txn Count": 5,
+      "Latest Txn Date": "27-Mar-2026",
+      "Net Balance (₹)": 8732,
+      "Status": "Outstanding (Payable)"
+    },
+    {
+      "Vendor Code": "V00462",
+      "Vendor Name": "AMBIKA ENGINEERING WORKS",
+      "Total Debit (₹)": 31057,
+      "Total Credit (₹)": 39724,
+      "Txn Count": 13,
+      "Latest Txn Date": "31-Mar-2026",
+      "Net Balance (₹)": 8667,
+      "Status": "Outstanding (Payable)"
+    },
+    {
+      "Vendor Code": "V00769",
+      "Vendor Name": "Rugao Dachang Electronics Co., Ltd.",
+      "Total Debit (₹)": 32864.468,
+      "Total Credit (₹)": 40719.028,
+      "Txn Count": 10,
+      "Latest Txn Date": "31-Mar-2026",
+      "Net Balance (₹)": 7854.56,
+      "Status": "Outstanding (Payable)"
+    },
+    {
+      "Vendor Code": "V00896",
+      "Vendor Name": "SHREE GIRI RAJ STEELS",
+      "Total Debit (₹)": 3805,
+      "Total Credit (₹)": 11415,
+      "Txn Count": 4,
+      "Latest Txn Date": "09-Mar-2026",
+      "Net Balance (₹)": 7610,
+      "Status": "Outstanding (Payable)"
+    },
+    {
+      "Vendor Code": "V00412",
+      "Vendor Name": "BHARAT OIL AND WASTE MANAGEMENT LTD",
+      "Total Debit (₹)": 21240,
+      "Total Credit (₹)": 28320,
+      "Txn Count": 4,
+      "Latest Txn Date": "31-Mar-2026",
+      "Net Balance (₹)": 7080,
+      "Status": "Outstanding (Payable)"
+    },
+    {
+      "Vendor Code": "V00443",
+      "Vendor Name": "YATIN FASTENERS (INDIA)",
+      "Total Debit (₹)": 76759,
+      "Total Credit (₹)": 83839,
+      "Txn Count": 11,
+      "Latest Txn Date": "31-Mar-2026",
+      "Net Balance (₹)": 7080,
+      "Status": "Outstanding (Payable)"
+    },
+    {
+      "Vendor Code": "V00944",
+      "Vendor Name": "DONGGUAN PHOEBUS COMPANY LIMITED",
+      "Total Debit (₹)": 35689.188,
+      "Total Credit (₹)": 42420.038,
+      "Txn Count": 9,
+      "Latest Txn Date": "31-Mar-2026",
+      "Net Balance (₹)": 6730.85,
+      "Status": "Outstanding (Payable)"
+    },
+    {
+      "Vendor Code": "V01123",
+      "Vendor Name": "TYAGI COMPUTER",
+      "Total Debit (₹)": 0,
+      "Total Credit (₹)": 6675,
+      "Txn Count": 1,
+      "Latest Txn Date": "31-Mar-2026",
+      "Net Balance (₹)": 6675,
+      "Status": "Outstanding (Payable)"
+    },
+    {
+      "Vendor Code": "V01311",
+      "Vendor Name": "FUTURE PACK AND ENGINEERS",
+      "Total Debit (₹)": 18413,
+      "Total Credit (₹)": 24719,
+      "Txn Count": 6,
+      "Latest Txn Date": "28-Mar-2026",
+      "Net Balance (₹)": 6306,
+      "Status": "Outstanding (Payable)"
+    },
+    {
+      "Vendor Code": "V00847",
+      "Vendor Name": "M/S MK ELECTRONICS",
+      "Total Debit (₹)": 37732,
+      "Total Credit (₹)": 44029,
+      "Txn Count": 3,
+      "Latest Txn Date": "27-Mar-2026",
+      "Net Balance (₹)": 6297,
+      "Status": "Outstanding (Payable)"
+    },
+    {
+      "Vendor Code": "V00163",
+      "Vendor Name": "Rita Pad Printing System Ltd",
+      "Total Debit (₹)": 6213,
+      "Total Credit (₹)": 12426,
+      "Txn Count": 3,
+      "Latest Txn Date": "31-Mar-2026",
+      "Net Balance (₹)": 6213,
+      "Status": "Outstanding (Payable)"
+    },
+    {
+      "Vendor Code": "V00658",
+      "Vendor Name": "ORANGE GLOBAL",
+      "Total Debit (₹)": 0,
+      "Total Credit (₹)": 6018,
+      "Txn Count": 1,
+      "Latest Txn Date": "31-Mar-2026",
+      "Net Balance (₹)": 6018,
+      "Status": "Outstanding (Payable)"
+    },
+    {
+      "Vendor Code": "V00429",
+      "Vendor Name": "INNOVATIVE TOOLS AND AUTOMATION",
+      "Total Debit (₹)": 0,
+      "Total Credit (₹)": 5900,
+      "Txn Count": 1,
+      "Latest Txn Date": "31-Mar-2026",
+      "Net Balance (₹)": 5900,
+      "Status": "Outstanding (Payable)"
+    },
+    {
+      "Vendor Code": "V01221",
+      "Vendor Name": "Jiangmen Maifeite Import and Export Co., Ltd.",
+      "Total Debit (₹)": 463.36,
+      "Total Credit (₹)": 5890.56,
+      "Txn Count": 2,
+      "Latest Txn Date": "25-Mar-2026",
+      "Net Balance (₹)": 5427.2,
+      "Status": "Outstanding (Payable)"
+    },
+    {
+      "Vendor Code": "V01370",
+      "Vendor Name": "ITP ELECTRONICS PRIVATE LIMITED",
+      "Total Debit (₹)": 0,
+      "Total Credit (₹)": 5234,
+      "Txn Count": 1,
+      "Latest Txn Date": "10-Mar-2026",
+      "Net Balance (₹)": 5234,
+      "Status": "Outstanding (Payable)"
+    },
+    {
+      "Vendor Code": "V00665",
+      "Vendor Name": "DAKSH FREIGHT CARRIER",
+      "Total Debit (₹)": 13700,
+      "Total Credit (₹)": 18900,
+      "Txn Count": 7,
+      "Latest Txn Date": "31-Mar-2026",
+      "Net Balance (₹)": 5200,
+      "Status": "Outstanding (Payable)"
+    },
+    {
+      "Vendor Code": "V00775",
+      "Vendor Name": "SCJ MASTERBATCH PRIVATE LIMITED",
+      "Total Debit (₹)": 10030,
+      "Total Credit (₹)": 14506,
+      "Txn Count": 2,
+      "Latest Txn Date": "11-Mar-2026",
+      "Net Balance (₹)": 4476,
+      "Status": "Outstanding (Payable)"
+    },
+    {
+      "Vendor Code": "V00919",
+      "Vendor Name": "SHENZHEN NORMING LIGHTING CO., LTD",
+      "Total Debit (₹)": 19474.048,
+      "Total Credit (₹)": 23900.758,
+      "Txn Count": 8,
+      "Latest Txn Date": "31-Mar-2026",
+      "Net Balance (₹)": 4426.71,
+      "Status": "Outstanding (Payable)"
+    },
+    {
+      "Vendor Code": "V01108",
+      "Vendor Name": "CARE CONTAINER LINES PVT LTD",
+      "Total Debit (₹)": 0,
+      "Total Credit (₹)": 3363,
+      "Txn Count": 1,
+      "Latest Txn Date": "31-Mar-2026",
+      "Net Balance (₹)": 3363,
+      "Status": "Outstanding (Payable)"
+    },
+    {
+      "Vendor Code": "V01135",
+      "Vendor Name": "zhongshan PCB BEST CO.,LTD",
+      "Total Debit (₹)": 6903.79,
+      "Total Credit (₹)": 9989.74,
+      "Txn Count": 5,
+      "Latest Txn Date": "31-Mar-2026",
+      "Net Balance (₹)": 3085.95,
+      "Status": "Outstanding (Payable)"
+    },
+    {
+      "Vendor Code": "V01261",
+      "Vendor Name": "ARB ACCESSORIES PRIVATE LIMITED",
+      "Total Debit (₹)": 0,
+      "Total Credit (₹)": 3056,
+      "Txn Count": 1,
+      "Latest Txn Date": "17-Mar-2026",
+      "Net Balance (₹)": 3056,
+      "Status": "Outstanding (Payable)"
+    },
+    {
+      "Vendor Code": "V01107",
+      "Vendor Name": "SINGHANIA & CO LLP",
+      "Total Debit (₹)": 753350,
+      "Total Credit (₹)": 756350,
+      "Txn Count": 14,
+      "Latest Txn Date": "27-Mar-2026",
+      "Net Balance (₹)": 3000,
+      "Status": "Outstanding (Payable)"
+    },
+    {
+      "Vendor Code": "V01387",
+      "Vendor Name": "TAURUS OPTO SEMICONDUCTORS LLP",
+      "Total Debit (₹)": 0,
+      "Total Credit (₹)": 2974,
+      "Txn Count": 1,
+      "Latest Txn Date": "28-Mar-2026",
+      "Net Balance (₹)": 2974,
+      "Status": "Outstanding (Payable)"
+    },
+    {
+      "Vendor Code": "V00430",
+      "Vendor Name": "INDIAN TRADING COMPANY",
+      "Total Debit (₹)": 0,
+      "Total Credit (₹)": 2899,
+      "Txn Count": 1,
+      "Latest Txn Date": "31-Mar-2026",
+      "Net Balance (₹)": 2899,
+      "Status": "Outstanding (Payable)"
+    },
+    {
+      "Vendor Code": "V01264",
+      "Vendor Name": "FAFA LIGHTING",
+      "Total Debit (₹)": 2215.861,
+      "Total Credit (₹)": 4700.531,
+      "Txn Count": 5,
+      "Latest Txn Date": "31-Mar-2026",
+      "Net Balance (₹)": 2484.67,
+      "Status": "Outstanding (Payable)"
+    },
+    {
+      "Vendor Code": "V00827",
+      "Vendor Name": "BALUNI CARGO MOVERS PVT LTD",
+      "Total Debit (₹)": 14390,
+      "Total Credit (₹)": 16800,
+      "Txn Count": 5,
+      "Latest Txn Date": "31-Mar-2026",
+      "Net Balance (₹)": 2410,
+      "Status": "Outstanding (Payable)"
+    },
+    {
+      "Vendor Code": "V00175",
+      "Vendor Name": "VIDYA GRAPHIC",
+      "Total Debit (₹)": 755.2,
+      "Total Credit (₹)": 3020.2,
+      "Txn Count": 5,
+      "Latest Txn Date": "10-Mar-2026",
+      "Net Balance (₹)": 2265,
+      "Status": "Outstanding (Payable)"
+    },
+    {
+      "Vendor Code": "V00921",
+      "Vendor Name": "HK LIGHT ORIGIN TECHNOLOGY LTD",
+      "Total Debit (₹)": 5758.616,
+      "Total Credit (₹)": 7925.126,
+      "Txn Count": 5,
+      "Latest Txn Date": "31-Mar-2026",
+      "Net Balance (₹)": 2166.51,
+      "Status": "Outstanding (Payable)"
+    },
+    {
+      "Vendor Code": "V01161",
+      "Vendor Name": "M/S SHRI CHINTAMANI LABELS",
+      "Total Debit (₹)": 34007,
+      "Total Credit (₹)": 35140,
+      "Txn Count": 10,
+      "Latest Txn Date": "31-Mar-2026",
+      "Net Balance (₹)": 1133,
+      "Status": "Outstanding (Payable)"
+    },
+    {
+      "Vendor Code": "V00355",
+      "Vendor Name": "EMS TECHNOLOGIES PVT LTD",
+      "Total Debit (₹)": 74800,
+      "Total Credit (₹)": 75900,
+      "Txn Count": 4,
+      "Latest Txn Date": "25-Mar-2026",
+      "Net Balance (₹)": 1100,
+      "Status": "Outstanding (Payable)"
+    },
+    {
+      "Vendor Code": "V00303",
+      "Vendor Name": "Sudhira Logistics Pvt Ltd",
+      "Total Debit (₹)": 7201,
+      "Total Credit (₹)": 8279,
+      "Txn Count": 5,
+      "Latest Txn Date": "31-Mar-2026",
+      "Net Balance (₹)": 1078,
+      "Status": "Outstanding (Payable)"
+    },
+    {
+      "Vendor Code": "V00314",
+      "Vendor Name": "JASPER SAVIOR TECHNOLOGIES",
+      "Total Debit (₹)": 0,
+      "Total Credit (₹)": 1062,
+      "Txn Count": 1,
+      "Latest Txn Date": "31-Mar-2026",
+      "Net Balance (₹)": 1062,
+      "Status": "Outstanding (Payable)"
+    },
+    {
+      "Vendor Code": "V01352",
+      "Vendor Name": "SHREE VAISHNO ENTERPRISES",
+      "Total Debit (₹)": 28974,
+      "Total Credit (₹)": 30006,
+      "Txn Count": 5,
+      "Latest Txn Date": "31-Mar-2026",
+      "Net Balance (₹)": 1032,
+      "Status": "Outstanding (Payable)"
+    },
+    {
+      "Vendor Code": "V00238",
+      "Vendor Name": "SAI TIFFIN SERVICE",
+      "Total Debit (₹)": 119830,
+      "Total Credit (₹)": 120747,
+      "Txn Count": 10,
+      "Latest Txn Date": "31-Mar-2026",
+      "Net Balance (₹)": 917,
+      "Status": "Outstanding (Payable)"
+    },
+    {
+      "Vendor Code": "V01330",
+      "Vendor Name": "ZHONGSHAN LANDE ELECTRONICS CO. LTD.",
+      "Total Debit (₹)": 456.091,
+      "Total Credit (₹)": 1200.751,
+      "Txn Count": 3,
+      "Latest Txn Date": "31-Mar-2026",
+      "Net Balance (₹)": 744.66,
+      "Status": "Outstanding (Payable)"
+    },
+    {
+      "Vendor Code": "V00663",
+      "Vendor Name": "AMAZON WEB SERVICES PVT LTD",
+      "Total Debit (₹)": 9624.7,
+      "Total Credit (₹)": 9624.7,
+      "Txn Count": 12,
+      "Latest Txn Date": "25-Mar-2026",
+      "Net Balance (₹)": 1.81898940354586e-12,
+      "Status": "Fully Paid (NIL)"
+    },
+    {
+      "Vendor Code": "V00040",
+      "Vendor Name": "SK  UEM WATER PROJECTS PRIVATE LIMITED",
+      "Total Debit (₹)": 8007,
+      "Total Credit (₹)": 8007,
+      "Txn Count": 9,
+      "Latest Txn Date": "25-Mar-2026",
+      "Net Balance (₹)": 0,
+      "Status": "Fully Paid (NIL)"
+    },
+    {
+      "Vendor Code": "V01378",
+      "Vendor Name": "Vikas Sani",
+      "Total Debit (₹)": 19884,
+      "Total Credit (₹)": 19884,
+      "Txn Count": 6,
+      "Latest Txn Date": "31-Mar-2026",
+      "Net Balance (₹)": 0,
+      "Status": "Fully Paid (NIL)"
+    },
+    {
+      "Vendor Code": "V01275",
+      "Vendor Name": "PLANET ELECTRO LABS PRIVATE LIMITED",
+      "Total Debit (₹)": 30240,
+      "Total Credit (₹)": 30240,
+      "Txn Count": 2,
+      "Latest Txn Date": "19-Feb-2026",
+      "Net Balance (₹)": 0,
+      "Status": "Fully Paid (NIL)"
+    },
+    {
+      "Vendor Code": "V01294",
+      "Vendor Name": "ELYZIUM TECHNOLOGIES PVT LTD",
+      "Total Debit (₹)": 27840,
+      "Total Credit (₹)": 27840,
+      "Txn Count": 6,
+      "Latest Txn Date": "07-Mar-2026",
+      "Net Balance (₹)": 0,
+      "Status": "Fully Paid (NIL)"
+    },
+    {
+      "Vendor Code": "V01310",
+      "Vendor Name": "SUMITRA DHYANI",
+      "Total Debit (₹)": 51200,
+      "Total Credit (₹)": 51200,
+      "Txn Count": 10,
+      "Latest Txn Date": "31-Mar-2026",
+      "Net Balance (₹)": 0,
+      "Status": "Fully Paid (NIL)"
+    },
+    {
+      "Vendor Code": "V01327",
+      "Vendor Name": "BINU MON K P",
+      "Total Debit (₹)": 117600,
+      "Total Credit (₹)": 117600,
+      "Txn Count": 7,
+      "Latest Txn Date": "31-Mar-2026",
+      "Net Balance (₹)": 0,
+      "Status": "Fully Paid (NIL)"
+    },
+    {
+      "Vendor Code": "V00009",
+      "Vendor Name": "ATCORP",
+      "Total Debit (₹)": 20207,
+      "Total Credit (₹)": 20207,
+      "Txn Count": 6,
+      "Latest Txn Date": "25-Mar-2026",
+      "Net Balance (₹)": 0,
+      "Status": "Fully Paid (NIL)"
+    },
+    {
+      "Vendor Code": "V00014",
+      "Vendor Name": "BLISS ELECTRONIC",
+      "Total Debit (₹)": 2478,
+      "Total Credit (₹)": 2478,
+      "Txn Count": 3,
+      "Latest Txn Date": "19-Feb-2026",
+      "Net Balance (₹)": 0,
+      "Status": "Fully Paid (NIL)"
+    },
+    {
+      "Vendor Code": "V01388",
+      "Vendor Name": "SHREE GOPAL INDUSTRIES",
+      "Total Debit (₹)": 226755,
+      "Total Credit (₹)": 226755,
+      "Txn Count": 5,
+      "Latest Txn Date": "31-Mar-2026",
+      "Net Balance (₹)": 0,
+      "Status": "Fully Paid (NIL)"
+    },
+    {
+      "Vendor Code": "V00002",
+      "Vendor Name": "AR ENTERPRISES",
+      "Total Debit (₹)": 32203,
+      "Total Credit (₹)": 32203,
+      "Txn Count": 5,
+      "Latest Txn Date": "16-Mar-2026",
+      "Net Balance (₹)": 0,
+      "Status": "Fully Paid (NIL)"
+    },
+    {
+      "Vendor Code": "V01379",
+      "Vendor Name": "HAINING SUNET TRADING CO LTD",
+      "Total Debit (₹)": 3229,
+      "Total Credit (₹)": 3229,
+      "Txn Count": 3,
+      "Latest Txn Date": "31-Mar-2026",
+      "Net Balance (₹)": 0,
+      "Status": "Fully Paid (NIL)"
+    },
+    {
+      "Vendor Code": "V00312",
+      "Vendor Name": "BUREAU OF INDIAN STANDARDS",
+      "Total Debit (₹)": 780487.4,
+      "Total Credit (₹)": 780487.4,
+      "Txn Count": 34,
+      "Latest Txn Date": "27-Mar-2026",
+      "Net Balance (₹)": 0,
+      "Status": "Fully Paid (NIL)"
+    },
+    {
+      "Vendor Code": "V00349",
+      "Vendor Name": "AATHARV ENTERPRISES",
+      "Total Debit (₹)": 147913,
+      "Total Credit (₹)": 147913,
+      "Txn Count": 6,
+      "Latest Txn Date": "16-Mar-2026",
+      "Net Balance (₹)": 0,
+      "Status": "Fully Paid (NIL)"
+    },
+    {
+      "Vendor Code": "V00317",
+      "Vendor Name": "Shiv Saroj & Associates",
+      "Total Debit (₹)": 864000,
+      "Total Credit (₹)": 864000,
+      "Txn Count": 7,
+      "Latest Txn Date": "31-Mar-2026",
+      "Net Balance (₹)": 0,
+      "Status": "Fully Paid (NIL)"
+    },
+    {
+      "Vendor Code": "V00296",
+      "Vendor Name": "Shenzhen Luguang Electronice Technologies Pvt Ltd",
+      "Total Debit (₹)": 7748.764,
+      "Total Credit (₹)": 7748.764,
+      "Txn Count": 3,
+      "Latest Txn Date": "31-Jan-2026",
+      "Net Balance (₹)": 0,
+      "Status": "Fully Paid (NIL)"
+    },
+    {
+      "Vendor Code": "V01267",
+      "Vendor Name": "Zhurich Kotak General Insurance Company (I) LTD",
+      "Total Debit (₹)": 39667,
+      "Total Credit (₹)": 39667,
+      "Txn Count": 5,
+      "Latest Txn Date": "02-Mar-2026",
+      "Net Balance (₹)": 0,
+      "Status": "Fully Paid (NIL)"
+    },
+    {
+      "Vendor Code": "V00379",
+      "Vendor Name": "K. L. ENTERPRISES",
+      "Total Debit (₹)": 128197,
+      "Total Credit (₹)": 128197,
+      "Txn Count": 4,
+      "Latest Txn Date": "25-Mar-2026",
+      "Net Balance (₹)": 0,
+      "Status": "Fully Paid (NIL)"
+    },
+    {
+      "Vendor Code": "V00273",
+      "Vendor Name": "Jay Kay Enterprises India",
+      "Total Debit (₹)": 42504,
+      "Total Credit (₹)": 42504,
+      "Txn Count": 7,
+      "Latest Txn Date": "31-Mar-2026",
+      "Net Balance (₹)": 0,
+      "Status": "Fully Paid (NIL)"
+    },
+    {
+      "Vendor Code": "V00353",
+      "Vendor Name": "TAI OHM ELECTRONICS",
+      "Total Debit (₹)": 14610,
+      "Total Credit (₹)": 14610,
+      "Txn Count": 2,
+      "Latest Txn Date": "10-Mar-2026",
+      "Net Balance (₹)": 0,
+      "Status": "Fully Paid (NIL)"
+    },
+    {
+      "Vendor Code": "V00180",
+      "Vendor Name": "AKASH TOOLS & EQUIPMENTS",
+      "Total Debit (₹)": 33276,
+      "Total Credit (₹)": 33276,
+      "Txn Count": 8,
+      "Latest Txn Date": "25-Mar-2026",
+      "Net Balance (₹)": 0,
+      "Status": "Fully Paid (NIL)"
+    },
+    {
+      "Vendor Code": "V00148",
+      "Vendor Name": "KRISHNA PAINT & HARDWARE STORE",
+      "Total Debit (₹)": 17848,
+      "Total Credit (₹)": 17848,
+      "Txn Count": 7,
+      "Latest Txn Date": "25-Mar-2026",
+      "Net Balance (₹)": 0,
+      "Status": "Fully Paid (NIL)"
+    },
+    {
+      "Vendor Code": "V00361",
+      "Vendor Name": "ARB ACCESSORIES PRIVATE LIMITED",
+      "Total Debit (₹)": 3057,
+      "Total Credit (₹)": 3057,
+      "Txn Count": 3,
+      "Latest Txn Date": "31-Mar-2026",
+      "Net Balance (₹)": 0,
+      "Status": "Fully Paid (NIL)"
+    },
+    {
+      "Vendor Code": "V01315",
+      "Vendor Name": "MAKS & C0.",
+      "Total Debit (₹)": 36450,
+      "Total Credit (₹)": 36450,
+      "Txn Count": 2,
+      "Latest Txn Date": "06-Mar-2026",
+      "Net Balance (₹)": 0,
+      "Status": "Fully Paid (NIL)"
+    },
+    {
+      "Vendor Code": "V01313",
+      "Vendor Name": "RIGHT RADIUS TOOLS",
+      "Total Debit (₹)": 10065,
+      "Total Credit (₹)": 10065,
+      "Txn Count": 2,
+      "Latest Txn Date": "05-Feb-2026",
+      "Net Balance (₹)": 0,
+      "Status": "Fully Paid (NIL)"
+    },
+    {
+      "Vendor Code": "V00267",
+      "Vendor Name": "Hawai  Travels & Tour",
+      "Total Debit (₹)": 486806,
+      "Total Credit (₹)": 486806,
+      "Txn Count": 2,
+      "Latest Txn Date": "07-Mar-2026",
+      "Net Balance (₹)": 0,
+      "Status": "Fully Paid (NIL)"
+    },
+    {
+      "Vendor Code": "V00257",
+      "Vendor Name": "Cogniscient Business Solutions Pvt Ltd",
+      "Total Debit (₹)": 36192,
+      "Total Credit (₹)": 36192,
+      "Txn Count": 5,
+      "Latest Txn Date": "31-Jan-2026",
+      "Net Balance (₹)": 0,
+      "Status": "Fully Paid (NIL)"
+    },
+    {
+      "Vendor Code": "V01277",
+      "Vendor Name": "NAVEEN BHATIA",
+      "Total Debit (₹)": 200000,
+      "Total Credit (₹)": 200000,
+      "Txn Count": 8,
+      "Latest Txn Date": "31-Mar-2026",
+      "Net Balance (₹)": 0,
+      "Status": "Fully Paid (NIL)"
+    },
+    {
+      "Vendor Code": "V01288",
+      "Vendor Name": "AMIT MITTAL",
+      "Total Debit (₹)": 180000,
+      "Total Credit (₹)": 180000,
+      "Txn Count": 5,
+      "Latest Txn Date": "18-Feb-2026",
+      "Net Balance (₹)": 0,
+      "Status": "Fully Paid (NIL)"
+    },
+    {
+      "Vendor Code": "V00211",
+      "Vendor Name": "LOCAL PURCHASE",
+      "Total Debit (₹)": 11644,
+      "Total Credit (₹)": 11644,
+      "Txn Count": 17,
+      "Latest Txn Date": "25-Mar-2026",
+      "Net Balance (₹)": 0,
+      "Status": "Fully Paid (NIL)"
+    },
+    {
+      "Vendor Code": "V00248",
+      "Vendor Name": "JAISIKA FIRE PROTECTION",
+      "Total Debit (₹)": 70358,
+      "Total Credit (₹)": 70358,
+      "Txn Count": 7,
+      "Latest Txn Date": "16-Mar-2026",
+      "Net Balance (₹)": 0,
+      "Status": "Fully Paid (NIL)"
+    },
+    {
+      "Vendor Code": "V00171",
+      "Vendor Name": "STENCIL POINT",
+      "Total Debit (₹)": 39484,
+      "Total Credit (₹)": 39484,
+      "Txn Count": 6,
+      "Latest Txn Date": "30-Mar-2026",
+      "Net Balance (₹)": 0,
+      "Status": "Fully Paid (NIL)"
+    },
+    {
+      "Vendor Code": "V00177",
+      "Vendor Name": "VIRENDRA INSULATION COMPANY",
+      "Total Debit (₹)": 10316,
+      "Total Credit (₹)": 10316,
+      "Txn Count": 3,
+      "Latest Txn Date": "21-Feb-2026",
+      "Net Balance (₹)": 0,
+      "Status": "Fully Paid (NIL)"
+    },
+    {
+      "Vendor Code": "V00415",
+      "Vendor Name": "Swastik machatronics pvt ltd",
+      "Total Debit (₹)": 76075,
+      "Total Credit (₹)": 76075,
+      "Txn Count": 16,
+      "Latest Txn Date": "31-Mar-2026",
+      "Net Balance (₹)": 0,
+      "Status": "Fully Paid (NIL)"
+    },
+    {
+      "Vendor Code": "V00559",
+      "Vendor Name": "Om Logistics Ltd",
+      "Total Debit (₹)": 8772,
+      "Total Credit (₹)": 8772,
+      "Txn Count": 3,
+      "Latest Txn Date": "28-Feb-2026",
+      "Net Balance (₹)": 0,
+      "Status": "Fully Paid (NIL)"
+    },
+    {
+      "Vendor Code": "V00557",
+      "Vendor Name": "BALUNI CARGO CARRIERS",
+      "Total Debit (₹)": 2440,
+      "Total Credit (₹)": 2440,
+      "Txn Count": 2,
+      "Latest Txn Date": "17-Feb-2026",
+      "Net Balance (₹)": 0,
+      "Status": "Fully Paid (NIL)"
+    },
+    {
+      "Vendor Code": "V00422",
+      "Vendor Name": "SUN MICRO INVIT PVT LTD",
+      "Total Debit (₹)": 201013,
+      "Total Credit (₹)": 201013,
+      "Txn Count": 4,
+      "Latest Txn Date": "05-Mar-2026",
+      "Net Balance (₹)": 0,
+      "Status": "Fully Paid (NIL)"
+    },
+    {
+      "Vendor Code": "V01164",
+      "Vendor Name": "Stirrup Communication Consultants Pvt. Ltd.",
+      "Total Debit (₹)": 475200,
+      "Total Credit (₹)": 475200,
+      "Txn Count": 2,
+      "Latest Txn Date": "05-Feb-2026",
+      "Net Balance (₹)": 0,
+      "Status": "Fully Paid (NIL)"
+    },
+    {
+      "Vendor Code": "V01174",
+      "Vendor Name": "Narender Prasad",
+      "Total Debit (₹)": 201000,
+      "Total Credit (₹)": 201000,
+      "Txn Count": 6,
+      "Latest Txn Date": "31-Mar-2026",
+      "Net Balance (₹)": 0,
+      "Status": "Fully Paid (NIL)"
+    },
+    {
+      "Vendor Code": "V01204",
+      "Vendor Name": "M/S MADVID SOLUTIONS",
+      "Total Debit (₹)": 14744,
+      "Total Credit (₹)": 14744,
+      "Txn Count": 4,
+      "Latest Txn Date": "16-Mar-2026",
+      "Net Balance (₹)": 0,
+      "Status": "Fully Paid (NIL)"
+    },
+    {
+      "Vendor Code": "V01195",
+      "Vendor Name": "KINGSWAY LOGISTICS",
+      "Total Debit (₹)": 33600,
+      "Total Credit (₹)": 33600,
+      "Txn Count": 5,
+      "Latest Txn Date": "31-Mar-2026",
+      "Net Balance (₹)": 0,
+      "Status": "Fully Paid (NIL)"
+    },
+    {
+      "Vendor Code": "V01247",
+      "Vendor Name": "A S ENTERPRISES",
+      "Total Debit (₹)": 23376,
+      "Total Credit (₹)": 23376,
+      "Txn Count": 2,
+      "Latest Txn Date": "25-Mar-2026",
+      "Net Balance (₹)": 0,
+      "Status": "Fully Paid (NIL)"
+    },
+    {
+      "Vendor Code": "V01223",
+      "Vendor Name": "VIVEK VASHISTH",
+      "Total Debit (₹)": 150000,
+      "Total Credit (₹)": 150000,
+      "Txn Count": 6,
+      "Latest Txn Date": "31-Mar-2026",
+      "Net Balance (₹)": 0,
+      "Status": "Fully Paid (NIL)"
+    },
+    {
+      "Vendor Code": "V01253",
+      "Vendor Name": "SAHU REFRIGERATION INDUSTRIES PVT LTD",
+      "Total Debit (₹)": 21411,
+      "Total Credit (₹)": 21411,
+      "Txn Count": 3,
+      "Latest Txn Date": "31-Mar-2026",
+      "Net Balance (₹)": 0,
+      "Status": "Fully Paid (NIL)"
+    },
+    {
+      "Vendor Code": "V00673",
+      "Vendor Name": "SAKSHI GRAPHICS",
+      "Total Debit (₹)": 2891,
+      "Total Credit (₹)": 2891,
+      "Txn Count": 4,
+      "Latest Txn Date": "31-Mar-2026",
+      "Net Balance (₹)": 0,
+      "Status": "Fully Paid (NIL)"
+    },
+    {
+      "Vendor Code": "V00644",
+      "Vendor Name": "KRP Electronics Pvt. Ltd.",
+      "Total Debit (₹)": 38940,
+      "Total Credit (₹)": 38940,
+      "Txn Count": 3,
+      "Latest Txn Date": "27-Mar-2026",
+      "Net Balance (₹)": 0,
+      "Status": "Fully Paid (NIL)"
+    },
+    {
+      "Vendor Code": "V00671",
+      "Vendor Name": "SRI SHYAM ENTERPRISES",
+      "Total Debit (₹)": 1310,
+      "Total Credit (₹)": 1310,
+      "Txn Count": 2,
+      "Latest Txn Date": "16-Mar-2026",
+      "Net Balance (₹)": 0,
+      "Status": "Fully Paid (NIL)"
+    },
+    {
+      "Vendor Code": "V00822",
+      "Vendor Name": "COINERA FOREX PVT LTD",
+      "Total Debit (₹)": 285008,
+      "Total Credit (₹)": 285008,
+      "Txn Count": 3,
+      "Latest Txn Date": "16-Feb-2026",
+      "Net Balance (₹)": 0,
+      "Status": "Fully Paid (NIL)"
+    },
+    {
+      "Vendor Code": "V00772",
+      "Vendor Name": "K C INDIA TEST LABORATORIES LLP",
+      "Total Debit (₹)": 54000,
+      "Total Credit (₹)": 54000,
+      "Txn Count": 3,
+      "Latest Txn Date": "19-Feb-2026",
+      "Net Balance (₹)": 0,
+      "Status": "Fully Paid (NIL)"
+    },
+    {
+      "Vendor Code": "V01091",
+      "Vendor Name": "LAKHMI CHAND",
+      "Total Debit (₹)": 24000,
+      "Total Credit (₹)": 24000,
+      "Txn Count": 6,
+      "Latest Txn Date": "31-Mar-2026",
+      "Net Balance (₹)": 0,
+      "Status": "Fully Paid (NIL)"
+    },
+    {
+      "Vendor Code": "V01021",
+      "Vendor Name": "Evercore Optoelectronic Technology International Co., Ltd.",
+      "Total Debit (₹)": 88877,
+      "Total Credit (₹)": 88877,
+      "Txn Count": 6,
+      "Latest Txn Date": "31-Jan-2026",
+      "Net Balance (₹)": 0,
+      "Status": "Fully Paid (NIL)"
+    },
+    {
+      "Vendor Code": "V01113",
+      "Vendor Name": "NARESH BABBAR(Commercial Tax Income )",
+      "Total Debit (₹)": 104400,
+      "Total Credit (₹)": 104400,
+      "Txn Count": 5,
+      "Latest Txn Date": "31-Mar-2026",
+      "Net Balance (₹)": 0,
+      "Status": "Fully Paid (NIL)"
+    },
+    {
+      "Vendor Code": "V01144",
+      "Vendor Name": "INNOVIV TECHNOSOFT INDIA LLP",
+      "Total Debit (₹)": 16245,
+      "Total Credit (₹)": 16245,
+      "Txn Count": 2,
+      "Latest Txn Date": "31-Mar-2026",
+      "Net Balance (₹)": 0,
+      "Status": "Fully Paid (NIL)"
+    },
+    {
+      "Vendor Code": "V01017",
+      "Vendor Name": "SHAILESH SHRIVASTAVA",
+      "Total Debit (₹)": 347430,
+      "Total Credit (₹)": 347430,
+      "Txn Count": 11,
+      "Latest Txn Date": "31-Mar-2026",
+      "Net Balance (₹)": 0,
+      "Status": "Fully Paid (NIL)"
+    },
+    {
+      "Vendor Code": "V01159",
+      "Vendor Name": "ARORA AGENCIES (INDIA)-(24-25)",
+      "Total Debit (₹)": 8142,
+      "Total Credit (₹)": 8142,
+      "Txn Count": 2,
+      "Latest Txn Date": "02-Mar-2026",
+      "Net Balance (₹)": 0,
+      "Status": "Fully Paid (NIL)"
+    },
+    {
+      "Vendor Code": "V01124",
+      "Vendor Name": "SNet Technologies",
+      "Total Debit (₹)": 25783,
+      "Total Credit (₹)": 25783,
+      "Txn Count": 2,
+      "Latest Txn Date": "17-Feb-2026",
+      "Net Balance (₹)": 0,
+      "Status": "Fully Paid (NIL)"
+    },
+    {
+      "Vendor Code": "V01112",
+      "Vendor Name": "GLOBAL DEVICES",
+      "Total Debit (₹)": 66906,
+      "Total Credit (₹)": 66906,
+      "Txn Count": 13,
+      "Latest Txn Date": "31-Mar-2026",
+      "Net Balance (₹)": 0,
+      "Status": "Fully Paid (NIL)"
+    },
+    {
+      "Vendor Code": "V00697",
+      "Vendor Name": "THAKUR PAINTS",
+      "Total Debit (₹)": 66505,
+      "Total Credit (₹)": 66505,
+      "Txn Count": 7,
+      "Latest Txn Date": "16-Mar-2026",
+      "Net Balance (₹)": 0,
+      "Status": "Fully Paid (NIL)"
+    },
+    {
+      "Vendor Code": "V00690",
+      "Vendor Name": "KRISHNA MILL STORE",
+      "Total Debit (₹)": 26609,
+      "Total Credit (₹)": 26609,
+      "Txn Count": 3,
+      "Latest Txn Date": "25-Mar-2026",
+      "Net Balance (₹)": 0,
+      "Status": "Fully Paid (NIL)"
+    },
+    {
+      "Vendor Code": "V00723",
+      "Vendor Name": "FORTUNE TECHNOCOMPS PRIVATE LIMITED",
+      "Total Debit (₹)": 5163,
+      "Total Credit (₹)": 5163,
+      "Txn Count": 2,
+      "Latest Txn Date": "25-Mar-2026",
+      "Net Balance (₹)": 0,
+      "Status": "Fully Paid (NIL)"
+    },
+    {
+      "Vendor Code": "V00616",
+      "Vendor Name": "NIRMAL KAPOOR",
+      "Total Debit (₹)": 107121,
+      "Total Credit (₹)": 107121,
+      "Txn Count": 7,
+      "Latest Txn Date": "25-Mar-2026",
+      "Net Balance (₹)": 0,
+      "Status": "Fully Paid (NIL)"
+    },
+    {
+      "Vendor Code": "V00668",
+      "Vendor Name": "Blue Sky infosys",
+      "Total Debit (₹)": 574896,
+      "Total Credit (₹)": 574896,
+      "Txn Count": 4,
+      "Latest Txn Date": "25-Mar-2026",
+      "Net Balance (₹)": 0,
+      "Status": "Fully Paid (NIL)"
+    },
+    {
+      "Vendor Code": "V00614",
+      "Vendor Name": "D.B.PLANNERS",
+      "Total Debit (₹)": 29500,
+      "Total Credit (₹)": 29500,
+      "Txn Count": 2,
+      "Latest Txn Date": "06-Mar-2026",
+      "Net Balance (₹)": 0,
+      "Status": "Fully Paid (NIL)"
+    },
+    {
+      "Vendor Code": "V00615",
+      "Vendor Name": "SANJAY KAPOOR",
+      "Total Debit (₹)": 128547,
+      "Total Credit (₹)": 128547,
+      "Txn Count": 6,
+      "Latest Txn Date": "06-Mar-2026",
+      "Net Balance (₹)": 0,
+      "Status": "Fully Paid (NIL)"
+    },
+    {
+      "Vendor Code": "V00828",
+      "Vendor Name": "AS EQUIPMENT PVT LTD",
+      "Total Debit (₹)": 33752,
+      "Total Credit (₹)": 33752,
+      "Txn Count": 4,
+      "Latest Txn Date": "25-Mar-2026",
+      "Net Balance (₹)": 0,
+      "Status": "Fully Paid (NIL)"
+    },
+    {
+      "Vendor Code": "V00963",
+      "Vendor Name": "LIC INDIA",
+      "Total Debit (₹)": 617605,
+      "Total Credit (₹)": 617605,
+      "Txn Count": 3,
+      "Latest Txn Date": "31-Mar-2026",
+      "Net Balance (₹)": 0,
+      "Status": "Fully Paid (NIL)"
+    },
+    {
+      "Vendor Code": "V00950",
+      "Vendor Name": "NILKAMAL LIMITED",
+      "Total Debit (₹)": 64900,
+      "Total Credit (₹)": 64900,
+      "Txn Count": 4,
+      "Latest Txn Date": "17-Feb-2026",
+      "Net Balance (₹)": 0,
+      "Status": "Fully Paid (NIL)"
+    },
+    {
+      "Vendor Code": "V00740",
+      "Vendor Name": "PARVEEN KUMAR SAINI",
+      "Total Debit (₹)": 104700,
+      "Total Credit (₹)": 104700,
+      "Txn Count": 6,
+      "Latest Txn Date": "31-Mar-2026",
+      "Net Balance (₹)": 0,
+      "Status": "Fully Paid (NIL)"
+    },
+    {
+      "Vendor Code": "V00851",
+      "Vendor Name": "SHENZHEN OKCAP CAPACITOR CO.,LTD",
+      "Total Debit (₹)": 13289,
+      "Total Credit (₹)": 13289,
+      "Txn Count": 3,
+      "Latest Txn Date": "31-Mar-2026",
+      "Net Balance (₹)": 0,
+      "Status": "Fully Paid (NIL)"
+    },
+    {
+      "Vendor Code": "V00806",
+      "Vendor Name": "Transvalue Consultants",
+      "Total Debit (₹)": 37800,
+      "Total Credit (₹)": 37800,
+      "Txn Count": 2,
+      "Latest Txn Date": "16-Mar-2026",
+      "Net Balance (₹)": 0,
+      "Status": "Fully Paid (NIL)"
+    },
+    {
+      "Vendor Code": "V00792",
+      "Vendor Name": "IKIO LIGHTING LIMITED (NOIDA)",
+      "Total Debit (₹)": 208860,
+      "Total Credit (₹)": 208860,
+      "Txn Count": 12,
+      "Latest Txn Date": "31-Mar-2026",
+      "Net Balance (₹)": 0,
+      "Status": "Fully Paid (NIL)"
+    },
+    {
+      "Vendor Code": "V01359",
+      "Vendor Name": "SHIVAM GOYAL AND ASSOCIATES",
+      "Total Debit (₹)": 139698,
+      "Total Credit (₹)": 139698,
+      "Txn Count": 6,
+      "Latest Txn Date": "16-Mar-2026",
+      "Net Balance (₹)": 0,
+      "Status": "Fully Paid (NIL)"
+    },
+    {
+      "Vendor Code": "V01360",
+      "Vendor Name": "ARCHIS ELECTRONICS LLP",
+      "Total Debit (₹)": 1341660,
+      "Total Credit (₹)": 1341660,
+      "Txn Count": 3,
+      "Latest Txn Date": "31-Jan-2026",
+      "Net Balance (₹)": 0,
+      "Status": "Fully Paid (NIL)"
+    },
+    {
+      "Vendor Code": "V01361",
+      "Vendor Name": "Mahadev Generator Servicves",
+      "Total Debit (₹)": 71852,
+      "Total Credit (₹)": 71852,
+      "Txn Count": 6,
+      "Latest Txn Date": "05-Feb-2026",
+      "Net Balance (₹)": 0,
+      "Status": "Fully Paid (NIL)"
+    },
+    {
+      "Vendor Code": "V00935",
+      "Vendor Name": "SANDEEP KUMAR AGARWAL",
+      "Total Debit (₹)": 162000,
+      "Total Credit (₹)": 162000,
+      "Txn Count": 6,
+      "Latest Txn Date": "31-Mar-2026",
+      "Net Balance (₹)": 0,
+      "Status": "Fully Paid (NIL)"
+    },
+    {
+      "Vendor Code": "V00934",
+      "Vendor Name": "PRAVESH GUPTA",
+      "Total Debit (₹)": 112500,
+      "Total Credit (₹)": 112500,
+      "Txn Count": 6,
+      "Latest Txn Date": "31-Mar-2026",
+      "Net Balance (₹)": 0,
+      "Status": "Fully Paid (NIL)"
+    },
+    {
+      "Vendor Code": "V00929",
+      "Vendor Name": "ROHIT SINGHAL(Director)",
+      "Total Debit (₹)": 135000,
+      "Total Credit (₹)": 135000,
+      "Txn Count": 5,
+      "Latest Txn Date": "19-Feb-2026",
+      "Net Balance (₹)": 0,
+      "Status": "Fully Paid (NIL)"
+    },
+    {
+      "Vendor Code": "V00948",
+      "Vendor Name": "Bajaj Allianz General Insurance Company Ltd",
+      "Total Debit (₹)": 44248,
+      "Total Credit (₹)": 44248,
+      "Txn Count": 2,
+      "Latest Txn Date": "13-Feb-2026",
+      "Net Balance (₹)": 0,
+      "Status": "Fully Paid (NIL)"
+    },
+    {
+      "Vendor Code": "V00925",
+      "Vendor Name": "RIYA PAINTS AND HARDWARE",
+      "Total Debit (₹)": 43686,
+      "Total Credit (₹)": 43686,
+      "Txn Count": 4,
+      "Latest Txn Date": "16-Jan-2026",
+      "Net Balance (₹)": 0,
+      "Status": "Fully Paid (NIL)"
+    },
+    {
+      "Vendor Code": "V00926",
+      "Vendor Name": "STELLAR IR ADVISORS PVT LTD",
+      "Total Debit (₹)": 405000,
+      "Total Credit (₹)": 405000,
+      "Txn Count": 5,
+      "Latest Txn Date": "18-Mar-2026",
+      "Net Balance (₹)": 0,
+      "Status": "Fully Paid (NIL)"
+    },
+    {
+      "Vendor Code": "V00927",
+      "Vendor Name": "CHANDRA SHEKHAR VERMA(DIRECTER)",
+      "Total Debit (₹)": 135000,
+      "Total Credit (₹)": 135000,
+      "Txn Count": 5,
+      "Latest Txn Date": "19-Feb-2026",
+      "Net Balance (₹)": 0,
+      "Status": "Fully Paid (NIL)"
+    },
+    {
+      "Vendor Code": "V00967",
+      "Vendor Name": "DEEPTI POKHRIYAL",
+      "Total Debit (₹)": 129000,
+      "Total Credit (₹)": 129000,
+      "Txn Count": 6,
+      "Latest Txn Date": "31-Mar-2026",
+      "Net Balance (₹)": 0,
+      "Status": "Fully Paid (NIL)"
+    },
+    {
+      "Vendor Code": "V00979",
+      "Vendor Name": "SKYWALK TRAVELS",
+      "Total Debit (₹)": 237950,
+      "Total Credit (₹)": 237950,
+      "Txn Count": 3,
+      "Latest Txn Date": "06-Mar-2026",
+      "Net Balance (₹)": 0,
+      "Status": "Fully Paid (NIL)"
+    },
+    {
+      "Vendor Code": "V00940",
+      "Vendor Name": "CHORUS CALL CONFERENCING SERVICES INDIA",
+      "Total Debit (₹)": 26870,
+      "Total Credit (₹)": 26870,
+      "Txn Count": 4,
+      "Latest Txn Date": "05-Mar-2026",
+      "Net Balance (₹)": 0,
+      "Status": "Fully Paid (NIL)"
+    },
+    {
+      "Vendor Code": "V01374",
+      "Vendor Name": "Ultimate Pack Machine",
+      "Total Debit (₹)": 2950,
+      "Total Credit (₹)": 2950,
+      "Txn Count": 2,
+      "Latest Txn Date": "28-Feb-2026",
+      "Net Balance (₹)": 0,
+      "Status": "Fully Paid (NIL)"
+    },
+    {
+      "Vendor Code": "V01373",
+      "Vendor Name": "ADITI AUTOMOBILES",
+      "Total Debit (₹)": 112150,
+      "Total Credit (₹)": 112150,
+      "Txn Count": 4,
+      "Latest Txn Date": "25-Mar-2026",
+      "Net Balance (₹)": 0,
+      "Status": "Fully Paid (NIL)"
+    },
+    {
+      "Vendor Code": "V00863",
+      "Vendor Name": "R.K. RUBBER INDUSTRIES",
+      "Total Debit (₹)": 14113,
+      "Total Credit (₹)": 14113,
+      "Txn Count": 3,
+      "Latest Txn Date": "25-Mar-2026",
+      "Net Balance (₹)": 0,
+      "Status": "Fully Paid (NIL)"
+    },
+    {
+      "Vendor Code": "V00928",
+      "Vendor Name": "Kishor Kumar Sansi(Directer)",
+      "Total Debit (₹)": 168750,
+      "Total Credit (₹)": 168750,
+      "Txn Count": 6,
+      "Latest Txn Date": "19-Feb-2026",
+      "Net Balance (₹)": 0,
+      "Status": "Fully Paid (NIL)"
+    },
+    {
+      "Vendor Code": "V01366",
+      "Vendor Name": "S S TECHNOLOGY",
+      "Total Debit (₹)": 64739,
+      "Total Credit (₹)": 64739,
+      "Txn Count": 5,
+      "Latest Txn Date": "31-Mar-2026",
+      "Net Balance (₹)": 0,
+      "Status": "Fully Paid (NIL)"
+    },
+    {
+      "Vendor Code": "V00885",
+      "Vendor Name": "GANPATI TRAVELS",
+      "Total Debit (₹)": 25725,
+      "Total Credit (₹)": 25725,
+      "Txn Count": 11,
+      "Latest Txn Date": "31-Mar-2026",
+      "Net Balance (₹)": 0,
+      "Status": "Fully Paid (NIL)"
+    },
+    {
+      "Vendor Code": "V01343",
+      "Vendor Name": "MANOJ KUMAR SINGH",
+      "Total Debit (₹)": 150000,
+      "Total Credit (₹)": 150000,
+      "Txn Count": 6,
+      "Latest Txn Date": "31-Mar-2026",
+      "Net Balance (₹)": 0,
+      "Status": "Fully Paid (NIL)"
+    },
+    {
+      "Vendor Code": "V01339",
+      "Vendor Name": "RAMO AD CREATION PVT LTD",
+      "Total Debit (₹)": 20872,
+      "Total Credit (₹)": 20872,
+      "Txn Count": 2,
+      "Latest Txn Date": "05-Feb-2026",
+      "Net Balance (₹)": 0,
+      "Status": "Fully Paid (NIL)"
+    },
+    {
+      "Vendor Code": "V01362",
+      "Vendor Name": "SHIVA MACHINERY TOOLS",
+      "Total Debit (₹)": 8280,
+      "Total Credit (₹)": 8280,
+      "Txn Count": 3,
+      "Latest Txn Date": "31-Jan-2026",
+      "Net Balance (₹)": 0,
+      "Status": "Fully Paid (NIL)"
+    },
+    {
+      "Vendor Code": "V00127",
+      "Vendor Name": "Hunan Aihua Group Co. Ltd",
+      "Total Debit (₹)": 458724,
+      "Total Credit (₹)": 458724,
+      "Txn Count": 4,
+      "Latest Txn Date": "12-Feb-2026",
+      "Net Balance (₹)": 0,
+      "Status": "Fully Paid (NIL)"
+    },
+    {
+      "Vendor Code": "V00147",
+      "Vendor Name": "KINGFA SCIENCE & TECHNOLOGY (INDIA) LTD",
+      "Total Debit (₹)": 12300,
+      "Total Credit (₹)": 12300,
+      "Txn Count": 2,
+      "Latest Txn Date": "08-Jan-2026",
+      "Net Balance (₹)": 0,
+      "Status": "Fully Paid (NIL)"
+    },
+    {
+      "Vendor Code": "V00138",
+      "Vendor Name": "HI LINE POLYMERS",
+      "Total Debit (₹)": 104712,
+      "Total Credit (₹)": 104712,
+      "Txn Count": 6,
+      "Latest Txn Date": "25-Mar-2026",
+      "Net Balance (₹)": 0,
+      "Status": "Fully Paid (NIL)"
+    },
+    {
+      "Vendor Code": "V00082",
+      "Vendor Name": "SACHDEVA POLYCOLOR PVT LTD",
+      "Total Debit (₹)": 5900,
+      "Total Credit (₹)": 5900,
+      "Txn Count": 2,
+      "Latest Txn Date": "27-Mar-2026",
+      "Net Balance (₹)": 0,
+      "Status": "Fully Paid (NIL)"
+    },
+    {
+      "Vendor Code": "V00236",
+      "Vendor Name": "Shree Computers",
+      "Total Debit (₹)": 36804,
+      "Total Credit (₹)": 36521,
+      "Txn Count": 8,
+      "Latest Txn Date": "31-Mar-2026",
+      "Net Balance (₹)": -283,
+      "Status": "Advance/Debit Balance"
+    },
+    {
+      "Vendor Code": "V00599",
+      "Vendor Name": "BIT & BYTES",
+      "Total Debit (₹)": 4160,
+      "Total Credit (₹)": 3670,
+      "Txn Count": 2,
+      "Latest Txn Date": "05-Feb-2026",
+      "Net Balance (₹)": -490,
+      "Status": "Advance/Debit Balance"
+    },
+    {
+      "Vendor Code": "V01098",
+      "Vendor Name": "MADHAV BELTING ENTERPRISES",
+      "Total Debit (₹)": 4142,
+      "Total Credit (₹)": 3434,
+      "Txn Count": 4,
+      "Latest Txn Date": "27-Mar-2026",
+      "Net Balance (₹)": -708,
+      "Status": "Advance/Debit Balance"
+    },
+    {
+      "Vendor Code": "V01318",
+      "Vendor Name": "CANNER ELECTRIC CONNECTIONS",
+      "Total Debit (₹)": 25177,
+      "Total Credit (₹)": 24398,
+      "Txn Count": 5,
+      "Latest Txn Date": "25-Mar-2026",
+      "Net Balance (₹)": -779,
+      "Status": "Advance/Debit Balance"
+    },
+    {
+      "Vendor Code": "V00393",
+      "Vendor Name": "MILLENNIUM SEMICONDUCTORS INDIA PRIVATE LIMITED",
+      "Total Debit (₹)": 6136,
+      "Total Credit (₹)": 5192,
+      "Txn Count": 2,
+      "Latest Txn Date": "31-Mar-2026",
+      "Net Balance (₹)": -944,
+      "Status": "Advance/Debit Balance"
+    },
+    {
+      "Vendor Code": "V01141",
+      "Vendor Name": "LIFE TIME ELECTRICALS & ENGINEERS",
+      "Total Debit (₹)": 9233,
+      "Total Credit (₹)": 7741,
+      "Txn Count": 3,
+      "Latest Txn Date": "17-Feb-2026",
+      "Net Balance (₹)": -1492,
+      "Status": "Advance/Debit Balance"
+    },
+    {
+      "Vendor Code": "V00030",
+      "Vendor Name": "ELIN ELECTRONICS LIMITED",
+      "Total Debit (₹)": 3068,
+      "Total Credit (₹)": 1534,
+      "Txn Count": 3,
+      "Latest Txn Date": "31-Mar-2026",
+      "Net Balance (₹)": -1534,
+      "Status": "Advance/Debit Balance"
+    },
+    {
+      "Vendor Code": "V00083",
+      "Vendor Name": "SARTECH SOLUTIONS (P) LTD",
+      "Total Debit (₹)": 13293,
+      "Total Credit (₹)": 11346,
+      "Txn Count": 7,
+      "Latest Txn Date": "27-Mar-2026",
+      "Net Balance (₹)": -1947,
+      "Status": "Advance/Debit Balance"
+    },
+    {
+      "Vendor Code": "V00879",
+      "Vendor Name": "GARDENIA (A UNIT OF NAV PARAS ASSOCIATES)",
+      "Total Debit (₹)": 3016,
+      "Total Credit (₹)": 1040,
+      "Txn Count": 2,
+      "Latest Txn Date": "31-Mar-2026",
+      "Net Balance (₹)": -1976,
+      "Status": "Advance/Debit Balance"
+    },
+    {
+      "Vendor Code": "V00876",
+      "Vendor Name": "JAY KASHYAP",
+      "Total Debit (₹)": 63068,
+      "Total Credit (₹)": 61048,
+      "Txn Count": 10,
+      "Latest Txn Date": "31-Mar-2026",
+      "Net Balance (₹)": -2020,
+      "Status": "Advance/Debit Balance"
+    },
+    {
+      "Vendor Code": "V00070",
+      "Vendor Name": "OM PACKAGING",
+      "Total Debit (₹)": 14282,
+      "Total Credit (₹)": 12191,
+      "Txn Count": 6,
+      "Latest Txn Date": "28-Mar-2026",
+      "Net Balance (₹)": -2091,
+      "Status": "Advance/Debit Balance"
+    },
+    {
+      "Vendor Code": "V00710",
+      "Vendor Name": "GUPTA AGGARWAL & ASSOCIATES",
+      "Total Debit (₹)": 8100,
+      "Total Credit (₹)": 5400,
+      "Txn Count": 5,
+      "Latest Txn Date": "25-Feb-2026",
+      "Net Balance (₹)": -2700,
+      "Status": "Advance/Debit Balance"
+    },
+    {
+      "Vendor Code": "V00100",
+      "Vendor Name": "SUNRISE ENTERPRISES",
+      "Total Debit (₹)": 66493,
+      "Total Credit (₹)": 63779,
+      "Txn Count": 6,
+      "Latest Txn Date": "25-Mar-2026",
+      "Net Balance (₹)": -2714,
+      "Status": "Advance/Debit Balance"
+    },
+    {
+      "Vendor Code": "V00869",
+      "Vendor Name": "M/S SHRI OM SAI INDUS LLP",
+      "Total Debit (₹)": 3582,
+      "Total Credit (₹)": 0,
+      "Txn Count": 1,
+      "Latest Txn Date": "28-Jan-2026",
+      "Net Balance (₹)": -3582,
+      "Status": "Advance/Debit Balance"
+    },
+    {
+      "Vendor Code": "V00222",
+      "Vendor Name": "MILHARD SALES PVT LTD",
+      "Total Debit (₹)": 3870,
+      "Total Credit (₹)": 0,
+      "Txn Count": 2,
+      "Latest Txn Date": "20-Mar-2026",
+      "Net Balance (₹)": -3870,
+      "Status": "Advance/Debit Balance"
+    },
+    {
+      "Vendor Code": "V00268",
+      "Vendor Name": "Hotel Jasmine",
+      "Total Debit (₹)": 18462,
+      "Total Credit (₹)": 13928,
+      "Txn Count": 10,
+      "Latest Txn Date": "31-Mar-2026",
+      "Net Balance (₹)": -4534,
+      "Status": "Advance/Debit Balance"
+    },
+    {
+      "Vendor Code": "V00734",
+      "Vendor Name": "TANTIA ELECTRONIC",
+      "Total Debit (₹)": 21034,
+      "Total Credit (₹)": 16314,
+      "Txn Count": 4,
+      "Latest Txn Date": "31-Mar-2026",
+      "Net Balance (₹)": -4720,
+      "Status": "Advance/Debit Balance"
+    },
+    {
+      "Vendor Code": "V00846",
+      "Vendor Name": "Nanjing shagon Electronics Co.,ltd",
+      "Total Debit (₹)": 27448.17,
+      "Total Credit (₹)": 22506,
+      "Txn Count": 4,
+      "Latest Txn Date": "17-Mar-2026",
+      "Net Balance (₹)": -4942.17,
+      "Status": "Advance/Debit Balance"
+    },
+    {
+      "Vendor Code": "V00316",
+      "Vendor Name": "Lalit Transport Pvt Ltd",
+      "Total Debit (₹)": 119266,
+      "Total Credit (₹)": 114268,
+      "Txn Count": 3,
+      "Latest Txn Date": "20-Feb-2026",
+      "Net Balance (₹)": -4998,
+      "Status": "Advance/Debit Balance"
+    },
+    {
+      "Vendor Code": "V01187",
+      "Vendor Name": "G V ASSOCIATES",
+      "Total Debit (₹)": 37107,
+      "Total Credit (₹)": 31900,
+      "Txn Count": 7,
+      "Latest Txn Date": "31-Mar-2026",
+      "Net Balance (₹)": -5207,
+      "Status": "Advance/Debit Balance"
+    },
+    {
+      "Vendor Code": "V01238",
+      "Vendor Name": "AALVIN LIGHTING",
+      "Total Debit (₹)": 216455,
+      "Total Credit (₹)": 211220,
+      "Txn Count": 3,
+      "Latest Txn Date": "10-Mar-2026",
+      "Net Balance (₹)": -5235,
+      "Status": "Advance/Debit Balance"
+    },
+    {
+      "Vendor Code": "V00117",
+      "Vendor Name": "CHANGZHOU GALAXY ELECTRICAL CO.,LTD",
+      "Total Debit (₹)": 16706.162,
+      "Total Credit (₹)": 11310.972,
+      "Txn Count": 7,
+      "Latest Txn Date": "25-Mar-2026",
+      "Net Balance (₹)": -5395.19,
+      "Status": "Advance/Debit Balance"
+    },
+    {
+      "Vendor Code": "V00499",
+      "Vendor Name": "PURNIMA STORE",
+      "Total Debit (₹)": 13296,
+      "Total Credit (₹)": 7465,
+      "Txn Count": 3,
+      "Latest Txn Date": "17-Feb-2026",
+      "Net Balance (₹)": -5831,
+      "Status": "Advance/Debit Balance"
+    },
+    {
+      "Vendor Code": "V00601",
+      "Vendor Name": "PRAGATI ENTERPRISES",
+      "Total Debit (₹)": 6485,
+      "Total Credit (₹)": 0,
+      "Txn Count": 1,
+      "Latest Txn Date": "16-Jan-2026",
+      "Net Balance (₹)": -6485,
+      "Status": "Advance/Debit Balance"
+    },
+    {
+      "Vendor Code": "V01120",
+      "Vendor Name": "ZENITH SPRAY & AEROSOLS PRIVATE LIMITED",
+      "Total Debit (₹)": 22568,
+      "Total Credit (₹)": 15724,
+      "Txn Count": 3,
+      "Latest Txn Date": "25-Mar-2026",
+      "Net Balance (₹)": -6844,
+      "Status": "Advance/Debit Balance"
+    },
+    {
+      "Vendor Code": "V00096",
+      "Vendor Name": "Spinks India",
+      "Total Debit (₹)": 13865,
+      "Total Credit (₹)": 6933,
+      "Txn Count": 2,
+      "Latest Txn Date": "21-Feb-2026",
+      "Net Balance (₹)": -6932,
+      "Status": "Advance/Debit Balance"
+    },
+    {
+      "Vendor Code": "V00029",
+      "Vendor Name": "ELEKTRONIKA SALES PVT LTD",
+      "Total Debit (₹)": 7080,
+      "Total Credit (₹)": 0,
+      "Txn Count": 1,
+      "Latest Txn Date": "27-Mar-2026",
+      "Net Balance (₹)": -7080,
+      "Status": "Advance/Debit Balance"
+    },
+    {
+      "Vendor Code": "V01304",
+      "Vendor Name": "WORLDSEMI CO., LIMITED",
+      "Total Debit (₹)": 7864.2,
+      "Total Credit (₹)": 0,
+      "Txn Count": 1,
+      "Latest Txn Date": "16-Mar-2026",
+      "Net Balance (₹)": -7864.2,
+      "Status": "Advance/Debit Balance"
+    },
+    {
+      "Vendor Code": "V00636",
+      "Vendor Name": "FORTUNE PARK HARIDWAR",
+      "Total Debit (₹)": 7888,
+      "Total Credit (₹)": 0,
+      "Txn Count": 1,
+      "Latest Txn Date": "16-Jan-2026",
+      "Net Balance (₹)": -7888,
+      "Status": "Advance/Debit Balance"
+    },
+    {
+      "Vendor Code": "V01219",
+      "Vendor Name": "FOETRON CONSULTANCY SERVICES PRIVATE LIMITED",
+      "Total Debit (₹)": 15876,
+      "Total Credit (₹)": 7938,
+      "Txn Count": 3,
+      "Latest Txn Date": "19-Feb-2026",
+      "Net Balance (₹)": -7938,
+      "Status": "Advance/Debit Balance"
+    },
+    {
+      "Vendor Code": "V01383",
+      "Vendor Name": "ARROW ELECTRONICS ASIA (S) PTE. LTD.",
+      "Total Debit (₹)": 8329.5,
+      "Total Credit (₹)": 0,
+      "Txn Count": 1,
+      "Latest Txn Date": "17-Mar-2026",
+      "Net Balance (₹)": -8329.5,
+      "Status": "Advance/Debit Balance"
+    },
+    {
+      "Vendor Code": "V01305",
+      "Vendor Name": "HMPCB SOLUTIONS",
+      "Total Debit (₹)": 51286,
+      "Total Credit (₹)": 42574,
+      "Txn Count": 2,
+      "Latest Txn Date": "27-Mar-2026",
+      "Net Balance (₹)": -8712,
+      "Status": "Advance/Debit Balance"
+    },
+    {
+      "Vendor Code": "V00832",
+      "Vendor Name": "LAXMI ENTERPRISES",
+      "Total Debit (₹)": 18693,
+      "Total Credit (₹)": 8800,
+      "Txn Count": 3,
+      "Latest Txn Date": "28-Jan-2026",
+      "Net Balance (₹)": -9893,
+      "Status": "Advance/Debit Balance"
+    },
+    {
+      "Vendor Code": "V01337",
+      "Vendor Name": "NEXTECH",
+      "Total Debit (₹)": 10490,
+      "Total Credit (₹)": 82,
+      "Txn Count": 3,
+      "Latest Txn Date": "31-Jan-2026",
+      "Net Balance (₹)": -10408,
+      "Status": "Advance/Debit Balance"
+    },
+    {
+      "Vendor Code": "V00985",
+      "Vendor Name": "NAMAN IMPEX",
+      "Total Debit (₹)": 1595727,
+      "Total Credit (₹)": 1584892,
+      "Txn Count": 14,
+      "Latest Txn Date": "27-Mar-2026",
+      "Net Balance (₹)": -10835,
+      "Status": "Advance/Debit Balance"
+    },
+    {
+      "Vendor Code": "V00176",
+      "Vendor Name": "VIKAS HARDWARE AND ELECTRICALS",
+      "Total Debit (₹)": 105405.58,
+      "Total Credit (₹)": 93545.84,
+      "Txn Count": 36,
+      "Latest Txn Date": "31-Mar-2026",
+      "Net Balance (₹)": -11859.74,
+      "Status": "Advance/Debit Balance"
+    },
+    {
+      "Vendor Code": "V00678",
+      "Vendor Name": "SUNNY CONTRACTOR",
+      "Total Debit (₹)": 11880,
+      "Total Credit (₹)": 0,
+      "Txn Count": 2,
+      "Latest Txn Date": "20-Mar-2026",
+      "Net Balance (₹)": -11880,
+      "Status": "Advance/Debit Balance"
+    },
+    {
+      "Vendor Code": "V00715",
+      "Vendor Name": "CONQUER ELECTRONICS CO. LTD.",
+      "Total Debit (₹)": 68499.826,
+      "Total Credit (₹)": 56502.906,
+      "Txn Count": 9,
+      "Latest Txn Date": "31-Mar-2026",
+      "Net Balance (₹)": -11996.92,
+      "Status": "Advance/Debit Balance"
+    },
+    {
+      "Vendor Code": "V00341",
+      "Vendor Name": "RAMA LOGISITICS",
+      "Total Debit (₹)": 133884,
+      "Total Credit (₹)": 121827,
+      "Txn Count": 9,
+      "Latest Txn Date": "25-Mar-2026",
+      "Net Balance (₹)": -12057,
+      "Status": "Advance/Debit Balance"
+    },
+    {
+      "Vendor Code": "V00012",
+      "Vendor Name": "BHAGWATI HARDWARE  ELECTRICALS",
+      "Total Debit (₹)": 26059,
+      "Total Credit (₹)": 13893,
+      "Txn Count": 15,
+      "Latest Txn Date": "30-Mar-2026",
+      "Net Balance (₹)": -12166,
+      "Status": "Advance/Debit Balance"
+    },
+    {
+      "Vendor Code": "V00400",
+      "Vendor Name": "Shanghai Yongming Electronic Co.,Ltd",
+      "Total Debit (₹)": 12847.8,
+      "Total Credit (₹)": 0,
+      "Txn Count": 1,
+      "Latest Txn Date": "02-Feb-2026",
+      "Net Balance (₹)": -12847.8,
+      "Status": "Advance/Debit Balance"
+    },
+    {
+      "Vendor Code": "V00006",
+      "Vendor Name": "Allied Labels Pvt Ltd",
+      "Total Debit (₹)": 220703,
+      "Total Credit (₹)": 207776,
+      "Txn Count": 11,
+      "Latest Txn Date": "31-Mar-2026",
+      "Net Balance (₹)": -12927,
+      "Status": "Advance/Debit Balance"
+    },
+    {
+      "Vendor Code": "V01389",
+      "Vendor Name": "OLYMPIA LIGHTING CO., LTD.",
+      "Total Debit (₹)": 26046.88,
+      "Total Credit (₹)": 13023.44,
+      "Txn Count": 3,
+      "Latest Txn Date": "23-Mar-2026",
+      "Net Balance (₹)": -13023.44,
+      "Status": "Advance/Debit Balance"
+    },
+    {
+      "Vendor Code": "V00591",
+      "Vendor Name": "CHANGZHOU  GALAXY INNOVATION MAGNETO ELECTRICITY CO.LTD",
+      "Total Debit (₹)": 53875.71,
+      "Total Credit (₹)": 39364.319,
+      "Txn Count": 12,
+      "Latest Txn Date": "31-Mar-2026",
+      "Net Balance (₹)": -14511.391,
+      "Status": "Advance/Debit Balance"
+    },
+    {
+      "Vendor Code": "V00861",
+      "Vendor Name": "RIDHIELECTROTEK PRIVATE LIMITED",
+      "Total Debit (₹)": 47554,
+      "Total Credit (₹)": 31801,
+      "Txn Count": 2,
+      "Latest Txn Date": "23-Feb-2026",
+      "Net Balance (₹)": -15753,
+      "Status": "Advance/Debit Balance"
+    },
+    {
+      "Vendor Code": "V01291",
+      "Vendor Name": "SVB COMPONENTS LLP",
+      "Total Debit (₹)": 16508,
+      "Total Credit (₹)": 0,
+      "Txn Count": 1,
+      "Latest Txn Date": "28-Jan-2026",
+      "Net Balance (₹)": -16508,
+      "Status": "Advance/Debit Balance"
+    },
+    {
+      "Vendor Code": "V00311",
+      "Vendor Name": "Anchor Roadlines Pvt Ltd",
+      "Total Debit (₹)": 79623,
+      "Total Credit (₹)": 60849,
+      "Txn Count": 5,
+      "Latest Txn Date": "31-Mar-2026",
+      "Net Balance (₹)": -18774,
+      "Status": "Advance/Debit Balance"
+    },
+    {
+      "Vendor Code": "V00003",
+      "Vendor Name": "AAA SPECIALISED PACKING",
+      "Total Debit (₹)": 244319,
+      "Total Credit (₹)": 225404,
+      "Txn Count": 15,
+      "Latest Txn Date": "25-Mar-2026",
+      "Net Balance (₹)": -18915,
+      "Status": "Advance/Debit Balance"
+    },
+    {
+      "Vendor Code": "V00196",
+      "Vendor Name": "NEW  BOMBAY STATIONERY MART",
+      "Total Debit (₹)": 148610,
+      "Total Credit (₹)": 129335,
+      "Txn Count": 31,
+      "Latest Txn Date": "31-Mar-2026",
+      "Net Balance (₹)": -19275,
+      "Status": "Advance/Debit Balance"
+    },
+    {
+      "Vendor Code": "V01155",
+      "Vendor Name": "M/S M.D.H. SPRINGS",
+      "Total Debit (₹)": 199283,
+      "Total Credit (₹)": 179690,
+      "Txn Count": 10,
+      "Latest Txn Date": "28-Mar-2026",
+      "Net Balance (₹)": -19593,
+      "Status": "Advance/Debit Balance"
+    },
+    {
+      "Vendor Code": "V00106",
+      "Vendor Name": "V M ELECTRONICS INDIA",
+      "Total Debit (₹)": 74399,
+      "Total Credit (₹)": 54413,
+      "Txn Count": 4,
+      "Latest Txn Date": "28-Mar-2026",
+      "Net Balance (₹)": -19986,
+      "Status": "Advance/Debit Balance"
+    },
+    {
+      "Vendor Code": "V00800",
+      "Vendor Name": "Dongguan Yichuan Machine co LTD",
+      "Total Debit (₹)": 24470.265,
+      "Total Credit (₹)": 2889.515,
+      "Txn Count": 7,
+      "Latest Txn Date": "28-Feb-2026",
+      "Net Balance (₹)": -21580.75,
+      "Status": "Advance/Debit Balance"
+    },
+    {
+      "Vendor Code": "V00285",
+      "Vendor Name": "R.S. Consultants",
+      "Total Debit (₹)": 190080,
+      "Total Credit (₹)": 168480,
+      "Txn Count": 12,
+      "Latest Txn Date": "31-Mar-2026",
+      "Net Balance (₹)": -21600,
+      "Status": "Advance/Debit Balance"
+    },
+    {
+      "Vendor Code": "V00785",
+      "Vendor Name": "KGK JET INDIA PRIVATE LIMITED",
+      "Total Debit (₹)": 21830,
+      "Total Credit (₹)": 0,
+      "Txn Count": 1,
+      "Latest Txn Date": "28-Jan-2026",
+      "Net Balance (₹)": -21830,
+      "Status": "Advance/Debit Balance"
+    },
+    {
+      "Vendor Code": "V00962",
+      "Vendor Name": "M/S KIRITAMH INDUSTRIES",
+      "Total Debit (₹)": 103182,
+      "Total Credit (₹)": 74129,
+      "Txn Count": 14,
+      "Latest Txn Date": "25-Mar-2026",
+      "Net Balance (₹)": -29053,
+      "Status": "Advance/Debit Balance"
+    },
+    {
+      "Vendor Code": "V00154",
+      "Vendor Name": "MAGNET WIRES PVT LTD",
+      "Total Debit (₹)": 128023,
+      "Total Credit (₹)": 97025,
+      "Txn Count": 11,
+      "Latest Txn Date": "27-Mar-2026",
+      "Net Balance (₹)": -30998,
+      "Status": "Advance/Debit Balance"
+    },
+    {
+      "Vendor Code": "V01365",
+      "Vendor Name": "Shenzhen Hango Technology Co.,LTD.",
+      "Total Debit (₹)": 91962.325,
+      "Total Credit (₹)": 59191.65,
+      "Txn Count": 4,
+      "Latest Txn Date": "27-Mar-2026",
+      "Net Balance (₹)": -32770.675,
+      "Status": "Advance/Debit Balance"
+    },
+    {
+      "Vendor Code": "V00465",
+      "Vendor Name": "HUIZHOU MINGDA PRECISE ELECTRONIC CO. LTD.",
+      "Total Debit (₹)": 32778,
+      "Total Credit (₹)": 0,
+      "Txn Count": 1,
+      "Latest Txn Date": "27-Feb-2026",
+      "Net Balance (₹)": -32778,
+      "Status": "Advance/Debit Balance"
+    },
+    {
+      "Vendor Code": "V00111",
+      "Vendor Name": "Vision Stencils Private Limited",
+      "Total Debit (₹)": 60888,
+      "Total Credit (₹)": 25252,
+      "Txn Count": 5,
+      "Latest Txn Date": "10-Mar-2026",
+      "Net Balance (₹)": -35636,
+      "Status": "Advance/Debit Balance"
+    },
+    {
+      "Vendor Code": "V00344",
+      "Vendor Name": "PMP METAL PLAST PRIVATE LIMITED",
+      "Total Debit (₹)": 93261,
+      "Total Credit (₹)": 56640,
+      "Txn Count": 6,
+      "Latest Txn Date": "25-Mar-2026",
+      "Net Balance (₹)": -36621,
+      "Status": "Advance/Debit Balance"
+    },
+    {
+      "Vendor Code": "V00370",
+      "Vendor Name": "ACER INDUSTRIES",
+      "Total Debit (₹)": 286227,
+      "Total Credit (₹)": 244686,
+      "Txn Count": 16,
+      "Latest Txn Date": "31-Mar-2026",
+      "Net Balance (₹)": -41541,
+      "Status": "Advance/Debit Balance"
+    },
+    {
+      "Vendor Code": "V01229",
+      "Vendor Name": "Yueqing Cenozoic Electronics Co., Ltd",
+      "Total Debit (₹)": 43654,
+      "Total Credit (₹)": 0,
+      "Txn Count": 1,
+      "Latest Txn Date": "30-Mar-2026",
+      "Net Balance (₹)": -43654,
+      "Status": "Advance/Debit Balance"
+    },
+    {
+      "Vendor Code": "V00358",
+      "Vendor Name": "SKYLINE FREIGHT & TRAVELS PRIVATE LIMITED",
+      "Total Debit (₹)": 177980,
+      "Total Credit (₹)": 133499,
+      "Txn Count": 9,
+      "Latest Txn Date": "14-Mar-2026",
+      "Net Balance (₹)": -44481,
+      "Status": "Advance/Debit Balance"
+    },
+    {
+      "Vendor Code": "V01217",
+      "Vendor Name": "ZHONGSHAN FANSEN LIGHTING CO LTD",
+      "Total Debit (₹)": 48265.776,
+      "Total Credit (₹)": 0,
+      "Txn Count": 1,
+      "Latest Txn Date": "11-Mar-2026",
+      "Net Balance (₹)": -48265.776,
+      "Status": "Advance/Debit Balance"
+    },
+    {
+      "Vendor Code": "V01240",
+      "Vendor Name": "SPRINGEDGE SUPPLIES",
+      "Total Debit (₹)": 48442,
+      "Total Credit (₹)": 0,
+      "Txn Count": 2,
+      "Latest Txn Date": "29-Jan-2026",
+      "Net Balance (₹)": -48442,
+      "Status": "Advance/Debit Balance"
+    },
+    {
+      "Vendor Code": "V00754",
+      "Vendor Name": "SUNRISE MANUFACTURER AND TRADERS",
+      "Total Debit (₹)": 120362,
+      "Total Credit (₹)": 71704,
+      "Txn Count": 5,
+      "Latest Txn Date": "27-Mar-2026",
+      "Net Balance (₹)": -48658,
+      "Status": "Advance/Debit Balance"
+    },
+    {
+      "Vendor Code": "V00390",
+      "Vendor Name": "RAI INNOTECH POLYMERS PVT. LTD.",
+      "Total Debit (₹)": 250160,
+      "Total Credit (₹)": 200600,
+      "Txn Count": 3,
+      "Latest Txn Date": "17-Feb-2026",
+      "Net Balance (₹)": -49560,
+      "Status": "Advance/Debit Balance"
+    },
+    {
+      "Vendor Code": "V01299",
+      "Vendor Name": "SEMTRONIKS INDIA TECHNOCRATS LLP",
+      "Total Debit (₹)": 51094,
+      "Total Credit (₹)": 0,
+      "Txn Count": 1,
+      "Latest Txn Date": "28-Jan-2026",
+      "Net Balance (₹)": -51094,
+      "Status": "Advance/Debit Balance"
+    },
+    {
+      "Vendor Code": "V00748",
+      "Vendor Name": "U K REFCHEM",
+      "Total Debit (₹)": 52510,
+      "Total Credit (₹)": 0,
+      "Txn Count": 1,
+      "Latest Txn Date": "28-Jan-2026",
+      "Net Balance (₹)": -52510,
+      "Status": "Advance/Debit Balance"
+    },
+    {
+      "Vendor Code": "V00286",
+      "Vendor Name": "Raina Metal Pvt Ltd",
+      "Total Debit (₹)": 216000,
+      "Total Credit (₹)": 162000,
+      "Txn Count": 5,
+      "Latest Txn Date": "27-Mar-2026",
+      "Net Balance (₹)": -54000,
+      "Status": "Advance/Debit Balance"
+    },
+    {
+      "Vendor Code": "V01284",
+      "Vendor Name": "M/S YORKS ENTERPRISES",
+      "Total Debit (₹)": 108324,
+      "Total Credit (₹)": 50740,
+      "Txn Count": 9,
+      "Latest Txn Date": "25-Mar-2026",
+      "Net Balance (₹)": -57584,
+      "Status": "Advance/Debit Balance"
+    },
+    {
+      "Vendor Code": "V00761",
+      "Vendor Name": "VICTOR MAGNETICS PVT LTD",
+      "Total Debit (₹)": 173196,
+      "Total Credit (₹)": 115464,
+      "Txn Count": 5,
+      "Latest Txn Date": "25-Mar-2026",
+      "Net Balance (₹)": -57732,
+      "Status": "Advance/Debit Balance"
+    },
+    {
+      "Vendor Code": "V00161",
+      "Vendor Name": "NEWAY SOLUTIONS",
+      "Total Debit (₹)": 482040,
+      "Total Credit (₹)": 422976,
+      "Txn Count": 38,
+      "Latest Txn Date": "30-Mar-2026",
+      "Net Balance (₹)": -59064,
+      "Status": "Advance/Debit Balance"
+    },
+    {
+      "Vendor Code": "V01167",
+      "Vendor Name": "SAMA BHARAT TECH",
+      "Total Debit (₹)": 188551,
+      "Total Credit (₹)": 128230,
+      "Txn Count": 3,
+      "Latest Txn Date": "31-Mar-2026",
+      "Net Balance (₹)": -60321,
+      "Status": "Advance/Debit Balance"
+    },
+    {
+      "Vendor Code": "V00472",
+      "Vendor Name": "ANAND KUMAR JAIN",
+      "Total Debit (₹)": 61480,
+      "Total Credit (₹)": 0,
+      "Txn Count": 1,
+      "Latest Txn Date": "07-Jan-2026",
+      "Net Balance (₹)": -61480,
+      "Status": "Advance/Debit Balance"
+    },
+    {
+      "Vendor Code": "V00603",
+      "Vendor Name": "COMPONIX INDIA PVT LTD",
+      "Total Debit (₹)": 76334,
+      "Total Credit (₹)": 13145,
+      "Txn Count": 3,
+      "Latest Txn Date": "25-Mar-2026",
+      "Net Balance (₹)": -63189,
+      "Status": "Advance/Debit Balance"
+    },
+    {
+      "Vendor Code": "V00027",
+      "Vendor Name": "EAGLE INDUSTRIES",
+      "Total Debit (₹)": 468419,
+      "Total Credit (₹)": 404090,
+      "Txn Count": 33,
+      "Latest Txn Date": "31-Mar-2026",
+      "Net Balance (₹)": -64329,
+      "Status": "Advance/Debit Balance"
+    },
+    {
+      "Vendor Code": "V00350",
+      "Vendor Name": "ANTRA INDUSTRIES",
+      "Total Debit (₹)": 469938,
+      "Total Credit (₹)": 401665,
+      "Txn Count": 12,
+      "Latest Txn Date": "27-Mar-2026",
+      "Net Balance (₹)": -68273,
+      "Status": "Advance/Debit Balance"
+    },
+    {
+      "Vendor Code": "V01364",
+      "Vendor Name": "DIGITONICA INDIA PRIVATE LIMITED",
+      "Total Debit (₹)": 90352,
+      "Total Credit (₹)": 16189,
+      "Txn Count": 3,
+      "Latest Txn Date": "31-Mar-2026",
+      "Net Balance (₹)": -74163,
+      "Status": "Advance/Debit Balance"
+    },
+    {
+      "Vendor Code": "V01317",
+      "Vendor Name": "Dongguan Yuyang Hardware Co.,Ltd",
+      "Total Debit (₹)": 76957,
+      "Total Credit (₹)": 0,
+      "Txn Count": 1,
+      "Latest Txn Date": "20-Mar-2026",
+      "Net Balance (₹)": -76957,
+      "Status": "Advance/Debit Balance"
+    },
+    {
+      "Vendor Code": "V01300",
+      "Vendor Name": "DYNAMIC MACHINE & TOOLS",
+      "Total Debit (₹)": 79839,
+      "Total Credit (₹)": 0,
+      "Txn Count": 1,
+      "Latest Txn Date": "28-Jan-2026",
+      "Net Balance (₹)": -79839,
+      "Status": "Advance/Debit Balance"
+    },
+    {
+      "Vendor Code": "V01322",
+      "Vendor Name": "BEACON OPTRONICS INDIA PRIVATE LIMITED",
+      "Total Debit (₹)": 340761,
+      "Total Credit (₹)": 260184,
+      "Txn Count": 9,
+      "Latest Txn Date": "31-Mar-2026",
+      "Net Balance (₹)": -80577,
+      "Status": "Advance/Debit Balance"
+    },
+    {
+      "Vendor Code": "V00259",
+      "Vendor Name": "DHL EXPRESS INDIA PVT LTD(C)",
+      "Total Debit (₹)": 2115223,
+      "Total Credit (₹)": 2029163.736,
+      "Txn Count": 90,
+      "Latest Txn Date": "31-Mar-2026",
+      "Net Balance (₹)": -86059.264,
+      "Status": "Advance/Debit Balance"
+    },
+    {
+      "Vendor Code": "V00570",
+      "Vendor Name": "SHANGHAI XUANYU NEW MATERIAL TECHNOLOGY CO., LTD",
+      "Total Debit (₹)": 251620.357,
+      "Total Credit (₹)": 165293.677,
+      "Txn Count": 12,
+      "Latest Txn Date": "31-Mar-2026",
+      "Net Balance (₹)": -86326.68,
+      "Status": "Advance/Debit Balance"
+    },
+    {
+      "Vendor Code": "V01345",
+      "Vendor Name": "INVAA TECHNOLOGIES PRIVATE LIMITED",
+      "Total Debit (₹)": 87792,
+      "Total Credit (₹)": 0,
+      "Txn Count": 1,
+      "Latest Txn Date": "28-Jan-2026",
+      "Net Balance (₹)": -87792,
+      "Status": "Advance/Debit Balance"
+    },
+    {
+      "Vendor Code": "V00256",
+      "Vendor Name": "CLASSIC CALIBRATION & TESTING LABORATORIES",
+      "Total Debit (₹)": 91784,
+      "Total Credit (₹)": 0,
+      "Txn Count": 1,
+      "Latest Txn Date": "07-Jan-2026",
+      "Net Balance (₹)": -91784,
+      "Status": "Advance/Debit Balance"
+    },
+    {
+      "Vendor Code": "V00008",
+      "Vendor Name": "ARORA ENTERPRISES",
+      "Total Debit (₹)": 1423104,
+      "Total Credit (₹)": 1328841,
+      "Txn Count": 26,
+      "Latest Txn Date": "31-Mar-2026",
+      "Net Balance (₹)": -94263,
+      "Status": "Advance/Debit Balance"
+    },
+    {
+      "Vendor Code": "V00742",
+      "Vendor Name": "TONGRUI TECHNOLOGY (HK) LIMITED",
+      "Total Debit (₹)": 108893.4,
+      "Total Credit (₹)": 11655,
+      "Txn Count": 5,
+      "Latest Txn Date": "31-Mar-2026",
+      "Net Balance (₹)": -97238.4,
+      "Status": "Advance/Debit Balance"
+    },
+    {
+      "Vendor Code": "V00123",
+      "Vendor Name": "Foshan City Xin Yuan Electronic co .ltd",
+      "Total Debit (₹)": 191303.922,
+      "Total Credit (₹)": 93024,
+      "Txn Count": 7,
+      "Latest Txn Date": "25-Mar-2026",
+      "Net Balance (₹)": -98279.922,
+      "Status": "Advance/Debit Balance"
+    },
+    {
+      "Vendor Code": "V01351",
+      "Vendor Name": "S R PACKAGING",
+      "Total Debit (₹)": 99733,
+      "Total Credit (₹)": 0,
+      "Txn Count": 1,
+      "Latest Txn Date": "19-Feb-2026",
+      "Net Balance (₹)": -99733,
+      "Status": "Advance/Debit Balance"
+    },
+    {
+      "Vendor Code": "V00939",
+      "Vendor Name": "zhongshan xinwang lighting teachnoligy co ltd",
+      "Total Debit (₹)": 122967.67,
+      "Total Credit (₹)": 22612.68,
+      "Txn Count": 9,
+      "Latest Txn Date": "31-Mar-2026",
+      "Net Balance (₹)": -100354.99,
+      "Status": "Advance/Debit Balance"
+    },
+    {
+      "Vendor Code": "V01015",
+      "Vendor Name": "DIGIT TRONICS",
+      "Total Debit (₹)": 177077,
+      "Total Credit (₹)": 68605,
+      "Txn Count": 3,
+      "Latest Txn Date": "25-Mar-2026",
+      "Net Balance (₹)": -108472,
+      "Status": "Advance/Debit Balance"
+    },
+    {
+      "Vendor Code": "V00759",
+      "Vendor Name": "K L J POLYMERS PRIVATE LIMITED",
+      "Total Debit (₹)": 1159026,
+      "Total Credit (₹)": 1043858,
+      "Txn Count": 8,
+      "Latest Txn Date": "25-Mar-2026",
+      "Net Balance (₹)": -115168,
+      "Status": "Advance/Debit Balance"
+    },
+    {
+      "Vendor Code": "V01266",
+      "Vendor Name": "TRIVENI ELECTROPLAST PRIVATE LIMITED",
+      "Total Debit (₹)": 342200,
+      "Total Credit (₹)": 225616,
+      "Txn Count": 6,
+      "Latest Txn Date": "31-Mar-2026",
+      "Net Balance (₹)": -116584,
+      "Status": "Advance/Debit Balance"
+    },
+    {
+      "Vendor Code": "V01218",
+      "Vendor Name": "SHAHEED DESHRAJ FILLING STATION",
+      "Total Debit (₹)": 214032,
+      "Total Credit (₹)": 74237,
+      "Txn Count": 7,
+      "Latest Txn Date": "31-Mar-2026",
+      "Net Balance (₹)": -139795,
+      "Status": "Advance/Debit Balance"
+    },
+    {
+      "Vendor Code": "V00700",
+      "Vendor Name": "VR GREEN PRIVATE LIMITED",
+      "Total Debit (₹)": 485204,
+      "Total Credit (₹)": 343941,
+      "Txn Count": 9,
+      "Latest Txn Date": "25-Mar-2026",
+      "Net Balance (₹)": -141263,
+      "Status": "Advance/Debit Balance"
+    },
+    {
+      "Vendor Code": "V00805",
+      "Vendor Name": "ONS HOLKAR PRIVATE LIMITED",
+      "Total Debit (₹)": 489700,
+      "Total Credit (₹)": 342790,
+      "Txn Count": 8,
+      "Latest Txn Date": "25-Mar-2026",
+      "Net Balance (₹)": -146910,
+      "Status": "Advance/Debit Balance"
+    },
+    {
+      "Vendor Code": "V00057",
+      "Vendor Name": "KEY OPERATION& ELECTROCOMPONENTS PVTLTD",
+      "Total Debit (₹)": 210040,
+      "Total Credit (₹)": 31978,
+      "Txn Count": 2,
+      "Latest Txn Date": "19-Feb-2026",
+      "Net Balance (₹)": -178062,
+      "Status": "Advance/Debit Balance"
+    },
+    {
+      "Vendor Code": "V00572",
+      "Vendor Name": "OMAIKA QBP",
+      "Total Debit (₹)": 181440,
+      "Total Credit (₹)": 0,
+      "Txn Count": 1,
+      "Latest Txn Date": "19-Feb-2026",
+      "Net Balance (₹)": -181440,
+      "Status": "Advance/Debit Balance"
+    },
+    {
+      "Vendor Code": "V00481",
+      "Vendor Name": "BELLS INSULATIONS PRIVATE LIMITED",
+      "Total Debit (₹)": 181928,
+      "Total Credit (₹)": 0,
+      "Txn Count": 1,
+      "Latest Txn Date": "28-Jan-2026",
+      "Net Balance (₹)": -181928,
+      "Status": "Advance/Debit Balance"
+    },
+    {
+      "Vendor Code": "V00102",
+      "Vendor Name": "SWINGTEL COMMUNICATIONS PVT LTD",
+      "Total Debit (₹)": 736355,
+      "Total Credit (₹)": 540794,
+      "Txn Count": 9,
+      "Latest Txn Date": "31-Mar-2026",
+      "Net Balance (₹)": -195561,
+      "Status": "Advance/Debit Balance"
+    },
+    {
+      "Vendor Code": "V00600",
+      "Vendor Name": "SEA RANGE COMPONENTS PVT LTD",
+      "Total Debit (₹)": 1031829,
+      "Total Credit (₹)": 789268,
+      "Txn Count": 7,
+      "Latest Txn Date": "31-Mar-2026",
+      "Net Balance (₹)": -242561,
+      "Status": "Advance/Debit Balance"
+    },
+    {
+      "Vendor Code": "V00103",
+      "Vendor Name": "THREE BOND INDIA PVT LTD",
+      "Total Debit (₹)": 340725,
+      "Total Credit (₹)": 92925,
+      "Txn Count": 3,
+      "Latest Txn Date": "25-Mar-2026",
+      "Net Balance (₹)": -247800,
+      "Status": "Advance/Debit Balance"
+    },
+    {
+      "Vendor Code": "V01312",
+      "Vendor Name": "Mogli Labs (India) Private Limited",
+      "Total Debit (₹)": 691303,
+      "Total Credit (₹)": 400374,
+      "Txn Count": 10,
+      "Latest Txn Date": "31-Mar-2026",
+      "Net Balance (₹)": -290929,
+      "Status": "Advance/Debit Balance"
+    },
+    {
+      "Vendor Code": "V00532",
+      "Vendor Name": "Progressive Corrugated Fiberboard Pvt. Ltd.",
+      "Total Debit (₹)": 1531381,
+      "Total Credit (₹)": 1232543,
+      "Txn Count": 25,
+      "Latest Txn Date": "31-Mar-2026",
+      "Net Balance (₹)": -298838,
+      "Status": "Advance/Debit Balance"
+    },
+    {
+      "Vendor Code": "V01258",
+      "Vendor Name": "Beauty Shadow  Co. Ltd",
+      "Total Debit (₹)": 321509.865,
+      "Total Credit (₹)": 11828.066,
+      "Txn Count": 12,
+      "Latest Txn Date": "31-Mar-2026",
+      "Net Balance (₹)": -309681.799,
+      "Status": "Advance/Debit Balance"
+    },
+    {
+      "Vendor Code": "V00641",
+      "Vendor Name": "D R INTERNATIONAL PRIVATE LIMITED",
+      "Total Debit (₹)": 311520,
+      "Total Credit (₹)": 0,
+      "Txn Count": 1,
+      "Latest Txn Date": "07-Jan-2026",
+      "Net Balance (₹)": -311520,
+      "Status": "Advance/Debit Balance"
+    },
+    {
+      "Vendor Code": "V00518",
+      "Vendor Name": "DOGGUAN PHOEBUS COMPANY LIMITED",
+      "Total Debit (₹)": 529662.199,
+      "Total Credit (₹)": 195951.155,
+      "Txn Count": 11,
+      "Latest Txn Date": "31-Mar-2026",
+      "Net Balance (₹)": -333711.044,
+      "Status": "Advance/Debit Balance"
+    },
+    {
+      "Vendor Code": "V00666",
+      "Vendor Name": "DOXCY CABLES PRIVATE LIMITED",
+      "Total Debit (₹)": 6091305,
+      "Total Credit (₹)": 5720947,
+      "Txn Count": 79,
+      "Latest Txn Date": "31-Mar-2026",
+      "Net Balance (₹)": -370358,
+      "Status": "Advance/Debit Balance"
+    },
+    {
+      "Vendor Code": "V01285",
+      "Vendor Name": "ARIHANT ELECTRICALS",
+      "Total Debit (₹)": 566340.9,
+      "Total Credit (₹)": 184036.9,
+      "Txn Count": 12,
+      "Latest Txn Date": "31-Mar-2026",
+      "Net Balance (₹)": -382304,
+      "Status": "Advance/Debit Balance"
+    },
+    {
+      "Vendor Code": "V01316",
+      "Vendor Name": "SONEPAR INDIA PRIVATE LIMITED",
+      "Total Debit (₹)": 648528,
+      "Total Credit (₹)": 248272,
+      "Txn Count": 5,
+      "Latest Txn Date": "31-Mar-2026",
+      "Net Balance (₹)": -400256,
+      "Status": "Advance/Debit Balance"
+    },
+    {
+      "Vendor Code": "V00623",
+      "Vendor Name": "CreeLED Hong Kong Limited",
+      "Total Debit (₹)": 446544.266,
+      "Total Credit (₹)": 2340.458,
+      "Txn Count": 11,
+      "Latest Txn Date": "25-Mar-2026",
+      "Net Balance (₹)": -444203.808,
+      "Status": "Advance/Debit Balance"
+    },
+    {
+      "Vendor Code": "V00320",
+      "Vendor Name": "Tata Aig General  Insurance Co Ltd",
+      "Total Debit (₹)": 1050164,
+      "Total Credit (₹)": 600141,
+      "Txn Count": 6,
+      "Latest Txn Date": "31-Mar-2026",
+      "Net Balance (₹)": -450023,
+      "Status": "Advance/Debit Balance"
+    },
+    {
+      "Vendor Code": "V00255",
+      "Vendor Name": "CAVALIER LOGISTICS PRIVATE LIMITED",
+      "Total Debit (₹)": 2366973,
+      "Total Credit (₹)": 1857618,
+      "Txn Count": 58,
+      "Latest Txn Date": "31-Mar-2026",
+      "Net Balance (₹)": -509355,
+      "Status": "Advance/Debit Balance"
+    },
+    {
+      "Vendor Code": "V00093",
+      "Vendor Name": "SHIVAM INDUSTRIES",
+      "Total Debit (₹)": 2716480,
+      "Total Credit (₹)": 2159215.56,
+      "Txn Count": 61,
+      "Latest Txn Date": "31-Mar-2026",
+      "Net Balance (₹)": -557264.44,
+      "Status": "Advance/Debit Balance"
+    },
+    {
+      "Vendor Code": "V00168",
+      "Vendor Name": "SIGMA TECHNOLOGIES",
+      "Total Debit (₹)": 1797310,
+      "Total Credit (₹)": 1216642,
+      "Txn Count": 26,
+      "Latest Txn Date": "31-Mar-2026",
+      "Net Balance (₹)": -580668,
+      "Status": "Advance/Debit Balance"
+    },
+    {
+      "Vendor Code": "V01308",
+      "Vendor Name": "FREIGHTGURU PRIVATE LIMITED",
+      "Total Debit (₹)": 773726,
+      "Total Credit (₹)": 76154,
+      "Txn Count": 7,
+      "Latest Txn Date": "29-Jan-2026",
+      "Net Balance (₹)": -697572,
+      "Status": "Advance/Debit Balance"
+    },
+    {
+      "Vendor Code": "V00533",
+      "Vendor Name": "Periwal polymers pvt Ltd",
+      "Total Debit (₹)": 5456048,
+      "Total Credit (₹)": 4757232,
+      "Txn Count": 29,
+      "Latest Txn Date": "31-Mar-2026",
+      "Net Balance (₹)": -698816,
+      "Status": "Advance/Debit Balance"
+    },
+    {
+      "Vendor Code": "V00231",
+      "Vendor Name": "D.R.POLYMERS PVT. LTD.",
+      "Total Debit (₹)": 2312389,
+      "Total Credit (₹)": 1572704,
+      "Txn Count": 12,
+      "Latest Txn Date": "31-Mar-2026",
+      "Net Balance (₹)": -739685,
+      "Status": "Advance/Debit Balance"
+    },
+    {
+      "Vendor Code": "V00302",
+      "Vendor Name": "Star Clearing & Forwarding Services",
+      "Total Debit (₹)": 5086028.28,
+      "Total Credit (₹)": 4330618,
+      "Txn Count": 89,
+      "Latest Txn Date": "31-Mar-2026",
+      "Net Balance (₹)": -755410.28,
+      "Status": "Advance/Debit Balance"
+    },
+    {
+      "Vendor Code": "V01346",
+      "Vendor Name": "SHENZHEN HDLIGHT OPTOELECTRONIC TECHNOLOGY CO.,LTD",
+      "Total Debit (₹)": 3455407.94,
+      "Total Credit (₹)": 2662275.6,
+      "Txn Count": 16,
+      "Latest Txn Date": "31-Mar-2026",
+      "Net Balance (₹)": -793132.34,
+      "Status": "Advance/Debit Balance"
+    },
+    {
+      "Vendor Code": "V00917",
+      "Vendor Name": "CHENFENG TECH PRIVATE LIMITED",
+      "Total Debit (₹)": 1148470,
+      "Total Credit (₹)": 339403,
+      "Txn Count": 10,
+      "Latest Txn Date": "27-Mar-2026",
+      "Net Balance (₹)": -809067,
+      "Status": "Advance/Debit Balance"
+    },
+    {
+      "Vendor Code": "V00469",
+      "Vendor Name": "MASTER INSTRUMENT CORPORATION (INDIA)",
+      "Total Debit (₹)": 2169566.1,
+      "Total Credit (₹)": 1302325.1,
+      "Txn Count": 13,
+      "Latest Txn Date": "18-Mar-2026",
+      "Net Balance (₹)": -867241,
+      "Status": "Advance/Debit Balance"
+    },
+    {
+      "Vendor Code": "V01213",
+      "Vendor Name": "CHETNA ELECTRONICS PRIVATE LIMITED",
+      "Total Debit (₹)": 1520740,
+      "Total Credit (₹)": 618040,
+      "Txn Count": 6,
+      "Latest Txn Date": "19-Feb-2026",
+      "Net Balance (₹)": -902700,
+      "Status": "Advance/Debit Balance"
+    },
+    {
+      "Vendor Code": "V00124",
+      "Vendor Name": "FUJIAN LIGHTNING OPTOELECTRONIC CO.,LTD",
+      "Total Debit (₹)": 3306515.19,
+      "Total Credit (₹)": 2200831.917,
+      "Txn Count": 19,
+      "Latest Txn Date": "31-Mar-2026",
+      "Net Balance (₹)": -1105683.273,
+      "Status": "Advance/Debit Balance"
+    },
+    {
+      "Vendor Code": "V01272",
+      "Vendor Name": "MAHESHWARI PLASTICS",
+      "Total Debit (₹)": 2290775,
+      "Total Credit (₹)": 1147502,
+      "Txn Count": 10,
+      "Latest Txn Date": "31-Mar-2026",
+      "Net Balance (₹)": -1143273,
+      "Status": "Advance/Debit Balance"
+    },
+    {
+      "Vendor Code": "V00132",
+      "Vendor Name": "WODE ELECTRONICS TECHNOLOGY (ZHU HAI) CO. LTD",
+      "Total Debit (₹)": 3403304.032,
+      "Total Credit (₹)": 1967477.252,
+      "Txn Count": 18,
+      "Latest Txn Date": "27-Mar-2026",
+      "Net Balance (₹)": -1435826.78,
+      "Status": "Advance/Debit Balance"
+    },
+    {
+      "Vendor Code": "V00346",
+      "Vendor Name": "OMEGA PRINTOPACK PVT LTD.",
+      "Total Debit (₹)": 6954562,
+      "Total Credit (₹)": 5290200,
+      "Txn Count": 183,
+      "Latest Txn Date": "31-Mar-2026",
+      "Net Balance (₹)": -1664362,
+      "Status": "Advance/Debit Balance"
+    },
+    {
+      "Vendor Code": "V00730",
+      "Vendor Name": "SCHTOETA ENGINEERING LIMITED",
+      "Total Debit (₹)": 2984411.727,
+      "Total Credit (₹)": 1208034.787,
+      "Txn Count": 12,
+      "Latest Txn Date": "31-Mar-2026",
+      "Net Balance (₹)": -1776376.94,
+      "Status": "Advance/Debit Balance"
+    },
+    {
+      "Vendor Code": "V01269",
+      "Vendor Name": "IKIO SOLUTIONS PRIVATE LIMITED(UNIT-2)",
+      "Total Debit (₹)": 22098530,
+      "Total Credit (₹)": 20188220,
+      "Txn Count": 64,
+      "Latest Txn Date": "31-Mar-2026",
+      "Net Balance (₹)": -1910310,
+      "Status": "Advance/Debit Balance"
+    },
+    {
+      "Vendor Code": "V01251",
+      "Vendor Name": "Rishang Opto-electronics Co., Ltd",
+      "Total Debit (₹)": 2073307.119,
+      "Total Credit (₹)": 153359,
+      "Txn Count": 5,
+      "Latest Txn Date": "31-Mar-2026",
+      "Net Balance (₹)": -1919948.119,
+      "Status": "Advance/Debit Balance"
+    },
+    {
+      "Vendor Code": "V00445",
+      "Vendor Name": "KLJ POLYMER & CHEMICAL LIMITED UNIT-II",
+      "Total Debit (₹)": 4462891,
+      "Total Credit (₹)": 1612452,
+      "Txn Count": 13,
+      "Latest Txn Date": "31-Mar-2026",
+      "Net Balance (₹)": -2850439,
+      "Status": "Advance/Debit Balance"
+    },
+    {
+      "Vendor Code": "V01150",
+      "Vendor Name": "ROYALUX LIGHTING PRIVATE LIMITED- UNIT -2",
+      "Total Debit (₹)": 5873377,
+      "Total Credit (₹)": 2976844,
+      "Txn Count": 40,
+      "Latest Txn Date": "31-Mar-2026",
+      "Net Balance (₹)": -2896533,
+      "Status": "Advance/Debit Balance"
+    },
+    {
+      "Vendor Code": "V01019",
+      "Vendor Name": "MacDermid Alpha Electronics Solutions India Private Limited",
+      "Total Debit (₹)": 3823180,
+      "Total Credit (₹)": 384120,
+      "Txn Count": 8,
+      "Latest Txn Date": "31-Mar-2026",
+      "Net Balance (₹)": -3439060,
+      "Status": "Advance/Debit Balance"
+    },
+    {
+      "Vendor Code": "V00086",
+      "Vendor Name": "SEMICONIC DEVICES PVT LTD",
+      "Total Debit (₹)": 8663831,
+      "Total Credit (₹)": 4188795,
+      "Txn Count": 24,
+      "Latest Txn Date": "31-Mar-2026",
+      "Net Balance (₹)": -4475036,
+      "Status": "Advance/Debit Balance"
+    },
+    {
+      "Vendor Code": "V01143",
+      "Vendor Name": "GUANGZHOU ZUOYOU TECHNOLOGY LIGHTING.,CO LTD",
+      "Total Debit (₹)": 15114264.965,
+      "Total Credit (₹)": 6668563,
+      "Txn Count": 19,
+      "Latest Txn Date": "31-Mar-2026",
+      "Net Balance (₹)": -8445701.965,
+      "Status": "Advance/Debit Balance"
+    },
+    {
+      "Vendor Code": "V00820",
+      "Vendor Name": "SHENZHEN WINWAY ENERGY CO. LTD",
+      "Total Debit (₹)": 14564698.163,
+      "Total Credit (₹)": 0,
+      "Txn Count": 3,
+      "Latest Txn Date": "06-Feb-2026",
+      "Net Balance (₹)": -14564698.163,
+      "Status": "Advance/Debit Balance"
+    },
+    {
+      "Vendor Code": "V00737",
+      "Vendor Name": "IKIO SOLUTIONS PVT LTD",
+      "Total Debit (₹)": 83300734,
+      "Total Credit (₹)": 61458127.64,
+      "Txn Count": 289,
+      "Latest Txn Date": "31-Mar-2026",
+      "Net Balance (₹)": -21842606.36,
+      "Status": "Advance/Debit Balance"
+    }
+  ]
+}

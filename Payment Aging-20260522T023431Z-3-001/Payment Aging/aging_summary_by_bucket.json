@@ -1,0 +1,47 @@
+{
+  "table_name": "AGING  –  SUMMARY  BY BUCKET",
+  "body": [
+    {
+      "Aging Bucket": "Early Payment",
+      "Invoice Count": 1631,
+      "Total Amount (₹)": 204645158,
+      "Outstanding (₹)": 9239146.074
+    },
+    {
+      "Aging Bucket": "Late Payment",
+      "Invoice Count": 256,
+      "Total Amount (₹)": 48792550,
+      "Outstanding (₹)": 7253433.645
+    },
+    {
+      "Aging Bucket": "Not Yet Due",
+      "Invoice Count": 179,
+      "Total Amount (₹)": 27429475,
+      "Outstanding (₹)": 27429475
+    },
+    {
+      "Aging Bucket": "On-Time Payment",
+      "Invoice Count": 13,
+      "Total Amount (₹)": 1651535,
+      "Outstanding (₹)": 5939
+    },
+    {
+      "Aging Bucket": "Overdue 0-30 days",
+      "Invoice Count": 59,
+      "Total Amount (₹)": 13930119,
+      "Outstanding (₹)": 13930119
+    },
+    {
+      "Aging Bucket": "Overdue 31-60 days",
+      "Invoice Count": 19,
+      "Total Amount (₹)": 4905561,
+      "Outstanding (₹)": 4905561
+    },
+    {
+      "Aging Bucket": "Overdue 61-90 days",
+      "Invoice Count": 2,
+      "Total Amount (₹)": 247957,
+      "Outstanding (₹)": 247957
+    }
+  ]
+}

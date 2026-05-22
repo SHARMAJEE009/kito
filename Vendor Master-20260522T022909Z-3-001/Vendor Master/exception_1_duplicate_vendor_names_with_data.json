@@ -1,0 +1,1139 @@
+{
+  "table_name": "EXCEPTION 1  –  DUPLICATE VENDOR NAMES",
+  "body": [
+    {
+      "Customer/Vendor Code": "V01183",
+      "Customer/Vendor Name": "ABAN Electronics LLP",
+      "Group Name": "Inter State Vendor",
+      "MSME Registration": "N",
+      "GSTIN": "",
+      "State": "DL",
+      "Country/Region": "IN"
+    },
+    {
+      "Customer/Vendor Code": "V01183",
+      "Customer/Vendor Name": "ABAN Electronics LLP",
+      "Group Name": "Inter State Vendor",
+      "MSME Registration": "N",
+      "GSTIN": "07ABPFA5536K1Z1",
+      "State": "DL",
+      "Country/Region": "IN"
+    },
+    {
+      "Customer/Vendor Code": "V00932",
+      "Customer/Vendor Name": "AMIT RAGHAV",
+      "Group Name": "Local Vendor",
+      "MSME Registration": "N",
+      "GSTIN": "",
+      "State": "UK",
+      "Country/Region": "IN"
+    },
+    {
+      "Customer/Vendor Code": "C00104",
+      "Customer/Vendor Name": "AMIT RAGHAV",
+      "Group Name": "Inter state Customer",
+      "MSME Registration": "",
+      "GSTIN": "",
+      "State": "UP",
+      "Country/Region": "IN"
+    },
+    {
+      "Customer/Vendor Code": "V00639",
+      "Customer/Vendor Name": "ARIHANT ELECTRICALS",
+      "Group Name": "Inter State Vendor",
+      "MSME Registration": "N",
+      "GSTIN": "07AAAFA2753N1ZF",
+      "State": "DL",
+      "Country/Region": "IN"
+    },
+    {
+      "Customer/Vendor Code": "V01285",
+      "Customer/Vendor Name": "ARIHANT ELECTRICALS",
+      "Group Name": "Inter State Vendor",
+      "MSME Registration": "MEDIUM",
+      "GSTIN": "09AAAFA2753N1ZB",
+      "State": "UP",
+      "Country/Region": "IN"
+    },
+    {
+      "Customer/Vendor Code": "V00646",
+      "Customer/Vendor Name": "BHANSALI ENGINEERING POLYMERS LIMITED",
+      "Group Name": "Inter State Vendor",
+      "MSME Registration": "N",
+      "GSTIN": "08AAACB3368H1ZQ",
+      "State": "RJ",
+      "Country/Region": "IN"
+    },
+    {
+      "Customer/Vendor Code": "V00646",
+      "Customer/Vendor Name": "BHANSALI ENGINEERING POLYMERS LIMITED",
+      "Group Name": "Inter State Vendor",
+      "MSME Registration": "N",
+      "GSTIN": "05AAACY1915F1ZO",
+      "State": "UK",
+      "Country/Region": "IN"
+    },
+    {
+      "Customer/Vendor Code": "C00096",
+      "Customer/Vendor Name": "BRIJANSH MULTI TRADE INC",
+      "Group Name": "Inter state Customer",
+      "MSME Registration": "",
+      "GSTIN": "",
+      "State": "UP",
+      "Country/Region": "IN"
+    },
+    {
+      "Customer/Vendor Code": "C00096",
+      "Customer/Vendor Name": "BRIJANSH MULTI TRADE INC",
+      "Group Name": "Inter state Customer",
+      "MSME Registration": "",
+      "GSTIN": "09AINPA5028K1Z4",
+      "State": "UP",
+      "Country/Region": "IN"
+    },
+    {
+      "Customer/Vendor Code": "V00256",
+      "Customer/Vendor Name": "CLASSIC CALIBRATION & TESTING LABORATORIES",
+      "Group Name": "Inter State Vendor",
+      "MSME Registration": "N",
+      "GSTIN": "09AFMPD3430Q1Z3",
+      "State": "UP",
+      "Country/Region": "IN"
+    },
+    {
+      "Customer/Vendor Code": "V00256",
+      "Customer/Vendor Name": "CLASSIC CALIBRATION & TESTING LABORATORIES",
+      "Group Name": "Inter State Vendor",
+      "MSME Registration": "N",
+      "GSTIN": "09LYHPS1341A1ZE",
+      "State": "UP",
+      "Country/Region": "IN"
+    },
+    {
+      "Customer/Vendor Code": "V00020",
+      "Customer/Vendor Name": "Covestro (India) Private Limited",
+      "Group Name": "Inter State Vendor",
+      "MSME Registration": "N",
+      "GSTIN": "09AAACB2419H1ZY",
+      "State": "UP",
+      "Country/Region": "IN"
+    },
+    {
+      "Customer/Vendor Code": "V00020",
+      "Customer/Vendor Name": "Covestro (India) Private Limited",
+      "Group Name": "Inter State Vendor",
+      "MSME Registration": "N",
+      "GSTIN": "06AAACB2419H1Z4",
+      "State": "HR",
+      "Country/Region": "IN"
+    },
+    {
+      "Customer/Vendor Code": "V00231",
+      "Customer/Vendor Name": "D.R.POLYMERS PVT. LTD.",
+      "Group Name": "Inter State Vendor",
+      "MSME Registration": "N",
+      "GSTIN": "09AAACD0500F2ZD",
+      "State": "UP",
+      "Country/Region": "IN"
+    },
+    {
+      "Customer/Vendor Code": "V00231",
+      "Customer/Vendor Name": "D.R.POLYMERS PVT. LTD.",
+      "Group Name": "Inter State Vendor",
+      "MSME Registration": "N",
+      "GSTIN": "05AAACD0500F1ZM",
+      "State": "UK",
+      "Country/Region": "IN"
+    },
+    {
+      "Customer/Vendor Code": "V00326",
+      "Customer/Vendor Name": "DIYA PHARMA",
+      "Group Name": "Inter State Vendor",
+      "MSME Registration": "N",
+      "GSTIN": "",
+      "State": "UP",
+      "Country/Region": "IN"
+    },
+    {
+      "Customer/Vendor Code": "V00326",
+      "Customer/Vendor Name": "DIYA PHARMA",
+      "Group Name": "Inter State Vendor",
+      "MSME Registration": "N",
+      "GSTIN": "09AMCPA2000L1ZN",
+      "State": "UP",
+      "Country/Region": "IN"
+    },
+    {
+      "Customer/Vendor Code": "V00562",
+      "Customer/Vendor Name": "DONGGUAN PHOEBUS COMPANY LIMITED",
+      "Group Name": "Foreign vendor",
+      "MSME Registration": "N",
+      "GSTIN": "",
+      "State": "",
+      "Country/Region": "CN"
+    },
+    {
+      "Customer/Vendor Code": "V00944",
+      "Customer/Vendor Name": "DONGGUAN PHOEBUS COMPANY LIMITED",
+      "Group Name": "Foreign vendor",
+      "MSME Registration": "N",
+      "GSTIN": "",
+      "State": "",
+      "Country/Region": "CN"
+    },
+    {
+      "Customer/Vendor Code": "V00213",
+      "Customer/Vendor Name": "DR PLASTO TECH PRIVATE LIMITED",
+      "Group Name": "Inter State Vendor",
+      "MSME Registration": "N",
+      "GSTIN": "24AAFCD9293A1ZR",
+      "State": "GJ",
+      "Country/Region": "IN"
+    },
+    {
+      "Customer/Vendor Code": "V00213",
+      "Customer/Vendor Name": "DR PLASTO TECH PRIVATE LIMITED",
+      "Group Name": "Inter State Vendor",
+      "MSME Registration": "N",
+      "GSTIN": "07AAFCD9293A1ZN",
+      "State": "DL",
+      "Country/Region": "IN"
+    },
+    {
+      "Customer/Vendor Code": "V00027",
+      "Customer/Vendor Name": "EAGLE INDUSTRIES",
+      "Group Name": "Inter State Vendor",
+      "MSME Registration": "MICRO",
+      "GSTIN": "09AKJPB5255H2Z4",
+      "State": "UP",
+      "Country/Region": "IN"
+    },
+    {
+      "Customer/Vendor Code": "C00063",
+      "Customer/Vendor Name": "EAGLE INDUSTRIES",
+      "Group Name": "Inter state Customer",
+      "MSME Registration": "",
+      "GSTIN": "07AKJPB5255H1Z9",
+      "State": "DL",
+      "Country/Region": "IN"
+    },
+    {
+      "Customer/Vendor Code": "V00120",
+      "Customer/Vendor Name": "ELLSWORTH ADHESIVES INDIA PRIVATE LIMITED",
+      "Group Name": "Inter State Vendor",
+      "MSME Registration": "N",
+      "GSTIN": "07AACCE5759R2ZU",
+      "State": "DL",
+      "Country/Region": "IN"
+    },
+    {
+      "Customer/Vendor Code": "V00120",
+      "Customer/Vendor Name": "ELLSWORTH ADHESIVES INDIA PRIVATE LIMITED",
+      "Group Name": "Inter State Vendor",
+      "MSME Registration": "N",
+      "GSTIN": "27AACCE5759R1ZT",
+      "State": "MH",
+      "Country/Region": "IN"
+    },
+    {
+      "Customer/Vendor Code": "V00911",
+      "Customer/Vendor Name": "EMBEE SOFTWARE PVT LTD",
+      "Group Name": "Inter State Vendor",
+      "MSME Registration": "N",
+      "GSTIN": "07AAACE6958L1Z6",
+      "State": "DL",
+      "Country/Region": "IN"
+    },
+    {
+      "Customer/Vendor Code": "V00911",
+      "Customer/Vendor Name": "EMBEE SOFTWARE PVT LTD",
+      "Group Name": "Inter State Vendor",
+      "MSME Registration": "N",
+      "GSTIN": "09AAACE6958L1Z2",
+      "State": "UP",
+      "Country/Region": "IN"
+    },
+    {
+      "Customer/Vendor Code": "V00260",
+      "Customer/Vendor Name": "Emst Marketing Pvt Ltd",
+      "Group Name": "Inter State Vendor",
+      "MSME Registration": "N",
+      "GSTIN": "07AABCE8501A1Z9",
+      "State": "DL",
+      "Country/Region": "IN"
+    },
+    {
+      "Customer/Vendor Code": "V00260",
+      "Customer/Vendor Name": "Emst Marketing Pvt Ltd",
+      "Group Name": "Inter State Vendor",
+      "MSME Registration": "N",
+      "GSTIN": "09AABCE8501A1Z5",
+      "State": "UP",
+      "Country/Region": "IN"
+    },
+    {
+      "Customer/Vendor Code": "V00038",
+      "Customer/Vendor Name": "Fortune Technocomps Private Limited(DELHI)",
+      "Group Name": "Inter State Vendor",
+      "MSME Registration": "N",
+      "GSTIN": "O7AAACF49A7C1ZN",
+      "State": "DL",
+      "Country/Region": "IN"
+    },
+    {
+      "Customer/Vendor Code": "V00038",
+      "Customer/Vendor Name": "Fortune Technocomps Private Limited(DELHI)",
+      "Group Name": "Inter State Vendor",
+      "MSME Registration": "N",
+      "GSTIN": "07AAACF4987C1ZN",
+      "State": "DL",
+      "Country/Region": "IN"
+    },
+    {
+      "Customer/Vendor Code": "V00041",
+      "Customer/Vendor Name": "GT MAGNETICS PVT LTD",
+      "Group Name": "Inter State Vendor",
+      "MSME Registration": "N",
+      "GSTIN": "07AAFCG9096A1ZJ",
+      "State": "DL",
+      "Country/Region": "IN"
+    },
+    {
+      "Customer/Vendor Code": "C00183",
+      "Customer/Vendor Name": "GT MAGNETICS PVT LTD",
+      "Group Name": "Inter state Customer",
+      "MSME Registration": "",
+      "GSTIN": "09AAFCG9096A1ZF",
+      "State": "UP",
+      "Country/Region": "IN"
+    },
+    {
+      "Customer/Vendor Code": "V01143",
+      "Customer/Vendor Name": "GUANGZHOU ZUOYOU TECHNOLOGY LIGHTING.,CO LTD",
+      "Group Name": "Foreign vendor",
+      "MSME Registration": "N",
+      "GSTIN": "",
+      "State": "",
+      "Country/Region": "CN"
+    },
+    {
+      "Customer/Vendor Code": "C00164",
+      "Customer/Vendor Name": "GUANGZHOU ZUOYOU TECHNOLOGY LIGHTING.,CO LTD",
+      "Group Name": "Foreign Customer",
+      "MSME Registration": "",
+      "GSTIN": "",
+      "State": "",
+      "Country/Region": "CN"
+    },
+    {
+      "Customer/Vendor Code": "V00604",
+      "Customer/Vendor Name": "HBR LIGHTING CO.",
+      "Group Name": "Inter State Vendor",
+      "MSME Registration": "N",
+      "GSTIN": "07ADPAPR7618R1Z",
+      "State": "DL",
+      "Country/Region": "IN"
+    },
+    {
+      "Customer/Vendor Code": "V00604",
+      "Customer/Vendor Name": "HBR LIGHTING CO.",
+      "Group Name": "Inter State Vendor",
+      "MSME Registration": "N",
+      "GSTIN": "07DPAPR7618R1Z1",
+      "State": "DL",
+      "Country/Region": "IN"
+    },
+    {
+      "Customer/Vendor Code": "V00797",
+      "Customer/Vendor Name": "HINDUSTAN ANTIBIOTCS LTD",
+      "Group Name": "Inter State Vendor",
+      "MSME Registration": "N",
+      "GSTIN": "",
+      "State": "UP",
+      "Country/Region": "IN"
+    },
+    {
+      "Customer/Vendor Code": "V00797",
+      "Customer/Vendor Name": "HINDUSTAN ANTIBIOTCS LTD",
+      "Group Name": "Inter State Vendor",
+      "MSME Registration": "N",
+      "GSTIN": "27AAACH5155L1ZE",
+      "State": "MH",
+      "Country/Region": "IN"
+    },
+    {
+      "Customer/Vendor Code": "C00024",
+      "Customer/Vendor Name": "Honeywell Electrical Devices & Systems",
+      "Group Name": "Inter state Customer",
+      "MSME Registration": "",
+      "GSTIN": "05AAACM4378E1ZN",
+      "State": "UK",
+      "Country/Region": "IN"
+    },
+    {
+      "Customer/Vendor Code": "C00024",
+      "Customer/Vendor Name": "Honeywell Electrical Devices & Systems",
+      "Group Name": "Inter state Customer",
+      "MSME Registration": "",
+      "GSTIN": "06AAACM4378E1ZL",
+      "State": "HR",
+      "Country/Region": "IN"
+    },
+    {
+      "Customer/Vendor Code": "C00114",
+      "Customer/Vendor Name": "IKIO SOLUTIONS PRIVATE LIMITED",
+      "Group Name": "GroupCompanyCustomer",
+      "MSME Registration": "",
+      "GSTIN": "27AAJCA0072C1Z5",
+      "State": "MH",
+      "Country/Region": "IN"
+    },
+    {
+      "Customer/Vendor Code": "C00114",
+      "Customer/Vendor Name": "IKIO SOLUTIONS PRIVATE LIMITED",
+      "Group Name": "GroupCompanyCustomer",
+      "MSME Registration": "",
+      "GSTIN": "05AAJCA0072C2ZA",
+      "State": "UK",
+      "Country/Region": "IN"
+    },
+    {
+      "Customer/Vendor Code": "V00799",
+      "Customer/Vendor Name": "KALEVA FOODS",
+      "Group Name": "Inter State Vendor",
+      "MSME Registration": "N",
+      "GSTIN": "07AAXFK1588N1ZB",
+      "State": "DL",
+      "Country/Region": "IN"
+    },
+    {
+      "Customer/Vendor Code": "V00626",
+      "Customer/Vendor Name": "KALEVA FOODS",
+      "Group Name": "Inter State Vendor",
+      "MSME Registration": "N",
+      "GSTIN": "",
+      "State": "UP",
+      "Country/Region": "IN"
+    },
+    {
+      "Customer/Vendor Code": "C00036",
+      "Customer/Vendor Name": "KERALA EDUCATION SOCIETY",
+      "Group Name": "Inter state Customer",
+      "MSME Registration": "",
+      "GSTIN": "07AERPN7741N2ZL",
+      "State": "DL",
+      "Country/Region": "IN"
+    },
+    {
+      "Customer/Vendor Code": "C00036",
+      "Customer/Vendor Name": "KERALA EDUCATION SOCIETY",
+      "Group Name": "Inter state Customer",
+      "MSME Registration": "",
+      "GSTIN": "",
+      "State": "DL",
+      "Country/Region": "IN"
+    },
+    {
+      "Customer/Vendor Code": "V00870",
+      "Customer/Vendor Name": "KHUSH TRADING COMPANY",
+      "Group Name": "Local Vendor",
+      "MSME Registration": "SMALL",
+      "GSTIN": "05BYTPP8082R1Z4",
+      "State": "UK",
+      "Country/Region": "IN"
+    },
+    {
+      "Customer/Vendor Code": "C00119",
+      "Customer/Vendor Name": "KHUSH TRADING COMPANY",
+      "Group Name": "Local Customer",
+      "MSME Registration": "",
+      "GSTIN": "05BYTPP8032R1Z4",
+      "State": "UK",
+      "Country/Region": "IN"
+    },
+    {
+      "Customer/Vendor Code": "V00151",
+      "Customer/Vendor Name": "LITE STYLE",
+      "Group Name": "Inter State Vendor",
+      "MSME Registration": "N",
+      "GSTIN": "07BQMPK1634F1ZX",
+      "State": "DL",
+      "Country/Region": "IN"
+    },
+    {
+      "Customer/Vendor Code": "V00417",
+      "Customer/Vendor Name": "LITE STYLE",
+      "Group Name": "Inter State Vendor",
+      "MSME Registration": "N",
+      "GSTIN": "07BQMPL1634F1ZX",
+      "State": "DL",
+      "Country/Region": "IN"
+    },
+    {
+      "Customer/Vendor Code": "C00177",
+      "Customer/Vendor Name": "Lightanium Technologies Private Limited",
+      "Group Name": "Inter state Customer",
+      "MSME Registration": "",
+      "GSTIN": "05AAGCL3661F1ZO",
+      "State": "UK",
+      "Country/Region": "IN"
+    },
+    {
+      "Customer/Vendor Code": "C00177",
+      "Customer/Vendor Name": "Lightanium Technologies Private Limited",
+      "Group Name": "Inter state Customer",
+      "MSME Registration": "",
+      "GSTIN": "09AAGCL3661F1ZG",
+      "State": "UP",
+      "Country/Region": "IN"
+    },
+    {
+      "Customer/Vendor Code": "V00869",
+      "Customer/Vendor Name": "M/S SHRI OM SAI INDUS LLP",
+      "Group Name": "Inter State Vendor",
+      "MSME Registration": "MICRO",
+      "GSTIN": "09AEPFS5467Q1ZR",
+      "State": "UP",
+      "Country/Region": "IN"
+    },
+    {
+      "Customer/Vendor Code": "C00178",
+      "Customer/Vendor Name": "M/S SHRI OM SAI INDUS LLP",
+      "Group Name": "Inter state Customer",
+      "MSME Registration": "",
+      "GSTIN": "",
+      "State": "UP",
+      "Country/Region": "IN"
+    },
+    {
+      "Customer/Vendor Code": "C00166",
+      "Customer/Vendor Name": "M/S V-Guard Industries Ltd.",
+      "Group Name": "Inter state Customer",
+      "MSME Registration": "",
+      "GSTIN": "05AAACV5492Q1ZO",
+      "State": "UK",
+      "Country/Region": "IN"
+    },
+    {
+      "Customer/Vendor Code": "C00166",
+      "Customer/Vendor Name": "M/S V-Guard Industries Ltd.",
+      "Group Name": "Inter state Customer",
+      "MSME Registration": "",
+      "GSTIN": "09AAACV5492Q1ZG",
+      "State": "UP",
+      "Country/Region": "IN"
+    },
+    {
+      "Customer/Vendor Code": "C00166",
+      "Customer/Vendor Name": "M/S V-Guard Industries Ltd.",
+      "Group Name": "Inter state Customer",
+      "MSME Registration": "",
+      "GSTIN": "11AAACV5492Q1ZV",
+      "State": "SK",
+      "Country/Region": "IN"
+    },
+    {
+      "Customer/Vendor Code": "V01242",
+      "Customer/Vendor Name": "MAHADEV ENTERPRISES",
+      "Group Name": "Local Vendor",
+      "MSME Registration": "SMALL",
+      "GSTIN": "05BWOPG8200P1Z6",
+      "State": "UK",
+      "Country/Region": "IN"
+    },
+    {
+      "Customer/Vendor Code": "V01105",
+      "Customer/Vendor Name": "MAHADEV ENTERPRISES",
+      "Group Name": "Local Vendor",
+      "MSME Registration": "N",
+      "GSTIN": "05KYUPS0874N1Z7",
+      "State": "UK",
+      "Country/Region": "IN"
+    },
+    {
+      "Customer/Vendor Code": "V00788",
+      "Customer/Vendor Name": "MIFA PRODUCTIONS",
+      "Group Name": "Inter State Vendor",
+      "MSME Registration": "N",
+      "GSTIN": "07AOPPA3276H1ZV",
+      "State": "DL",
+      "Country/Region": "IN"
+    },
+    {
+      "Customer/Vendor Code": "V00788",
+      "Customer/Vendor Name": "MIFA PRODUCTIONS",
+      "Group Name": "Inter State Vendor",
+      "MSME Registration": "N",
+      "GSTIN": "29AACFM5810E1ZI",
+      "State": "DL",
+      "Country/Region": "IN"
+    },
+    {
+      "Customer/Vendor Code": "C00018",
+      "Customer/Vendor Name": "Novateur Electrical & Digital Syst Pvt. Ltd.",
+      "Group Name": "Inter state Customer",
+      "MSME Registration": "",
+      "GSTIN": "05AACCE4671N1ZE",
+      "State": "UK",
+      "Country/Region": "IN"
+    },
+    {
+      "Customer/Vendor Code": "C00018",
+      "Customer/Vendor Name": "Novateur Electrical & Digital Syst Pvt. Ltd.",
+      "Group Name": "Inter state Customer",
+      "MSME Registration": "",
+      "GSTIN": "",
+      "State": "UP",
+      "Country/Region": "IN"
+    },
+    {
+      "Customer/Vendor Code": "V00360",
+      "Customer/Vendor Name": "OM TRADERS(2020-21)",
+      "Group Name": "Inter State Vendor",
+      "MSME Registration": "N",
+      "GSTIN": "07CXWPS7953R1ZT",
+      "State": "DL",
+      "Country/Region": "IN"
+    },
+    {
+      "Customer/Vendor Code": "V00360",
+      "Customer/Vendor Name": "OM TRADERS(2020-21)",
+      "Group Name": "Inter State Vendor",
+      "MSME Registration": "N",
+      "GSTIN": "05ALRPY1852C1ZV",
+      "State": "UK",
+      "Country/Region": "IN"
+    },
+    {
+      "Customer/Vendor Code": "V00902",
+      "Customer/Vendor Name": "ORIENT PRESS LIMITED",
+      "Group Name": "Inter State Vendor",
+      "MSME Registration": "N",
+      "GSTIN": "27AAACO0425C1Z3",
+      "State": "MH",
+      "Country/Region": "IN"
+    },
+    {
+      "Customer/Vendor Code": "V00897",
+      "Customer/Vendor Name": "ORIENT PRESS LIMITED",
+      "Group Name": "Inter State Vendor",
+      "MSME Registration": "N",
+      "GSTIN": "27AAACO0425C3Z1",
+      "State": "MH",
+      "Country/Region": "IN"
+    },
+    {
+      "Customer/Vendor Code": "V00509",
+      "Customer/Vendor Name": "PINAK INTERNATIONAL",
+      "Group Name": "Inter State Vendor",
+      "MSME Registration": "N",
+      "GSTIN": "09AAOPG8808L1Z2",
+      "State": "UP",
+      "Country/Region": "IN"
+    },
+    {
+      "Customer/Vendor Code": "V00496",
+      "Customer/Vendor Name": "PINAK INTERNATIONAL",
+      "Group Name": "Inter State Vendor",
+      "MSME Registration": "N",
+      "GSTIN": "",
+      "State": "DL",
+      "Country/Region": "IN"
+    },
+    {
+      "Customer/Vendor Code": "V00934",
+      "Customer/Vendor Name": "PRAVESH GUPTA",
+      "Group Name": "Local Vendor",
+      "MSME Registration": "N",
+      "GSTIN": "",
+      "State": "UK",
+      "Country/Region": "IN"
+    },
+    {
+      "Customer/Vendor Code": "C00093",
+      "Customer/Vendor Name": "PRAVESH GUPTA",
+      "Group Name": "Inter state Customer",
+      "MSME Registration": "",
+      "GSTIN": "",
+      "State": "UP",
+      "Country/Region": "IN"
+    },
+    {
+      "Customer/Vendor Code": "V00936",
+      "Customer/Vendor Name": "RAHUL TYAGI",
+      "Group Name": "Local Vendor",
+      "MSME Registration": "N",
+      "GSTIN": "",
+      "State": "UK",
+      "Country/Region": "IN"
+    },
+    {
+      "Customer/Vendor Code": "C00054",
+      "Customer/Vendor Name": "RAHUL TYAGI",
+      "Group Name": "Inter state Customer",
+      "MSME Registration": "",
+      "GSTIN": "",
+      "State": "UP",
+      "Country/Region": "IN"
+    },
+    {
+      "Customer/Vendor Code": "C00140",
+      "Customer/Vendor Name": "SANJAY KAPOOR",
+      "Group Name": "Inter state Customer",
+      "MSME Registration": "",
+      "GSTIN": "",
+      "State": "DL",
+      "Country/Region": "IN"
+    },
+    {
+      "Customer/Vendor Code": "V00615",
+      "Customer/Vendor Name": "SANJAY KAPOOR",
+      "Group Name": "Inter State Vendor",
+      "MSME Registration": "N",
+      "GSTIN": "",
+      "State": "DL",
+      "Country/Region": "IN"
+    },
+    {
+      "Customer/Vendor Code": "V01260",
+      "Customer/Vendor Name": "SEASHIELD TECHNOLOGY",
+      "Group Name": "Local Vendor",
+      "MSME Registration": "N",
+      "GSTIN": "",
+      "State": "UK",
+      "Country/Region": "IN"
+    },
+    {
+      "Customer/Vendor Code": "V01265",
+      "Customer/Vendor Name": "SEASHIELD TECHNOLOGY",
+      "Group Name": "Local Vendor",
+      "MSME Registration": "MICRO",
+      "GSTIN": "05GOEPS5865B1ZR",
+      "State": "UK",
+      "Country/Region": "IN"
+    },
+    {
+      "Customer/Vendor Code": "C00030",
+      "Customer/Vendor Name": "SIGMA DIAGNOSTIC SERVICE",
+      "Group Name": "Inter state Customer",
+      "MSME Registration": "",
+      "GSTIN": "07ABDPK4771A1Z0",
+      "State": "DL",
+      "Country/Region": "IN"
+    },
+    {
+      "Customer/Vendor Code": "C00030",
+      "Customer/Vendor Name": "SIGMA DIAGNOSTIC SERVICE",
+      "Group Name": "Inter state Customer",
+      "MSME Registration": "",
+      "GSTIN": "07ABDPK4771A1ZO",
+      "State": "DL",
+      "Country/Region": "IN"
+    },
+    {
+      "Customer/Vendor Code": "V00406",
+      "Customer/Vendor Name": "SOARING LIGHT LED LIMITED",
+      "Group Name": "Foreign vendor",
+      "MSME Registration": "N",
+      "GSTIN": "",
+      "State": "",
+      "Country/Region": "NL"
+    },
+    {
+      "Customer/Vendor Code": "V00575",
+      "Customer/Vendor Name": "SOARING LIGHT LED LIMITED",
+      "Group Name": "Foreign vendor",
+      "MSME Registration": "N",
+      "GSTIN": "",
+      "State": "",
+      "Country/Region": "CN"
+    },
+    {
+      "Customer/Vendor Code": "V01396",
+      "Customer/Vendor Name": "STENCIL POINT",
+      "Group Name": "Inter State Vendor",
+      "MSME Registration": "MICRO",
+      "GSTIN": "07AAJHK6982Q2Z6",
+      "State": "DL",
+      "Country/Region": "IN"
+    },
+    {
+      "Customer/Vendor Code": "V00171",
+      "Customer/Vendor Name": "STENCIL POINT",
+      "Group Name": "Inter State Vendor",
+      "MSME Registration": "SMALL",
+      "GSTIN": "07ABSPA6547M2Z3",
+      "State": "DL",
+      "Country/Region": "IN"
+    },
+    {
+      "Customer/Vendor Code": "V00439",
+      "Customer/Vendor Name": "SWASTIK ENTERPRISES",
+      "Group Name": "Local Vendor",
+      "MSME Registration": "N",
+      "GSTIN": "05AEXPC7625N1ZW",
+      "State": "UK",
+      "Country/Region": "IN"
+    },
+    {
+      "Customer/Vendor Code": "V00439",
+      "Customer/Vendor Name": "SWASTIK ENTERPRISES",
+      "Group Name": "Local Vendor",
+      "MSME Registration": "N",
+      "GSTIN": "05AHLPG3118K3ZE",
+      "State": "UK",
+      "Country/Region": "IN"
+    },
+    {
+      "Customer/Vendor Code": "C00003",
+      "Customer/Vendor Name": "Signify Innovations India Limited",
+      "Group Name": "Inter state Customer",
+      "MSME Registration": "",
+      "GSTIN": "33AAICP0987G1ZA",
+      "State": "TN",
+      "Country/Region": "IN"
+    },
+    {
+      "Customer/Vendor Code": "C00003",
+      "Customer/Vendor Name": "Signify Innovations India Limited",
+      "Group Name": "Inter state Customer",
+      "MSME Registration": "",
+      "GSTIN": "36AAICP0987G1Z4",
+      "State": "TS",
+      "Country/Region": "IN"
+    },
+    {
+      "Customer/Vendor Code": "C00003",
+      "Customer/Vendor Name": "Signify Innovations India Limited",
+      "Group Name": "Inter state Customer",
+      "MSME Registration": "",
+      "GSTIN": "08AAICP0987G1Z3",
+      "State": "RJ",
+      "Country/Region": "IN"
+    },
+    {
+      "Customer/Vendor Code": "C00003",
+      "Customer/Vendor Name": "Signify Innovations India Limited",
+      "Group Name": "Inter state Customer",
+      "MSME Registration": "",
+      "GSTIN": "07AKCPM7766R1Z8",
+      "State": "DL",
+      "Country/Region": "IN"
+    },
+    {
+      "Customer/Vendor Code": "C00003",
+      "Customer/Vendor Name": "Signify Innovations India Limited",
+      "Group Name": "Inter state Customer",
+      "MSME Registration": "",
+      "GSTIN": "07AAAFL2632B1ZZ",
+      "State": "DL",
+      "Country/Region": "IN"
+    },
+    {
+      "Customer/Vendor Code": "C00003",
+      "Customer/Vendor Name": "Signify Innovations India Limited",
+      "Group Name": "Inter state Customer",
+      "MSME Registration": "",
+      "GSTIN": "36AAOFV1082B1Z8",
+      "State": "TS",
+      "Country/Region": "IN"
+    },
+    {
+      "Customer/Vendor Code": "C00003",
+      "Customer/Vendor Name": "Signify Innovations India Limited",
+      "Group Name": "Inter state Customer",
+      "MSME Registration": "",
+      "GSTIN": "",
+      "State": "UP",
+      "Country/Region": "IN"
+    },
+    {
+      "Customer/Vendor Code": "C00003",
+      "Customer/Vendor Name": "Signify Innovations India Limited",
+      "Group Name": "Inter state Customer",
+      "MSME Registration": "",
+      "GSTIN": "06AAICP0987G1Z7",
+      "State": "HR",
+      "Country/Region": "IN"
+    },
+    {
+      "Customer/Vendor Code": "C00003",
+      "Customer/Vendor Name": "Signify Innovations India Limited",
+      "Group Name": "Inter state Customer",
+      "MSME Registration": "",
+      "GSTIN": "32AAICP0987G2ZB",
+      "State": "KL",
+      "Country/Region": "IN"
+    },
+    {
+      "Customer/Vendor Code": "C00003",
+      "Customer/Vendor Name": "Signify Innovations India Limited",
+      "Group Name": "Inter state Customer",
+      "MSME Registration": "",
+      "GSTIN": "05AANCA4032C1Z7",
+      "State": "UK",
+      "Country/Region": "IN"
+    },
+    {
+      "Customer/Vendor Code": "C00003",
+      "Customer/Vendor Name": "Signify Innovations India Limited",
+      "Group Name": "Inter state Customer",
+      "MSME Registration": "",
+      "GSTIN": "05AAICP0987G1Z9",
+      "State": "UK",
+      "Country/Region": "IN"
+    },
+    {
+      "Customer/Vendor Code": "C00003",
+      "Customer/Vendor Name": "Signify Innovations India Limited",
+      "Group Name": "Inter state Customer",
+      "MSME Registration": "",
+      "GSTIN": "03AAICP0987G1ZD",
+      "State": "PB",
+      "Country/Region": "IN"
+    },
+    {
+      "Customer/Vendor Code": "C00003",
+      "Customer/Vendor Name": "Signify Innovations India Limited",
+      "Group Name": "Inter state Customer",
+      "MSME Registration": "",
+      "GSTIN": "03AAACB2484Q1ZI",
+      "State": "PB",
+      "Country/Region": "IN"
+    },
+    {
+      "Customer/Vendor Code": "C00003",
+      "Customer/Vendor Name": "Signify Innovations India Limited",
+      "Group Name": "Inter state Customer",
+      "MSME Registration": "",
+      "GSTIN": "37AAICP0987G2Z1",
+      "State": "AD",
+      "Country/Region": "IN"
+    },
+    {
+      "Customer/Vendor Code": "C00003",
+      "Customer/Vendor Name": "Signify Innovations India Limited",
+      "Group Name": "Inter state Customer",
+      "MSME Registration": "",
+      "GSTIN": "09AAPCA8720K1Z5",
+      "State": "UP",
+      "Country/Region": "IN"
+    },
+    {
+      "Customer/Vendor Code": "C00003",
+      "Customer/Vendor Name": "Signify Innovations India Limited",
+      "Group Name": "Inter state Customer",
+      "MSME Registration": "",
+      "GSTIN": "10AAICP0987G1ZI",
+      "State": "BH",
+      "Country/Region": "IN"
+    },
+    {
+      "Customer/Vendor Code": "C00003",
+      "Customer/Vendor Name": "Signify Innovations India Limited",
+      "Group Name": "Inter state Customer",
+      "MSME Registration": "",
+      "GSTIN": "27AAICP0987G1Z3",
+      "State": "MH",
+      "Country/Region": "IN"
+    },
+    {
+      "Customer/Vendor Code": "C00003",
+      "Customer/Vendor Name": "Signify Innovations India Limited",
+      "Group Name": "Inter state Customer",
+      "MSME Registration": "",
+      "GSTIN": "10AAPPD5994D1ZT",
+      "State": "BH",
+      "Country/Region": "IN"
+    },
+    {
+      "Customer/Vendor Code": "C00003",
+      "Customer/Vendor Name": "Signify Innovations India Limited",
+      "Group Name": "Inter state Customer",
+      "MSME Registration": "",
+      "GSTIN": "18AAICP0987G1Z2",
+      "State": "AS",
+      "Country/Region": "IN"
+    },
+    {
+      "Customer/Vendor Code": "C00003",
+      "Customer/Vendor Name": "Signify Innovations India Limited",
+      "Group Name": "Inter state Customer",
+      "MSME Registration": "",
+      "GSTIN": "19AAICP0987G1Z0",
+      "State": "WB",
+      "Country/Region": "IN"
+    },
+    {
+      "Customer/Vendor Code": "C00003",
+      "Customer/Vendor Name": "Signify Innovations India Limited",
+      "Group Name": "Inter state Customer",
+      "MSME Registration": "",
+      "GSTIN": "09AAICP0987G1Z1",
+      "State": "UP",
+      "Country/Region": "IN"
+    },
+    {
+      "Customer/Vendor Code": "C00003",
+      "Customer/Vendor Name": "Signify Innovations India Limited",
+      "Group Name": "Inter state Customer",
+      "MSME Registration": "",
+      "GSTIN": "19AAICP0987G1ZO",
+      "State": "WB",
+      "Country/Region": "IN"
+    },
+    {
+      "Customer/Vendor Code": "C00003",
+      "Customer/Vendor Name": "Signify Innovations India Limited",
+      "Group Name": "Inter state Customer",
+      "MSME Registration": "",
+      "GSTIN": "29AAICP0987G1ZZ",
+      "State": "KT",
+      "Country/Region": "IN"
+    },
+    {
+      "Customer/Vendor Code": "C00003",
+      "Customer/Vendor Name": "Signify Innovations India Limited",
+      "Group Name": "Inter state Customer",
+      "MSME Registration": "",
+      "GSTIN": "21AAICP0987G1ZF",
+      "State": "OR",
+      "Country/Region": "IN"
+    },
+    {
+      "Customer/Vendor Code": "C00003",
+      "Customer/Vendor Name": "Signify Innovations India Limited",
+      "Group Name": "Inter state Customer",
+      "MSME Registration": "",
+      "GSTIN": "23AABFN1100D1ZD",
+      "State": "MP",
+      "Country/Region": "IN"
+    },
+    {
+      "Customer/Vendor Code": "C00003",
+      "Customer/Vendor Name": "Signify Innovations India Limited",
+      "Group Name": "Inter state Customer",
+      "MSME Registration": "",
+      "GSTIN": "30AAHCR5557P1ZW",
+      "State": "GA",
+      "Country/Region": "IN"
+    },
+    {
+      "Customer/Vendor Code": "C00003",
+      "Customer/Vendor Name": "Signify Innovations India Limited",
+      "Group Name": "Inter state Customer",
+      "MSME Registration": "",
+      "GSTIN": "09AAACB2484Q1Z6",
+      "State": "UP",
+      "Country/Region": "IN"
+    },
+    {
+      "Customer/Vendor Code": "C00003",
+      "Customer/Vendor Name": "Signify Innovations India Limited",
+      "Group Name": "Inter state Customer",
+      "MSME Registration": "",
+      "GSTIN": "08ALIPG0368A1ZJ",
+      "State": "RJ",
+      "Country/Region": "IN"
+    },
+    {
+      "Customer/Vendor Code": "C00003",
+      "Customer/Vendor Name": "Signify Innovations India Limited",
+      "Group Name": "Inter state Customer",
+      "MSME Registration": "",
+      "GSTIN": "08ABWPS9737R1Z0",
+      "State": "RJ",
+      "Country/Region": "IN"
+    },
+    {
+      "Customer/Vendor Code": "C00003",
+      "Customer/Vendor Name": "Signify Innovations India Limited",
+      "Group Name": "Inter state Customer",
+      "MSME Registration": "",
+      "GSTIN": "24AAICP0987G1Z9",
+      "State": "GJ",
+      "Country/Region": "IN"
+    },
+    {
+      "Customer/Vendor Code": "C00003",
+      "Customer/Vendor Name": "Signify Innovations India Limited",
+      "Group Name": "Inter state Customer",
+      "MSME Registration": "",
+      "GSTIN": "23AAICP0987G1ZB",
+      "State": "MP",
+      "Country/Region": "IN"
+    },
+    {
+      "Customer/Vendor Code": "V00638",
+      "Customer/Vendor Name": "TEXCARE INSTRUMENT",
+      "Group Name": "Inter State Vendor",
+      "MSME Registration": "N",
+      "GSTIN": "09DDRPS2733F1Z3",
+      "State": "DL",
+      "Country/Region": "IN"
+    },
+    {
+      "Customer/Vendor Code": "V00638",
+      "Customer/Vendor Name": "TEXCARE INSTRUMENT",
+      "Group Name": "Inter State Vendor",
+      "MSME Registration": "N",
+      "GSTIN": "",
+      "State": "DL",
+      "Country/Region": "IN"
+    },
+    {
+      "Customer/Vendor Code": "C00074",
+      "Customer/Vendor Name": "VRMED HEALTHCARE",
+      "Group Name": "Inter state Customer",
+      "MSME Registration": "",
+      "GSTIN": "",
+      "State": "HR",
+      "Country/Region": "IN"
+    },
+    {
+      "Customer/Vendor Code": "C00074",
+      "Customer/Vendor Name": "VRMED HEALTHCARE",
+      "Group Name": "Inter state Customer",
+      "MSME Registration": "",
+      "GSTIN": "07BDMPS2489B1Z9",
+      "State": "DL",
+      "Country/Region": "IN"
+    },
+    {
+      "Customer/Vendor Code": "V01246",
+      "Customer/Vendor Name": "WT MICROELECTRONICS SINGAPORE PTE. LTD.",
+      "Group Name": "Foreign vendor",
+      "MSME Registration": "N",
+      "GSTIN": "",
+      "State": "",
+      "Country/Region": "SG"
+    },
+    {
+      "Customer/Vendor Code": "V01137",
+      "Customer/Vendor Name": "WT MICROELECTRONICS SINGAPORE PTE. LTD.",
+      "Group Name": "Foreign vendor",
+      "MSME Registration": "N",
+      "GSTIN": "",
+      "State": "",
+      "Country/Region": "SG"
+    },
+    {
+      "Customer/Vendor Code": "V01250",
+      "Customer/Vendor Name": "ZHONGSHAN SILK IMP. & EXP. GROUP CO., LTD OF GUANGDONG",
+      "Group Name": "Foreign vendor",
+      "MSME Registration": "N",
+      "GSTIN": "",
+      "State": "",
+      "Country/Region": "CN"
+    },
+    {
+      "Customer/Vendor Code": "V01292",
+      "Customer/Vendor Name": "ZHONGSHAN SILK IMP. & EXP. GROUP CO., LTD OF GUANGDONG",
+      "Group Name": "Foreign vendor",
+      "MSME Registration": "N",
+      "GSTIN": "",
+      "State": "",
+      "Country/Region": "CN"
+    }
+  ]
+}

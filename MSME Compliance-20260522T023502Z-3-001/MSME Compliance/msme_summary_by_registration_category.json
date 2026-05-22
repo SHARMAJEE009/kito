@@ -1,0 +1,40 @@
+{
+  "table_name": "MSME SUMMARY – BY REGISTRATION CATEGORY",
+  "body": [
+    {
+      "MSME Registration": "MEDIUM",
+      "Invoice Count": 224,
+      "Total Value (₹)": 31989125,
+      "Avg Delay (Days)": -37,
+      "Outstanding (₹)": 3532550
+    },
+    {
+      "MSME Registration": "MICRO",
+      "Invoice Count": 302,
+      "Total Value (₹)": 19185273,
+      "Avg Delay (Days)": -21,
+      "Outstanding (₹)": 4821475
+    },
+    {
+      "MSME Registration": "N",
+      "Invoice Count": 412,
+      "Total Value (₹)": 103829220,
+      "Avg Delay (Days)": -29,
+      "Outstanding (₹)": 29019618.719
+    },
+    {
+      "MSME Registration": "SMALL",
+      "Invoice Count": 517,
+      "Total Value (₹)": 56611042,
+      "Avg Delay (Days)": -12,
+      "Outstanding (₹)": 23888129
+    },
+    {
+      "MSME Registration": "DATA LIST 1 – MICRO ENTERPRISES  –  45-DAY BREACHES",
+      "Invoice Count": "",
+      "Total Value (₹)": "",
+      "Avg Delay (Days)": "",
+      "Outstanding (₹)": ""
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "table_name": "DATA LIST 2 – SMALL ENTERPRISES  –  45-DAY BREACHES",
+  "body": [
+    {
+      "Vendor Code": "V01318",
+      "Vendor Name": "CANNER ELECTRIC CONNECTIONS",
+      "Company Type": "SMALL",
+      "Invoice Ref": "1291/25-26",
+      "PO No": "1291/25-26",
+      "PO Date": "28-Jan-2026",
+      "GE Date": "29-Jan-2026",
+      "Document Date": "28-Jan-2026",
+      "Posting Date": "30-Jan-2026",
+      "Due Date": "30-Jan-2026",
+      "Payment Date": "25-Mar-2026",
+      "Invoice Amount (₹)": 3540,
+      "Amount Paid (₹)": 3540,
+      "Outstanding (₹)": 0,
+      "Payment Delay Days": 54,
+      "45-Day Breach": 1,
+      "Indicative Penalty (₹)": 24,
+      "Status": "Fully Paid"
+    },
+    {
+      "Vendor Code": "V01318",
+      "Vendor Name": "CANNER ELECTRIC CONNECTIONS",
+      "Company Type": "SMALL",
+      "Invoice Ref": "1324/25-26",
+      "PO No": "1324/25-26",
+      "PO Date": "02-Feb-2026",
+      "GE Date": "03-Feb-2026",
+      "Document Date": "02-Feb-2026",
+      "Posting Date": "04-Feb-2026",
+      "Due Date": "04-Feb-2026",
+      "Payment Date": "25-Mar-2026",
+      "Invoice Amount (₹)": 13563,
+      "Amount Paid (₹)": 13563,
+      "Outstanding (₹)": 0,
+      "Payment Delay Days": 49,
+      "45-Day Breach": 1,
+      "Indicative Penalty (₹)": 40,
+      "Status": "Fully Paid"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "table_name": "EXCEPTION SUMMARY  –  TYPE / MEANING / POSSIBLE REASONS",
+  "body": [
+    {
+      "Exception Type": "GRPO Posted but No AP Invoice (Goods Received, Invoice Pending)",
+      "Count": 355,
+      "Business Meaning": "Material has been received and GRPO posted but vendor invoice not yet matched. This is GR/IR (Goods Received Invoice Received) pending.",
+      "Possible Reasons": "Invoice in transit; pending verification; payment terms allow delay; vendor delayed sending invoice."
+    },
+    {
+      "Exception Type": "Gate Entry Open without GRPO (Material at Gate not Posted to System)",
+      "Count": 2,
+      "Business Meaning": "Material physically arrived at gate but inward GRPO not posted in books. Material movement not reflected in accounts.",
+      "Possible Reasons": "Security/Gate department not closing entry; GRPO clerk not posting; rejected/returned material."
+    },
+    {
+      "Exception Type": "AP Invoice Booked without Gate Entry (Possible Direct Posting / Service Bills)",
+      "Count": 523,
+      "Business Meaning": "AP Invoice exists in accounts but no Gate Entry record found. Often valid for services, freight, or expense invoices (no goods inward).",
+      "Possible Reasons": "Service bills, freight bills, professional fees, utility bills, journal entries - these do not require gate entry."
+    }
+  ]
+}

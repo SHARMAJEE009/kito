@@ -1,0 +1,5005 @@
+{
+  "table_name": "C.  AP INVOICE BOOKED WITHOUT GATE ENTRY  –  DATA LIST",
+  "body": [
+    {
+      "Invoice_No": "IKAP2526252620337",
+      "Vendor_Code": "V00341",
+      "Vendor_Name": "RAMA LOGISITICS",
+      "Vendor_Bill_No": "652-7631",
+      "Vendor_Bill_Date": "01-Mar-2026",
+      "Posting_Date": "17-Mar-2026",
+      "Lines": 0,
+      "Total_Value": 9579
+    },
+    {
+      "Invoice_No": "IKAP2526252620339",
+      "Vendor_Code": "V00341",
+      "Vendor_Name": "RAMA LOGISITICS",
+      "Vendor_Bill_No": "652- 7632",
+      "Vendor_Bill_Date": "01-Mar-2026",
+      "Posting_Date": "17-Mar-2026",
+      "Lines": 0,
+      "Total_Value": 17811
+    },
+    {
+      "Invoice_No": "IKAP2526252620399",
+      "Vendor_Code": "V00385",
+      "Vendor_Name": "VB INFOTECH INDIA PVT LTD",
+      "Vendor_Bill_No": "VB/25-26/225",
+      "Vendor_Bill_Date": "06-Mar-2026",
+      "Posting_Date": "18-Mar-2026",
+      "Lines": 0,
+      "Total_Value": 42480
+    },
+    {
+      "Invoice_No": "IKAP2526252620400",
+      "Vendor_Code": "V00312",
+      "Vendor_Name": "BUREAU OF INDIAN STANDARDS",
+      "Vendor_Bill_No": "BB00CR2025012064",
+      "Vendor_Bill_Date": "09-Mar-2026",
+      "Posting_Date": "18-Mar-2026",
+      "Lines": 0,
+      "Total_Value": 121540
+    },
+    {
+      "Invoice_No": "IKAP2526252620401",
+      "Vendor_Code": "V00312",
+      "Vendor_Name": "BUREAU OF INDIAN STANDARDS",
+      "Vendor_Bill_No": "BB00CR2025011864",
+      "Vendor_Bill_Date": "02-Mar-2026",
+      "Posting_Date": "18-Mar-2026",
+      "Lines": 0,
+      "Total_Value": 82600
+    },
+    {
+      "Invoice_No": "IKAP2526252620402",
+      "Vendor_Code": "V01205",
+      "Vendor_Name": "VARDHAMANA  TESTING LABORATORY",
+      "Vendor_Bill_No": "VTL/919/2025-26",
+      "Vendor_Bill_Date": "07-Mar-2026",
+      "Posting_Date": "18-Mar-2026",
+      "Lines": 0,
+      "Total_Value": 151200
+    },
+    {
+      "Invoice_No": "IKAP2526252620434",
+      "Vendor_Code": "V01340",
+      "Vendor_Name": "MESSE FRANKURT TRADE FARS PVT LTD",
+      "Vendor_Bill_No": "AAI26IN0569",
+      "Vendor_Bill_Date": "21-Jan-2026",
+      "Posting_Date": "19-Mar-2026",
+      "Lines": 0,
+      "Total_Value": 923940
+    },
+    {
+      "Invoice_No": "IKAP26252600668",
+      "Vendor_Code": "V00615",
+      "Vendor_Name": "SANJAY KAPOOR",
+      "Vendor_Bill_No": "25-26/20",
+      "Vendor_Bill_Date": "01-Jan-2026",
+      "Posting_Date": "05-Jan-2026",
+      "Lines": 0,
+      "Total_Value": 42849
+    },
+    {
+      "Invoice_No": "IKAP26252600669",
+      "Vendor_Code": "V00616",
+      "Vendor_Name": "NIRMAL KAPOOR",
+      "Vendor_Bill_No": "JANUARY'26",
+      "Vendor_Bill_Date": "01-Jan-2026",
+      "Posting_Date": "05-Jan-2026",
+      "Lines": 0,
+      "Total_Value": 35707
+    },
+    {
+      "Invoice_No": "IKAP26252600672",
+      "Vendor_Code": "V00694",
+      "Vendor_Name": "AKG & Co",
+      "Vendor_Bill_No": "AKG/2025-26/JANUARY/002",
+      "Vendor_Bill_Date": "05-Jan-2026",
+      "Posting_Date": "05-Jan-2026",
+      "Lines": 0,
+      "Total_Value": 2400
+    },
+    {
+      "Invoice_No": "IKAP26252600673",
+      "Vendor_Code": "V00694",
+      "Vendor_Name": "AKG & Co",
+      "Vendor_Bill_No": "AKG/2025-26/JANUARY/001",
+      "Vendor_Bill_Date": "05-Jan-2026",
+      "Posting_Date": "05-Jan-2026",
+      "Lines": 0,
+      "Total_Value": 45000
+    },
+    {
+      "Invoice_No": "IKAP26252600677",
+      "Vendor_Code": "V00876",
+      "Vendor_Name": "JAY KASHYAP",
+      "Vendor_Bill_No": "780",
+      "Vendor_Bill_Date": "02-Jan-2026",
+      "Posting_Date": "06-Jan-2026",
+      "Lines": 0,
+      "Total_Value": 8570
+    },
+    {
+      "Invoice_No": "IKAP26252600678",
+      "Vendor_Code": "V00876",
+      "Vendor_Name": "JAY KASHYAP",
+      "Vendor_Bill_No": "781",
+      "Vendor_Bill_Date": "03-Jan-2026",
+      "Posting_Date": "06-Jan-2026",
+      "Lines": 0,
+      "Total_Value": 8430
+    },
+    {
+      "Invoice_No": "IKAP26252600680",
+      "Vendor_Code": "V01356",
+      "Vendor_Name": "PREETI BHATIA",
+      "Vendor_Bill_No": "01",
+      "Vendor_Bill_Date": "06-Jan-2026",
+      "Posting_Date": "08-Jan-2026",
+      "Lines": 0,
+      "Total_Value": 39200
+    },
+    {
+      "Invoice_No": "IKAP26252600688",
+      "Vendor_Code": "V01359",
+      "Vendor_Name": "SHIVAM GOYAL AND ASSOCIATES",
+      "Vendor_Bill_No": "180/2025-26",
+      "Vendor_Bill_Date": "24-Dec-2025",
+      "Posting_Date": "15-Jan-2026",
+      "Lines": 0,
+      "Total_Value": 90000
+    },
+    {
+      "Invoice_No": "IKAP26252600692",
+      "Vendor_Code": "V01288",
+      "Vendor_Name": "AMIT MITTAL",
+      "Vendor_Bill_No": "800018",
+      "Vendor_Bill_Date": "31-Dec-2025",
+      "Posting_Date": "17-Jan-2026",
+      "Lines": 0,
+      "Total_Value": 90000
+    },
+    {
+      "Invoice_No": "IKAP26252600693",
+      "Vendor_Code": "V01349",
+      "Vendor_Name": "DINESH KUMAR SONI",
+      "Vendor_Bill_No": "MM/2024-25/1",
+      "Vendor_Bill_Date": "30-Nov-2025",
+      "Posting_Date": "20-Jan-2026",
+      "Lines": 0,
+      "Total_Value": 67500
+    },
+    {
+      "Invoice_No": "IKAP26252600694",
+      "Vendor_Code": "V01349",
+      "Vendor_Name": "DINESH KUMAR SONI",
+      "Vendor_Bill_No": "MM/2024-25/3",
+      "Vendor_Bill_Date": "31-Dec-2025",
+      "Posting_Date": "20-Jan-2026",
+      "Lines": 0,
+      "Total_Value": 67500
+    },
+    {
+      "Invoice_No": "IKAP26252600695",
+      "Vendor_Code": "V00288",
+      "Vendor_Name": "Rajesh Tempo Service",
+      "Vendor_Bill_No": "163",
+      "Vendor_Bill_Date": "31-Dec-2025",
+      "Posting_Date": "20-Jan-2026",
+      "Lines": 0,
+      "Total_Value": 65954
+    },
+    {
+      "Invoice_No": "IKAP26252600713",
+      "Vendor_Code": "V00665",
+      "Vendor_Name": "DAKSH FREIGHT CARRIER",
+      "Vendor_Bill_No": "2025-26/0412",
+      "Vendor_Bill_Date": "04-Jan-2026",
+      "Posting_Date": "29-Jan-2026",
+      "Lines": 0,
+      "Total_Value": 6800
+    },
+    {
+      "Invoice_No": "IKAP26252600714",
+      "Vendor_Code": "V01107",
+      "Vendor_Name": "SINGHANIA & CO LLP",
+      "Vendor_Bill_No": "SCO/25-26/PF/647",
+      "Vendor_Bill_Date": "15-Jan-2026",
+      "Posting_Date": "29-Jan-2026",
+      "Lines": 0,
+      "Total_Value": 66600
+    },
+    {
+      "Invoice_No": "IKAP26252600723",
+      "Vendor_Code": "V01113",
+      "Vendor_Name": "NARESH BABBAR(Commercial Tax Income )",
+      "Vendor_Bill_No": "3331",
+      "Vendor_Bill_Date": "19-Jan-2026",
+      "Posting_Date": "31-Jan-2026",
+      "Lines": 0,
+      "Total_Value": 45000
+    },
+    {
+      "Invoice_No": "IKAP26252600724",
+      "Vendor_Code": "V01005",
+      "Vendor_Name": "LALIT CHAUHAN",
+      "Vendor_Bill_No": "14",
+      "Vendor_Bill_Date": "23-Jan-2026",
+      "Posting_Date": "31-Jan-2026",
+      "Lines": 0,
+      "Total_Value": 2562
+    },
+    {
+      "Invoice_No": "IKAP26252600725",
+      "Vendor_Code": "V01005",
+      "Vendor_Name": "LALIT CHAUHAN",
+      "Vendor_Bill_No": "15",
+      "Vendor_Bill_Date": "31-Jan-2026",
+      "Posting_Date": "31-Jan-2026",
+      "Lines": 0,
+      "Total_Value": 3550
+    },
+    {
+      "Invoice_No": "IKAP26252600726",
+      "Vendor_Code": "V01005",
+      "Vendor_Name": "LALIT CHAUHAN",
+      "Vendor_Bill_No": "16",
+      "Vendor_Bill_Date": "23-Jan-2026",
+      "Posting_Date": "31-Jan-2026",
+      "Lines": 0,
+      "Total_Value": 6041
+    },
+    {
+      "Invoice_No": "IKAP26252600727",
+      "Vendor_Code": "V01005",
+      "Vendor_Name": "LALIT CHAUHAN",
+      "Vendor_Bill_No": "17",
+      "Vendor_Bill_Date": "21-Jan-2026",
+      "Posting_Date": "31-Jan-2026",
+      "Lines": 0,
+      "Total_Value": 12220
+    },
+    {
+      "Invoice_No": "IKAP26252600728",
+      "Vendor_Code": "V01005",
+      "Vendor_Name": "LALIT CHAUHAN",
+      "Vendor_Bill_No": "18",
+      "Vendor_Bill_Date": "16-Jan-2026",
+      "Posting_Date": "31-Jan-2026",
+      "Lines": 0,
+      "Total_Value": 6152
+    },
+    {
+      "Invoice_No": "IKAP26252600731",
+      "Vendor_Code": "V01327",
+      "Vendor_Name": "BINU MON K P",
+      "Vendor_Bill_No": "07",
+      "Vendor_Bill_Date": "31-Jan-2026",
+      "Posting_Date": "31-Jan-2026",
+      "Lines": 0,
+      "Total_Value": 39200
+    },
+    {
+      "Invoice_No": "IKAP26252600732",
+      "Vendor_Code": "V01356",
+      "Vendor_Name": "PREETI BHATIA",
+      "Vendor_Bill_No": "02",
+      "Vendor_Bill_Date": "31-Jan-2026",
+      "Posting_Date": "31-Jan-2026",
+      "Lines": 0,
+      "Total_Value": 39200
+    },
+    {
+      "Invoice_No": "IKAP26252600733",
+      "Vendor_Code": "V00615",
+      "Vendor_Name": "SANJAY KAPOOR",
+      "Vendor_Bill_No": "25-26/21",
+      "Vendor_Bill_Date": "01-Feb-2026",
+      "Posting_Date": "01-Feb-2026",
+      "Lines": 0,
+      "Total_Value": 42849
+    },
+    {
+      "Invoice_No": "IKAP26252600734",
+      "Vendor_Code": "V00616",
+      "Vendor_Name": "NIRMAL KAPOOR",
+      "Vendor_Bill_No": "FEBRUARY'26",
+      "Vendor_Bill_Date": "01-Feb-2026",
+      "Posting_Date": "01-Feb-2026",
+      "Lines": 0,
+      "Total_Value": 35707
+    },
+    {
+      "Invoice_No": "IKAP26252600736",
+      "Vendor_Code": "V01349",
+      "Vendor_Name": "DINESH KUMAR SONI",
+      "Vendor_Bill_No": "MM/2024-25/04",
+      "Vendor_Bill_Date": "31-Jan-2026",
+      "Posting_Date": "31-Jan-2026",
+      "Lines": 0,
+      "Total_Value": 67500
+    },
+    {
+      "Invoice_No": "IKAP26252600741",
+      "Vendor_Code": "V00694",
+      "Vendor_Name": "AKG & Co",
+      "Vendor_Bill_No": "AKG/2025-26/February /001",
+      "Vendor_Bill_Date": "06-Feb-2026",
+      "Posting_Date": "06-Feb-2026",
+      "Lines": 0,
+      "Total_Value": 22500
+    },
+    {
+      "Invoice_No": "IKAP26252600743",
+      "Vendor_Code": "V00876",
+      "Vendor_Name": "JAY KASHYAP",
+      "Vendor_Bill_No": "791",
+      "Vendor_Bill_Date": "04-Feb-2026",
+      "Posting_Date": "09-Feb-2026",
+      "Lines": 0,
+      "Total_Value": 3480
+    },
+    {
+      "Invoice_No": "IKAP26252600744",
+      "Vendor_Code": "V00876",
+      "Vendor_Name": "JAY KASHYAP",
+      "Vendor_Bill_No": "785",
+      "Vendor_Bill_Date": "02-Feb-2026",
+      "Posting_Date": "09-Feb-2026",
+      "Lines": 0,
+      "Total_Value": 13544
+    },
+    {
+      "Invoice_No": "IKAP26252600745",
+      "Vendor_Code": "V00876",
+      "Vendor_Name": "JAY KASHYAP",
+      "Vendor_Bill_No": "786",
+      "Vendor_Bill_Date": "03-Feb-2026",
+      "Posting_Date": "09-Feb-2026",
+      "Lines": 0,
+      "Total_Value": 5382
+    },
+    {
+      "Invoice_No": "IKAP26252600746",
+      "Vendor_Code": "V00876",
+      "Vendor_Name": "JAY KASHYAP",
+      "Vendor_Bill_No": "787",
+      "Vendor_Bill_Date": "03-Feb-2026",
+      "Posting_Date": "09-Feb-2026",
+      "Lines": 0,
+      "Total_Value": 5004
+    },
+    {
+      "Invoice_No": "IKAP26252600754",
+      "Vendor_Code": "V01107",
+      "Vendor_Name": "SINGHANIA & CO LLP",
+      "Vendor_Bill_No": "SCO/25-26/PF/721",
+      "Vendor_Bill_Date": "21-Jan-2026",
+      "Posting_Date": "11-Feb-2026",
+      "Lines": 0,
+      "Total_Value": 135000
+    },
+    {
+      "Invoice_No": "IKAP26252600759",
+      "Vendor_Code": "V00948",
+      "Vendor_Name": "Bajaj Allianz General Insurance Company Ltd",
+      "Vendor_Bill_No": "OG-26-1104-2802-00000567",
+      "Vendor_Bill_Date": "10-Feb-2026",
+      "Posting_Date": "13-Feb-2026",
+      "Lines": 0,
+      "Total_Value": 44248
+    },
+    {
+      "Invoice_No": "IKAP26252600760",
+      "Vendor_Code": "V01218",
+      "Vendor_Name": "SHAHEED DESHRAJ FILLING STATION",
+      "Vendor_Bill_No": "25-26/1035",
+      "Vendor_Bill_Date": "31-Jan-2026",
+      "Posting_Date": "14-Feb-2026",
+      "Lines": 0,
+      "Total_Value": 6549
+    },
+    {
+      "Invoice_No": "IKAP26252600761",
+      "Vendor_Code": "V01218",
+      "Vendor_Name": "SHAHEED DESHRAJ FILLING STATION",
+      "Vendor_Bill_No": "25-26/0988",
+      "Vendor_Bill_Date": "15-Jan-2026",
+      "Posting_Date": "14-Feb-2026",
+      "Lines": 0,
+      "Total_Value": 52223
+    },
+    {
+      "Invoice_No": "IKAP26252600762",
+      "Vendor_Code": "V00822",
+      "Vendor_Name": "COINERA FOREX PVT LTD",
+      "Vendor_Bill_No": "SP/2526/1/2132",
+      "Vendor_Bill_Date": "14-Feb-2026",
+      "Posting_Date": "14-Feb-2026",
+      "Lines": 0,
+      "Total_Value": 142504
+    },
+    {
+      "Invoice_No": "IKAP26252600763",
+      "Vendor_Code": "V00822",
+      "Vendor_Name": "COINERA FOREX PVT LTD",
+      "Vendor_Bill_No": "SP/2526/1/2131",
+      "Vendor_Bill_Date": "14-Feb-2026",
+      "Posting_Date": "14-Feb-2026",
+      "Lines": 0,
+      "Total_Value": 142504
+    },
+    {
+      "Invoice_No": "IKAP26252600766",
+      "Vendor_Code": "V00989",
+      "Vendor_Name": "Zhongshan Feitu Electronics Co.Ltd",
+      "Vendor_Bill_No": "2025120300102001",
+      "Vendor_Bill_Date": "03-Dec-2025",
+      "Posting_Date": "16-Feb-2026",
+      "Lines": 3,
+      "Total_Value": 13403161
+    },
+    {
+      "Invoice_No": "IKAP26252600772",
+      "Vendor_Code": "V01288",
+      "Vendor_Name": "AMIT MITTAL",
+      "Vendor_Bill_No": "800020",
+      "Vendor_Bill_Date": "31-Jan-2026",
+      "Posting_Date": "18-Feb-2026",
+      "Lines": 0,
+      "Total_Value": 90000
+    },
+    {
+      "Invoice_No": "IKAP26252600773",
+      "Vendor_Code": "V01107",
+      "Vendor_Name": "SINGHANIA & CO LLP",
+      "Vendor_Bill_No": "SCO/25-26/PF/730",
+      "Vendor_Bill_Date": "22-Jan-2026",
+      "Posting_Date": "19-Feb-2026",
+      "Lines": 0,
+      "Total_Value": 220500
+    },
+    {
+      "Invoice_No": "IKAP26252600774",
+      "Vendor_Code": "V01107",
+      "Vendor_Name": "SINGHANIA & CO LLP",
+      "Vendor_Bill_No": "SC/25-26/OPE/216",
+      "Vendor_Bill_Date": "18-Feb-2026",
+      "Posting_Date": "19-Feb-2026",
+      "Lines": 0,
+      "Total_Value": 14000
+    },
+    {
+      "Invoice_No": "IKAP26252600775",
+      "Vendor_Code": "V00238",
+      "Vendor_Name": "SAI TIFFIN SERVICE",
+      "Vendor_Bill_No": "015",
+      "Vendor_Bill_Date": "10-Feb-2026",
+      "Posting_Date": "20-Feb-2026",
+      "Lines": 0,
+      "Total_Value": 36574
+    },
+    {
+      "Invoice_No": "IKAP26252600776",
+      "Vendor_Code": "V01005",
+      "Vendor_Name": "LALIT CHAUHAN",
+      "Vendor_Bill_No": "19",
+      "Vendor_Bill_Date": "20-Feb-2026",
+      "Posting_Date": "20-Feb-2026",
+      "Lines": 0,
+      "Total_Value": 4679
+    },
+    {
+      "Invoice_No": "IKAP26252600777",
+      "Vendor_Code": "V01005",
+      "Vendor_Name": "LALIT CHAUHAN",
+      "Vendor_Bill_No": "20",
+      "Vendor_Bill_Date": "20-Feb-2026",
+      "Posting_Date": "20-Feb-2026",
+      "Lines": 0,
+      "Total_Value": 2122
+    },
+    {
+      "Invoice_No": "IKAP26252600778",
+      "Vendor_Code": "V01005",
+      "Vendor_Name": "LALIT CHAUHAN",
+      "Vendor_Bill_No": "21",
+      "Vendor_Bill_Date": "20-Feb-2026",
+      "Posting_Date": "20-Feb-2026",
+      "Lines": 0,
+      "Total_Value": 15168
+    },
+    {
+      "Invoice_No": "IKAP26252600779",
+      "Vendor_Code": "V01005",
+      "Vendor_Name": "LALIT CHAUHAN",
+      "Vendor_Bill_No": "22",
+      "Vendor_Bill_Date": "20-Feb-2026",
+      "Posting_Date": "20-Feb-2026",
+      "Lines": 0,
+      "Total_Value": 6205
+    },
+    {
+      "Invoice_No": "IKAP26252600780",
+      "Vendor_Code": "V01107",
+      "Vendor_Name": "SINGHANIA & CO LLP",
+      "Vendor_Bill_No": "SCO/25-26/PF/804",
+      "Vendor_Bill_Date": "20-Feb-2026",
+      "Posting_Date": "20-Feb-2026",
+      "Lines": 0,
+      "Total_Value": 135000
+    },
+    {
+      "Invoice_No": "IKAP26252600781",
+      "Vendor_Code": "V00979",
+      "Vendor_Name": "SKYWALK TRAVELS",
+      "Vendor_Bill_No": "HTI00000369",
+      "Vendor_Bill_Date": "12-Feb-2026",
+      "Posting_Date": "20-Feb-2026",
+      "Lines": 0,
+      "Total_Value": 235000
+    },
+    {
+      "Invoice_No": "IKAP26252600782",
+      "Vendor_Code": "V00979",
+      "Vendor_Name": "SKYWALK TRAVELS",
+      "Vendor_Bill_No": "MVI00000230",
+      "Vendor_Bill_Date": "24-Oct-2025",
+      "Posting_Date": "20-Feb-2026",
+      "Lines": 0,
+      "Total_Value": 2950
+    },
+    {
+      "Invoice_No": "IKAP26252600783",
+      "Vendor_Code": "V01218",
+      "Vendor_Name": "SHAHEED DESHRAJ FILLING STATION",
+      "Vendor_Bill_No": "25-26/1074",
+      "Vendor_Bill_Date": "15-Feb-2026",
+      "Posting_Date": "21-Feb-2026",
+      "Lines": 0,
+      "Total_Value": 11004
+    },
+    {
+      "Invoice_No": "IKAP26252600790",
+      "Vendor_Code": "V00288",
+      "Vendor_Name": "Rajesh Tempo Service",
+      "Vendor_Bill_No": "180",
+      "Vendor_Bill_Date": "31-Jan-2026",
+      "Posting_Date": "26-Feb-2026",
+      "Lines": 0,
+      "Total_Value": 42238
+    },
+    {
+      "Invoice_No": "IKAP26252600792",
+      "Vendor_Code": "V00665",
+      "Vendor_Name": "DAKSH FREIGHT CARRIER",
+      "Vendor_Bill_No": "2025-26/0451",
+      "Vendor_Bill_Date": "12-Feb-2026",
+      "Posting_Date": "28-Feb-2026",
+      "Lines": 0,
+      "Total_Value": 2700
+    },
+    {
+      "Invoice_No": "IKAP26252600796",
+      "Vendor_Code": "V00616",
+      "Vendor_Name": "NIRMAL KAPOOR",
+      "Vendor_Bill_No": "MARCH'26",
+      "Vendor_Bill_Date": "01-Mar-2026",
+      "Posting_Date": "06-Mar-2026",
+      "Lines": 0,
+      "Total_Value": 35707
+    },
+    {
+      "Invoice_No": "IKAP26252600797",
+      "Vendor_Code": "V00615",
+      "Vendor_Name": "SANJAY KAPOOR",
+      "Vendor_Bill_No": "25-26/24",
+      "Vendor_Bill_Date": "01-Mar-2026",
+      "Posting_Date": "06-Mar-2026",
+      "Lines": 0,
+      "Total_Value": 42849
+    },
+    {
+      "Invoice_No": "IKAP26252600798",
+      "Vendor_Code": "V00827",
+      "Vendor_Name": "BALUNI CARGO MOVERS PVT LTD",
+      "Vendor_Bill_No": "413",
+      "Vendor_Bill_Date": "02-Feb-2026",
+      "Posting_Date": "28-Feb-2026",
+      "Lines": 0,
+      "Total_Value": 1840
+    },
+    {
+      "Invoice_No": "IKAP26252600799",
+      "Vendor_Code": "V01327",
+      "Vendor_Name": "BINU MON K P",
+      "Vendor_Bill_No": "8",
+      "Vendor_Bill_Date": "28-Feb-2026",
+      "Posting_Date": "28-Feb-2026",
+      "Lines": 0,
+      "Total_Value": 39200
+    },
+    {
+      "Invoice_No": "IKAP26252600800",
+      "Vendor_Code": "V01356",
+      "Vendor_Name": "PREETI BHATIA",
+      "Vendor_Bill_No": "3",
+      "Vendor_Bill_Date": "02-Mar-2026",
+      "Posting_Date": "09-Mar-2026",
+      "Lines": 0,
+      "Total_Value": 39200
+    },
+    {
+      "Invoice_No": "IKAP26252600801",
+      "Vendor_Code": "V01349",
+      "Vendor_Name": "DINESH KUMAR SONI",
+      "Vendor_Bill_No": "MM/2025-26/05",
+      "Vendor_Bill_Date": "28-Feb-2026",
+      "Posting_Date": "09-Mar-2026",
+      "Lines": 0,
+      "Total_Value": 67500
+    },
+    {
+      "Invoice_No": "IKAP26252600802",
+      "Vendor_Code": "V01359",
+      "Vendor_Name": "SHIVAM GOYAL AND ASSOCIATES",
+      "Vendor_Bill_No": "225/2025-26",
+      "Vendor_Bill_Date": "09-Feb-2026",
+      "Posting_Date": "09-Mar-2026",
+      "Lines": 0,
+      "Total_Value": 45000
+    },
+    {
+      "Invoice_No": "IKAP26252600803",
+      "Vendor_Code": "V01359",
+      "Vendor_Name": "SHIVAM GOYAL AND ASSOCIATES",
+      "Vendor_Bill_No": "DEBIT NOTE/026",
+      "Vendor_Bill_Date": "04-Feb-2026",
+      "Posting_Date": "09-Mar-2026",
+      "Lines": 0,
+      "Total_Value": 4698
+    },
+    {
+      "Invoice_No": "IKAP26252600804",
+      "Vendor_Code": "V01267",
+      "Vendor_Name": "Zhurich Kotak General Insurance Company (I) LTD",
+      "Vendor_Bill_No": "5612013101",
+      "Vendor_Bill_Date": "02-Mar-2026",
+      "Posting_Date": "02-Mar-2026",
+      "Lines": 0,
+      "Total_Value": 22492
+    },
+    {
+      "Invoice_No": "IKAP26252600805",
+      "Vendor_Code": "V01267",
+      "Vendor_Name": "Zhurich Kotak General Insurance Company (I) LTD",
+      "Vendor_Bill_No": "5612149301",
+      "Vendor_Bill_Date": "02-Mar-2026",
+      "Posting_Date": "02-Mar-2026",
+      "Lines": 0,
+      "Total_Value": 17175
+    },
+    {
+      "Invoice_No": "IKAP26252600824",
+      "Vendor_Code": "V01107",
+      "Vendor_Name": "SINGHANIA & CO LLP",
+      "Vendor_Bill_No": "SC/25-26/OPE/222",
+      "Vendor_Bill_Date": "23-Feb-2026",
+      "Posting_Date": "25-Mar-2026",
+      "Lines": 0,
+      "Total_Value": 3000
+    },
+    {
+      "Invoice_No": "IKAP26252600825",
+      "Vendor_Code": "V01107",
+      "Vendor_Name": "SINGHANIA & CO LLP",
+      "Vendor_Bill_No": "SCO/25-26/PF/877",
+      "Vendor_Bill_Date": "21-Mar-2026",
+      "Posting_Date": "25-Mar-2026",
+      "Lines": 0,
+      "Total_Value": 135000
+    },
+    {
+      "Invoice_No": "IKAP26252600828",
+      "Vendor_Code": "V01107",
+      "Vendor_Name": "SINGHANIA & CO LLP",
+      "Vendor_Bill_No": "SCO/25-26/PF/811",
+      "Vendor_Bill_Date": "23-Feb-2026",
+      "Posting_Date": "27-Mar-2026",
+      "Lines": 0,
+      "Total_Value": 47250
+    },
+    {
+      "Invoice_No": "IKAP26252600839",
+      "Vendor_Code": "V00665",
+      "Vendor_Name": "DAKSH FREIGHT CARRIER",
+      "Vendor_Bill_No": "2025-26/0501",
+      "Vendor_Bill_Date": "04-Mar-2026",
+      "Posting_Date": "31-Mar-2026",
+      "Lines": 0,
+      "Total_Value": 2700
+    },
+    {
+      "Invoice_No": "IKAP26252600840",
+      "Vendor_Code": "V00665",
+      "Vendor_Name": "DAKSH FREIGHT CARRIER",
+      "Vendor_Bill_No": "2025-26/00501",
+      "Vendor_Bill_Date": "04-Mar-2026",
+      "Posting_Date": "31-Mar-2026",
+      "Lines": 0,
+      "Total_Value": 6700
+    },
+    {
+      "Invoice_No": "IKAP26252600841",
+      "Vendor_Code": "V00288",
+      "Vendor_Name": "Rajesh Tempo Service",
+      "Vendor_Bill_No": "203",
+      "Vendor_Bill_Date": "28-Feb-2026",
+      "Posting_Date": "31-Mar-2026",
+      "Lines": 0,
+      "Total_Value": 54684
+    },
+    {
+      "Invoice_No": "IKAP26252600842",
+      "Vendor_Code": "V00694",
+      "Vendor_Name": "AKG & Co",
+      "Vendor_Bill_No": "AKG/2025-26/MARCH/012",
+      "Vendor_Bill_Date": "30-Mar-2026",
+      "Posting_Date": "31-Mar-2026",
+      "Lines": 0,
+      "Total_Value": 45000
+    },
+    {
+      "Invoice_No": "IKAP26252600843",
+      "Vendor_Code": "V00694",
+      "Vendor_Name": "AKG & Co",
+      "Vendor_Bill_No": "AKG/2025-26/MARCH/013",
+      "Vendor_Bill_Date": "30-Mar-2026",
+      "Posting_Date": "31-Mar-2026",
+      "Lines": 0,
+      "Total_Value": 1200
+    },
+    {
+      "Invoice_No": "IKAP26252600848",
+      "Vendor_Code": "V01005",
+      "Vendor_Name": "LALIT CHAUHAN",
+      "Vendor_Bill_No": "23",
+      "Vendor_Bill_Date": "09-Mar-2026",
+      "Posting_Date": "31-Mar-2026",
+      "Lines": 0,
+      "Total_Value": 5384
+    },
+    {
+      "Invoice_No": "IKAP26252600849",
+      "Vendor_Code": "V00827",
+      "Vendor_Name": "BALUNI CARGO MOVERS PVT LTD",
+      "Vendor_Bill_No": "466",
+      "Vendor_Bill_Date": "03-Mar-2026",
+      "Posting_Date": "31-Mar-2026",
+      "Lines": 0,
+      "Total_Value": 8680
+    },
+    {
+      "Invoice_No": "IKAP26252600850",
+      "Vendor_Code": "V01005",
+      "Vendor_Name": "LALIT CHAUHAN",
+      "Vendor_Bill_No": "24",
+      "Vendor_Bill_Date": "24-Mar-2026",
+      "Posting_Date": "31-Mar-2026",
+      "Lines": 0,
+      "Total_Value": 5287
+    },
+    {
+      "Invoice_No": "IKAP26252600851",
+      "Vendor_Code": "V00238",
+      "Vendor_Name": "SAI TIFFIN SERVICE",
+      "Vendor_Bill_No": "017",
+      "Vendor_Bill_Date": "31-Mar-2026",
+      "Posting_Date": "31-Mar-2026",
+      "Lines": 0,
+      "Total_Value": 43630
+    },
+    {
+      "Invoice_No": "IKAP26252600852",
+      "Vendor_Code": "V01327",
+      "Vendor_Name": "BINU MON K P",
+      "Vendor_Bill_No": "12",
+      "Vendor_Bill_Date": "31-Mar-2026",
+      "Posting_Date": "31-Mar-2026",
+      "Lines": 0,
+      "Total_Value": 39200
+    },
+    {
+      "Invoice_No": "IKAP26252600853",
+      "Vendor_Code": "V01349",
+      "Vendor_Name": "DINESH KUMAR SONI",
+      "Vendor_Bill_No": "MM/2025-26/07",
+      "Vendor_Bill_Date": "31-Mar-2026",
+      "Posting_Date": "31-Mar-2026",
+      "Lines": 0,
+      "Total_Value": 67500
+    },
+    {
+      "Invoice_No": "IKAP26252600854",
+      "Vendor_Code": "V01356",
+      "Vendor_Name": "PREETI BHATIA",
+      "Vendor_Bill_No": "04",
+      "Vendor_Bill_Date": "31-Mar-2026",
+      "Posting_Date": "31-Mar-2026",
+      "Lines": 0,
+      "Total_Value": 39200
+    },
+    {
+      "Invoice_No": "IKAP26252600855",
+      "Vendor_Code": "V00320",
+      "Vendor_Name": "Tata Aig General  Insurance Co Ltd",
+      "Vendor_Bill_No": "DE25I00001179605",
+      "Vendor_Bill_Date": "07-Jan-2026",
+      "Posting_Date": "31-Mar-2026",
+      "Lines": 0,
+      "Total_Value": 70800
+    },
+    {
+      "Invoice_No": "IKAP26252600856",
+      "Vendor_Code": "V01113",
+      "Vendor_Name": "NARESH BABBAR(Commercial Tax Income )",
+      "Vendor_Bill_No": "3341",
+      "Vendor_Bill_Date": "06-Mar-2026",
+      "Posting_Date": "31-Mar-2026",
+      "Lines": 0,
+      "Total_Value": 59400
+    },
+    {
+      "Invoice_No": "IKAP26252600857",
+      "Vendor_Code": "V00827",
+      "Vendor_Name": "BALUNI CARGO MOVERS PVT LTD",
+      "Vendor_Bill_No": "505",
+      "Vendor_Bill_Date": "31-Mar-2026",
+      "Posting_Date": "31-Mar-2026",
+      "Lines": 0,
+      "Total_Value": 6280
+    },
+    {
+      "Invoice_No": "IKAP26252600858",
+      "Vendor_Code": "V01378",
+      "Vendor_Name": "Vikas Sani",
+      "Vendor_Bill_No": "001",
+      "Vendor_Bill_Date": "31-Mar-2026",
+      "Posting_Date": "31-Mar-2026",
+      "Lines": 0,
+      "Total_Value": 6205
+    },
+    {
+      "Invoice_No": "IKAP26252600859",
+      "Vendor_Code": "V01378",
+      "Vendor_Name": "Vikas Sani",
+      "Vendor_Bill_No": "002",
+      "Vendor_Bill_Date": "31-Mar-2026",
+      "Posting_Date": "31-Mar-2026",
+      "Lines": 0,
+      "Total_Value": 5287
+    },
+    {
+      "Invoice_No": "IKAP26252600860",
+      "Vendor_Code": "V01378",
+      "Vendor_Name": "Vikas Sani",
+      "Vendor_Bill_No": "003",
+      "Vendor_Bill_Date": "31-Mar-2026",
+      "Posting_Date": "31-Mar-2026",
+      "Lines": 0,
+      "Total_Value": 8392
+    },
+    {
+      "Invoice_No": "IKAP26252600861",
+      "Vendor_Code": "V01218",
+      "Vendor_Name": "SHAHEED DESHRAJ FILLING STATION",
+      "Vendor_Bill_No": "25-26/1112",
+      "Vendor_Bill_Date": "31-Mar-2026",
+      "Posting_Date": "31-Mar-2026",
+      "Lines": 0,
+      "Total_Value": 4461
+    },
+    {
+      "Invoice_No": "IKAP26252600862",
+      "Vendor_Code": "V00288",
+      "Vendor_Name": "Rajesh Tempo Service",
+      "Vendor_Bill_No": "219",
+      "Vendor_Bill_Date": "31-Mar-2026",
+      "Posting_Date": "31-Mar-2026",
+      "Lines": 0,
+      "Total_Value": 16268
+    },
+    {
+      "Invoice_No": "IKAP26252608281",
+      "Vendor_Code": "V00302",
+      "Vendor_Name": "Star Clearing & Forwarding Services",
+      "Vendor_Bill_No": "IS/1254145",
+      "Vendor_Bill_Date": "29-Dec-2025",
+      "Posting_Date": "02-Jan-2026",
+      "Lines": 0,
+      "Total_Value": 141759
+    },
+    {
+      "Invoice_No": "IKAP26252608282",
+      "Vendor_Code": "V00302",
+      "Vendor_Name": "Star Clearing & Forwarding Services",
+      "Vendor_Bill_No": "IS/1254146",
+      "Vendor_Bill_Date": "29-Dec-2025",
+      "Posting_Date": "02-Jan-2026",
+      "Lines": 0,
+      "Total_Value": 16028
+    },
+    {
+      "Invoice_No": "IKAP26252608283",
+      "Vendor_Code": "V00259",
+      "Vendor_Name": "DHL EXPRESS INDIA PVT LTD(C)",
+      "Vendor_Bill_No": "DEL659513",
+      "Vendor_Bill_Date": "26-Dec-2025",
+      "Posting_Date": "02-Jan-2026",
+      "Lines": 0,
+      "Total_Value": 7363
+    },
+    {
+      "Invoice_No": "IKAP26252608284",
+      "Vendor_Code": "V00302",
+      "Vendor_Name": "Star Clearing & Forwarding Services",
+      "Vendor_Bill_No": "IS/1254094",
+      "Vendor_Bill_Date": "26-Dec-2025",
+      "Posting_Date": "02-Jan-2026",
+      "Lines": 0,
+      "Total_Value": 286857
+    },
+    {
+      "Invoice_No": "IKAP26252608285",
+      "Vendor_Code": "V00302",
+      "Vendor_Name": "Star Clearing & Forwarding Services",
+      "Vendor_Bill_No": "IS/1254099",
+      "Vendor_Bill_Date": "26-Dec-2025",
+      "Posting_Date": "02-Jan-2026",
+      "Lines": 0,
+      "Total_Value": 28554
+    },
+    {
+      "Invoice_No": "IKAP26252608309",
+      "Vendor_Code": "V00663",
+      "Vendor_Name": "AMAZON WEB SERVICES PVT LTD",
+      "Vendor_Bill_No": "2460771453",
+      "Vendor_Bill_Date": "01-Jan-2026",
+      "Posting_Date": "05-Jan-2026",
+      "Lines": 0,
+      "Total_Value": 3262
+    },
+    {
+      "Invoice_No": "IKAP26252608381",
+      "Vendor_Code": "V01294",
+      "Vendor_Name": "ELYZIUM TECHNOLOGIES PVT LTD",
+      "Vendor_Bill_No": "ETPL-UP2526-1615",
+      "Vendor_Bill_Date": "03-Jan-2026",
+      "Posting_Date": "07-Jan-2026",
+      "Lines": 0,
+      "Total_Value": 9280
+    },
+    {
+      "Invoice_No": "IKAP26252608382",
+      "Vendor_Code": "V00302",
+      "Vendor_Name": "Star Clearing & Forwarding Services",
+      "Vendor_Bill_No": "IA/12524206",
+      "Vendor_Bill_Date": "02-Jan-2026",
+      "Posting_Date": "07-Jan-2026",
+      "Lines": 0,
+      "Total_Value": 7569
+    },
+    {
+      "Invoice_No": "IKAP26252608383",
+      "Vendor_Code": "V00255",
+      "Vendor_Name": "CAVALIER LOGISTICS PRIVATE LIMITED",
+      "Vendor_Bill_No": "CAV/AI3572/25-26",
+      "Vendor_Bill_Date": "31-Dec-2025",
+      "Posting_Date": "07-Jan-2026",
+      "Lines": 0,
+      "Total_Value": 29876
+    },
+    {
+      "Invoice_No": "IKAP26252608384",
+      "Vendor_Code": "V00302",
+      "Vendor_Name": "Star Clearing & Forwarding Services",
+      "Vendor_Bill_No": "IA/1254209",
+      "Vendor_Bill_Date": "02-Jan-2026",
+      "Posting_Date": "07-Jan-2026",
+      "Lines": 0,
+      "Total_Value": 4623
+    },
+    {
+      "Invoice_No": "IKAP26252608385",
+      "Vendor_Code": "V01308",
+      "Vendor_Name": "FREIGHTGURU PRIVATE LIMITED",
+      "Vendor_Bill_No": "FGPL/2830/25-26",
+      "Vendor_Bill_Date": "27-Dec-2025",
+      "Posting_Date": "07-Jan-2026",
+      "Lines": 0,
+      "Total_Value": 30412
+    },
+    {
+      "Invoice_No": "IKAP26252608386",
+      "Vendor_Code": "V01308",
+      "Vendor_Name": "FREIGHTGURU PRIVATE LIMITED",
+      "Vendor_Bill_No": "FGPL/2829/25-26",
+      "Vendor_Bill_Date": "27-Dec-2025",
+      "Posting_Date": "07-Jan-2026",
+      "Lines": 0,
+      "Total_Value": 9040
+    },
+    {
+      "Invoice_No": "IKAP26252608387",
+      "Vendor_Code": "V00302",
+      "Vendor_Name": "Star Clearing & Forwarding Services",
+      "Vendor_Bill_No": "IA/1254207",
+      "Vendor_Bill_Date": "02-Jan-2026",
+      "Posting_Date": "07-Jan-2026",
+      "Lines": 0,
+      "Total_Value": 41005
+    },
+    {
+      "Invoice_No": "IKAP26252608388",
+      "Vendor_Code": "V00302",
+      "Vendor_Name": "Star Clearing & Forwarding Services",
+      "Vendor_Bill_No": "IA/1254208",
+      "Vendor_Bill_Date": "02-Jan-2026",
+      "Posting_Date": "07-Jan-2026",
+      "Lines": 0,
+      "Total_Value": 21720
+    },
+    {
+      "Invoice_No": "IKAP26252608389",
+      "Vendor_Code": "V00302",
+      "Vendor_Name": "Star Clearing & Forwarding Services",
+      "Vendor_Bill_No": "IA/1254213",
+      "Vendor_Bill_Date": "02-Jan-2026",
+      "Posting_Date": "07-Jan-2026",
+      "Lines": 0,
+      "Total_Value": 64010
+    },
+    {
+      "Invoice_No": "IKAP26252608390",
+      "Vendor_Code": "V00302",
+      "Vendor_Name": "Star Clearing & Forwarding Services",
+      "Vendor_Bill_No": "IA/1254221",
+      "Vendor_Bill_Date": "03-Jan-2026",
+      "Posting_Date": "07-Jan-2026",
+      "Lines": 0,
+      "Total_Value": 39742
+    },
+    {
+      "Invoice_No": "IKAP26252608391",
+      "Vendor_Code": "V00302",
+      "Vendor_Name": "Star Clearing & Forwarding Services",
+      "Vendor_Bill_No": "IA/1254222",
+      "Vendor_Bill_Date": "03-Jan-2026",
+      "Posting_Date": "07-Jan-2026",
+      "Lines": 0,
+      "Total_Value": 20300
+    },
+    {
+      "Invoice_No": "IKAP26252608460",
+      "Vendor_Code": "V00302",
+      "Vendor_Name": "Star Clearing & Forwarding Services",
+      "Vendor_Bill_No": "IA/1254201",
+      "Vendor_Bill_Date": "02-Jan-2026",
+      "Posting_Date": "09-Jan-2026",
+      "Lines": 0,
+      "Total_Value": 4997
+    },
+    {
+      "Invoice_No": "IKAP26252608461",
+      "Vendor_Code": "V01308",
+      "Vendor_Name": "FREIGHTGURU PRIVATE LIMITED",
+      "Vendor_Bill_No": "FGPL/2833/25-26",
+      "Vendor_Bill_Date": "27-Dec-2025",
+      "Posting_Date": "09-Jan-2026",
+      "Lines": 0,
+      "Total_Value": 13721
+    },
+    {
+      "Invoice_No": "IKAP26252608462",
+      "Vendor_Code": "V01308",
+      "Vendor_Name": "FREIGHTGURU PRIVATE LIMITED",
+      "Vendor_Bill_No": "FGPL/2834/25-26",
+      "Vendor_Bill_Date": "27-Dec-2025",
+      "Posting_Date": "09-Jan-2026",
+      "Lines": 0,
+      "Total_Value": 22981
+    },
+    {
+      "Invoice_No": "IKAP26252608464",
+      "Vendor_Code": "V00341",
+      "Vendor_Name": "RAMA LOGISITICS",
+      "Vendor_Bill_No": "652-6377",
+      "Vendor_Bill_Date": "01-Jan-2026",
+      "Posting_Date": "13-Jan-2026",
+      "Lines": 0,
+      "Total_Value": 33088
+    },
+    {
+      "Invoice_No": "IKAP26252608465",
+      "Vendor_Code": "V00341",
+      "Vendor_Name": "RAMA LOGISITICS",
+      "Vendor_Bill_No": "652-6376",
+      "Vendor_Bill_Date": "01-Jan-2026",
+      "Posting_Date": "13-Jan-2026",
+      "Lines": 0,
+      "Total_Value": 20972
+    },
+    {
+      "Invoice_No": "IKAP26252608466",
+      "Vendor_Code": "V00647",
+      "Vendor_Name": "BGJC & ASSOCIATES LLP",
+      "Vendor_Bill_No": "1",
+      "Vendor_Bill_Date": "21-Aug-2025",
+      "Posting_Date": "13-Jan-2026",
+      "Lines": 0,
+      "Total_Value": 62975
+    },
+    {
+      "Invoice_No": "IKAP26252608467",
+      "Vendor_Code": "V01276",
+      "Vendor_Name": "WORLD PHONE INTERNET SERVICES  PVT LTD",
+      "Vendor_Bill_No": "EUK/2026/01/0006",
+      "Vendor_Bill_Date": "10-Jan-2026",
+      "Posting_Date": "13-Jan-2026",
+      "Lines": 0,
+      "Total_Value": 17400
+    },
+    {
+      "Invoice_No": "IKAP26252608468",
+      "Vendor_Code": "V00258",
+      "Vendor_Name": "Dhl Express India Pvt Ltd (F)",
+      "Vendor_Bill_No": "UTXIR00009595",
+      "Vendor_Bill_Date": "09-Jan-2026",
+      "Posting_Date": "13-Jan-2026",
+      "Lines": 0,
+      "Total_Value": 20096
+    },
+    {
+      "Invoice_No": "IKAP26252608548",
+      "Vendor_Code": "V00302",
+      "Vendor_Name": "Star Clearing & Forwarding Services",
+      "Vendor_Bill_No": "IS/1254254",
+      "Vendor_Bill_Date": "07-Jan-2026",
+      "Posting_Date": "14-Jan-2026",
+      "Lines": 0,
+      "Total_Value": 39959
+    },
+    {
+      "Invoice_No": "IKAP26252608549",
+      "Vendor_Code": "V00302",
+      "Vendor_Name": "Star Clearing & Forwarding Services",
+      "Vendor_Bill_No": "IA/1254240",
+      "Vendor_Bill_Date": "06-Jan-2026",
+      "Posting_Date": "14-Jan-2026",
+      "Lines": 0,
+      "Total_Value": 14707
+    },
+    {
+      "Invoice_No": "IKAP26252608550",
+      "Vendor_Code": "V00302",
+      "Vendor_Name": "Star Clearing & Forwarding Services",
+      "Vendor_Bill_No": "IA/1254241",
+      "Vendor_Bill_Date": "06-Jan-2026",
+      "Posting_Date": "14-Jan-2026",
+      "Lines": 0,
+      "Total_Value": 20332
+    },
+    {
+      "Invoice_No": "IKAP26252608575",
+      "Vendor_Code": "V00599",
+      "Vendor_Name": "BIT & BYTES",
+      "Vendor_Bill_No": "BB/25-26/373",
+      "Vendor_Bill_Date": "13-Jan-2026",
+      "Posting_Date": "16-Jan-2026",
+      "Lines": 5,
+      "Total_Value": 3670
+    },
+    {
+      "Invoice_No": "IKAP26252608605",
+      "Vendor_Code": "V00311",
+      "Vendor_Name": "Anchor Roadlines Pvt Ltd",
+      "Vendor_Bill_No": "HRD25BLL000481",
+      "Vendor_Bill_Date": "01-Jan-2026",
+      "Posting_Date": "17-Jan-2026",
+      "Lines": 0,
+      "Total_Value": 14833
+    },
+    {
+      "Invoice_No": "IKAP26252608606",
+      "Vendor_Code": "V00262",
+      "Vendor_Name": "Gangotri Guest Houes",
+      "Vendor_Bill_No": "DEC-2025",
+      "Vendor_Bill_Date": "01-Jan-2026",
+      "Posting_Date": "17-Jan-2026",
+      "Lines": 0,
+      "Total_Value": 8190
+    },
+    {
+      "Invoice_No": "IKAP26252608607",
+      "Vendor_Code": "V00737",
+      "Vendor_Name": "IKIO SOLUTIONS PVT LTD",
+      "Vendor_Bill_No": "JWI252630659",
+      "Vendor_Bill_Date": "08-Jan-2026",
+      "Posting_Date": "17-Jan-2026",
+      "Lines": 0,
+      "Total_Value": 29566
+    },
+    {
+      "Invoice_No": "IKAP26252608608",
+      "Vendor_Code": "V00737",
+      "Vendor_Name": "IKIO SOLUTIONS PVT LTD",
+      "Vendor_Bill_No": "JWI252630650",
+      "Vendor_Bill_Date": "05-Jan-2026",
+      "Posting_Date": "17-Jan-2026",
+      "Lines": 0,
+      "Total_Value": 39199
+    },
+    {
+      "Invoice_No": "IKAP26252608609",
+      "Vendor_Code": "V00236",
+      "Vendor_Name": "Shree Computers",
+      "Vendor_Bill_No": "1076",
+      "Vendor_Bill_Date": "10-Jan-2026",
+      "Posting_Date": "17-Jan-2026",
+      "Lines": 0,
+      "Total_Value": 7198
+    },
+    {
+      "Invoice_No": "IKAP26252608611",
+      "Vendor_Code": "V01355",
+      "Vendor_Name": "Cakes & Bakes",
+      "Vendor_Bill_No": "S1/42447",
+      "Vendor_Bill_Date": "05-Jan-2026",
+      "Posting_Date": "17-Jan-2026",
+      "Lines": 0,
+      "Total_Value": 50350
+    },
+    {
+      "Invoice_No": "IKAP26252608612",
+      "Vendor_Code": "V00248",
+      "Vendor_Name": "JAISIKA FIRE PROTECTION",
+      "Vendor_Bill_No": "514",
+      "Vendor_Bill_Date": "01-Jan-2026",
+      "Posting_Date": "17-Jan-2026",
+      "Lines": 0,
+      "Total_Value": 31064
+    },
+    {
+      "Invoice_No": "IKAP26252608613",
+      "Vendor_Code": "V01353",
+      "Vendor_Name": "GUPTA EMPIRE",
+      "Vendor_Bill_No": "A00089",
+      "Vendor_Bill_Date": "08-Jan-2026",
+      "Posting_Date": "17-Jan-2026",
+      "Lines": 0,
+      "Total_Value": 7584
+    },
+    {
+      "Invoice_No": "IKAP26252608614",
+      "Vendor_Code": "V01353",
+      "Vendor_Name": "GUPTA EMPIRE",
+      "Vendor_Bill_No": "A000088",
+      "Vendor_Bill_Date": "08-Jan-2026",
+      "Posting_Date": "17-Jan-2026",
+      "Lines": 0,
+      "Total_Value": 7158
+    },
+    {
+      "Invoice_No": "IKAP26252608615",
+      "Vendor_Code": "V01352",
+      "Vendor_Name": "SHREE VAISHNO ENTERPRISES",
+      "Vendor_Bill_No": "60",
+      "Vendor_Bill_Date": "16-Jan-2026",
+      "Posting_Date": "17-Jan-2026",
+      "Lines": 0,
+      "Total_Value": 4412
+    },
+    {
+      "Invoice_No": "IKAP26252608616",
+      "Vendor_Code": "V01141",
+      "Vendor_Name": "LIFE TIME ELECTRICALS & ENGINEERS",
+      "Vendor_Bill_No": "6514",
+      "Vendor_Bill_Date": "17-Jan-2026",
+      "Posting_Date": "19-Jan-2026",
+      "Lines": 0,
+      "Total_Value": 7741
+    },
+    {
+      "Invoice_No": "IKAP26252608617",
+      "Vendor_Code": "V00499",
+      "Vendor_Name": "PURNIMA STORE",
+      "Vendor_Bill_No": "3752",
+      "Vendor_Bill_Date": "12-Jan-2026",
+      "Posting_Date": "19-Jan-2026",
+      "Lines": 0,
+      "Total_Value": 7465
+    },
+    {
+      "Invoice_No": "IKAP26252608691",
+      "Vendor_Code": "V00258",
+      "Vendor_Name": "Dhl Express India Pvt Ltd (F)",
+      "Vendor_Bill_No": "UTXIR00009678",
+      "Vendor_Bill_Date": "16-Jan-2026",
+      "Posting_Date": "21-Jan-2026",
+      "Lines": 0,
+      "Total_Value": 84991
+    },
+    {
+      "Invoice_No": "IKAP26252608800",
+      "Vendor_Code": "V00737",
+      "Vendor_Name": "IKIO SOLUTIONS PVT LTD",
+      "Vendor_Bill_No": "ISPLII25262209",
+      "Vendor_Bill_Date": "22-Jan-2026",
+      "Posting_Date": "23-Jan-2026",
+      "Lines": 9,
+      "Total_Value": 221195
+    },
+    {
+      "Invoice_No": "IKAP26252608853",
+      "Vendor_Code": "V00258",
+      "Vendor_Name": "Dhl Express India Pvt Ltd (F)",
+      "Vendor_Bill_No": "UTXIR00009740",
+      "Vendor_Bill_Date": "23-Jan-2026",
+      "Posting_Date": "28-Jan-2026",
+      "Lines": 0,
+      "Total_Value": 33932
+    },
+    {
+      "Invoice_No": "IKAP26252608854",
+      "Vendor_Code": "V00255",
+      "Vendor_Name": "CAVALIER LOGISTICS PRIVATE LIMITED",
+      "Vendor_Bill_No": "CAVCAI0876/25-26",
+      "Vendor_Bill_Date": "12-Jan-2026",
+      "Posting_Date": "28-Jan-2026",
+      "Lines": 0,
+      "Total_Value": 12954
+    },
+    {
+      "Invoice_No": "IKAP26252608855",
+      "Vendor_Code": "V00255",
+      "Vendor_Name": "CAVALIER LOGISTICS PRIVATE LIMITED",
+      "Vendor_Bill_No": "CAV/AI3673/25-26",
+      "Vendor_Bill_Date": "09-Jan-2026",
+      "Posting_Date": "28-Jan-2026",
+      "Lines": 0,
+      "Total_Value": 60928
+    },
+    {
+      "Invoice_No": "IKAP26252608856",
+      "Vendor_Code": "V00255",
+      "Vendor_Name": "CAVALIER LOGISTICS PRIVATE LIMITED",
+      "Vendor_Bill_No": "CAVCAI0894/25-26",
+      "Vendor_Bill_Date": "17-Jan-2026",
+      "Posting_Date": "28-Jan-2026",
+      "Lines": 0,
+      "Total_Value": 11692
+    },
+    {
+      "Invoice_No": "IKAP26252608857",
+      "Vendor_Code": "V00255",
+      "Vendor_Name": "CAVALIER LOGISTICS PRIVATE LIMITED",
+      "Vendor_Bill_No": "CAV/AI3733/25-26",
+      "Vendor_Bill_Date": "15-Jan-2026",
+      "Posting_Date": "28-Jan-2026",
+      "Lines": 0,
+      "Total_Value": 16206
+    },
+    {
+      "Invoice_No": "IKAP26252608858",
+      "Vendor_Code": "V00255",
+      "Vendor_Name": "CAVALIER LOGISTICS PRIVATE LIMITED",
+      "Vendor_Bill_No": "CAV/AI3751/25-26",
+      "Vendor_Bill_Date": "17-Jan-2026",
+      "Posting_Date": "28-Jan-2026",
+      "Lines": 0,
+      "Total_Value": 24189
+    },
+    {
+      "Invoice_No": "IKAP26252608859",
+      "Vendor_Code": "V00255",
+      "Vendor_Name": "CAVALIER LOGISTICS PRIVATE LIMITED",
+      "Vendor_Bill_No": "CAVCAI0895/25-26",
+      "Vendor_Bill_Date": "19-Jan-2026",
+      "Posting_Date": "28-Jan-2026",
+      "Lines": 0,
+      "Total_Value": 11918
+    },
+    {
+      "Invoice_No": "IKAP26252608860",
+      "Vendor_Code": "V00302",
+      "Vendor_Name": "Star Clearing & Forwarding Services",
+      "Vendor_Bill_No": "IA/1254288",
+      "Vendor_Bill_Date": "09-Jan-2026",
+      "Posting_Date": "28-Jan-2026",
+      "Lines": 0,
+      "Total_Value": 22500
+    },
+    {
+      "Invoice_No": "IKAP26252608861",
+      "Vendor_Code": "V00302",
+      "Vendor_Name": "Star Clearing & Forwarding Services",
+      "Vendor_Bill_No": "IA/1254289",
+      "Vendor_Bill_Date": "09-Jan-2026",
+      "Posting_Date": "28-Jan-2026",
+      "Lines": 0,
+      "Total_Value": 3007
+    },
+    {
+      "Invoice_No": "IKAP26252608862",
+      "Vendor_Code": "V00302",
+      "Vendor_Name": "Star Clearing & Forwarding Services",
+      "Vendor_Bill_No": "IA/1254425",
+      "Vendor_Bill_Date": "20-Jan-2026",
+      "Posting_Date": "28-Jan-2026",
+      "Lines": 0,
+      "Total_Value": 8941
+    },
+    {
+      "Invoice_No": "IKAP26252608863",
+      "Vendor_Code": "V00255",
+      "Vendor_Name": "CAVALIER LOGISTICS PRIVATE LIMITED",
+      "Vendor_Bill_No": "CAV/AI3791/25-26",
+      "Vendor_Bill_Date": "20-Jan-2026",
+      "Posting_Date": "28-Jan-2026",
+      "Lines": 0,
+      "Total_Value": 41443
+    },
+    {
+      "Invoice_No": "IKAP26252608864",
+      "Vendor_Code": "V00302",
+      "Vendor_Name": "Star Clearing & Forwarding Services",
+      "Vendor_Bill_No": "IA/1254387",
+      "Vendor_Bill_Date": "19-Jan-2026",
+      "Posting_Date": "28-Jan-2026",
+      "Lines": 0,
+      "Total_Value": 16262
+    },
+    {
+      "Invoice_No": "IKAP26252608865",
+      "Vendor_Code": "V00255",
+      "Vendor_Name": "CAVALIER LOGISTICS PRIVATE LIMITED",
+      "Vendor_Bill_No": "CAV/AI3790/25-26",
+      "Vendor_Bill_Date": "20-Jan-2026",
+      "Posting_Date": "28-Jan-2026",
+      "Lines": 0,
+      "Total_Value": 22533
+    },
+    {
+      "Invoice_No": "IKAP26252608866",
+      "Vendor_Code": "V00302",
+      "Vendor_Name": "Star Clearing & Forwarding Services",
+      "Vendor_Bill_No": "IS/1254375",
+      "Vendor_Bill_Date": "16-Jan-2026",
+      "Posting_Date": "28-Jan-2026",
+      "Lines": 0,
+      "Total_Value": 47521
+    },
+    {
+      "Invoice_No": "IKAP26252608867",
+      "Vendor_Code": "V00259",
+      "Vendor_Name": "DHL EXPRESS INDIA PVT LTD(C)",
+      "Vendor_Bill_No": "DEL677378",
+      "Vendor_Bill_Date": "11-Jan-2026",
+      "Posting_Date": "28-Jan-2026",
+      "Lines": 0,
+      "Total_Value": 1298
+    },
+    {
+      "Invoice_No": "IKAP26252608868",
+      "Vendor_Code": "V00259",
+      "Vendor_Name": "DHL EXPRESS INDIA PVT LTD(C)",
+      "Vendor_Bill_No": "DEL686231",
+      "Vendor_Bill_Date": "18-Jan-2026",
+      "Posting_Date": "28-Jan-2026",
+      "Lines": 0,
+      "Total_Value": 1298
+    },
+    {
+      "Invoice_No": "IKAP26252608869",
+      "Vendor_Code": "V00259",
+      "Vendor_Name": "DHL EXPRESS INDIA PVT LTD(C)",
+      "Vendor_Bill_No": "DEL680522",
+      "Vendor_Bill_Date": "14-Jan-2026",
+      "Posting_Date": "28-Jan-2026",
+      "Lines": 0,
+      "Total_Value": 1298
+    },
+    {
+      "Invoice_No": "IKAP26252608870",
+      "Vendor_Code": "V00259",
+      "Vendor_Name": "DHL EXPRESS INDIA PVT LTD(C)",
+      "Vendor_Bill_No": "DEL677897",
+      "Vendor_Bill_Date": "12-Jan-2026",
+      "Posting_Date": "28-Jan-2026",
+      "Lines": 0,
+      "Total_Value": 19121
+    },
+    {
+      "Invoice_No": "IKAP26252608871",
+      "Vendor_Code": "V00259",
+      "Vendor_Name": "DHL EXPRESS INDIA PVT LTD(C)",
+      "Vendor_Bill_No": "DEL675662",
+      "Vendor_Bill_Date": "10-Jan-2026",
+      "Posting_Date": "28-Jan-2026",
+      "Lines": 0,
+      "Total_Value": 6608
+    },
+    {
+      "Invoice_No": "IKAP26252608872",
+      "Vendor_Code": "V00259",
+      "Vendor_Name": "DHL EXPRESS INDIA PVT LTD(C)",
+      "Vendor_Bill_No": "DEL669034",
+      "Vendor_Bill_Date": "03-Jan-2026",
+      "Posting_Date": "28-Jan-2026",
+      "Lines": 0,
+      "Total_Value": 1298
+    },
+    {
+      "Invoice_No": "IKAP26252608873",
+      "Vendor_Code": "V00257",
+      "Vendor_Name": "Cogniscient Business Solutions Pvt Ltd",
+      "Vendor_Bill_No": "101111316",
+      "Vendor_Bill_Date": "08-Jan-2026",
+      "Posting_Date": "29-Jan-2026",
+      "Lines": 0,
+      "Total_Value": 11832
+    },
+    {
+      "Invoice_No": "IKAP26252608874",
+      "Vendor_Code": "V00257",
+      "Vendor_Name": "Cogniscient Business Solutions Pvt Ltd",
+      "Vendor_Bill_No": "101111329",
+      "Vendor_Bill_Date": "09-Jan-2026",
+      "Posting_Date": "29-Jan-2026",
+      "Lines": 0,
+      "Total_Value": 24360
+    },
+    {
+      "Invoice_No": "IKAP26252608875",
+      "Vendor_Code": "V01219",
+      "Vendor_Name": "FOETRON CONSULTANCY SERVICES PRIVATE LIMITED",
+      "Vendor_Bill_No": "ID25FCS01167",
+      "Vendor_Bill_Date": "27-Jan-2026",
+      "Posting_Date": "29-Jan-2026",
+      "Lines": 0,
+      "Total_Value": 7938
+    },
+    {
+      "Invoice_No": "IKAP26252608876",
+      "Vendor_Code": "V00647",
+      "Vendor_Name": "BGJC & ASSOCIATES LLP",
+      "Vendor_Bill_No": "BU/01/25-26/482",
+      "Vendor_Bill_Date": "21-Jan-2026",
+      "Posting_Date": "29-Jan-2026",
+      "Lines": 0,
+      "Total_Value": 21600
+    },
+    {
+      "Invoice_No": "IKAP26252608877",
+      "Vendor_Code": "V00647",
+      "Vendor_Name": "BGJC & ASSOCIATES LLP",
+      "Vendor_Bill_No": "BGJC/BU7/26/1200",
+      "Vendor_Bill_Date": "22-Jan-2026",
+      "Posting_Date": "29-Jan-2026",
+      "Lines": 0,
+      "Total_Value": 4244
+    },
+    {
+      "Invoice_No": "IKAP26252608878",
+      "Vendor_Code": "V01205",
+      "Vendor_Name": "VARDHAMANA  TESTING LABORATORY",
+      "Vendor_Bill_No": "VTL/768/2025-26",
+      "Vendor_Bill_Date": "24-Jan-2026",
+      "Posting_Date": "29-Jan-2026",
+      "Lines": 0,
+      "Total_Value": 30240
+    },
+    {
+      "Invoice_No": "IKAP26252608879",
+      "Vendor_Code": "V00312",
+      "Vendor_Name": "BUREAU OF INDIAN STANDARDS",
+      "Vendor_Bill_No": "BB00CR2025010601",
+      "Vendor_Bill_Date": "29-Jan-2026",
+      "Posting_Date": "29-Jan-2026",
+      "Lines": 0,
+      "Total_Value": 35400
+    },
+    {
+      "Invoice_No": "IKAP26252608880",
+      "Vendor_Code": "V00312",
+      "Vendor_Name": "BUREAU OF INDIAN STANDARDS",
+      "Vendor_Bill_No": "BB00CR2025010591",
+      "Vendor_Bill_Date": "28-Jan-2026",
+      "Posting_Date": "29-Jan-2026",
+      "Lines": 0,
+      "Total_Value": 35400
+    },
+    {
+      "Invoice_No": "IKAP26252608916",
+      "Vendor_Code": "V00302",
+      "Vendor_Name": "Star Clearing & Forwarding Services",
+      "Vendor_Bill_No": "IS/1254338",
+      "Vendor_Bill_Date": "14-Jan-2026",
+      "Posting_Date": "30-Jan-2026",
+      "Lines": 0,
+      "Total_Value": 29469
+    },
+    {
+      "Invoice_No": "IKAP26252608917",
+      "Vendor_Code": "V00358",
+      "Vendor_Name": "SKYLINE FREIGHT & TRAVELS PRIVATE LIMITED",
+      "Vendor_Bill_No": "SKY25260952",
+      "Vendor_Bill_Date": "29-Dec-2025",
+      "Posting_Date": "30-Jan-2026",
+      "Lines": 0,
+      "Total_Value": 20909
+    },
+    {
+      "Invoice_No": "IKAP26252608918",
+      "Vendor_Code": "V00302",
+      "Vendor_Name": "Star Clearing & Forwarding Services",
+      "Vendor_Bill_No": "IA/1254351",
+      "Vendor_Bill_Date": "15-Jan-2026",
+      "Posting_Date": "30-Jan-2026",
+      "Lines": 0,
+      "Total_Value": 14707
+    },
+    {
+      "Invoice_No": "IKAP26252608919",
+      "Vendor_Code": "V00302",
+      "Vendor_Name": "Star Clearing & Forwarding Services",
+      "Vendor_Bill_No": "IA/1254352",
+      "Vendor_Bill_Date": "15-Jan-2026",
+      "Posting_Date": "30-Jan-2026",
+      "Lines": 0,
+      "Total_Value": 21458
+    },
+    {
+      "Invoice_No": "IKAP26252608920",
+      "Vendor_Code": "V00302",
+      "Vendor_Name": "Star Clearing & Forwarding Services",
+      "Vendor_Bill_No": "IA/1254445",
+      "Vendor_Bill_Date": "22-Jan-2026",
+      "Posting_Date": "30-Jan-2026",
+      "Lines": 0,
+      "Total_Value": 18661
+    },
+    {
+      "Invoice_No": "IKAP26252608921",
+      "Vendor_Code": "V00302",
+      "Vendor_Name": "Star Clearing & Forwarding Services",
+      "Vendor_Bill_No": "IA/1254446",
+      "Vendor_Bill_Date": "22-Jan-2026",
+      "Posting_Date": "30-Jan-2026",
+      "Lines": 0,
+      "Total_Value": 4163
+    },
+    {
+      "Invoice_No": "IKAP26252608922",
+      "Vendor_Code": "V00302",
+      "Vendor_Name": "Star Clearing & Forwarding Services",
+      "Vendor_Bill_No": "IA/1254362",
+      "Vendor_Bill_Date": "15-Jan-2026",
+      "Posting_Date": "30-Jan-2026",
+      "Lines": 0,
+      "Total_Value": 76282
+    },
+    {
+      "Invoice_No": "IKAP26252608923",
+      "Vendor_Code": "V00302",
+      "Vendor_Name": "Star Clearing & Forwarding Services",
+      "Vendor_Bill_No": "IA/1254461",
+      "Vendor_Bill_Date": "23-Jan-2026",
+      "Posting_Date": "30-Jan-2026",
+      "Lines": 0,
+      "Total_Value": 231228
+    },
+    {
+      "Invoice_No": "IKAP26252608924",
+      "Vendor_Code": "V00302",
+      "Vendor_Name": "Star Clearing & Forwarding Services",
+      "Vendor_Bill_No": "IA/1254518",
+      "Vendor_Bill_Date": "29-Jan-2026",
+      "Posting_Date": "30-Jan-2026",
+      "Lines": 0,
+      "Total_Value": 15860
+    },
+    {
+      "Invoice_No": "IKAP26252608925",
+      "Vendor_Code": "V00302",
+      "Vendor_Name": "Star Clearing & Forwarding Services",
+      "Vendor_Bill_No": "IA/1254521",
+      "Vendor_Bill_Date": "29-Jan-2026",
+      "Posting_Date": "30-Jan-2026",
+      "Lines": 0,
+      "Total_Value": 13241
+    },
+    {
+      "Invoice_No": "IKAP26252608926",
+      "Vendor_Code": "V00302",
+      "Vendor_Name": "Star Clearing & Forwarding Services",
+      "Vendor_Bill_No": "IA/1254490",
+      "Vendor_Bill_Date": "27-Jan-2026",
+      "Posting_Date": "30-Jan-2026",
+      "Lines": 0,
+      "Total_Value": 41955
+    },
+    {
+      "Invoice_No": "IKAP26252608927",
+      "Vendor_Code": "V00302",
+      "Vendor_Name": "Star Clearing & Forwarding Services",
+      "Vendor_Bill_No": "IA/1254491",
+      "Vendor_Bill_Date": "27-Jan-2026",
+      "Posting_Date": "30-Jan-2026",
+      "Lines": 0,
+      "Total_Value": 38551
+    },
+    {
+      "Invoice_No": "IKAP26252608928",
+      "Vendor_Code": "V00259",
+      "Vendor_Name": "DHL EXPRESS INDIA PVT LTD(C)",
+      "Vendor_Bill_No": "DEL694288",
+      "Vendor_Bill_Date": "24-Jan-2026",
+      "Posting_Date": "30-Jan-2026",
+      "Lines": 0,
+      "Total_Value": 1298
+    },
+    {
+      "Invoice_No": "IKAP26252608929",
+      "Vendor_Code": "V00255",
+      "Vendor_Name": "CAVALIER LOGISTICS PRIVATE LIMITED",
+      "Vendor_Bill_No": "CAVCAI0875/25-26",
+      "Vendor_Bill_Date": "10-Jan-2026",
+      "Posting_Date": "30-Jan-2026",
+      "Lines": 0,
+      "Total_Value": 11988
+    },
+    {
+      "Invoice_No": "IKAP26252608930",
+      "Vendor_Code": "V00255",
+      "Vendor_Name": "CAVALIER LOGISTICS PRIVATE LIMITED",
+      "Vendor_Bill_No": "CAV/AI3646/25-26",
+      "Vendor_Bill_Date": "07-Jan-2026",
+      "Posting_Date": "30-Jan-2026",
+      "Lines": 0,
+      "Total_Value": 35058
+    },
+    {
+      "Invoice_No": "IKAP26252608937",
+      "Vendor_Code": "V00255",
+      "Vendor_Name": "CAVALIER LOGISTICS PRIVATE LIMITED",
+      "Vendor_Bill_No": "CAVCAI0869/25-26",
+      "Vendor_Bill_Date": "09-Jan-2026",
+      "Posting_Date": "30-Jan-2026",
+      "Lines": 0,
+      "Total_Value": 5286
+    },
+    {
+      "Invoice_No": "IKAP26252608938",
+      "Vendor_Code": "V00255",
+      "Vendor_Name": "CAVALIER LOGISTICS PRIVATE LIMITED",
+      "Vendor_Bill_No": "CAV/AI3642/25-26",
+      "Vendor_Bill_Date": "06-Jan-2026",
+      "Posting_Date": "30-Jan-2026",
+      "Lines": 0,
+      "Total_Value": 31882
+    },
+    {
+      "Invoice_No": "IKAP26252608939",
+      "Vendor_Code": "V00255",
+      "Vendor_Name": "CAVALIER LOGISTICS PRIVATE LIMITED",
+      "Vendor_Bill_No": "CAVCAI0868/25-26",
+      "Vendor_Bill_Date": "09-Jan-2026",
+      "Posting_Date": "30-Jan-2026",
+      "Lines": 0,
+      "Total_Value": 13907
+    },
+    {
+      "Invoice_No": "IKAP26252608940",
+      "Vendor_Code": "V00255",
+      "Vendor_Name": "CAVALIER LOGISTICS PRIVATE LIMITED",
+      "Vendor_Bill_No": "CAV/AI3641/25-26",
+      "Vendor_Bill_Date": "06-Jan-2026",
+      "Posting_Date": "30-Jan-2026",
+      "Lines": 0,
+      "Total_Value": 64644
+    },
+    {
+      "Invoice_No": "IKAP26252608944",
+      "Vendor_Code": "V00255",
+      "Vendor_Name": "CAVALIER LOGISTICS PRIVATE LIMITED",
+      "Vendor_Bill_No": "CAVCAI0908/25-26",
+      "Vendor_Bill_Date": "22-Jan-2026",
+      "Posting_Date": "30-Jan-2026",
+      "Lines": 0,
+      "Total_Value": 12877
+    },
+    {
+      "Invoice_No": "IKAP26252608945",
+      "Vendor_Code": "V00255",
+      "Vendor_Name": "CAVALIER LOGISTICS PRIVATE LIMITED",
+      "Vendor_Bill_No": "CAV/AI3792/25-26",
+      "Vendor_Bill_Date": "20-Jan-2026",
+      "Posting_Date": "30-Jan-2026",
+      "Lines": 0,
+      "Total_Value": 47241
+    },
+    {
+      "Invoice_No": "IKAP26252608961",
+      "Vendor_Code": "V01353",
+      "Vendor_Name": "GUPTA EMPIRE",
+      "Vendor_Bill_No": "A000131",
+      "Vendor_Bill_Date": "28-Jan-2026",
+      "Posting_Date": "31-Jan-2026",
+      "Lines": 0,
+      "Total_Value": 7169
+    },
+    {
+      "Invoice_No": "IKAP26252608962",
+      "Vendor_Code": "V00462",
+      "Vendor_Name": "AMBIKA ENGINEERING WORKS",
+      "Vendor_Bill_No": "25-26/716",
+      "Vendor_Bill_Date": "24-Jan-2026",
+      "Posting_Date": "31-Jan-2026",
+      "Lines": 0,
+      "Total_Value": 10851
+    },
+    {
+      "Invoice_No": "IKAP26252608963",
+      "Vendor_Code": "V00462",
+      "Vendor_Name": "AMBIKA ENGINEERING WORKS",
+      "Vendor_Bill_No": "25-26/717",
+      "Vendor_Bill_Date": "24-Jan-2026",
+      "Posting_Date": "31-Jan-2026",
+      "Lines": 0,
+      "Total_Value": 5854
+    },
+    {
+      "Invoice_No": "IKAP26252608964",
+      "Vendor_Code": "V01271",
+      "Vendor_Name": "BK PRINTPACK INNOVATIONS PRIVATE LIMITED",
+      "Vendor_Bill_No": "BKHW/25-26/9121",
+      "Vendor_Bill_Date": "03-Jan-2026",
+      "Posting_Date": "31-Jan-2026",
+      "Lines": 0,
+      "Total_Value": 8260
+    },
+    {
+      "Invoice_No": "IKAP26252608965",
+      "Vendor_Code": "V01124",
+      "Vendor_Name": "SNet Technologies",
+      "Vendor_Bill_No": "FY-2025-26/209",
+      "Vendor_Bill_Date": "31-Jan-2026",
+      "Posting_Date": "31-Jan-2026",
+      "Lines": 0,
+      "Total_Value": 25783
+    },
+    {
+      "Invoice_No": "IKAP26252608966",
+      "Vendor_Code": "V01069",
+      "Vendor_Name": "ANUSHREE ASSOCIATES",
+      "Vendor_Bill_No": "JAN-26",
+      "Vendor_Bill_Date": "02-Jan-2026",
+      "Posting_Date": "31-Jan-2026",
+      "Lines": 0,
+      "Total_Value": 93527
+    },
+    {
+      "Invoice_No": "IKAP26252608967",
+      "Vendor_Code": "V01230",
+      "Vendor_Name": "Trotting Wheels Pvt Ltd",
+      "Vendor_Bill_No": "TXB25--03643",
+      "Vendor_Bill_Date": "31-Jan-2026",
+      "Posting_Date": "31-Jan-2026",
+      "Lines": 0,
+      "Total_Value": 5185
+    },
+    {
+      "Invoice_No": "IKAP26252608968",
+      "Vendor_Code": "V00268",
+      "Vendor_Name": "Hotel Jasmine",
+      "Vendor_Bill_No": "FO25261973",
+      "Vendor_Bill_Date": "15-Jan-2026",
+      "Posting_Date": "31-Jan-2026",
+      "Lines": 0,
+      "Total_Value": 2478
+    },
+    {
+      "Invoice_No": "IKAP26252608969",
+      "Vendor_Code": "V00268",
+      "Vendor_Name": "Hotel Jasmine",
+      "Vendor_Bill_No": "FO25261975",
+      "Vendor_Bill_Date": "15-Jan-2026",
+      "Posting_Date": "31-Jan-2026",
+      "Lines": 0,
+      "Total_Value": 1943
+    },
+    {
+      "Invoice_No": "IKAP26252608970",
+      "Vendor_Code": "V00268",
+      "Vendor_Name": "Hotel Jasmine",
+      "Vendor_Bill_No": "FO25261984",
+      "Vendor_Bill_Date": "16-Jan-2026",
+      "Posting_Date": "31-Jan-2026",
+      "Lines": 0,
+      "Total_Value": 1964
+    },
+    {
+      "Invoice_No": "IKAP26252608971",
+      "Vendor_Code": "V00268",
+      "Vendor_Name": "Hotel Jasmine",
+      "Vendor_Bill_No": "FO25261983",
+      "Vendor_Bill_Date": "16-Jan-2026",
+      "Posting_Date": "31-Jan-2026",
+      "Lines": 0,
+      "Total_Value": 2483
+    },
+    {
+      "Invoice_No": "IKAP26252608972",
+      "Vendor_Code": "V00557",
+      "Vendor_Name": "BALUNI CARGO CARRIERS",
+      "Vendor_Bill_No": "374",
+      "Vendor_Bill_Date": "05-Jan-2026",
+      "Posting_Date": "31-Jan-2026",
+      "Lines": 0,
+      "Total_Value": 2440
+    },
+    {
+      "Invoice_No": "IKAP26252608973",
+      "Vendor_Code": "V01362",
+      "Vendor_Name": "SHIVA MACHINERY TOOLS",
+      "Vendor_Bill_No": "SMT/2526/4337",
+      "Vendor_Bill_Date": "31-Jan-2026",
+      "Posting_Date": "31-Jan-2026",
+      "Lines": 0,
+      "Total_Value": 8280
+    },
+    {
+      "Invoice_No": "IKAP26252608974",
+      "Vendor_Code": "V01353",
+      "Vendor_Name": "GUPTA EMPIRE",
+      "Vendor_Bill_No": "A000103",
+      "Vendor_Bill_Date": "15-Jan-2026",
+      "Posting_Date": "31-Jan-2026",
+      "Lines": 0,
+      "Total_Value": 8239
+    },
+    {
+      "Invoice_No": "IKAP26252608975",
+      "Vendor_Code": "V01353",
+      "Vendor_Name": "GUPTA EMPIRE",
+      "Vendor_Bill_No": "A000114",
+      "Vendor_Bill_Date": "20-Jan-2026",
+      "Posting_Date": "31-Jan-2026",
+      "Lines": 0,
+      "Total_Value": 6195
+    },
+    {
+      "Invoice_No": "IKAP26252608976",
+      "Vendor_Code": "V01361",
+      "Vendor_Name": "Mahadev Generator Servicves",
+      "Vendor_Bill_No": "MGH/2025-26/004",
+      "Vendor_Bill_Date": "05-Jan-2026",
+      "Posting_Date": "31-Jan-2026",
+      "Lines": 0,
+      "Total_Value": 34853
+    },
+    {
+      "Invoice_No": "IKAP26252608977",
+      "Vendor_Code": "V01361",
+      "Vendor_Name": "Mahadev Generator Servicves",
+      "Vendor_Bill_No": "MGH/2025-26/003",
+      "Vendor_Bill_Date": "05-Jan-2026",
+      "Posting_Date": "31-Jan-2026",
+      "Lines": 0,
+      "Total_Value": 24622
+    },
+    {
+      "Invoice_No": "IKAP26252608978",
+      "Vendor_Code": "V01361",
+      "Vendor_Name": "Mahadev Generator Servicves",
+      "Vendor_Bill_No": "MGH/2025-26/006",
+      "Vendor_Bill_Date": "31-Jan-2026",
+      "Posting_Date": "31-Jan-2026",
+      "Lines": 0,
+      "Total_Value": 11787
+    },
+    {
+      "Invoice_No": "IKAP26252608979",
+      "Vendor_Code": "V01361",
+      "Vendor_Name": "Mahadev Generator Servicves",
+      "Vendor_Bill_No": "MGH/2025-26/006-1",
+      "Vendor_Bill_Date": "16-Jan-2026",
+      "Posting_Date": "31-Jan-2026",
+      "Lines": 0,
+      "Total_Value": 590
+    },
+    {
+      "Invoice_No": "IKAP26252608989",
+      "Vendor_Code": "V01205",
+      "Vendor_Name": "VARDHAMANA  TESTING LABORATORY",
+      "Vendor_Bill_No": "VTL/652/2025-26",
+      "Vendor_Bill_Date": "18-Dec-2025",
+      "Posting_Date": "31-Jan-2026",
+      "Lines": 0,
+      "Total_Value": 30240
+    },
+    {
+      "Invoice_No": "IKAP26252608990",
+      "Vendor_Code": "V01275",
+      "Vendor_Name": "PLANET ELECTRO LABS PRIVATE LIMITED",
+      "Vendor_Bill_No": "PEL/25-26/689",
+      "Vendor_Bill_Date": "26-Sep-2025",
+      "Posting_Date": "31-Jan-2026",
+      "Lines": 0,
+      "Total_Value": 30240
+    },
+    {
+      "Invoice_No": "IKAP26252608991",
+      "Vendor_Code": "V00255",
+      "Vendor_Name": "CAVALIER LOGISTICS PRIVATE LIMITED",
+      "Vendor_Bill_No": "CAVCAI0849/25-26",
+      "Vendor_Bill_Date": "05-Jan-2026",
+      "Posting_Date": "31-Jan-2026",
+      "Lines": 0,
+      "Total_Value": 11514
+    },
+    {
+      "Invoice_No": "IKAP26252608995",
+      "Vendor_Code": "V01269",
+      "Vendor_Name": "IKIO SOLUTIONS PRIVATE LIMITED(UNIT-2)",
+      "Vendor_Bill_No": "ISPLI25260637",
+      "Vendor_Bill_Date": "30-Jan-2026",
+      "Posting_Date": "31-Jan-2026",
+      "Lines": 1,
+      "Total_Value": 581264
+    },
+    {
+      "Invoice_No": "IKAP26252609001",
+      "Vendor_Code": "V00255",
+      "Vendor_Name": "CAVALIER LOGISTICS PRIVATE LIMITED",
+      "Vendor_Bill_No": "CAV/GN1016/25-26",
+      "Vendor_Bill_Date": "14-Jan-2026",
+      "Posting_Date": "31-Jan-2026",
+      "Lines": 0,
+      "Total_Value": 1479
+    },
+    {
+      "Invoice_No": "IKAP26252609004",
+      "Vendor_Code": "V00303",
+      "Vendor_Name": "Sudhira Logistics Pvt Ltd",
+      "Vendor_Bill_No": "3356",
+      "Vendor_Bill_Date": "25-Jan-2026",
+      "Posting_Date": "31-Jan-2026",
+      "Lines": 0,
+      "Total_Value": 1578
+    },
+    {
+      "Invoice_No": "IKAP26252609005",
+      "Vendor_Code": "V00302",
+      "Vendor_Name": "Star Clearing & Forwarding Services",
+      "Vendor_Bill_No": "IS/1254468",
+      "Vendor_Bill_Date": "24-Jan-2026",
+      "Posting_Date": "31-Jan-2026",
+      "Lines": 0,
+      "Total_Value": 66117
+    },
+    {
+      "Invoice_No": "IKAP26252609011",
+      "Vendor_Code": "V00258",
+      "Vendor_Name": "Dhl Express India Pvt Ltd (F)",
+      "Vendor_Bill_No": "UTXIR00009852",
+      "Vendor_Bill_Date": "31-Jan-2026",
+      "Posting_Date": "31-Jan-2026",
+      "Lines": 0,
+      "Total_Value": 31023
+    },
+    {
+      "Invoice_No": "IKAP26252609012",
+      "Vendor_Code": "V00255",
+      "Vendor_Name": "CAVALIER LOGISTICS PRIVATE LIMITED",
+      "Vendor_Bill_No": "CAVCAI0938/25-26",
+      "Vendor_Bill_Date": "30-Jan-2026",
+      "Posting_Date": "31-Jan-2026",
+      "Lines": 0,
+      "Total_Value": 11514
+    },
+    {
+      "Invoice_No": "IKAP26252609013",
+      "Vendor_Code": "V00255",
+      "Vendor_Name": "CAVALIER LOGISTICS PRIVATE LIMITED",
+      "Vendor_Bill_No": "CAV/AI3927/25-26",
+      "Vendor_Bill_Date": "29-Jan-2026",
+      "Posting_Date": "31-Jan-2026",
+      "Lines": 0,
+      "Total_Value": 30181
+    },
+    {
+      "Invoice_No": "IKAP26252609016",
+      "Vendor_Code": "V00302",
+      "Vendor_Name": "Star Clearing & Forwarding Services",
+      "Vendor_Bill_No": "IS/1254318",
+      "Vendor_Bill_Date": "13-Jan-2026",
+      "Posting_Date": "31-Jan-2026",
+      "Lines": 0,
+      "Total_Value": 30045
+    },
+    {
+      "Invoice_No": "IKAP26252609025",
+      "Vendor_Code": "V00358",
+      "Vendor_Name": "SKYLINE FREIGHT & TRAVELS PRIVATE LIMITED",
+      "Vendor_Bill_No": "SKY25260984",
+      "Vendor_Bill_Date": "12-Jan-2026",
+      "Posting_Date": "31-Jan-2026",
+      "Lines": 0,
+      "Total_Value": 21119
+    },
+    {
+      "Invoice_No": "IKAP26252609034",
+      "Vendor_Code": "V00302",
+      "Vendor_Name": "Star Clearing & Forwarding Services",
+      "Vendor_Bill_No": "IS/1254559",
+      "Vendor_Bill_Date": "31-Jan-2026",
+      "Posting_Date": "31-Jan-2026",
+      "Lines": 0,
+      "Total_Value": 176194
+    },
+    {
+      "Invoice_No": "IKAP26252609035",
+      "Vendor_Code": "V00259",
+      "Vendor_Name": "DHL EXPRESS INDIA PVT LTD(C)",
+      "Vendor_Bill_No": "DEL694323",
+      "Vendor_Bill_Date": "24-Jan-2026",
+      "Posting_Date": "31-Jan-2026",
+      "Lines": 0,
+      "Total_Value": 7794
+    },
+    {
+      "Invoice_No": "IKAP26252609036",
+      "Vendor_Code": "V00255",
+      "Vendor_Name": "CAVALIER LOGISTICS PRIVATE LIMITED",
+      "Vendor_Bill_No": "CAVCAI0946/25-26",
+      "Vendor_Bill_Date": "31-Jan-2026",
+      "Posting_Date": "31-Jan-2026",
+      "Lines": 0,
+      "Total_Value": 11514
+    },
+    {
+      "Invoice_No": "IKAP26252609037",
+      "Vendor_Code": "V00255",
+      "Vendor_Name": "CAVALIER LOGISTICS PRIVATE LIMITED",
+      "Vendor_Bill_No": "CAV/AI3942/25-26",
+      "Vendor_Bill_Date": "29-Jan-2026",
+      "Posting_Date": "31-Jan-2026",
+      "Lines": 0,
+      "Total_Value": 27040
+    },
+    {
+      "Invoice_No": "IKAP26252609038",
+      "Vendor_Code": "V00302",
+      "Vendor_Name": "Star Clearing & Forwarding Services",
+      "Vendor_Bill_No": "IS/1254252",
+      "Vendor_Bill_Date": "06-Jan-2026",
+      "Posting_Date": "31-Jan-2026",
+      "Lines": 0,
+      "Total_Value": 215318
+    },
+    {
+      "Invoice_No": "IKAP26252609039",
+      "Vendor_Code": "V01339",
+      "Vendor_Name": "RAMO AD CREATION PVT LTD",
+      "Vendor_Bill_No": "871/02/25-26",
+      "Vendor_Bill_Date": "02-Feb-2026",
+      "Posting_Date": "02-Feb-2026",
+      "Lines": 0,
+      "Total_Value": 20872
+    },
+    {
+      "Invoice_No": "IKAP26252609040",
+      "Vendor_Code": "V01164",
+      "Vendor_Name": "Stirrup Communication Consultants Pvt. Ltd.",
+      "Vendor_Bill_No": "SMUM/2025-26/706",
+      "Vendor_Bill_Date": "02-Feb-2026",
+      "Posting_Date": "02-Feb-2026",
+      "Lines": 0,
+      "Total_Value": 475200
+    },
+    {
+      "Invoice_No": "IKAP26252609041",
+      "Vendor_Code": "V01294",
+      "Vendor_Name": "ELYZIUM TECHNOLOGIES PVT LTD",
+      "Vendor_Bill_No": "ETPL-UP2526-1689",
+      "Vendor_Bill_Date": "02-Feb-2026",
+      "Posting_Date": "02-Feb-2026",
+      "Lines": 0,
+      "Total_Value": 9280
+    },
+    {
+      "Invoice_No": "IKAP26252609042",
+      "Vendor_Code": "V00387",
+      "Vendor_Name": "GEE ENN SALES PVT LTD",
+      "Vendor_Bill_No": "GN/112/2025-26",
+      "Vendor_Bill_Date": "28-Jan-2026",
+      "Posting_Date": "31-Jan-2026",
+      "Lines": 0,
+      "Total_Value": 162000
+    },
+    {
+      "Invoice_No": "IKAP26252609043",
+      "Vendor_Code": "V00285",
+      "Vendor_Name": "R.S. Consultants",
+      "Vendor_Bill_No": "366/25-26",
+      "Vendor_Bill_Date": "31-Jan-2026",
+      "Posting_Date": "31-Jan-2026",
+      "Lines": 0,
+      "Total_Value": 43200
+    },
+    {
+      "Invoice_No": "IKAP26252609044",
+      "Vendor_Code": "V00285",
+      "Vendor_Name": "R.S. Consultants",
+      "Vendor_Bill_No": "369/25-26",
+      "Vendor_Bill_Date": "31-Jan-2026",
+      "Posting_Date": "31-Jan-2026",
+      "Lines": 0,
+      "Total_Value": 9720
+    },
+    {
+      "Invoice_No": "IKAP26252609045",
+      "Vendor_Code": "V01315",
+      "Vendor_Name": "MAKS & C0.",
+      "Vendor_Bill_No": "MAKS/25-26/284",
+      "Vendor_Bill_Date": "04-Feb-2026",
+      "Posting_Date": "04-Feb-2026",
+      "Lines": 0,
+      "Total_Value": 36450
+    },
+    {
+      "Invoice_No": "IKAP26252609047",
+      "Vendor_Code": "V00473",
+      "Vendor_Name": "ABDHESH KUMAR",
+      "Vendor_Bill_No": "710",
+      "Vendor_Bill_Date": "31-Jan-2026",
+      "Posting_Date": "31-Jan-2026",
+      "Lines": 0,
+      "Total_Value": 99911
+    },
+    {
+      "Invoice_No": "IKAP26252609048",
+      "Vendor_Code": "V00294",
+      "Vendor_Name": "SHALINI TRADERS",
+      "Vendor_Bill_No": "4963",
+      "Vendor_Bill_Date": "31-Jan-2026",
+      "Posting_Date": "31-Jan-2026",
+      "Lines": 0,
+      "Total_Value": 35964
+    },
+    {
+      "Invoice_No": "IKAP26252609050",
+      "Vendor_Code": "V00270",
+      "Vendor_Name": "Indian Security Services",
+      "Vendor_Bill_No": "ISS/25-26/305.",
+      "Vendor_Bill_Date": "31-Jan-2026",
+      "Posting_Date": "31-Jan-2026",
+      "Lines": 0,
+      "Total_Value": 137248
+    },
+    {
+      "Invoice_No": "IKAP26252609133",
+      "Vendor_Code": "V01358",
+      "Vendor_Name": "SATSAVI FILLING STATION",
+      "Vendor_Bill_No": "MS/HSD/JAN-016",
+      "Vendor_Bill_Date": "31-Jan-2026",
+      "Posting_Date": "31-Jan-2026",
+      "Lines": 0,
+      "Total_Value": 70547
+    },
+    {
+      "Invoice_No": "IKAP26252609161",
+      "Vendor_Code": "V01358",
+      "Vendor_Name": "SATSAVI FILLING STATION",
+      "Vendor_Bill_No": "MS/HSD/JAN-01",
+      "Vendor_Bill_Date": "15-Jan-2026",
+      "Posting_Date": "31-Jan-2026",
+      "Lines": 0,
+      "Total_Value": 23387
+    },
+    {
+      "Invoice_No": "IKAP26252609162",
+      "Vendor_Code": "V00302",
+      "Vendor_Name": "Star Clearing & Forwarding Services",
+      "Vendor_Bill_No": "IS/1254558",
+      "Vendor_Bill_Date": "31-Jan-2026",
+      "Posting_Date": "09-Feb-2026",
+      "Lines": 0,
+      "Total_Value": 72930
+    },
+    {
+      "Invoice_No": "IKAP26252609163",
+      "Vendor_Code": "V00302",
+      "Vendor_Name": "Star Clearing & Forwarding Services",
+      "Vendor_Bill_No": "IA/1254613",
+      "Vendor_Bill_Date": "05-Feb-2026",
+      "Posting_Date": "09-Feb-2026",
+      "Lines": 0,
+      "Total_Value": 15278
+    },
+    {
+      "Invoice_No": "IKAP26252609164",
+      "Vendor_Code": "V00302",
+      "Vendor_Name": "Star Clearing & Forwarding Services",
+      "Vendor_Bill_No": "IA/1254614",
+      "Vendor_Bill_Date": "05-Feb-2026",
+      "Posting_Date": "09-Feb-2026",
+      "Lines": 0,
+      "Total_Value": 13241
+    },
+    {
+      "Invoice_No": "IKAP26252609165",
+      "Vendor_Code": "V00259",
+      "Vendor_Name": "DHL EXPRESS INDIA PVT LTD(C)",
+      "Vendor_Bill_No": "DEL701566",
+      "Vendor_Bill_Date": "30-Jan-2026",
+      "Posting_Date": "09-Feb-2026",
+      "Lines": 0,
+      "Total_Value": 1298
+    },
+    {
+      "Invoice_No": "IKAP26252609166",
+      "Vendor_Code": "V00259",
+      "Vendor_Name": "DHL EXPRESS INDIA PVT LTD(C)",
+      "Vendor_Bill_No": "DEL702488",
+      "Vendor_Bill_Date": "31-Jan-2026",
+      "Posting_Date": "10-Feb-2026",
+      "Lines": 0,
+      "Total_Value": 1298
+    },
+    {
+      "Invoice_No": "IKAP26252609167",
+      "Vendor_Code": "V00259",
+      "Vendor_Name": "DHL EXPRESS INDIA PVT LTD(C)",
+      "Vendor_Bill_No": "DEL704274",
+      "Vendor_Bill_Date": "01-Feb-2026",
+      "Posting_Date": "10-Feb-2026",
+      "Lines": 0,
+      "Total_Value": 1298
+    },
+    {
+      "Invoice_No": "IKAP26252609168",
+      "Vendor_Code": "V00259",
+      "Vendor_Name": "DHL EXPRESS INDIA PVT LTD(C)",
+      "Vendor_Bill_No": "DEL704116",
+      "Vendor_Bill_Date": "01-Feb-2026",
+      "Posting_Date": "10-Feb-2026",
+      "Lines": 0,
+      "Total_Value": 1298
+    },
+    {
+      "Invoice_No": "IKAP26252609169",
+      "Vendor_Code": "V00259",
+      "Vendor_Name": "DHL EXPRESS INDIA PVT LTD(C)",
+      "Vendor_Bill_No": "DEL702961",
+      "Vendor_Bill_Date": "31-Jan-2026",
+      "Posting_Date": "10-Feb-2026",
+      "Lines": 0,
+      "Total_Value": 1298
+    },
+    {
+      "Invoice_No": "IKAP26252609170",
+      "Vendor_Code": "V00698",
+      "Vendor_Name": "ROYALUX LIGHTING PVT LTD",
+      "Vendor_Bill_No": "RLHWA252670361",
+      "Vendor_Bill_Date": "16-Oct-2025",
+      "Posting_Date": "10-Feb-2026",
+      "Lines": 0,
+      "Total_Value": 104017
+    },
+    {
+      "Invoice_No": "IKAP26252609178",
+      "Vendor_Code": "V00700",
+      "Vendor_Name": "VR GREEN PRIVATE LIMITED",
+      "Vendor_Bill_No": "VRG/C/2526/0954",
+      "Vendor_Bill_Date": "07-Feb-2026",
+      "Posting_Date": "11-Feb-2026",
+      "Lines": 9,
+      "Total_Value": 103802
+    },
+    {
+      "Invoice_No": "IKAP26252609263",
+      "Vendor_Code": "V00663",
+      "Vendor_Name": "AMAZON WEB SERVICES PVT LTD",
+      "Vendor_Bill_No": "2501796069",
+      "Vendor_Bill_Date": "01-Feb-2026",
+      "Posting_Date": "11-Feb-2026",
+      "Lines": 0,
+      "Total_Value": 3297
+    },
+    {
+      "Invoice_No": "IKAP26252609265",
+      "Vendor_Code": "V00647",
+      "Vendor_Name": "BGJC & ASSOCIATES LLP",
+      "Vendor_Bill_No": "BU7/01/25-26/504",
+      "Vendor_Bill_Date": "03-Feb-2026",
+      "Posting_Date": "11-Feb-2026",
+      "Lines": 0,
+      "Total_Value": 369850
+    },
+    {
+      "Invoice_No": "IKAP26252609266",
+      "Vendor_Code": "V00317",
+      "Vendor_Name": "Shiv Saroj & Associates",
+      "Vendor_Bill_No": "2024-25/144",
+      "Vendor_Bill_Date": "05-Feb-2026",
+      "Posting_Date": "11-Feb-2026",
+      "Lines": 0,
+      "Total_Value": 324000
+    },
+    {
+      "Invoice_No": "IKAP26252609267",
+      "Vendor_Code": "V00317",
+      "Vendor_Name": "Shiv Saroj & Associates",
+      "Vendor_Bill_No": "2024-25/149",
+      "Vendor_Bill_Date": "05-Feb-2026",
+      "Posting_Date": "11-Feb-2026",
+      "Lines": 0,
+      "Total_Value": 270000
+    },
+    {
+      "Invoice_No": "IKAP26252609268",
+      "Vendor_Code": "V00258",
+      "Vendor_Name": "Dhl Express India Pvt Ltd (F)",
+      "Vendor_Bill_No": "UTXIR00009897",
+      "Vendor_Bill_Date": "06-Feb-2026",
+      "Posting_Date": "11-Feb-2026",
+      "Lines": 0,
+      "Total_Value": 165555
+    },
+    {
+      "Invoice_No": "IKAP26252609269",
+      "Vendor_Code": "V00930",
+      "Vendor_Name": "KFIN TECHNOLOIGES LIMITED",
+      "Vendor_Bill_No": "2526021700",
+      "Vendor_Bill_Date": "10-Jan-2026",
+      "Posting_Date": "11-Feb-2026",
+      "Lines": 0,
+      "Total_Value": 41178
+    },
+    {
+      "Invoice_No": "IKAP26252609270",
+      "Vendor_Code": "V00926",
+      "Vendor_Name": "STELLAR IR ADVISORS PVT LTD",
+      "Vendor_Bill_No": "SIR/2025-26/0296",
+      "Vendor_Bill_Date": "01-Feb-2026",
+      "Posting_Date": "11-Feb-2026",
+      "Lines": 0,
+      "Total_Value": 135000
+    },
+    {
+      "Invoice_No": "IKAP26252609271",
+      "Vendor_Code": "V00926",
+      "Vendor_Name": "STELLAR IR ADVISORS PVT LTD",
+      "Vendor_Bill_No": "SIR/2025-26/0268",
+      "Vendor_Bill_Date": "01-Jan-2026",
+      "Posting_Date": "11-Feb-2026",
+      "Lines": 0,
+      "Total_Value": 135000
+    },
+    {
+      "Invoice_No": "IKAP26252609272",
+      "Vendor_Code": "V00940",
+      "Vendor_Name": "CHORUS CALL CONFERENCING SERVICES INDIA",
+      "Vendor_Bill_No": "CC-02--25555",
+      "Vendor_Bill_Date": "06-Feb-2026",
+      "Posting_Date": "12-Feb-2026",
+      "Lines": 0,
+      "Total_Value": 13435
+    },
+    {
+      "Invoice_No": "IKAP26252609326",
+      "Vendor_Code": "V00312",
+      "Vendor_Name": "BUREAU OF INDIAN STANDARDS",
+      "Vendor_Bill_No": "BB00CR2025011026",
+      "Vendor_Bill_Date": "09-Feb-2026",
+      "Posting_Date": "13-Feb-2026",
+      "Lines": 0,
+      "Total_Value": 50740
+    },
+    {
+      "Invoice_No": "IKAP26252609337",
+      "Vendor_Code": "V00255",
+      "Vendor_Name": "CAVALIER LOGISTICS PRIVATE LIMITED",
+      "Vendor_Bill_No": "CAVCAI0969/25-26",
+      "Vendor_Bill_Date": "09-Feb-2026",
+      "Posting_Date": "13-Feb-2026",
+      "Lines": 0,
+      "Total_Value": 13263
+    },
+    {
+      "Invoice_No": "IKAP26252609338",
+      "Vendor_Code": "V00255",
+      "Vendor_Name": "CAVALIER LOGISTICS PRIVATE LIMITED",
+      "Vendor_Bill_No": "CAV/AI4076/25-26",
+      "Vendor_Bill_Date": "09-Feb-2026",
+      "Posting_Date": "13-Feb-2026",
+      "Lines": 0,
+      "Total_Value": 50793
+    },
+    {
+      "Invoice_No": "IKAP26252609339",
+      "Vendor_Code": "V00302",
+      "Vendor_Name": "Star Clearing & Forwarding Services",
+      "Vendor_Bill_No": "IS/1254706",
+      "Vendor_Bill_Date": "09-Feb-2026",
+      "Posting_Date": "13-Feb-2026",
+      "Lines": 0,
+      "Total_Value": 44799
+    },
+    {
+      "Invoice_No": "IKAP26252609340",
+      "Vendor_Code": "V00302",
+      "Vendor_Name": "Star Clearing & Forwarding Services",
+      "Vendor_Bill_No": "IS/1254591",
+      "Vendor_Bill_Date": "04-Feb-2026",
+      "Posting_Date": "13-Feb-2026",
+      "Lines": 0,
+      "Total_Value": 53279
+    },
+    {
+      "Invoice_No": "IKAP26252609341",
+      "Vendor_Code": "V00302",
+      "Vendor_Name": "Star Clearing & Forwarding Services",
+      "Vendor_Bill_No": "IA/1254678",
+      "Vendor_Bill_Date": "07-Feb-2026",
+      "Posting_Date": "13-Feb-2026",
+      "Lines": 0,
+      "Total_Value": 5374
+    },
+    {
+      "Invoice_No": "IKAP26252609342",
+      "Vendor_Code": "V00255",
+      "Vendor_Name": "CAVALIER LOGISTICS PRIVATE LIMITED",
+      "Vendor_Bill_No": "CAV/AI4069/25-26",
+      "Vendor_Bill_Date": "07-Feb-2026",
+      "Posting_Date": "13-Feb-2026",
+      "Lines": 0,
+      "Total_Value": 25443
+    },
+    {
+      "Invoice_No": "IKAP26252609343",
+      "Vendor_Code": "V00259",
+      "Vendor_Name": "DHL EXPRESS INDIA PVT LTD(C)",
+      "Vendor_Bill_No": "DEL703139",
+      "Vendor_Bill_Date": "31-Jan-2026",
+      "Posting_Date": "13-Feb-2026",
+      "Lines": 0,
+      "Total_Value": 1298
+    },
+    {
+      "Invoice_No": "IKAP26252609344",
+      "Vendor_Code": "V00259",
+      "Vendor_Name": "DHL EXPRESS INDIA PVT LTD(C)",
+      "Vendor_Bill_No": "DEL710649",
+      "Vendor_Bill_Date": "06-Feb-2026",
+      "Posting_Date": "13-Feb-2026",
+      "Lines": 0,
+      "Total_Value": 1298
+    },
+    {
+      "Invoice_No": "IKAP26252609345",
+      "Vendor_Code": "V00259",
+      "Vendor_Name": "DHL EXPRESS INDIA PVT LTD(C)",
+      "Vendor_Bill_No": "DEL707753",
+      "Vendor_Bill_Date": "05-Feb-2026",
+      "Posting_Date": "13-Feb-2026",
+      "Lines": 0,
+      "Total_Value": 1298
+    },
+    {
+      "Invoice_No": "IKAP26252609346",
+      "Vendor_Code": "V00259",
+      "Vendor_Name": "DHL EXPRESS INDIA PVT LTD(C)",
+      "Vendor_Bill_No": "DEL704244",
+      "Vendor_Bill_Date": "01-Feb-2026",
+      "Posting_Date": "13-Feb-2026",
+      "Lines": 0,
+      "Total_Value": 1298
+    },
+    {
+      "Invoice_No": "IKAP26252609347",
+      "Vendor_Code": "V00259",
+      "Vendor_Name": "DHL EXPRESS INDIA PVT LTD(C)",
+      "Vendor_Bill_No": "DEL708490",
+      "Vendor_Bill_Date": "05-Feb-2026",
+      "Posting_Date": "13-Feb-2026",
+      "Lines": 0,
+      "Total_Value": 6608
+    },
+    {
+      "Invoice_No": "IKAP26252609348",
+      "Vendor_Code": "V00341",
+      "Vendor_Name": "RAMA LOGISITICS",
+      "Vendor_Bill_No": "652-7119",
+      "Vendor_Bill_Date": "01-Feb-2026",
+      "Posting_Date": "13-Feb-2026",
+      "Lines": 0,
+      "Total_Value": 22884
+    },
+    {
+      "Invoice_No": "IKAP26252609349",
+      "Vendor_Code": "V00341",
+      "Vendor_Name": "RAMA LOGISITICS",
+      "Vendor_Bill_No": "652-7120",
+      "Vendor_Bill_Date": "01-Feb-2026",
+      "Posting_Date": "13-Feb-2026",
+      "Lines": 0,
+      "Total_Value": 17493
+    },
+    {
+      "Invoice_No": "IKAP26252609350",
+      "Vendor_Code": "V00302",
+      "Vendor_Name": "Star Clearing & Forwarding Services",
+      "Vendor_Bill_No": "IA/1254700",
+      "Vendor_Bill_Date": "09-Feb-2026",
+      "Posting_Date": "14-Feb-2026",
+      "Lines": 0,
+      "Total_Value": 25817
+    },
+    {
+      "Invoice_No": "IKAP26252609351",
+      "Vendor_Code": "V00302",
+      "Vendor_Name": "Star Clearing & Forwarding Services",
+      "Vendor_Bill_No": "IA/1254701",
+      "Vendor_Bill_Date": "09-Feb-2026",
+      "Posting_Date": "14-Feb-2026",
+      "Lines": 0,
+      "Total_Value": 3007
+    },
+    {
+      "Invoice_No": "IKAP26252609352",
+      "Vendor_Code": "V00302",
+      "Vendor_Name": "Star Clearing & Forwarding Services",
+      "Vendor_Bill_No": "IS/1254658",
+      "Vendor_Bill_Date": "06-Feb-2026",
+      "Posting_Date": "14-Feb-2026",
+      "Lines": 0,
+      "Total_Value": 96346
+    },
+    {
+      "Invoice_No": "IKAP26252609353",
+      "Vendor_Code": "V00302",
+      "Vendor_Name": "Star Clearing & Forwarding Services",
+      "Vendor_Bill_No": "IS/1254590",
+      "Vendor_Bill_Date": "04-Feb-2026",
+      "Posting_Date": "14-Feb-2026",
+      "Lines": 0,
+      "Total_Value": 106617
+    },
+    {
+      "Invoice_No": "IKAP26252609354",
+      "Vendor_Code": "V00259",
+      "Vendor_Name": "DHL EXPRESS INDIA PVT LTD(C)",
+      "Vendor_Bill_No": "DEL713454",
+      "Vendor_Bill_Date": "08-Feb-2026",
+      "Posting_Date": "14-Feb-2026",
+      "Lines": 0,
+      "Total_Value": 1298
+    },
+    {
+      "Invoice_No": "IKAP26252609355",
+      "Vendor_Code": "V00259",
+      "Vendor_Name": "DHL EXPRESS INDIA PVT LTD(C)",
+      "Vendor_Bill_No": "DEL713630",
+      "Vendor_Bill_Date": "09-Feb-2026",
+      "Posting_Date": "14-Feb-2026",
+      "Lines": 0,
+      "Total_Value": 1298
+    },
+    {
+      "Invoice_No": "IKAP26252609422",
+      "Vendor_Code": "V00930",
+      "Vendor_Name": "KFIN TECHNOLOIGES LIMITED",
+      "Vendor_Bill_No": "2526023931",
+      "Vendor_Bill_Date": "10-Feb-2026",
+      "Posting_Date": "16-Feb-2026",
+      "Lines": 0,
+      "Total_Value": 41040
+    },
+    {
+      "Invoice_No": "IKAP26252609423",
+      "Vendor_Code": "V00302",
+      "Vendor_Name": "Star Clearing & Forwarding Services",
+      "Vendor_Bill_No": "IS/1254777",
+      "Vendor_Bill_Date": "13-Feb-2026",
+      "Posting_Date": "16-Feb-2026",
+      "Lines": 0,
+      "Total_Value": 43134
+    },
+    {
+      "Invoice_No": "IKAP26252609424",
+      "Vendor_Code": "V00302",
+      "Vendor_Name": "Star Clearing & Forwarding Services",
+      "Vendor_Bill_No": "IS/1254627",
+      "Vendor_Bill_Date": "05-Feb-2026",
+      "Posting_Date": "16-Feb-2026",
+      "Lines": 0,
+      "Total_Value": 143827
+    },
+    {
+      "Invoice_No": "IKAP26252609425",
+      "Vendor_Code": "V00302",
+      "Vendor_Name": "Star Clearing & Forwarding Services",
+      "Vendor_Bill_No": "IS/1254626",
+      "Vendor_Bill_Date": "05-Feb-2026",
+      "Posting_Date": "16-Feb-2026",
+      "Lines": 0,
+      "Total_Value": 34494
+    },
+    {
+      "Invoice_No": "IKAP26252609426",
+      "Vendor_Code": "V00302",
+      "Vendor_Name": "Star Clearing & Forwarding Services",
+      "Vendor_Bill_No": "IA/1254674",
+      "Vendor_Bill_Date": "07-Feb-2026",
+      "Posting_Date": "16-Feb-2026",
+      "Lines": 0,
+      "Total_Value": 8928
+    },
+    {
+      "Invoice_No": "IKAP26252609427",
+      "Vendor_Code": "V00255",
+      "Vendor_Name": "CAVALIER LOGISTICS PRIVATE LIMITED",
+      "Vendor_Bill_No": "CAV/AI4072/25-26",
+      "Vendor_Bill_Date": "07-Feb-2026",
+      "Posting_Date": "16-Feb-2026",
+      "Lines": 0,
+      "Total_Value": 41679
+    },
+    {
+      "Invoice_No": "IKAP26252609490",
+      "Vendor_Code": "V00346",
+      "Vendor_Name": "OMEGA PRINTOPACK PVT LTD.",
+      "Vendor_Bill_No": "-UK5/25-26/004510",
+      "Vendor_Bill_Date": "17-Feb-2026",
+      "Posting_Date": "19-Feb-2026",
+      "Lines": 1,
+      "Total_Value": 142
+    },
+    {
+      "Invoice_No": "IKAP26252609491",
+      "Vendor_Code": "V00312",
+      "Vendor_Name": "BUREAU OF INDIAN STANDARDS",
+      "Vendor_Bill_No": "BB00CR2025011453",
+      "Vendor_Bill_Date": "19-Feb-2026",
+      "Posting_Date": "19-Feb-2026",
+      "Lines": 0,
+      "Total_Value": 50740
+    },
+    {
+      "Invoice_No": "IKAP26252609492",
+      "Vendor_Code": "V00040",
+      "Vendor_Name": "SK  UEM WATER PROJECTS PRIVATE LIMITED",
+      "Vendor_Bill_No": "4907",
+      "Vendor_Bill_Date": "30-Jan-2026",
+      "Posting_Date": "20-Feb-2026",
+      "Lines": 0,
+      "Total_Value": 2669
+    },
+    {
+      "Invoice_No": "IKAP26252609493",
+      "Vendor_Code": "V00355",
+      "Vendor_Name": "EMS TECHNOLOGIES PVT LTD",
+      "Vendor_Bill_No": "TSR2526/115",
+      "Vendor_Bill_Date": "06-Feb-2026",
+      "Posting_Date": "20-Feb-2026",
+      "Lines": 0,
+      "Total_Value": 64900
+    },
+    {
+      "Invoice_No": "IKAP26252609494",
+      "Vendor_Code": "V00316",
+      "Vendor_Name": "Lalit Transport Pvt Ltd",
+      "Vendor_Bill_No": "0615/2025-2026",
+      "Vendor_Bill_Date": "02-Mar-2026",
+      "Posting_Date": "20-Feb-2026",
+      "Lines": 0,
+      "Total_Value": 114268
+    },
+    {
+      "Invoice_No": "IKAP26252609495",
+      "Vendor_Code": "V00885",
+      "Vendor_Name": "GANPATI TRAVELS",
+      "Vendor_Bill_No": "GT442",
+      "Vendor_Bill_Date": "06-Feb-2026",
+      "Posting_Date": "20-Feb-2026",
+      "Lines": 0,
+      "Total_Value": 2625
+    },
+    {
+      "Invoice_No": "IKAP26252609496",
+      "Vendor_Code": "V00885",
+      "Vendor_Name": "GANPATI TRAVELS",
+      "Vendor_Bill_No": "GT444",
+      "Vendor_Bill_Date": "14-Feb-2026",
+      "Posting_Date": "20-Feb-2026",
+      "Lines": 0,
+      "Total_Value": 3675
+    },
+    {
+      "Invoice_No": "IKAP26252609497",
+      "Vendor_Code": "V00885",
+      "Vendor_Name": "GANPATI TRAVELS",
+      "Vendor_Bill_No": "GT402",
+      "Vendor_Bill_Date": "11-Dec-2025",
+      "Posting_Date": "20-Feb-2026",
+      "Lines": 0,
+      "Total_Value": 8400
+    },
+    {
+      "Invoice_No": "IKAP26252609498",
+      "Vendor_Code": "V01187",
+      "Vendor_Name": "G V ASSOCIATES",
+      "Vendor_Bill_No": "SMINT 1665",
+      "Vendor_Bill_Date": "02-Feb-2026",
+      "Posting_Date": "20-Feb-2026",
+      "Lines": 0,
+      "Total_Value": 11557
+    },
+    {
+      "Invoice_No": "IKAP26252609499",
+      "Vendor_Code": "V01358",
+      "Vendor_Name": "SATSAVI FILLING STATION",
+      "Vendor_Bill_No": "MS/HSD/FEB-008",
+      "Vendor_Bill_Date": "15-Feb-2026",
+      "Posting_Date": "20-Feb-2026",
+      "Lines": 0,
+      "Total_Value": 64837
+    },
+    {
+      "Invoice_No": "IKAP26252609539",
+      "Vendor_Code": "V00302",
+      "Vendor_Name": "Star Clearing & Forwarding Services",
+      "Vendor_Bill_No": "IA/1254802",
+      "Vendor_Bill_Date": "16-Feb-2026",
+      "Posting_Date": "21-Feb-2026",
+      "Lines": 0,
+      "Total_Value": 21430
+    },
+    {
+      "Invoice_No": "IKAP26252609540",
+      "Vendor_Code": "V00302",
+      "Vendor_Name": "Star Clearing & Forwarding Services",
+      "Vendor_Bill_No": "IA/1254808",
+      "Vendor_Bill_Date": "16-Feb-2026",
+      "Posting_Date": "21-Feb-2026",
+      "Lines": 0,
+      "Total_Value": 3007
+    },
+    {
+      "Invoice_No": "IKAP26252609541",
+      "Vendor_Code": "V00258",
+      "Vendor_Name": "Dhl Express India Pvt Ltd (F)",
+      "Vendor_Bill_No": "UTXIR00010073",
+      "Vendor_Bill_Date": "20-Feb-2026",
+      "Posting_Date": "21-Feb-2026",
+      "Lines": 0,
+      "Total_Value": 9117
+    },
+    {
+      "Invoice_No": "IKAP26252609586",
+      "Vendor_Code": "V00835",
+      "Vendor_Name": "SURAJ MOULDERS (PVT) LTD.",
+      "Vendor_Bill_No": "SMFBD/2526/25-26",
+      "Vendor_Bill_Date": "16-Feb-2026",
+      "Posting_Date": "23-Feb-2026",
+      "Lines": 18,
+      "Total_Value": 177180
+    },
+    {
+      "Invoice_No": "IKAP26252609601",
+      "Vendor_Code": "V01276",
+      "Vendor_Name": "WORLD PHONE INTERNET SERVICES  PVT LTD",
+      "Vendor_Bill_No": "EUK/2026/02/0006",
+      "Vendor_Bill_Date": "09-Feb-2026",
+      "Posting_Date": "26-Feb-2026",
+      "Lines": 0,
+      "Total_Value": 17400
+    },
+    {
+      "Invoice_No": "IKAP26252609602",
+      "Vendor_Code": "V00940",
+      "Vendor_Name": "CHORUS CALL CONFERENCING SERVICES INDIA",
+      "Vendor_Bill_No": "CC-02-25739",
+      "Vendor_Bill_Date": "24-Feb-2026",
+      "Posting_Date": "26-Feb-2026",
+      "Lines": 0,
+      "Total_Value": 13435
+    },
+    {
+      "Invoice_No": "IKAP26252609618",
+      "Vendor_Code": "V00994",
+      "Vendor_Name": "S.M. MINI TOUR AND TRAVEL SERVICE",
+      "Vendor_Bill_No": "SMT/25-26/027",
+      "Vendor_Bill_Date": "14-Feb-2026",
+      "Posting_Date": "27-Feb-2026",
+      "Lines": 0,
+      "Total_Value": 8719
+    },
+    {
+      "Invoice_No": "IKAP26252609619",
+      "Vendor_Code": "V01205",
+      "Vendor_Name": "VARDHAMANA  TESTING LABORATORY",
+      "Vendor_Bill_No": "VTL/896/2025-26",
+      "Vendor_Bill_Date": "27-Feb-2026",
+      "Posting_Date": "27-Feb-2026",
+      "Lines": 0,
+      "Total_Value": 151200
+    },
+    {
+      "Invoice_No": "IKAP26252609620",
+      "Vendor_Code": "V00312",
+      "Vendor_Name": "BUREAU OF INDIAN STANDARDS",
+      "Vendor_Bill_No": "BB00CR2025011671",
+      "Vendor_Bill_Date": "25-Feb-2026",
+      "Posting_Date": "28-Feb-2026",
+      "Lines": 0,
+      "Total_Value": 35400
+    },
+    {
+      "Invoice_No": "IKAP26252609621",
+      "Vendor_Code": "V00312",
+      "Vendor_Name": "BUREAU OF INDIAN STANDARDS",
+      "Vendor_Bill_No": "BB00CR2025011577",
+      "Vendor_Bill_Date": "23-Feb-2026",
+      "Posting_Date": "28-Feb-2026",
+      "Lines": 0,
+      "Total_Value": 35400
+    },
+    {
+      "Invoice_No": "IKAP26252609622",
+      "Vendor_Code": "V00302",
+      "Vendor_Name": "Star Clearing & Forwarding Services",
+      "Vendor_Bill_No": "IA/1254567",
+      "Vendor_Bill_Date": "31-Jan-2026",
+      "Posting_Date": "28-Feb-2026",
+      "Lines": 0,
+      "Total_Value": 24983
+    },
+    {
+      "Invoice_No": "IKAP26252609623",
+      "Vendor_Code": "V00302",
+      "Vendor_Name": "Star Clearing & Forwarding Services",
+      "Vendor_Bill_No": "IA/1254568",
+      "Vendor_Bill_Date": "31-Jan-2026",
+      "Posting_Date": "28-Feb-2026",
+      "Lines": 0,
+      "Total_Value": 11711
+    },
+    {
+      "Invoice_No": "IKAP26252609624",
+      "Vendor_Code": "V00302",
+      "Vendor_Name": "Star Clearing & Forwarding Services",
+      "Vendor_Bill_No": "IS/1254927",
+      "Vendor_Bill_Date": "23-Feb-2026",
+      "Posting_Date": "28-Feb-2026",
+      "Lines": 0,
+      "Total_Value": 8294
+    },
+    {
+      "Invoice_No": "IKAP26252609625",
+      "Vendor_Code": "V00358",
+      "Vendor_Name": "SKYLINE FREIGHT & TRAVELS PRIVATE LIMITED",
+      "Vendor_Bill_No": "SKY25261094",
+      "Vendor_Bill_Date": "20-Feb-2026",
+      "Posting_Date": "28-Feb-2026",
+      "Lines": 0,
+      "Total_Value": 36218
+    },
+    {
+      "Invoice_No": "IKAP26252609626",
+      "Vendor_Code": "V00302",
+      "Vendor_Name": "Star Clearing & Forwarding Services",
+      "Vendor_Bill_No": "IS/1254928",
+      "Vendor_Bill_Date": "23-Feb-2026",
+      "Posting_Date": "28-Feb-2026",
+      "Lines": 0,
+      "Total_Value": 7134
+    },
+    {
+      "Invoice_No": "IKAP26252609627",
+      "Vendor_Code": "V00358",
+      "Vendor_Name": "SKYLINE FREIGHT & TRAVELS PRIVATE LIMITED",
+      "Vendor_Bill_No": "SKY25261096",
+      "Vendor_Bill_Date": "20-Feb-2026",
+      "Posting_Date": "28-Feb-2026",
+      "Lines": 0,
+      "Total_Value": 8382
+    },
+    {
+      "Invoice_No": "IKAP26252609628",
+      "Vendor_Code": "V00302",
+      "Vendor_Name": "Star Clearing & Forwarding Services",
+      "Vendor_Bill_No": "IS/1254929",
+      "Vendor_Bill_Date": "23-Feb-2026",
+      "Posting_Date": "28-Feb-2026",
+      "Lines": 0,
+      "Total_Value": 24186
+    },
+    {
+      "Invoice_No": "IKAP26252609629",
+      "Vendor_Code": "V00358",
+      "Vendor_Name": "SKYLINE FREIGHT & TRAVELS PRIVATE LIMITED",
+      "Vendor_Bill_No": "SKY25261095",
+      "Vendor_Bill_Date": "20-Feb-2026",
+      "Posting_Date": "28-Feb-2026",
+      "Lines": 0,
+      "Total_Value": 10111
+    },
+    {
+      "Invoice_No": "IKAP26252609667",
+      "Vendor_Code": "V00302",
+      "Vendor_Name": "Star Clearing & Forwarding Services",
+      "Vendor_Bill_No": "IA/1254889",
+      "Vendor_Bill_Date": "21-Feb-2026",
+      "Posting_Date": "28-Feb-2026",
+      "Lines": 0,
+      "Total_Value": 23834
+    },
+    {
+      "Invoice_No": "IKAP26252609679",
+      "Vendor_Code": "V00302",
+      "Vendor_Name": "Star Clearing & Forwarding Services",
+      "Vendor_Bill_No": "IA/1254890",
+      "Vendor_Bill_Date": "21-Feb-2026",
+      "Posting_Date": "28-Feb-2026",
+      "Lines": 0,
+      "Total_Value": 3007
+    },
+    {
+      "Invoice_No": "IKAP26252609693",
+      "Vendor_Code": "V00302",
+      "Vendor_Name": "Star Clearing & Forwarding Services",
+      "Vendor_Bill_No": "IA/1254887",
+      "Vendor_Bill_Date": "21-Feb-2026",
+      "Posting_Date": "28-Feb-2026",
+      "Lines": 0,
+      "Total_Value": 52262
+    },
+    {
+      "Invoice_No": "IKAP26252609694",
+      "Vendor_Code": "V00302",
+      "Vendor_Name": "Star Clearing & Forwarding Services",
+      "Vendor_Bill_No": "IA/1254888",
+      "Vendor_Bill_Date": "21-Feb-2026",
+      "Posting_Date": "28-Feb-2026",
+      "Lines": 0,
+      "Total_Value": 27686
+    },
+    {
+      "Invoice_No": "IKAP26252609700",
+      "Vendor_Code": "V00255",
+      "Vendor_Name": "CAVALIER LOGISTICS PRIVATE LIMITED",
+      "Vendor_Bill_No": "CAVCAI1001/25-26",
+      "Vendor_Bill_Date": "17-Feb-2026",
+      "Posting_Date": "28-Feb-2026",
+      "Lines": 0,
+      "Total_Value": 14414
+    },
+    {
+      "Invoice_No": "IKAP26252609705",
+      "Vendor_Code": "V00255",
+      "Vendor_Name": "CAVALIER LOGISTICS PRIVATE LIMITED",
+      "Vendor_Bill_No": "CAV/AI4186/25-26",
+      "Vendor_Bill_Date": "14-Feb-2026",
+      "Posting_Date": "28-Feb-2026",
+      "Lines": 0,
+      "Total_Value": 20906
+    },
+    {
+      "Invoice_No": "IKAP26252609722",
+      "Vendor_Code": "V00027",
+      "Vendor_Name": "EAGLE INDUSTRIES",
+      "Vendor_Bill_No": "339 (25-26)",
+      "Vendor_Bill_Date": "26-Feb-2026",
+      "Posting_Date": "28-Feb-2026",
+      "Lines": 3,
+      "Total_Value": 5235
+    },
+    {
+      "Invoice_No": "IKAP26252609739",
+      "Vendor_Code": "V00255",
+      "Vendor_Name": "CAVALIER LOGISTICS PRIVATE LIMITED",
+      "Vendor_Bill_No": "CAV/AI4263/25-26",
+      "Vendor_Bill_Date": "19-Feb-2026",
+      "Posting_Date": "28-Feb-2026",
+      "Lines": 0,
+      "Total_Value": 27905
+    },
+    {
+      "Invoice_No": "IKAP26252609740",
+      "Vendor_Code": "V00255",
+      "Vendor_Name": "CAVALIER LOGISTICS PRIVATE LIMITED",
+      "Vendor_Bill_No": "CAVCAI1019/25-26",
+      "Vendor_Bill_Date": "21-Feb-2026",
+      "Posting_Date": "28-Feb-2026",
+      "Lines": 0,
+      "Total_Value": 11551
+    },
+    {
+      "Invoice_No": "IKAP26252609741",
+      "Vendor_Code": "V00259",
+      "Vendor_Name": "DHL EXPRESS INDIA PVT LTD(C)",
+      "Vendor_Bill_No": "DEL707108",
+      "Vendor_Bill_Date": "04-Feb-2026",
+      "Posting_Date": "28-Feb-2026",
+      "Lines": 0,
+      "Total_Value": 1298
+    },
+    {
+      "Invoice_No": "IKAP26252609745",
+      "Vendor_Code": "V00312",
+      "Vendor_Name": "BUREAU OF INDIAN STANDARDS",
+      "Vendor_Bill_No": "BB00CR2025011823",
+      "Vendor_Bill_Date": "28-Feb-2026",
+      "Posting_Date": "28-Feb-2026",
+      "Lines": 0,
+      "Total_Value": 74340
+    },
+    {
+      "Invoice_No": "IKAP26252609746",
+      "Vendor_Code": "V00267",
+      "Vendor_Name": "Hawai  Travels & Tour",
+      "Vendor_Bill_No": "514",
+      "Vendor_Bill_Date": "02-Mar-2026",
+      "Posting_Date": "02-Mar-2026",
+      "Lines": 0,
+      "Total_Value": 486806
+    },
+    {
+      "Invoice_No": "IKAP26252609747",
+      "Vendor_Code": "V00255",
+      "Vendor_Name": "CAVALIER LOGISTICS PRIVATE LIMITED",
+      "Vendor_Bill_No": "CAVCAI1035/25-26",
+      "Vendor_Bill_Date": "25-Feb-2026",
+      "Posting_Date": "28-Feb-2026",
+      "Lines": 0,
+      "Total_Value": 13610
+    },
+    {
+      "Invoice_No": "IKAP26252609748",
+      "Vendor_Code": "V00255",
+      "Vendor_Name": "CAVALIER LOGISTICS PRIVATE LIMITED",
+      "Vendor_Bill_No": "CAV/AI4301/25-26",
+      "Vendor_Bill_Date": "21-Feb-2026",
+      "Posting_Date": "28-Feb-2026",
+      "Lines": 0,
+      "Total_Value": 77389
+    },
+    {
+      "Invoice_No": "IKAP26252609749",
+      "Vendor_Code": "V00302",
+      "Vendor_Name": "Star Clearing & Forwarding Services",
+      "Vendor_Bill_No": "IS/1254996",
+      "Vendor_Bill_Date": "26-Feb-2026",
+      "Posting_Date": "28-Feb-2026",
+      "Lines": 0,
+      "Total_Value": 35075
+    },
+    {
+      "Invoice_No": "IKAP26252609751",
+      "Vendor_Code": "V00303",
+      "Vendor_Name": "Sudhira Logistics Pvt Ltd",
+      "Vendor_Bill_No": "3701",
+      "Vendor_Bill_Date": "25-Feb-2026",
+      "Posting_Date": "28-Feb-2026",
+      "Lines": 0,
+      "Total_Value": 2541
+    },
+    {
+      "Invoice_No": "IKAP26252609752",
+      "Vendor_Code": "V00285",
+      "Vendor_Name": "R.S. Consultants",
+      "Vendor_Bill_No": "401/25-26",
+      "Vendor_Bill_Date": "28-Feb-2026",
+      "Posting_Date": "28-Feb-2026",
+      "Lines": 0,
+      "Total_Value": 43200
+    },
+    {
+      "Invoice_No": "IKAP26252609755",
+      "Vendor_Code": "V01187",
+      "Vendor_Name": "G V ASSOCIATES",
+      "Vendor_Bill_No": "SMINT 1688",
+      "Vendor_Bill_Date": "28-Feb-2026",
+      "Posting_Date": "28-Feb-2026",
+      "Lines": 0,
+      "Total_Value": 16233
+    },
+    {
+      "Invoice_No": "IKAP26252609756",
+      "Vendor_Code": "V01353",
+      "Vendor_Name": "GUPTA EMPIRE",
+      "Vendor_Bill_No": "A000192",
+      "Vendor_Bill_Date": "20-Feb-2026",
+      "Posting_Date": "28-Feb-2026",
+      "Lines": 0,
+      "Total_Value": 8342
+    },
+    {
+      "Invoice_No": "IKAP26252609757",
+      "Vendor_Code": "V01374",
+      "Vendor_Name": "Ultimate Pack Machine",
+      "Vendor_Bill_No": "33",
+      "Vendor_Bill_Date": "16-Feb-2026",
+      "Posting_Date": "28-Feb-2026",
+      "Lines": 0,
+      "Total_Value": 2950
+    },
+    {
+      "Invoice_No": "IKAP26252609758",
+      "Vendor_Code": "V00462",
+      "Vendor_Name": "AMBIKA ENGINEERING WORKS",
+      "Vendor_Bill_No": "25-26/772",
+      "Vendor_Bill_Date": "18-Feb-2026",
+      "Posting_Date": "28-Feb-2026",
+      "Lines": 0,
+      "Total_Value": 4909
+    },
+    {
+      "Invoice_No": "IKAP26252609759",
+      "Vendor_Code": "V00462",
+      "Vendor_Name": "AMBIKA ENGINEERING WORKS",
+      "Vendor_Bill_No": "25-26/773",
+      "Vendor_Bill_Date": "19-Feb-2026",
+      "Posting_Date": "28-Feb-2026",
+      "Lines": 0,
+      "Total_Value": 1033
+    },
+    {
+      "Invoice_No": "IKAP26252609760",
+      "Vendor_Code": "V01204",
+      "Vendor_Name": "M/S MADVID SOLUTIONS",
+      "Vendor_Bill_No": "589/2025-26",
+      "Vendor_Bill_Date": "18-Feb-2026",
+      "Posting_Date": "28-Feb-2026",
+      "Lines": 0,
+      "Total_Value": 10030
+    },
+    {
+      "Invoice_No": "IKAP26252609761",
+      "Vendor_Code": "V01353",
+      "Vendor_Name": "GUPTA EMPIRE",
+      "Vendor_Bill_No": "A000175",
+      "Vendor_Bill_Date": "16-Feb-2026",
+      "Posting_Date": "28-Feb-2026",
+      "Lines": 0,
+      "Total_Value": 6195
+    },
+    {
+      "Invoice_No": "IKAP26252609762",
+      "Vendor_Code": "V01353",
+      "Vendor_Name": "GUPTA EMPIRE",
+      "Vendor_Bill_No": "A000160",
+      "Vendor_Bill_Date": "09-Feb-2026",
+      "Posting_Date": "28-Feb-2026",
+      "Lines": 0,
+      "Total_Value": 8757
+    },
+    {
+      "Invoice_No": "IKAP26252609763",
+      "Vendor_Code": "V00248",
+      "Vendor_Name": "JAISIKA FIRE PROTECTION",
+      "Vendor_Bill_No": "564",
+      "Vendor_Bill_Date": "07-Feb-2026",
+      "Posting_Date": "28-Feb-2026",
+      "Lines": 0,
+      "Total_Value": 33984
+    },
+    {
+      "Invoice_No": "IKAP26252609764",
+      "Vendor_Code": "V00673",
+      "Vendor_Name": "SAKSHI GRAPHICS",
+      "Vendor_Bill_No": "SG/25-26/1478",
+      "Vendor_Bill_Date": "16-Feb-2026",
+      "Posting_Date": "28-Feb-2026",
+      "Lines": 0,
+      "Total_Value": 1416
+    },
+    {
+      "Invoice_No": "IKAP26252609765",
+      "Vendor_Code": "V00462",
+      "Vendor_Name": "AMBIKA ENGINEERING WORKS",
+      "Vendor_Bill_No": "25-26/759",
+      "Vendor_Bill_Date": "12-Feb-2026",
+      "Posting_Date": "28-Feb-2026",
+      "Lines": 0,
+      "Total_Value": 1918
+    },
+    {
+      "Invoice_No": "IKAP26252609766",
+      "Vendor_Code": "V00462",
+      "Vendor_Name": "AMBIKA ENGINEERING WORKS",
+      "Vendor_Bill_No": "25-26/732",
+      "Vendor_Bill_Date": "31-Jan-2026",
+      "Posting_Date": "28-Feb-2026",
+      "Lines": 0,
+      "Total_Value": 2213
+    },
+    {
+      "Invoice_No": "IKAP26252609767",
+      "Vendor_Code": "V00379",
+      "Vendor_Name": "K. L. ENTERPRISES",
+      "Vendor_Bill_No": "316",
+      "Vendor_Bill_Date": "04-Jan-2026",
+      "Posting_Date": "28-Feb-2026",
+      "Lines": 0,
+      "Total_Value": 127102
+    },
+    {
+      "Invoice_No": "IKAP26252609768",
+      "Vendor_Code": "V00262",
+      "Vendor_Name": "Gangotri Guest Houes",
+      "Vendor_Bill_No": "Feb-26",
+      "Vendor_Bill_Date": "01-Feb-2026",
+      "Posting_Date": "28-Feb-2026",
+      "Lines": 0,
+      "Total_Value": 3360
+    },
+    {
+      "Invoice_No": "IKAP26252609769",
+      "Vendor_Code": "V00663",
+      "Vendor_Name": "AMAZON WEB SERVICES PVT LTD",
+      "Vendor_Bill_No": "2536966757",
+      "Vendor_Bill_Date": "01-Mar-2026",
+      "Posting_Date": "06-Mar-2026",
+      "Lines": 0,
+      "Total_Value": 3065
+    },
+    {
+      "Invoice_No": "IKAP26252609770",
+      "Vendor_Code": "V00387",
+      "Vendor_Name": "GEE ENN SALES PVT LTD",
+      "Vendor_Bill_No": "GN/123/2025-26",
+      "Vendor_Bill_Date": "27-Feb-2026",
+      "Posting_Date": "28-Feb-2026",
+      "Lines": 0,
+      "Total_Value": 162000
+    },
+    {
+      "Invoice_No": "IKAP26252609771",
+      "Vendor_Code": "V00926",
+      "Vendor_Name": "STELLAR IR ADVISORS PVT LTD",
+      "Vendor_Bill_No": "SIR/2025-26/0323",
+      "Vendor_Bill_Date": "01-Mar-2026",
+      "Posting_Date": "06-Mar-2026",
+      "Lines": 0,
+      "Total_Value": 135000
+    },
+    {
+      "Invoice_No": "IKAP26252609772",
+      "Vendor_Code": "V00270",
+      "Vendor_Name": "Indian Security Services",
+      "Vendor_Bill_No": "ISS/25-26/342",
+      "Vendor_Bill_Date": "06-Mar-2026",
+      "Posting_Date": "06-Mar-2026",
+      "Lines": 0,
+      "Total_Value": 133784
+    },
+    {
+      "Invoice_No": "IKAP26252609773",
+      "Vendor_Code": "V00462",
+      "Vendor_Name": "AMBIKA ENGINEERING WORKS",
+      "Vendor_Bill_No": "25-26/746",
+      "Vendor_Bill_Date": "05-Feb-2026",
+      "Posting_Date": "28-Feb-2026",
+      "Lines": 0,
+      "Total_Value": 1918
+    },
+    {
+      "Invoice_No": "IKAP26252609774",
+      "Vendor_Code": "V01069",
+      "Vendor_Name": "ANUSHREE ASSOCIATES",
+      "Vendor_Bill_No": "Feb-26",
+      "Vendor_Bill_Date": "02-Feb-2026",
+      "Posting_Date": "28-Feb-2026",
+      "Lines": 0,
+      "Total_Value": 71671
+    },
+    {
+      "Invoice_No": "IKAP26252609775",
+      "Vendor_Code": "V00473",
+      "Vendor_Name": "ABDHESH KUMAR",
+      "Vendor_Bill_No": "719",
+      "Vendor_Bill_Date": "28-Feb-2026",
+      "Posting_Date": "28-Feb-2026",
+      "Lines": 0,
+      "Total_Value": 109564
+    },
+    {
+      "Invoice_No": "IKAP26252609776",
+      "Vendor_Code": "V00236",
+      "Vendor_Name": "Shree Computers",
+      "Vendor_Bill_No": "1084",
+      "Vendor_Bill_Date": "17-Feb-2026",
+      "Posting_Date": "28-Feb-2026",
+      "Lines": 0,
+      "Total_Value": 9086
+    },
+    {
+      "Invoice_No": "IKAP26252609777",
+      "Vendor_Code": "V00236",
+      "Vendor_Name": "Shree Computers",
+      "Vendor_Bill_No": "1081",
+      "Vendor_Bill_Date": "02-Feb-2026",
+      "Posting_Date": "28-Feb-2026",
+      "Lines": 0,
+      "Total_Value": 7375
+    },
+    {
+      "Invoice_No": "IKAP26252609778",
+      "Vendor_Code": "V00462",
+      "Vendor_Name": "AMBIKA ENGINEERING WORKS",
+      "Vendor_Bill_No": "25-26/798",
+      "Vendor_Bill_Date": "27-Feb-2026",
+      "Posting_Date": "28-Feb-2026",
+      "Lines": 0,
+      "Total_Value": 1328
+    },
+    {
+      "Invoice_No": "IKAP26252609779",
+      "Vendor_Code": "V00462",
+      "Vendor_Name": "AMBIKA ENGINEERING WORKS",
+      "Vendor_Bill_No": "25-26/781",
+      "Vendor_Bill_Date": "23-Feb-2026",
+      "Posting_Date": "28-Feb-2026",
+      "Lines": 0,
+      "Total_Value": 1033
+    },
+    {
+      "Invoice_No": "IKAP26252609780",
+      "Vendor_Code": "V00737",
+      "Vendor_Name": "IKIO SOLUTIONS PVT LTD",
+      "Vendor_Bill_No": "ISPLII252622354",
+      "Vendor_Bill_Date": "23-Feb-2026",
+      "Posting_Date": "28-Feb-2026",
+      "Lines": 0,
+      "Total_Value": 198
+    },
+    {
+      "Invoice_No": "IKAP26252609781",
+      "Vendor_Code": "V01353",
+      "Vendor_Name": "GUPTA EMPIRE",
+      "Vendor_Bill_No": "A000210",
+      "Vendor_Bill_Date": "27-Feb-2026",
+      "Posting_Date": "28-Feb-2026",
+      "Lines": 0,
+      "Total_Value": 1771
+    },
+    {
+      "Invoice_No": "IKAP26252609782",
+      "Vendor_Code": "V00268",
+      "Vendor_Name": "Hotel Jasmine",
+      "Vendor_Bill_No": "FO25262151",
+      "Vendor_Bill_Date": "07-Feb-2026",
+      "Posting_Date": "28-Feb-2026",
+      "Lines": 0,
+      "Total_Value": 4560
+    },
+    {
+      "Invoice_No": "IKAP26252609783",
+      "Vendor_Code": "V00262",
+      "Vendor_Name": "Gangotri Guest Houes",
+      "Vendor_Bill_No": "MAR-26",
+      "Vendor_Bill_Date": "01-Mar-2026",
+      "Posting_Date": "01-Mar-2026",
+      "Lines": 0,
+      "Total_Value": 3360
+    },
+    {
+      "Invoice_No": "IKAP26252609784",
+      "Vendor_Code": "V00270",
+      "Vendor_Name": "Indian Security Services",
+      "Vendor_Bill_No": "ISS/25-26/296",
+      "Vendor_Bill_Date": "01-Jan-2026",
+      "Posting_Date": "28-Feb-2026",
+      "Lines": 0,
+      "Total_Value": 20885
+    },
+    {
+      "Invoice_No": "IKAP26252609785",
+      "Vendor_Code": "V00270",
+      "Vendor_Name": "Indian Security Services",
+      "Vendor_Bill_No": "ISS/25-26/320",
+      "Vendor_Bill_Date": "01-Feb-2026",
+      "Posting_Date": "28-Feb-2026",
+      "Lines": 0,
+      "Total_Value": 30829
+    },
+    {
+      "Invoice_No": "IKAP26252609786",
+      "Vendor_Code": "V01294",
+      "Vendor_Name": "ELYZIUM TECHNOLOGIES PVT LTD",
+      "Vendor_Bill_No": "ETPL-UP2526-1848",
+      "Vendor_Bill_Date": "02-Mar-2026",
+      "Posting_Date": "07-Mar-2026",
+      "Lines": 0,
+      "Total_Value": 9280
+    },
+    {
+      "Invoice_No": "IKAP26252609787",
+      "Vendor_Code": "V00098",
+      "Vendor_Name": "SINGODIA ELECTRONICS PVT LTD",
+      "Vendor_Bill_No": "SEPL/25-26/3065.",
+      "Vendor_Bill_Date": "27-Feb-2026",
+      "Posting_Date": "10-Mar-2026",
+      "Lines": 2,
+      "Total_Value": 143689
+    },
+    {
+      "Invoice_No": "IKAP26252609788",
+      "Vendor_Code": "V01271",
+      "Vendor_Name": "BK PRINTPACK INNOVATIONS PRIVATE LIMITED",
+      "Vendor_Bill_No": "BKHW/25-26/11184.",
+      "Vendor_Bill_Date": "28-Feb-2026",
+      "Posting_Date": "10-Mar-2026",
+      "Lines": 10,
+      "Total_Value": 168822
+    },
+    {
+      "Invoice_No": "IKAP26252609789",
+      "Vendor_Code": "V01271",
+      "Vendor_Name": "BK PRINTPACK INNOVATIONS PRIVATE LIMITED",
+      "Vendor_Bill_No": "BKHW/25-26/11183.",
+      "Vendor_Bill_Date": "28-Feb-2026",
+      "Posting_Date": "10-Mar-2026",
+      "Lines": 8,
+      "Total_Value": 99542
+    },
+    {
+      "Invoice_No": "IKAP26252609790",
+      "Vendor_Code": "V00737",
+      "Vendor_Name": "IKIO SOLUTIONS PVT LTD",
+      "Vendor_Bill_No": "ISPLII252622413.",
+      "Vendor_Bill_Date": "28-Feb-2026",
+      "Posting_Date": "10-Mar-2026",
+      "Lines": 21,
+      "Total_Value": 420772
+    },
+    {
+      "Invoice_No": "IKAP26252609914",
+      "Vendor_Code": "V01269",
+      "Vendor_Name": "IKIO SOLUTIONS PRIVATE LIMITED(UNIT-2)",
+      "Vendor_Bill_No": "ISPLI2526600732",
+      "Vendor_Bill_Date": "05-Mar-2026",
+      "Posting_Date": "11-Mar-2026",
+      "Lines": 17,
+      "Total_Value": 131063
+    },
+    {
+      "Invoice_No": "IKAP26252609927",
+      "Vendor_Code": "V00737",
+      "Vendor_Name": "IKIO SOLUTIONS PVT LTD",
+      "Vendor_Bill_No": "ISPLII252622202",
+      "Vendor_Bill_Date": "06-Feb-2026",
+      "Posting_Date": "11-Mar-2026",
+      "Lines": 0,
+      "Total_Value": 2088
+    },
+    {
+      "Invoice_No": "IKAP26252609928",
+      "Vendor_Code": "V00737",
+      "Vendor_Name": "IKIO SOLUTIONS PVT LTD",
+      "Vendor_Bill_No": "ISPLII252622283",
+      "Vendor_Bill_Date": "14-Feb-2026",
+      "Posting_Date": "11-Mar-2026",
+      "Lines": 0,
+      "Total_Value": 3422
+    },
+    {
+      "Invoice_No": "IKAP26252609929",
+      "Vendor_Code": "V01373",
+      "Vendor_Name": "ADITI AUTOMOBILES",
+      "Vendor_Bill_No": "5785",
+      "Vendor_Bill_Date": "05-Mar-2026",
+      "Posting_Date": "12-Mar-2026",
+      "Lines": 0,
+      "Total_Value": 112150
+    },
+    {
+      "Invoice_No": "IKAP26252609930",
+      "Vendor_Code": "V00302",
+      "Vendor_Name": "Star Clearing & Forwarding Services",
+      "Vendor_Bill_No": "IS/1255030",
+      "Vendor_Bill_Date": "28-Feb-2026",
+      "Posting_Date": "12-Mar-2026",
+      "Lines": 0,
+      "Total_Value": 19546
+    },
+    {
+      "Invoice_No": "IKAP26252609931",
+      "Vendor_Code": "V00255",
+      "Vendor_Name": "CAVALIER LOGISTICS PRIVATE LIMITED",
+      "Vendor_Bill_No": "CAV/SI3258/25-26",
+      "Vendor_Bill_Date": "03-Mar-2026",
+      "Posting_Date": "12-Mar-2026",
+      "Lines": 0,
+      "Total_Value": 110098
+    },
+    {
+      "Invoice_No": "IKAP26252609932",
+      "Vendor_Code": "V00302",
+      "Vendor_Name": "Star Clearing & Forwarding Services",
+      "Vendor_Bill_No": "IS/1255086",
+      "Vendor_Bill_Date": "06-Mar-2026",
+      "Posting_Date": "12-Mar-2026",
+      "Lines": 0,
+      "Total_Value": 68356
+    },
+    {
+      "Invoice_No": "IKAP26252609933",
+      "Vendor_Code": "V00259",
+      "Vendor_Name": "DHL EXPRESS INDIA PVT LTD(C)",
+      "Vendor_Bill_No": "DEL740813",
+      "Vendor_Bill_Date": "05-Mar-2026",
+      "Posting_Date": "12-Mar-2026",
+      "Lines": 0,
+      "Total_Value": 1298
+    },
+    {
+      "Invoice_No": "IKAP26252609934",
+      "Vendor_Code": "V00259",
+      "Vendor_Name": "DHL EXPRESS INDIA PVT LTD(C)",
+      "Vendor_Bill_No": "DEL740533",
+      "Vendor_Bill_Date": "05-Mar-2026",
+      "Posting_Date": "12-Mar-2026",
+      "Lines": 0,
+      "Total_Value": 1298
+    },
+    {
+      "Invoice_No": "IKAP26252609935",
+      "Vendor_Code": "V00259",
+      "Vendor_Name": "DHL EXPRESS INDIA PVT LTD(C)",
+      "Vendor_Bill_No": "DEL740715",
+      "Vendor_Bill_Date": "05-Mar-2026",
+      "Posting_Date": "12-Mar-2026",
+      "Lines": 0,
+      "Total_Value": 6608
+    },
+    {
+      "Invoice_No": "IKAP26252609936",
+      "Vendor_Code": "V00255",
+      "Vendor_Name": "CAVALIER LOGISTICS PRIVATE LIMITED",
+      "Vendor_Bill_No": "CAV/AI4396/25-26",
+      "Vendor_Bill_Date": "06-Mar-2026",
+      "Posting_Date": "12-Mar-2026",
+      "Lines": 0,
+      "Total_Value": 42835
+    },
+    {
+      "Invoice_No": "IKAP26252609937",
+      "Vendor_Code": "V00255",
+      "Vendor_Name": "CAVALIER LOGISTICS PRIVATE LIMITED",
+      "Vendor_Bill_No": "CAVCAI1050/25-26",
+      "Vendor_Bill_Date": "07-Mar-2026",
+      "Posting_Date": "12-Mar-2026",
+      "Lines": 0,
+      "Total_Value": 11834
+    },
+    {
+      "Invoice_No": "IKAP26252609975",
+      "Vendor_Code": "V00806",
+      "Vendor_Name": "Transvalue Consultants",
+      "Vendor_Bill_No": "IND-0126-1420",
+      "Vendor_Bill_Date": "30-Jan-2026",
+      "Posting_Date": "13-Mar-2026",
+      "Lines": 0,
+      "Total_Value": 37800
+    },
+    {
+      "Invoice_No": "IKAP26252609997",
+      "Vendor_Code": "V00302",
+      "Vendor_Name": "Star Clearing & Forwarding Services",
+      "Vendor_Bill_No": "IS/1255031",
+      "Vendor_Bill_Date": "28-Feb-2026",
+      "Posting_Date": "14-Mar-2026",
+      "Lines": 0,
+      "Total_Value": 19115
+    },
+    {
+      "Invoice_No": "IKAP26252609998",
+      "Vendor_Code": "V00358",
+      "Vendor_Name": "SKYLINE FREIGHT & TRAVELS PRIVATE LIMITED",
+      "Vendor_Bill_No": "SKY25261118",
+      "Vendor_Bill_Date": "27-Feb-2026",
+      "Posting_Date": "14-Mar-2026",
+      "Lines": 0,
+      "Total_Value": 36760
+    },
+    {
+      "Invoice_No": "IKAP26252609999",
+      "Vendor_Code": "V00258",
+      "Vendor_Name": "Dhl Express India Pvt Ltd (F)",
+      "Vendor_Bill_No": "UTXIR00010288",
+      "Vendor_Bill_Date": "13-Mar-2026",
+      "Posting_Date": "16-Mar-2026",
+      "Lines": 0,
+      "Total_Value": 54610
+    },
+    {
+      "Invoice_No": "IKAP26252610000",
+      "Vendor_Code": "V00311",
+      "Vendor_Name": "Anchor Roadlines Pvt Ltd",
+      "Vendor_Bill_No": "HRD25BLL000646",
+      "Vendor_Bill_Date": "08-Mar-2026",
+      "Posting_Date": "16-Mar-2026",
+      "Lines": 0,
+      "Total_Value": 21893
+    },
+    {
+      "Invoice_No": "IKAPIM26252610034",
+      "Vendor_Code": "V00037",
+      "Vendor_Name": "Formax Electronics Pvt Ltd",
+      "Vendor_Bill_No": "FEPL/25-26/22743.",
+      "Vendor_Bill_Date": "16-Mar-2026",
+      "Posting_Date": "23-Mar-2026",
+      "Lines": 2,
+      "Total_Value": 1151
+    },
+    {
+      "Invoice_No": "IKAPIM26252610077",
+      "Vendor_Code": "V00647",
+      "Vendor_Name": "BGJC & ASSOCIATES LLP",
+      "Vendor_Bill_No": "BGJC/BU7/26/1222",
+      "Vendor_Bill_Date": "05-Feb-2026",
+      "Posting_Date": "24-Mar-2026",
+      "Lines": 0,
+      "Total_Value": 61367
+    },
+    {
+      "Invoice_No": "IKAPIM26252610097",
+      "Vendor_Code": "V00255",
+      "Vendor_Name": "CAVALIER LOGISTICS PRIVATE LIMITED",
+      "Vendor_Bill_No": "CAVCAI1071/25-26",
+      "Vendor_Bill_Date": "18-Mar-2026",
+      "Posting_Date": "25-Mar-2026",
+      "Lines": 0,
+      "Total_Value": 5550
+    },
+    {
+      "Invoice_No": "IKAPIM26252610098",
+      "Vendor_Code": "V00255",
+      "Vendor_Name": "CAVALIER LOGISTICS PRIVATE LIMITED",
+      "Vendor_Bill_No": "CAV/AI4481/25-26",
+      "Vendor_Bill_Date": "17-Mar-2026",
+      "Posting_Date": "25-Mar-2026",
+      "Lines": 0,
+      "Total_Value": 33375
+    },
+    {
+      "Invoice_No": "IKAPIM26252610099",
+      "Vendor_Code": "V00255",
+      "Vendor_Name": "CAVALIER LOGISTICS PRIVATE LIMITED",
+      "Vendor_Bill_No": "CAVCAI1072/25-26",
+      "Vendor_Bill_Date": "18-Mar-2026",
+      "Posting_Date": "25-Mar-2026",
+      "Lines": 0,
+      "Total_Value": 5222
+    },
+    {
+      "Invoice_No": "IKAPIM26252610100",
+      "Vendor_Code": "V00255",
+      "Vendor_Name": "CAVALIER LOGISTICS PRIVATE LIMITED",
+      "Vendor_Bill_No": "CAV/AI4508/25-26",
+      "Vendor_Bill_Date": "19-Mar-2026",
+      "Posting_Date": "25-Mar-2026",
+      "Lines": 0,
+      "Total_Value": 26154
+    },
+    {
+      "Invoice_No": "IKAPIM26252610101",
+      "Vendor_Code": "V00255",
+      "Vendor_Name": "CAVALIER LOGISTICS PRIVATE LIMITED",
+      "Vendor_Bill_No": "CAVCAI1070/25-26",
+      "Vendor_Bill_Date": "18-Mar-2026",
+      "Posting_Date": "25-Mar-2026",
+      "Lines": 0,
+      "Total_Value": 12289
+    },
+    {
+      "Invoice_No": "IKAPIM26252610102",
+      "Vendor_Code": "V00255",
+      "Vendor_Name": "CAVALIER LOGISTICS PRIVATE LIMITED",
+      "Vendor_Bill_No": "CAV/AI4487/25-26",
+      "Vendor_Bill_Date": "18-Mar-2026",
+      "Posting_Date": "25-Mar-2026",
+      "Lines": 0,
+      "Total_Value": 35443
+    },
+    {
+      "Invoice_No": "IKAPIM26252610103",
+      "Vendor_Code": "V00302",
+      "Vendor_Name": "Star Clearing & Forwarding Services",
+      "Vendor_Bill_No": "IA/1255168",
+      "Vendor_Bill_Date": "12-Mar-2026",
+      "Posting_Date": "25-Mar-2026",
+      "Lines": 0,
+      "Total_Value": 9314
+    },
+    {
+      "Invoice_No": "IKAPIM26252610104",
+      "Vendor_Code": "V00255",
+      "Vendor_Name": "CAVALIER LOGISTICS PRIVATE LIMITED",
+      "Vendor_Bill_No": "CAV/AI4432/25-26",
+      "Vendor_Bill_Date": "12-Mar-2026",
+      "Posting_Date": "25-Mar-2026",
+      "Lines": 0,
+      "Total_Value": 17848
+    },
+    {
+      "Invoice_No": "IKAPIM26252610105",
+      "Vendor_Code": "V00259",
+      "Vendor_Name": "DHL EXPRESS INDIA PVT LTD(C)",
+      "Vendor_Bill_No": "DEL749088",
+      "Vendor_Bill_Date": "12-Mar-2026",
+      "Posting_Date": "25-Mar-2026",
+      "Lines": 0,
+      "Total_Value": 6608
+    },
+    {
+      "Invoice_No": "IKAPIM26252610106",
+      "Vendor_Code": "V01205",
+      "Vendor_Name": "VARDHAMANA  TESTING LABORATORY",
+      "Vendor_Bill_No": "VTL/970/2025-26",
+      "Vendor_Bill_Date": "21-Mar-2026",
+      "Posting_Date": "25-Mar-2026",
+      "Lines": 0,
+      "Total_Value": 181440
+    },
+    {
+      "Invoice_No": "IKAPIM26252610107",
+      "Vendor_Code": "V00258",
+      "Vendor_Name": "Dhl Express India Pvt Ltd (F)",
+      "Vendor_Bill_No": "UTXIR00010353",
+      "Vendor_Bill_Date": "20-Mar-2026",
+      "Posting_Date": "25-Mar-2026",
+      "Lines": 0,
+      "Total_Value": 30632
+    },
+    {
+      "Invoice_No": "IKAPIM26252610147",
+      "Vendor_Code": "V00930",
+      "Vendor_Name": "KFIN TECHNOLOIGES LIMITED",
+      "Vendor_Bill_No": "2526026573",
+      "Vendor_Bill_Date": "15-Mar-2026",
+      "Posting_Date": "27-Mar-2026",
+      "Lines": 0,
+      "Total_Value": 41040
+    },
+    {
+      "Invoice_No": "IKAPIM26252610148",
+      "Vendor_Code": "V00312",
+      "Vendor_Name": "BUREAU OF INDIAN STANDARDS",
+      "Vendor_Bill_No": "NITSTF2526012436",
+      "Vendor_Bill_Date": "06-Mar-2026",
+      "Posting_Date": "27-Mar-2026",
+      "Lines": 0,
+      "Total_Value": 27612
+    },
+    {
+      "Invoice_No": "IKAPIM26252610149",
+      "Vendor_Code": "V00312",
+      "Vendor_Name": "BUREAU OF INDIAN STANDARDS",
+      "Vendor_Bill_No": "BB00CR2025012086",
+      "Vendor_Bill_Date": "10-Mar-2026",
+      "Posting_Date": "27-Mar-2026",
+      "Lines": 0,
+      "Total_Value": 50740
+    },
+    {
+      "Invoice_No": "IKAPIM26252610167",
+      "Vendor_Code": "V00312",
+      "Vendor_Name": "BUREAU OF INDIAN STANDARDS",
+      "Vendor_Bill_No": "NITSTF25260124",
+      "Vendor_Bill_Date": "28-Jan-2026",
+      "Posting_Date": "27-Mar-2026",
+      "Lines": 0,
+      "Total_Value": 35400
+    },
+    {
+      "Invoice_No": "IKAPIM26252610168",
+      "Vendor_Code": "V00312",
+      "Vendor_Name": "BUREAU OF INDIAN STANDARDS",
+      "Vendor_Bill_No": "NITSTF2526012",
+      "Vendor_Bill_Date": "28-Feb-2026",
+      "Posting_Date": "27-Mar-2026",
+      "Lines": 0,
+      "Total_Value": 74340
+    },
+    {
+      "Invoice_No": "IKAPIM26252610259",
+      "Vendor_Code": "V00317",
+      "Vendor_Name": "Shiv Saroj & Associates",
+      "Vendor_Bill_No": "2024-25/174",
+      "Vendor_Bill_Date": "28-Mar-2026",
+      "Posting_Date": "31-Mar-2026",
+      "Lines": 0,
+      "Total_Value": 270000
+    },
+    {
+      "Invoice_No": "IKAPIM26252610260",
+      "Vendor_Code": "V00387",
+      "Vendor_Name": "GEE ENN SALES PVT LTD",
+      "Vendor_Bill_No": "GN/133/2025-26",
+      "Vendor_Bill_Date": "27-Mar-2026",
+      "Posting_Date": "31-Mar-2026",
+      "Lines": 0,
+      "Total_Value": 108000
+    },
+    {
+      "Invoice_No": "IKAPIM26252610261",
+      "Vendor_Code": "V00387",
+      "Vendor_Name": "GEE ENN SALES PVT LTD",
+      "Vendor_Bill_No": "GN/132/2025-26",
+      "Vendor_Bill_Date": "27-Mar-2026",
+      "Posting_Date": "31-Mar-2026",
+      "Lines": 0,
+      "Total_Value": 162000
+    },
+    {
+      "Invoice_No": "IKAPIM26252610262",
+      "Vendor_Code": "V00258",
+      "Vendor_Name": "Dhl Express India Pvt Ltd (F)",
+      "Vendor_Bill_No": "UTXIR00010425",
+      "Vendor_Bill_Date": "27-Mar-2026",
+      "Posting_Date": "31-Mar-2026",
+      "Lines": 0,
+      "Total_Value": 98713
+    },
+    {
+      "Invoice_No": "IKAPIM26252610263",
+      "Vendor_Code": "V00258",
+      "Vendor_Name": "Dhl Express India Pvt Ltd (F)",
+      "Vendor_Bill_No": "UTXIR00009984",
+      "Vendor_Bill_Date": "13-Feb-2026",
+      "Posting_Date": "31-Mar-2026",
+      "Lines": 0,
+      "Total_Value": 108767
+    },
+    {
+      "Invoice_No": "IKAPIM26252610264",
+      "Vendor_Code": "V00259",
+      "Vendor_Name": "DHL EXPRESS INDIA PVT LTD(C)",
+      "Vendor_Bill_No": "DEL753194",
+      "Vendor_Bill_Date": "15-Mar-2026",
+      "Posting_Date": "31-Mar-2026",
+      "Lines": 0,
+      "Total_Value": 1298
+    },
+    {
+      "Invoice_No": "IKAPIM26252610265",
+      "Vendor_Code": "V00259",
+      "Vendor_Name": "DHL EXPRESS INDIA PVT LTD(C)",
+      "Vendor_Bill_No": "DEL765645",
+      "Vendor_Bill_Date": "25-Mar-2026",
+      "Posting_Date": "31-Mar-2026",
+      "Lines": 0,
+      "Total_Value": 1298
+    },
+    {
+      "Invoice_No": "IKAPIM26252610269",
+      "Vendor_Code": "V00259",
+      "Vendor_Name": "DHL EXPRESS INDIA PVT LTD(C)",
+      "Vendor_Bill_No": "DEL758165",
+      "Vendor_Bill_Date": "19-Mar-2026",
+      "Posting_Date": "31-Mar-2026",
+      "Lines": 0,
+      "Total_Value": 9599
+    },
+    {
+      "Invoice_No": "IKAPIM26252610275",
+      "Vendor_Code": "V00259",
+      "Vendor_Name": "DHL EXPRESS INDIA PVT LTD(C)",
+      "Vendor_Bill_No": "DEL757374",
+      "Vendor_Bill_Date": "19-Mar-2026",
+      "Posting_Date": "31-Mar-2026",
+      "Lines": 0,
+      "Total_Value": 1298
+    },
+    {
+      "Invoice_No": "IKAPIM26252610283",
+      "Vendor_Code": "V00302",
+      "Vendor_Name": "Star Clearing & Forwarding Services",
+      "Vendor_Bill_No": "IA/1255432",
+      "Vendor_Bill_Date": "28-Mar-2026",
+      "Posting_Date": "31-Mar-2026",
+      "Lines": 0,
+      "Total_Value": 27142
+    },
+    {
+      "Invoice_No": "IKAPIM26252610291",
+      "Vendor_Code": "V00302",
+      "Vendor_Name": "Star Clearing & Forwarding Services",
+      "Vendor_Bill_No": "IA/1255433",
+      "Vendor_Bill_Date": "28-Mar-2026",
+      "Posting_Date": "31-Mar-2026",
+      "Lines": 0,
+      "Total_Value": 17994
+    },
+    {
+      "Invoice_No": "IKAPIM26252610300",
+      "Vendor_Code": "V00259",
+      "Vendor_Name": "DHL EXPRESS INDIA PVT LTD(C)",
+      "Vendor_Bill_No": "DEL759355",
+      "Vendor_Bill_Date": "20-Mar-2026",
+      "Posting_Date": "31-Mar-2026",
+      "Lines": 0,
+      "Total_Value": 6913
+    },
+    {
+      "Invoice_No": "IKAPIM26252610301",
+      "Vendor_Code": "V00302",
+      "Vendor_Name": "Star Clearing & Forwarding Services",
+      "Vendor_Bill_No": "IA/1255434",
+      "Vendor_Bill_Date": "28-Mar-2026",
+      "Posting_Date": "31-Mar-2026",
+      "Lines": 0,
+      "Total_Value": 16254
+    },
+    {
+      "Invoice_No": "IKAPIM26252610307",
+      "Vendor_Code": "V00302",
+      "Vendor_Name": "Star Clearing & Forwarding Services",
+      "Vendor_Bill_No": "IA/1255435",
+      "Vendor_Bill_Date": "28-Mar-2026",
+      "Posting_Date": "31-Mar-2026",
+      "Lines": 0,
+      "Total_Value": 3007
+    },
+    {
+      "Invoice_No": "IKAPIM26252610308",
+      "Vendor_Code": "V00302",
+      "Vendor_Name": "Star Clearing & Forwarding Services",
+      "Vendor_Bill_No": "IA/1255347",
+      "Vendor_Bill_Date": "24-Mar-2026",
+      "Posting_Date": "31-Mar-2026",
+      "Lines": 0,
+      "Total_Value": 21034
+    },
+    {
+      "Invoice_No": "IKAPIM26252610309",
+      "Vendor_Code": "V00302",
+      "Vendor_Name": "Star Clearing & Forwarding Services",
+      "Vendor_Bill_No": "IA/1255348",
+      "Vendor_Bill_Date": "24-Mar-2026",
+      "Posting_Date": "31-Mar-2026",
+      "Lines": 0,
+      "Total_Value": 3007
+    },
+    {
+      "Invoice_No": "IKAPIM26252610310",
+      "Vendor_Code": "V00302",
+      "Vendor_Name": "Star Clearing & Forwarding Services",
+      "Vendor_Bill_No": "IS/1255414",
+      "Vendor_Bill_Date": "27-Mar-2026",
+      "Posting_Date": "31-Mar-2026",
+      "Lines": 0,
+      "Total_Value": 278299
+    },
+    {
+      "Invoice_No": "IKAPIM26252610311",
+      "Vendor_Code": "V00302",
+      "Vendor_Name": "Star Clearing & Forwarding Services",
+      "Vendor_Bill_No": "IS/1255307",
+      "Vendor_Bill_Date": "21-Mar-2026",
+      "Posting_Date": "31-Mar-2026",
+      "Lines": 0,
+      "Total_Value": 63617
+    },
+    {
+      "Invoice_No": "IKAPIM26252610312",
+      "Vendor_Code": "V00302",
+      "Vendor_Name": "Star Clearing & Forwarding Services",
+      "Vendor_Bill_No": "IS/1255308",
+      "Vendor_Bill_Date": "21-Mar-2026",
+      "Posting_Date": "31-Mar-2026",
+      "Lines": 0,
+      "Total_Value": 37421
+    },
+    {
+      "Invoice_No": "IKAPIM26252610313",
+      "Vendor_Code": "V00302",
+      "Vendor_Name": "Star Clearing & Forwarding Services",
+      "Vendor_Bill_No": "IS/1255309",
+      "Vendor_Bill_Date": "21-Mar-2026",
+      "Posting_Date": "31-Mar-2026",
+      "Lines": 0,
+      "Total_Value": 38705
+    },
+    {
+      "Invoice_No": "IKAPIM26252610314",
+      "Vendor_Code": "V00255",
+      "Vendor_Name": "CAVALIER LOGISTICS PRIVATE LIMITED",
+      "Vendor_Bill_No": "CAVCAI1104/25-26",
+      "Vendor_Bill_Date": "28-Mar-2026",
+      "Posting_Date": "31-Mar-2026",
+      "Lines": 0,
+      "Total_Value": 22114
+    },
+    {
+      "Invoice_No": "IKAPIM26252610315",
+      "Vendor_Code": "V00255",
+      "Vendor_Name": "CAVALIER LOGISTICS PRIVATE LIMITED",
+      "Vendor_Bill_No": "CAV/AI4638/25-26",
+      "Vendor_Bill_Date": "28-Mar-2026",
+      "Posting_Date": "31-Mar-2026",
+      "Lines": 0,
+      "Total_Value": 84268
+    },
+    {
+      "Invoice_No": "IKAPIM26252610316",
+      "Vendor_Code": "V00255",
+      "Vendor_Name": "CAVALIER LOGISTICS PRIVATE LIMITED",
+      "Vendor_Bill_No": "CAVCAI1103/25-26",
+      "Vendor_Bill_Date": "28-Mar-2026",
+      "Posting_Date": "31-Mar-2026",
+      "Lines": 0,
+      "Total_Value": 6728
+    },
+    {
+      "Invoice_No": "IKAPIM26252610317",
+      "Vendor_Code": "V00255",
+      "Vendor_Name": "CAVALIER LOGISTICS PRIVATE LIMITED",
+      "Vendor_Bill_No": "CAV/AI4636/25-26",
+      "Vendor_Bill_Date": "28-Mar-2026",
+      "Posting_Date": "31-Mar-2026",
+      "Lines": 0,
+      "Total_Value": 57074
+    },
+    {
+      "Invoice_No": "IKAPIM26252610318",
+      "Vendor_Code": "V01358",
+      "Vendor_Name": "SATSAVI FILLING STATION",
+      "Vendor_Bill_No": "MS/HSD/FEB-015",
+      "Vendor_Bill_Date": "28-Feb-2026",
+      "Posting_Date": "31-Mar-2026",
+      "Lines": 0,
+      "Total_Value": 69391
+    },
+    {
+      "Invoice_No": "IKAPIM26252610319",
+      "Vendor_Code": "V00302",
+      "Vendor_Name": "Star Clearing & Forwarding Services",
+      "Vendor_Bill_No": "IA/1255415",
+      "Vendor_Bill_Date": "31-Mar-2026",
+      "Posting_Date": "31-Mar-2026",
+      "Lines": 0,
+      "Total_Value": 172860
+    },
+    {
+      "Invoice_No": "IKAPIM26252610320",
+      "Vendor_Code": "V00302",
+      "Vendor_Name": "Star Clearing & Forwarding Services",
+      "Vendor_Bill_No": "IA/1255416",
+      "Vendor_Bill_Date": "27-Mar-2026",
+      "Posting_Date": "31-Mar-2026",
+      "Lines": 0,
+      "Total_Value": 469549
+    },
+    {
+      "Invoice_No": "IKAPIM26252610321",
+      "Vendor_Code": "V00259",
+      "Vendor_Name": "DHL EXPRESS INDIA PVT LTD(C)",
+      "Vendor_Bill_No": "DEL768911",
+      "Vendor_Bill_Date": "27-Mar-2026",
+      "Posting_Date": "31-Mar-2026",
+      "Lines": 0,
+      "Total_Value": 1298
+    },
+    {
+      "Invoice_No": "IKAPIM26252610322",
+      "Vendor_Code": "V00302",
+      "Vendor_Name": "Star Clearing & Forwarding Services",
+      "Vendor_Bill_No": "IS/1255471",
+      "Vendor_Bill_Date": "30-Mar-2026",
+      "Posting_Date": "31-Mar-2026",
+      "Lines": 0,
+      "Total_Value": 67218
+    },
+    {
+      "Invoice_No": "IKAPIM26252610323",
+      "Vendor_Code": "V00302",
+      "Vendor_Name": "Star Clearing & Forwarding Services",
+      "Vendor_Bill_No": "IS/1255396",
+      "Vendor_Bill_Date": "27-Mar-2026",
+      "Posting_Date": "31-Mar-2026",
+      "Lines": 0,
+      "Total_Value": 27647
+    },
+    {
+      "Invoice_No": "IKAPIM26252610324",
+      "Vendor_Code": "V00302",
+      "Vendor_Name": "Star Clearing & Forwarding Services",
+      "Vendor_Bill_No": "IS/1255472",
+      "Vendor_Bill_Date": "30-Mar-2026",
+      "Posting_Date": "31-Mar-2026",
+      "Lines": 0,
+      "Total_Value": 67011
+    },
+    {
+      "Invoice_No": "IKAPIM26252610325",
+      "Vendor_Code": "V00302",
+      "Vendor_Name": "Star Clearing & Forwarding Services",
+      "Vendor_Bill_No": "IS/1255306",
+      "Vendor_Bill_Date": "21-Mar-2026",
+      "Posting_Date": "31-Mar-2026",
+      "Lines": 0,
+      "Total_Value": 81520
+    },
+    {
+      "Invoice_No": "IKAPIM26252610326",
+      "Vendor_Code": "V00302",
+      "Vendor_Name": "Star Clearing & Forwarding Services",
+      "Vendor_Bill_No": "IS/1255508",
+      "Vendor_Bill_Date": "31-Mar-2026",
+      "Posting_Date": "31-Mar-2026",
+      "Lines": 0,
+      "Total_Value": 67535
+    },
+    {
+      "Invoice_No": "IKAPIM26252610345",
+      "Vendor_Code": "V00346",
+      "Vendor_Name": "OMEGA PRINTOPACK PVT LTD.",
+      "Vendor_Bill_No": "UK5/25-26/005218.",
+      "Vendor_Bill_Date": "30-Mar-2026",
+      "Posting_Date": "31-Mar-2026",
+      "Lines": 1,
+      "Total_Value": 796
+    },
+    {
+      "Invoice_No": "IKAPIM26252610346",
+      "Vendor_Code": "V00346",
+      "Vendor_Name": "OMEGA PRINTOPACK PVT LTD.",
+      "Vendor_Bill_No": "UK1/25-26/004303.",
+      "Vendor_Bill_Date": "30-Mar-2026",
+      "Posting_Date": "31-Mar-2026",
+      "Lines": 1,
+      "Total_Value": 6508
+    },
+    {
+      "Invoice_No": "IKAPIM26252610356",
+      "Vendor_Code": "V00462",
+      "Vendor_Name": "AMBIKA ENGINEERING WORKS",
+      "Vendor_Bill_No": "25-26/876",
+      "Vendor_Bill_Date": "31-Mar-2026",
+      "Posting_Date": "31-Mar-2026",
+      "Lines": 0,
+      "Total_Value": 3947
+    },
+    {
+      "Invoice_No": "IKAPIM26252610357",
+      "Vendor_Code": "V00462",
+      "Vendor_Name": "AMBIKA ENGINEERING WORKS",
+      "Vendor_Bill_No": "25-26/822",
+      "Vendor_Bill_Date": "14-Mar-2026",
+      "Posting_Date": "31-Mar-2026",
+      "Lines": 0,
+      "Total_Value": 4720
+    },
+    {
+      "Invoice_No": "IKAPIM26252610358",
+      "Vendor_Code": "V00737",
+      "Vendor_Name": "IKIO SOLUTIONS PVT LTD",
+      "Vendor_Bill_No": "ISPLII 252622447",
+      "Vendor_Bill_Date": "07-Mar-2026",
+      "Posting_Date": "31-Mar-2026",
+      "Lines": 0,
+      "Total_Value": 1880
+    },
+    {
+      "Invoice_No": "IKAPIM26252610359",
+      "Vendor_Code": "V00294",
+      "Vendor_Name": "SHALINI TRADERS",
+      "Vendor_Bill_No": "5391",
+      "Vendor_Bill_Date": "28-Feb-2026",
+      "Posting_Date": "31-Mar-2026",
+      "Lines": 0,
+      "Total_Value": 34506
+    },
+    {
+      "Invoice_No": "IKAPIM26252610360",
+      "Vendor_Code": "V00294",
+      "Vendor_Name": "SHALINI TRADERS",
+      "Vendor_Bill_No": "5886",
+      "Vendor_Bill_Date": "31-Mar-2026",
+      "Posting_Date": "31-Mar-2026",
+      "Lines": 0,
+      "Total_Value": 30200
+    },
+    {
+      "Invoice_No": "IKAPIM26252610361",
+      "Vendor_Code": "V00314",
+      "Vendor_Name": "JASPER SAVIOR TECHNOLOGIES",
+      "Vendor_Bill_No": "750/25-26",
+      "Vendor_Bill_Date": "19-Mar-2026",
+      "Posting_Date": "31-Mar-2026",
+      "Lines": 0,
+      "Total_Value": 1062
+    },
+    {
+      "Invoice_No": "IKAPIM26252610362",
+      "Vendor_Code": "V01353",
+      "Vendor_Name": "GUPTA EMPIRE",
+      "Vendor_Bill_No": "A000234",
+      "Vendor_Bill_Date": "10-Mar-2026",
+      "Posting_Date": "31-Mar-2026",
+      "Lines": 0,
+      "Total_Value": 8108
+    },
+    {
+      "Invoice_No": "IKAPIM26252610363",
+      "Vendor_Code": "V01353",
+      "Vendor_Name": "GUPTA EMPIRE",
+      "Vendor_Bill_No": "A000206",
+      "Vendor_Bill_Date": "25-Feb-2026",
+      "Posting_Date": "31-Mar-2026",
+      "Lines": 0,
+      "Total_Value": 6391
+    },
+    {
+      "Invoice_No": "IKAPIM26252610364",
+      "Vendor_Code": "V00270",
+      "Vendor_Name": "Indian Security Services",
+      "Vendor_Bill_No": "ISS/25-26/353",
+      "Vendor_Bill_Date": "01-Mar-2026",
+      "Posting_Date": "31-Mar-2026",
+      "Lines": 0,
+      "Total_Value": 30829
+    },
+    {
+      "Invoice_No": "IKAPIM26252610365",
+      "Vendor_Code": "V00236",
+      "Vendor_Name": "Shree Computers",
+      "Vendor_Bill_No": "1087",
+      "Vendor_Bill_Date": "11-Mar-2026",
+      "Posting_Date": "31-Mar-2026",
+      "Lines": 0,
+      "Total_Value": 4484
+    },
+    {
+      "Invoice_No": "IKAPIM26252610366",
+      "Vendor_Code": "V00236",
+      "Vendor_Name": "Shree Computers",
+      "Vendor_Bill_No": "1088",
+      "Vendor_Bill_Date": "11-Mar-2026",
+      "Posting_Date": "31-Mar-2026",
+      "Lines": 0,
+      "Total_Value": 8378
+    },
+    {
+      "Invoice_No": "IKAPIM26252610367",
+      "Vendor_Code": "V00737",
+      "Vendor_Name": "IKIO SOLUTIONS PVT LTD",
+      "Vendor_Bill_No": "ISPLII 252622616",
+      "Vendor_Bill_Date": "24-Mar-2026",
+      "Posting_Date": "31-Mar-2026",
+      "Lines": 0,
+      "Total_Value": 7470
+    },
+    {
+      "Invoice_No": "IKAPIM26252610368",
+      "Vendor_Code": "V00737",
+      "Vendor_Name": "IKIO SOLUTIONS PVT LTD",
+      "Vendor_Bill_No": "ISPLII 252622557",
+      "Vendor_Bill_Date": "18-Mar-2026",
+      "Posting_Date": "31-Mar-2026",
+      "Lines": 0,
+      "Total_Value": 7512
+    },
+    {
+      "Invoice_No": "IKAPIM26252610369",
+      "Vendor_Code": "V00673",
+      "Vendor_Name": "SAKSHI GRAPHICS",
+      "Vendor_Bill_No": "SG/25-26/1659",
+      "Vendor_Bill_Date": "24-Mar-2026",
+      "Posting_Date": "31-Mar-2026",
+      "Lines": 0,
+      "Total_Value": 1475
+    },
+    {
+      "Invoice_No": "IKAPIM26252610370",
+      "Vendor_Code": "V01353",
+      "Vendor_Name": "GUPTA EMPIRE",
+      "Vendor_Bill_No": "A000255",
+      "Vendor_Bill_Date": "21-Mar-2026",
+      "Posting_Date": "31-Mar-2026",
+      "Lines": 0,
+      "Total_Value": 13532
+    },
+    {
+      "Invoice_No": "IKAPIM26252610371",
+      "Vendor_Code": "V00450",
+      "Vendor_Name": "SHREE RAM INDUSTRIAL SOLUTTION",
+      "Vendor_Bill_No": "000795",
+      "Vendor_Bill_Date": "24-Mar-2026",
+      "Posting_Date": "31-Mar-2026",
+      "Lines": 0,
+      "Total_Value": 4248
+    },
+    {
+      "Invoice_No": "IKAPIM26252610372",
+      "Vendor_Code": "V00450",
+      "Vendor_Name": "SHREE RAM INDUSTRIAL SOLUTTION",
+      "Vendor_Bill_No": "000794",
+      "Vendor_Bill_Date": "20-Mar-2026",
+      "Posting_Date": "31-Mar-2026",
+      "Lines": 0,
+      "Total_Value": 7287
+    },
+    {
+      "Invoice_No": "IKAPIM26252610373",
+      "Vendor_Code": "V00262",
+      "Vendor_Name": "Gangotri Guest Houes",
+      "Vendor_Bill_No": "1206",
+      "Vendor_Bill_Date": "27-Mar-2026",
+      "Posting_Date": "31-Mar-2026",
+      "Lines": 0,
+      "Total_Value": 3270
+    },
+    {
+      "Invoice_No": "IKAPIM26252610374",
+      "Vendor_Code": "V01069",
+      "Vendor_Name": "ANUSHREE ASSOCIATES",
+      "Vendor_Bill_No": "March-26",
+      "Vendor_Bill_Date": "01-Mar-2026",
+      "Posting_Date": "31-Mar-2026",
+      "Lines": 0,
+      "Total_Value": 108318
+    },
+    {
+      "Invoice_No": "IKAPIM26252610375",
+      "Vendor_Code": "V00737",
+      "Vendor_Name": "IKIO SOLUTIONS PVT LTD",
+      "Vendor_Bill_No": "ISPLII 252622653",
+      "Vendor_Bill_Date": "27-Mar-2026",
+      "Posting_Date": "31-Mar-2026",
+      "Lines": 0,
+      "Total_Value": 626400
+    },
+    {
+      "Invoice_No": "IKAPIM26252610376",
+      "Vendor_Code": "V00737",
+      "Vendor_Name": "IKIO SOLUTIONS PVT LTD",
+      "Vendor_Bill_No": "ISPLII 252622641",
+      "Vendor_Bill_Date": "26-Mar-2026",
+      "Posting_Date": "31-Mar-2026",
+      "Lines": 0,
+      "Total_Value": 7464
+    },
+    {
+      "Invoice_No": "IKAPIM26252610377",
+      "Vendor_Code": "V00737",
+      "Vendor_Name": "IKIO SOLUTIONS PVT LTD",
+      "Vendor_Bill_No": "ISPLII 252622645",
+      "Vendor_Bill_Date": "26-Mar-2026",
+      "Posting_Date": "31-Mar-2026",
+      "Lines": 0,
+      "Total_Value": 1032
+    },
+    {
+      "Invoice_No": "IKAPIM26252610378",
+      "Vendor_Code": "V00879",
+      "Vendor_Name": "GARDENIA (A UNIT OF NAV PARAS ASSOCIATES)",
+      "Vendor_Bill_No": "POSI-3280-25/26",
+      "Vendor_Bill_Date": "14-Mar-2026",
+      "Posting_Date": "31-Mar-2026",
+      "Lines": 0,
+      "Total_Value": 1040
+    },
+    {
+      "Invoice_No": "IKAPIM26252610379",
+      "Vendor_Code": "V00269",
+      "Vendor_Name": "Hyphen A Smart Stopover",
+      "Vendor_Bill_No": "26035989",
+      "Vendor_Bill_Date": "27-Mar-2026",
+      "Posting_Date": "31-Mar-2026",
+      "Lines": 0,
+      "Total_Value": 15821
+    },
+    {
+      "Invoice_No": "IKAPIM26252610380",
+      "Vendor_Code": "V00270",
+      "Vendor_Name": "Indian Security Services",
+      "Vendor_Bill_No": "ISS/25-26/367",
+      "Vendor_Bill_Date": "31-Mar-2026",
+      "Posting_Date": "31-Mar-2026",
+      "Lines": 0,
+      "Total_Value": 137248
+    },
+    {
+      "Invoice_No": "IKAPIM26252610381",
+      "Vendor_Code": "V00473",
+      "Vendor_Name": "ABDHESH KUMAR",
+      "Vendor_Bill_No": "732",
+      "Vendor_Bill_Date": "31-Mar-2026",
+      "Posting_Date": "31-Mar-2026",
+      "Lines": 0,
+      "Total_Value": 140532
+    },
+    {
+      "Invoice_No": "IKAPIM26252610382",
+      "Vendor_Code": "V01187",
+      "Vendor_Name": "G V ASSOCIATES",
+      "Vendor_Bill_No": "SMINT 1711",
+      "Vendor_Bill_Date": "31-Mar-2026",
+      "Posting_Date": "31-Mar-2026",
+      "Lines": 0,
+      "Total_Value": 4110
+    },
+    {
+      "Invoice_No": "IKAPIM26252610383",
+      "Vendor_Code": "V00268",
+      "Vendor_Name": "Hotel Jasmine",
+      "Vendor_Bill_No": "BRES2526423",
+      "Vendor_Bill_Date": "31-Mar-2026",
+      "Posting_Date": "31-Mar-2026",
+      "Lines": 0,
+      "Total_Value": 250
+    },
+    {
+      "Invoice_No": "IKAPIM26252610384",
+      "Vendor_Code": "V00268",
+      "Vendor_Name": "Hotel Jasmine",
+      "Vendor_Bill_No": "BRES2526545",
+      "Vendor_Bill_Date": "31-Mar-2026",
+      "Posting_Date": "31-Mar-2026",
+      "Lines": 0,
+      "Total_Value": 250
+    },
+    {
+      "Invoice_No": "IKAPIM26252610385",
+      "Vendor_Code": "V01358",
+      "Vendor_Name": "SATSAVI FILLING STATION",
+      "Vendor_Bill_No": "MS/HSD/MARCH-037",
+      "Vendor_Bill_Date": "31-Mar-2026",
+      "Posting_Date": "31-Mar-2026",
+      "Lines": 0,
+      "Total_Value": 16598
+    },
+    {
+      "Invoice_No": "IKAPIM26252610386",
+      "Vendor_Code": "V01276",
+      "Vendor_Name": "WORLD PHONE INTERNET SERVICES  PVT LTD",
+      "Vendor_Bill_No": "EUK/2026/03/0006",
+      "Vendor_Bill_Date": "06-Mar-2026",
+      "Posting_Date": "31-Mar-2026",
+      "Lines": 0,
+      "Total_Value": 17400
+    },
+    {
+      "Invoice_No": "IKAPIM26252610387",
+      "Vendor_Code": "V00303",
+      "Vendor_Name": "Sudhira Logistics Pvt Ltd",
+      "Vendor_Bill_No": "4059",
+      "Vendor_Bill_Date": "25-Mar-2026",
+      "Posting_Date": "31-Mar-2026",
+      "Lines": 0,
+      "Total_Value": 4160
+    },
+    {
+      "Invoice_No": "IKAPIM26252610388",
+      "Vendor_Code": "V00412",
+      "Vendor_Name": "BHARAT OIL AND WASTE MANAGEMENT LTD",
+      "Vendor_Bill_No": "R/SER/4532/25-26",
+      "Vendor_Bill_Date": "31-Mar-2026",
+      "Posting_Date": "31-Mar-2026",
+      "Lines": 0,
+      "Total_Value": 7080
+    },
+    {
+      "Invoice_No": "IKAPIM26252610389",
+      "Vendor_Code": "V00994",
+      "Vendor_Name": "S.M. MINI TOUR AND TRAVEL SERVICE",
+      "Vendor_Bill_No": "SMT/25-26/031",
+      "Vendor_Bill_Date": "31-Mar-2026",
+      "Posting_Date": "31-Mar-2026",
+      "Lines": 0,
+      "Total_Value": 14862
+    },
+    {
+      "Invoice_No": "IKAPIM26252610390",
+      "Vendor_Code": "V00258",
+      "Vendor_Name": "Dhl Express India Pvt Ltd (F)",
+      "Vendor_Bill_No": "UTXIR00010469",
+      "Vendor_Bill_Date": "31-Mar-2026",
+      "Posting_Date": "31-Mar-2026",
+      "Lines": 0,
+      "Total_Value": 102290
+    },
+    {
+      "Invoice_No": "IKAPIM26252610391",
+      "Vendor_Code": "V00302",
+      "Vendor_Name": "Star Clearing & Forwarding Services",
+      "Vendor_Bill_No": "IS/1255397",
+      "Vendor_Bill_Date": "27-Mar-2026",
+      "Posting_Date": "31-Mar-2026",
+      "Lines": 0,
+      "Total_Value": 1145
+    },
+    {
+      "Invoice_No": "IKAPIM26252610392",
+      "Vendor_Code": "V00285",
+      "Vendor_Name": "R.S. Consultants",
+      "Vendor_Bill_No": "438/25-26",
+      "Vendor_Bill_Date": "31-Mar-2026",
+      "Posting_Date": "31-Mar-2026",
+      "Lines": 0,
+      "Total_Value": 43200
+    },
+    {
+      "Invoice_No": "IKAPIM26252610393",
+      "Vendor_Code": "V00311",
+      "Vendor_Name": "Anchor Roadlines Pvt Ltd",
+      "Vendor_Bill_No": "HRD25BLL000671",
+      "Vendor_Bill_Date": "31-Mar-2026",
+      "Posting_Date": "31-Mar-2026",
+      "Lines": 0,
+      "Total_Value": 24123
+    },
+    {
+      "Invoice_No": "IKAPIM26252610394",
+      "Vendor_Code": "V01123",
+      "Vendor_Name": "TYAGI COMPUTER",
+      "Vendor_Bill_No": "1874",
+      "Vendor_Bill_Date": "25-Feb-2026",
+      "Posting_Date": "31-Mar-2026",
+      "Lines": 0,
+      "Total_Value": 6675
+    },
+    {
+      "Invoice_No": "IKAPIM26252610395",
+      "Vendor_Code": "V00885",
+      "Vendor_Name": "GANPATI TRAVELS",
+      "Vendor_Bill_No": "GT473",
+      "Vendor_Bill_Date": "18-Mar-2026",
+      "Posting_Date": "31-Mar-2026",
+      "Lines": 0,
+      "Total_Value": 4725
+    },
+    {
+      "Invoice_No": "IKAPIM26252610396",
+      "Vendor_Code": "V00885",
+      "Vendor_Name": "GANPATI TRAVELS",
+      "Vendor_Bill_No": "GT452",
+      "Vendor_Bill_Date": "16-Feb-2026",
+      "Posting_Date": "31-Mar-2026",
+      "Lines": 0,
+      "Total_Value": 4725
+    },
+    {
+      "Invoice_No": "IKAPIM26252610397",
+      "Vendor_Code": "V01352",
+      "Vendor_Name": "SHREE VAISHNO ENTERPRISES",
+      "Vendor_Bill_No": "62",
+      "Vendor_Bill_Date": "31-Mar-2026",
+      "Posting_Date": "31-Mar-2026",
+      "Lines": 0,
+      "Total_Value": 1032
+    },
+    {
+      "Invoice_No": "IKAPIM26252610398",
+      "Vendor_Code": "V00429",
+      "Vendor_Name": "INNOVATIVE TOOLS AND AUTOMATION",
+      "Vendor_Bill_No": "586/25-26",
+      "Vendor_Bill_Date": "28-Mar-2026",
+      "Posting_Date": "31-Mar-2026",
+      "Lines": 0,
+      "Total_Value": 5900
+    },
+    {
+      "Invoice_No": "IKAPIM26252610399",
+      "Vendor_Code": "V00430",
+      "Vendor_Name": "INDIAN TRADING COMPANY",
+      "Vendor_Bill_No": "ITC/25-26/0625",
+      "Vendor_Bill_Date": "04-Feb-2026",
+      "Posting_Date": "31-Mar-2026",
+      "Lines": 0,
+      "Total_Value": 2899
+    },
+    {
+      "Invoice_No": "IKAPIM26252610400",
+      "Vendor_Code": "V00419",
+      "Vendor_Name": "SIDHANT PROMOTERS PVT LTD",
+      "Vendor_Bill_No": "IKIO/2025-26/091",
+      "Vendor_Bill_Date": "01-Jan-2026",
+      "Posting_Date": "31-Mar-2026",
+      "Lines": 0,
+      "Total_Value": 247666
+    },
+    {
+      "Invoice_No": "IKAPIM26252610401",
+      "Vendor_Code": "V00419",
+      "Vendor_Name": "SIDHANT PROMOTERS PVT LTD",
+      "Vendor_Bill_No": "IKIO/2025-26/092",
+      "Vendor_Bill_Date": "02-Feb-2026",
+      "Posting_Date": "31-Mar-2026",
+      "Lines": 0,
+      "Total_Value": 247666
+    },
+    {
+      "Invoice_No": "IKAPIM26252610402",
+      "Vendor_Code": "V00419",
+      "Vendor_Name": "SIDHANT PROMOTERS PVT LTD",
+      "Vendor_Bill_No": "IKIO/25-26/093",
+      "Vendor_Bill_Date": "02-Mar-2026",
+      "Posting_Date": "31-Mar-2026",
+      "Lines": 0,
+      "Total_Value": 247666
+    },
+    {
+      "Invoice_No": "IKAPIM26252610403",
+      "Vendor_Code": "V00101",
+      "Vendor_Name": "SUPREME CIRCUITS",
+      "Vendor_Bill_No": "3368",
+      "Vendor_Bill_Date": "28-Mar-2026",
+      "Posting_Date": "31-Mar-2026",
+      "Lines": 0,
+      "Total_Value": 22482
+    },
+    {
+      "Invoice_No": "IKAPIM26252610404",
+      "Vendor_Code": "V01108",
+      "Vendor_Name": "CARE CONTAINER LINES PVT LTD",
+      "Vendor_Bill_No": "GURINV2623719",
+      "Vendor_Bill_Date": "18-Mar-2026",
+      "Posting_Date": "31-Mar-2026",
+      "Lines": 0,
+      "Total_Value": 3363
+    },
+    {
+      "Invoice_No": "IKAPIM26252610405",
+      "Vendor_Code": "V00658",
+      "Vendor_Name": "ORANGE GLOBAL",
+      "Vendor_Bill_No": "E1037",
+      "Vendor_Bill_Date": "13-Mar-2026",
+      "Posting_Date": "31-Mar-2026",
+      "Lines": 0,
+      "Total_Value": 6018
+    },
+    {
+      "Invoice_No": "IKAPIM26252610406",
+      "Vendor_Code": "V00885",
+      "Vendor_Name": "GANPATI TRAVELS",
+      "Vendor_Bill_No": "GT455",
+      "Vendor_Bill_Date": "31-Mar-2026",
+      "Posting_Date": "31-Mar-2026",
+      "Lines": 0,
+      "Total_Value": 1575
+    },
+    {
+      "Invoice_No": "IKAPIM26252610407",
+      "Vendor_Code": "V01329",
+      "Vendor_Name": "VAISHNAVI ELECTRONICS",
+      "Vendor_Bill_No": "VE/2025-26/297",
+      "Vendor_Bill_Date": "20-Sep-2025",
+      "Posting_Date": "31-Mar-2026",
+      "Lines": 0,
+      "Total_Value": 5310
+    },
+    {
+      "Invoice_No": "IKAPIM26252610408",
+      "Vendor_Code": "V01329",
+      "Vendor_Name": "VAISHNAVI ELECTRONICS",
+      "Vendor_Bill_No": "VE/2025-26/310",
+      "Vendor_Bill_Date": "24-Sep-2025",
+      "Posting_Date": "31-Mar-2026",
+      "Lines": 0,
+      "Total_Value": 21240
+    },
+    {
+      "Invoice_No": "IKAPIM26252610409",
+      "Vendor_Code": "V01329",
+      "Vendor_Name": "VAISHNAVI ELECTRONICS",
+      "Vendor_Bill_No": "VE/2025-26/376",
+      "Vendor_Bill_Date": "28-Oct-2025",
+      "Posting_Date": "31-Mar-2026",
+      "Lines": 0,
+      "Total_Value": 10620
+    },
+    {
+      "Invoice_No": "IKAPIM26252610410",
+      "Vendor_Code": "V01329",
+      "Vendor_Name": "VAISHNAVI ELECTRONICS",
+      "Vendor_Bill_No": "VE/2025-26/401",
+      "Vendor_Bill_Date": "04-Nov-2025",
+      "Posting_Date": "31-Mar-2026",
+      "Lines": 0,
+      "Total_Value": 5310
+    },
+    {
+      "Invoice_No": "IKAPIM26252610411",
+      "Vendor_Code": "V01329",
+      "Vendor_Name": "VAISHNAVI ELECTRONICS",
+      "Vendor_Bill_No": "VE/2025-26/410",
+      "Vendor_Bill_Date": "08-Nov-2025",
+      "Posting_Date": "31-Mar-2026",
+      "Lines": 0,
+      "Total_Value": 5310
+    },
+    {
+      "Invoice_No": "IKAPIM26252610412",
+      "Vendor_Code": "V01329",
+      "Vendor_Name": "VAISHNAVI ELECTRONICS",
+      "Vendor_Bill_No": "VE/2025-26/464",
+      "Vendor_Bill_Date": "02-Dec-2025",
+      "Posting_Date": "31-Mar-2026",
+      "Lines": 0,
+      "Total_Value": 5310
+    },
+    {
+      "Invoice_No": "IKAPIM26252610413",
+      "Vendor_Code": "V01312",
+      "Vendor_Name": "Mogli Labs (India) Private Limited",
+      "Vendor_Bill_No": "74126000062716",
+      "Vendor_Bill_Date": "23-Aug-2025",
+      "Posting_Date": "31-Mar-2026",
+      "Lines": 0,
+      "Total_Value": 7434
+    },
+    {
+      "Invoice_No": "IKAPIM26252610414",
+      "Vendor_Code": "V01316",
+      "Vendor_Name": "SONEPAR INDIA PRIVATE LIMITED",
+      "Vendor_Bill_No": "SIGGN2613491",
+      "Vendor_Bill_Date": "29-Nov-2025",
+      "Posting_Date": "31-Mar-2026",
+      "Lines": 0,
+      "Total_Value": 2832
+    },
+    {
+      "Invoice_No": "IKAPIM26252610415",
+      "Vendor_Code": "V00600",
+      "Vendor_Name": "SEA RANGE COMPONENTS PVT LTD",
+      "Vendor_Bill_No": "SR/2025-26/103",
+      "Vendor_Bill_Date": "11-Jul-2025",
+      "Posting_Date": "31-Mar-2026",
+      "Lines": 0,
+      "Total_Value": 1475
+    },
+    {
+      "Invoice_No": "IKAPIM26252610416",
+      "Vendor_Code": "V00647",
+      "Vendor_Name": "BGJC & ASSOCIATES LLP",
+      "Vendor_Bill_No": "BGJC/BU7/26/1226",
+      "Vendor_Bill_Date": "31-Mar-2026",
+      "Posting_Date": "31-Mar-2026",
+      "Lines": 0,
+      "Total_Value": 26578
+    },
+    {
+      "Invoice_No": "IKAPIM26252610417",
+      "Vendor_Code": "V00547",
+      "Vendor_Name": "GT MAGNETICS PVT LTD",
+      "Vendor_Bill_No": "25-26/GTM/4503",
+      "Vendor_Bill_Date": "31-Mar-2026",
+      "Posting_Date": "31-Mar-2026",
+      "Lines": 0,
+      "Total_Value": 7214
+    },
+    {
+      "Invoice_No": "IKAPIM26252610418",
+      "Vendor_Code": "V00547",
+      "Vendor_Name": "GT MAGNETICS PVT LTD",
+      "Vendor_Bill_No": "25-26/GTM/3667",
+      "Vendor_Bill_Date": "31-Mar-2026",
+      "Posting_Date": "31-Mar-2026",
+      "Lines": 0,
+      "Total_Value": 31669
+    },
+    {
+      "Invoice_No": "IKAPIM26252610419",
+      "Vendor_Code": "V01285",
+      "Vendor_Name": "ARIHANT ELECTRICALS",
+      "Vendor_Bill_No": "AEGN/2558/25-26",
+      "Vendor_Bill_Date": "31-Mar-2026",
+      "Posting_Date": "31-Mar-2026",
+      "Lines": 0,
+      "Total_Value": 228
+    },
+    {
+      "Invoice_No": "IKAPIM26252610420",
+      "Vendor_Code": "V00102",
+      "Vendor_Name": "SWINGTEL COMMUNICATIONS PVT LTD",
+      "Vendor_Bill_No": "252611574",
+      "Vendor_Bill_Date": "31-Mar-2026",
+      "Posting_Date": "31-Mar-2026",
+      "Lines": 0,
+      "Total_Value": 826
+    },
+    {
+      "Invoice_No": "IKAPIM26252610421",
+      "Vendor_Code": "V00046",
+      "Vendor_Name": "HS & SONS",
+      "Vendor_Bill_No": "HS/25-26/281",
+      "Vendor_Bill_Date": "31-Mar-2026",
+      "Posting_Date": "31-Mar-2026",
+      "Lines": 0,
+      "Total_Value": 2832
+    },
+    {
+      "Invoice_No": "IKAPIM26252610422",
+      "Vendor_Code": "V00046",
+      "Vendor_Name": "HS & SONS",
+      "Vendor_Bill_No": "HS/25-26/450",
+      "Vendor_Bill_Date": "31-Mar-2026",
+      "Posting_Date": "31-Mar-2026",
+      "Lines": 0,
+      "Total_Value": 25502
+    },
+    {
+      "Invoice_No": "IKAPIM26252610423",
+      "Vendor_Code": "V00095",
+      "Vendor_Name": "SPACE MICRO DEVICES",
+      "Vendor_Bill_No": "SMD2526/08632",
+      "Vendor_Bill_Date": "31-Mar-2026",
+      "Posting_Date": "31-Mar-2026",
+      "Lines": 0,
+      "Total_Value": 8909
+    },
+    {
+      "Invoice_No": "IKAPIM26252610424",
+      "Vendor_Code": "V00547",
+      "Vendor_Name": "GT MAGNETICS PVT LTD",
+      "Vendor_Bill_No": "25-26/GTM/3527",
+      "Vendor_Bill_Date": "31-Mar-2026",
+      "Posting_Date": "31-Mar-2026",
+      "Lines": 0,
+      "Total_Value": 9330
+    },
+    {
+      "Invoice_No": "IKAPIM26252610425",
+      "Vendor_Code": "V00037",
+      "Vendor_Name": "Formax Electronics Pvt Ltd",
+      "Vendor_Bill_No": "FEPL/25-26/08660",
+      "Vendor_Bill_Date": "31-Mar-2026",
+      "Posting_Date": "31-Mar-2026",
+      "Lines": 0,
+      "Total_Value": 696
+    },
+    {
+      "Invoice_No": "IKAPIM26252610426",
+      "Vendor_Code": "V00168",
+      "Vendor_Name": "SIGMA TECHNOLOGIES",
+      "Vendor_Bill_No": "ST/25-26/1827",
+      "Vendor_Bill_Date": "31-Mar-2026",
+      "Posting_Date": "31-Mar-2026",
+      "Lines": 0,
+      "Total_Value": 32735
+    },
+    {
+      "Invoice_No": "IKAPIM26252610427",
+      "Vendor_Code": "V00085",
+      "Vendor_Name": "WATTS ELECTRONICS PVT. LTD.",
+      "Vendor_Bill_No": "VG-2185/25-26",
+      "Vendor_Bill_Date": "31-Mar-2026",
+      "Posting_Date": "31-Mar-2026",
+      "Lines": 0,
+      "Total_Value": 36120
+    },
+    {
+      "Invoice_No": "IKAPIM26252610428",
+      "Vendor_Code": "V00647",
+      "Vendor_Name": "BGJC & ASSOCIATES LLP",
+      "Vendor_Bill_No": "BU8/01/25-26/558",
+      "Vendor_Bill_Date": "31-Mar-2026",
+      "Posting_Date": "31-Mar-2026",
+      "Lines": 0,
+      "Total_Value": 682800
+    }
+  ]
+}

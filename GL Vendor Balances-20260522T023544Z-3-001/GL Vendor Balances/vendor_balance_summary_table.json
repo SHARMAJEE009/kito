@@ -1,0 +1,23 @@
+{
+  "table_name": "VENDOR BALANCE  –  SUMMARY TABLE",
+  "body": [
+    {
+      "Status": "Advance/Debit Balance",
+      "Vendor Count": 138,
+      "Total Balance (₹)": -85767821.119,
+      "Average Balance (₹)": -621505.950137681
+    },
+    {
+      "Status": "Fully Paid (NIL)",
+      "Vendor Count": 97,
+      "Total Balance (₹)": 1.81898940354586e-12,
+      "Average Balance (₹)": 1.87524680777923e-14
+    },
+    {
+      "Status": "Outstanding (Payable)",
+      "Vendor Count": 144,
+      "Total Balance (₹)": 59482317.585,
+      "Average Balance (₹)": 413071.649895833
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "table_name": "THREE-WAY MATCH  –  SUMMARY TABLE",
+  "body": [
+    {
+      "Match Status": "Match with Variance",
+      "Count": 6331
+    },
+    {
+      "Match Status": "No PO + No Invoice",
+      "Count": 3789
+    },
+    {
+      "Match Status": "Missing Invoice Link",
+      "Count": 1349
+    },
+    {
+      "Match Status": "Perfect Match",
+      "Count": 768
+    },
+    {
+      "Match Status": "Missing PO Link",
+      "Count": 147
+    }
+  ]
+}

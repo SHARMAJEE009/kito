@@ -1,0 +1,2237 @@
+{
+  "table_name": "EXCEPTION 2  –  MISSING GSTIN",
+  "body": [
+    {
+      "Customer/Vendor Code": "C00003",
+      "Customer/Vendor Name": "Signify Innovations India Limited",
+      "Group Name": "Inter state Customer",
+      "MSME Registration": "",
+      "GSTIN": "",
+      "State": "UP",
+      "Country/Region": "IN"
+    },
+    {
+      "Customer/Vendor Code": "C00007",
+      "Customer/Vendor Name": "HARDEEP SINGH",
+      "Group Name": "Inter state Customer",
+      "MSME Registration": "",
+      "GSTIN": "",
+      "State": "DL",
+      "Country/Region": "IN"
+    },
+    {
+      "Customer/Vendor Code": "C00009",
+      "Customer/Vendor Name": "ANIL MALOHTRA",
+      "Group Name": "Local Customer",
+      "MSME Registration": "",
+      "GSTIN": "",
+      "State": "UK",
+      "Country/Region": "IN"
+    },
+    {
+      "Customer/Vendor Code": "C00011",
+      "Customer/Vendor Name": "Ishween Kaur",
+      "Group Name": "Inter state Customer",
+      "MSME Registration": "",
+      "GSTIN": "",
+      "State": "HR",
+      "Country/Region": "IN"
+    },
+    {
+      "Customer/Vendor Code": "C00012",
+      "Customer/Vendor Name": "Jasbir Singh",
+      "Group Name": "Inter state Customer",
+      "MSME Registration": "",
+      "GSTIN": "",
+      "State": "DL",
+      "Country/Region": "IN"
+    },
+    {
+      "Customer/Vendor Code": "C00013",
+      "Customer/Vendor Name": "Manoj Chetal",
+      "Group Name": "Inter state Customer",
+      "MSME Registration": "",
+      "GSTIN": "",
+      "State": "HR",
+      "Country/Region": "IN"
+    },
+    {
+      "Customer/Vendor Code": "C00014",
+      "Customer/Vendor Name": "MANOJ MEHTA",
+      "Group Name": "Inter state Customer",
+      "MSME Registration": "",
+      "GSTIN": "",
+      "State": "UP",
+      "Country/Region": "IN"
+    },
+    {
+      "Customer/Vendor Code": "C00015",
+      "Customer/Vendor Name": "MR Manoj",
+      "Group Name": "Inter state Customer",
+      "MSME Registration": "",
+      "GSTIN": "",
+      "State": "UP",
+      "Country/Region": "IN"
+    },
+    {
+      "Customer/Vendor Code": "C00016",
+      "Customer/Vendor Name": "M Singh",
+      "Group Name": "Inter state Customer",
+      "MSME Registration": "",
+      "GSTIN": "",
+      "State": "UP",
+      "Country/Region": "IN"
+    },
+    {
+      "Customer/Vendor Code": "C00018",
+      "Customer/Vendor Name": "Novateur Electrical & Digital Syst Pvt. Ltd.",
+      "Group Name": "Inter state Customer",
+      "MSME Registration": "",
+      "GSTIN": "",
+      "State": "UP",
+      "Country/Region": "IN"
+    },
+    {
+      "Customer/Vendor Code": "C00026",
+      "Customer/Vendor Name": "AMIT BINDRA",
+      "Group Name": "Local Customer",
+      "MSME Registration": "",
+      "GSTIN": "",
+      "State": "UK",
+      "Country/Region": "IN"
+    },
+    {
+      "Customer/Vendor Code": "C00028",
+      "Customer/Vendor Name": "MR. ABHAY GUPTA",
+      "Group Name": "Inter state Customer",
+      "MSME Registration": "",
+      "GSTIN": "",
+      "State": "UP",
+      "Country/Region": "IN"
+    },
+    {
+      "Customer/Vendor Code": "C00029",
+      "Customer/Vendor Name": "MR. PRAMOD",
+      "Group Name": "Inter state Customer",
+      "MSME Registration": "",
+      "GSTIN": "",
+      "State": "UP",
+      "Country/Region": "IN"
+    },
+    {
+      "Customer/Vendor Code": "C00033",
+      "Customer/Vendor Name": "MR. PRAKASH",
+      "Group Name": "Inter state Customer",
+      "MSME Registration": "",
+      "GSTIN": "",
+      "State": "DL",
+      "Country/Region": "IN"
+    },
+    {
+      "Customer/Vendor Code": "C00036",
+      "Customer/Vendor Name": "KERALA EDUCATION SOCIETY",
+      "Group Name": "Inter state Customer",
+      "MSME Registration": "",
+      "GSTIN": "",
+      "State": "DL",
+      "Country/Region": "IN"
+    },
+    {
+      "Customer/Vendor Code": "C00037",
+      "Customer/Vendor Name": "Mr. Kulwant",
+      "Group Name": "Inter state Customer",
+      "MSME Registration": "",
+      "GSTIN": "",
+      "State": "DL",
+      "Country/Region": "IN"
+    },
+    {
+      "Customer/Vendor Code": "C00038",
+      "Customer/Vendor Name": "STATUE OF LORD SHIVA AKSHAYA PATRA",
+      "Group Name": "Inter state Customer",
+      "MSME Registration": "",
+      "GSTIN": "",
+      "State": "RJ",
+      "Country/Region": "IN"
+    },
+    {
+      "Customer/Vendor Code": "C00039",
+      "Customer/Vendor Name": "ANUJ GAUR",
+      "Group Name": "Inter state Customer",
+      "MSME Registration": "",
+      "GSTIN": "",
+      "State": "UP",
+      "Country/Region": "IN"
+    },
+    {
+      "Customer/Vendor Code": "C00041",
+      "Customer/Vendor Name": "MR. NAJIBUDDIN",
+      "Group Name": "Inter state Customer",
+      "MSME Registration": "",
+      "GSTIN": "",
+      "State": "UP",
+      "Country/Region": "IN"
+    },
+    {
+      "Customer/Vendor Code": "C00044",
+      "Customer/Vendor Name": "SUNIL CHAPRA",
+      "Group Name": "Inter state Customer",
+      "MSME Registration": "",
+      "GSTIN": "",
+      "State": "DL",
+      "Country/Region": "IN"
+    },
+    {
+      "Customer/Vendor Code": "C00045",
+      "Customer/Vendor Name": "V.K GUPTA",
+      "Group Name": "Inter state Customer",
+      "MSME Registration": "",
+      "GSTIN": "",
+      "State": "UP",
+      "Country/Region": "IN"
+    },
+    {
+      "Customer/Vendor Code": "C00046",
+      "Customer/Vendor Name": "GURUDWARA SHRI GURU SINGH SABHA",
+      "Group Name": "Inter state Customer",
+      "MSME Registration": "",
+      "GSTIN": "",
+      "State": "DL",
+      "Country/Region": "IN"
+    },
+    {
+      "Customer/Vendor Code": "C00047",
+      "Customer/Vendor Name": "ARUN SHARMA",
+      "Group Name": "Inter state Customer",
+      "MSME Registration": "",
+      "GSTIN": "",
+      "State": "UP",
+      "Country/Region": "IN"
+    },
+    {
+      "Customer/Vendor Code": "C00048",
+      "Customer/Vendor Name": "MR. RAJEEV",
+      "Group Name": "Inter state Customer",
+      "MSME Registration": "",
+      "GSTIN": "",
+      "State": "DL",
+      "Country/Region": "IN"
+    },
+    {
+      "Customer/Vendor Code": "C00051",
+      "Customer/Vendor Name": "MR. MANINDERPAL SINGH",
+      "Group Name": "Inter state Customer",
+      "MSME Registration": "",
+      "GSTIN": "",
+      "State": "DL",
+      "Country/Region": "IN"
+    },
+    {
+      "Customer/Vendor Code": "C00054",
+      "Customer/Vendor Name": "RAHUL TYAGI",
+      "Group Name": "Inter state Customer",
+      "MSME Registration": "",
+      "GSTIN": "",
+      "State": "UP",
+      "Country/Region": "IN"
+    },
+    {
+      "Customer/Vendor Code": "C00059",
+      "Customer/Vendor Name": "GOEL LIGHTING",
+      "Group Name": "Local Customer",
+      "MSME Registration": "",
+      "GSTIN": "",
+      "State": "UK",
+      "Country/Region": "IN"
+    },
+    {
+      "Customer/Vendor Code": "C00064",
+      "Customer/Vendor Name": "A SOUTH HUNTINGTON ST SY",
+      "Group Name": "Inter state Customer",
+      "MSME Registration": "",
+      "GSTIN": "",
+      "State": "DL",
+      "Country/Region": "IN"
+    },
+    {
+      "Customer/Vendor Code": "C00066",
+      "Customer/Vendor Name": "ZENPAY SOLUTIONS PVT LTD",
+      "Group Name": "Inter state Customer",
+      "MSME Registration": "",
+      "GSTIN": "",
+      "State": "DL",
+      "Country/Region": "IN"
+    },
+    {
+      "Customer/Vendor Code": "C00070",
+      "Customer/Vendor Name": "MR. PRAKASH KUMAR",
+      "Group Name": "Inter state Customer",
+      "MSME Registration": "",
+      "GSTIN": "",
+      "State": "UP",
+      "Country/Region": "IN"
+    },
+    {
+      "Customer/Vendor Code": "C00072",
+      "Customer/Vendor Name": "EVEREADY INDUSTRIES",
+      "Group Name": "Inter state Customer",
+      "MSME Registration": "",
+      "GSTIN": "",
+      "State": "UP",
+      "Country/Region": "IN"
+    },
+    {
+      "Customer/Vendor Code": "C00073",
+      "Customer/Vendor Name": "Lights Gallery",
+      "Group Name": "Inter state Customer",
+      "MSME Registration": "",
+      "GSTIN": "",
+      "State": "UP",
+      "Country/Region": "IN"
+    },
+    {
+      "Customer/Vendor Code": "C00074",
+      "Customer/Vendor Name": "VRMED HEALTHCARE",
+      "Group Name": "Inter state Customer",
+      "MSME Registration": "",
+      "GSTIN": "",
+      "State": "HR",
+      "Country/Region": "IN"
+    },
+    {
+      "Customer/Vendor Code": "C00075",
+      "Customer/Vendor Name": "ATUL ARORA",
+      "Group Name": "Inter state Customer",
+      "MSME Registration": "",
+      "GSTIN": "",
+      "State": "HR",
+      "Country/Region": "IN"
+    },
+    {
+      "Customer/Vendor Code": "C00076",
+      "Customer/Vendor Name": "LIGHT N DECOR",
+      "Group Name": "Inter state Customer",
+      "MSME Registration": "",
+      "GSTIN": "",
+      "State": "KT",
+      "Country/Region": "IN"
+    },
+    {
+      "Customer/Vendor Code": "C00077",
+      "Customer/Vendor Name": "HOTEL VIJAY STONE",
+      "Group Name": "Inter state Customer",
+      "MSME Registration": "",
+      "GSTIN": "",
+      "State": "JH",
+      "Country/Region": "IN"
+    },
+    {
+      "Customer/Vendor Code": "C00078",
+      "Customer/Vendor Name": "VIJAY KUMAR",
+      "Group Name": "Inter state Customer",
+      "MSME Registration": "",
+      "GSTIN": "",
+      "State": "DL",
+      "Country/Region": "IN"
+    },
+    {
+      "Customer/Vendor Code": "C00080",
+      "Customer/Vendor Name": "VIKASH BALI",
+      "Group Name": "Inter state Customer",
+      "MSME Registration": "",
+      "GSTIN": "",
+      "State": "HR",
+      "Country/Region": "IN"
+    },
+    {
+      "Customer/Vendor Code": "C00081",
+      "Customer/Vendor Name": "KRISHAN",
+      "Group Name": "Inter state Customer",
+      "MSME Registration": "",
+      "GSTIN": "",
+      "State": "UP",
+      "Country/Region": "IN"
+    },
+    {
+      "Customer/Vendor Code": "C00082",
+      "Customer/Vendor Name": "LUCKY",
+      "Group Name": "Inter state Customer",
+      "MSME Registration": "",
+      "GSTIN": "",
+      "State": "UP",
+      "Country/Region": "IN"
+    },
+    {
+      "Customer/Vendor Code": "C00083",
+      "Customer/Vendor Name": "AMANDEEP SINGH",
+      "Group Name": "Inter state Customer",
+      "MSME Registration": "",
+      "GSTIN": "",
+      "State": "UP",
+      "Country/Region": "IN"
+    },
+    {
+      "Customer/Vendor Code": "C00085",
+      "Customer/Vendor Name": "ROYALUX EXPORT PVT LTD",
+      "Group Name": "GroupCompanyCustomer",
+      "MSME Registration": "",
+      "GSTIN": "",
+      "State": "UP",
+      "Country/Region": "IN"
+    },
+    {
+      "Customer/Vendor Code": "C00090",
+      "Customer/Vendor Name": "Sample to Customer",
+      "Group Name": "Inter state Customer",
+      "MSME Registration": "",
+      "GSTIN": "",
+      "State": "UK",
+      "Country/Region": "IN"
+    },
+    {
+      "Customer/Vendor Code": "C00091",
+      "Customer/Vendor Name": "M/S NAVTEX",
+      "Group Name": "Inter state Customer",
+      "MSME Registration": "",
+      "GSTIN": "",
+      "State": "PB",
+      "Country/Region": "IN"
+    },
+    {
+      "Customer/Vendor Code": "C00092",
+      "Customer/Vendor Name": "SNDP YOGAM DELHI UNION",
+      "Group Name": "Inter state Customer",
+      "MSME Registration": "",
+      "GSTIN": "",
+      "State": "DL",
+      "Country/Region": "IN"
+    },
+    {
+      "Customer/Vendor Code": "C00093",
+      "Customer/Vendor Name": "PRAVESH GUPTA",
+      "Group Name": "Inter state Customer",
+      "MSME Registration": "",
+      "GSTIN": "",
+      "State": "UP",
+      "Country/Region": "IN"
+    },
+    {
+      "Customer/Vendor Code": "C00096",
+      "Customer/Vendor Name": "BRIJANSH MULTI TRADE INC",
+      "Group Name": "Inter state Customer",
+      "MSME Registration": "",
+      "GSTIN": "",
+      "State": "UP",
+      "Country/Region": "IN"
+    },
+    {
+      "Customer/Vendor Code": "C00097",
+      "Customer/Vendor Name": "ANIL KUMAR",
+      "Group Name": "Inter state Customer",
+      "MSME Registration": "",
+      "GSTIN": "",
+      "State": "DL",
+      "Country/Region": "IN"
+    },
+    {
+      "Customer/Vendor Code": "C00098",
+      "Customer/Vendor Name": "INDERJEET SINGH",
+      "Group Name": "Inter state Customer",
+      "MSME Registration": "",
+      "GSTIN": "",
+      "State": "HR",
+      "Country/Region": "IN"
+    },
+    {
+      "Customer/Vendor Code": "C00099",
+      "Customer/Vendor Name": "MADAN CHOUDHARY",
+      "Group Name": "Inter state Customer",
+      "MSME Registration": "",
+      "GSTIN": "",
+      "State": "DL",
+      "Country/Region": "IN"
+    },
+    {
+      "Customer/Vendor Code": "C00100",
+      "Customer/Vendor Name": "PS KAUSHAL",
+      "Group Name": "Inter state Customer",
+      "MSME Registration": "",
+      "GSTIN": "",
+      "State": "DL",
+      "Country/Region": "IN"
+    },
+    {
+      "Customer/Vendor Code": "C00101",
+      "Customer/Vendor Name": "MR. CHAJJAR & COMPANY",
+      "Group Name": "Inter state Customer",
+      "MSME Registration": "",
+      "GSTIN": "",
+      "State": "DL",
+      "Country/Region": "IN"
+    },
+    {
+      "Customer/Vendor Code": "C00103",
+      "Customer/Vendor Name": "AMIT SAGWAN",
+      "Group Name": "Inter state Customer",
+      "MSME Registration": "",
+      "GSTIN": "",
+      "State": "UP",
+      "Country/Region": "IN"
+    },
+    {
+      "Customer/Vendor Code": "C00104",
+      "Customer/Vendor Name": "AMIT RAGHAV",
+      "Group Name": "Inter state Customer",
+      "MSME Registration": "",
+      "GSTIN": "",
+      "State": "UP",
+      "Country/Region": "IN"
+    },
+    {
+      "Customer/Vendor Code": "C00106",
+      "Customer/Vendor Name": "KAMALJEET",
+      "Group Name": "Inter state Customer",
+      "MSME Registration": "",
+      "GSTIN": "",
+      "State": "UP",
+      "Country/Region": "IN"
+    },
+    {
+      "Customer/Vendor Code": "C00107",
+      "Customer/Vendor Name": "ANIT KUMAR",
+      "Group Name": "Local Customer",
+      "MSME Registration": "",
+      "GSTIN": "",
+      "State": "UK",
+      "Country/Region": "IN"
+    },
+    {
+      "Customer/Vendor Code": "C00108",
+      "Customer/Vendor Name": "MRINAL",
+      "Group Name": "Inter state Customer",
+      "MSME Registration": "",
+      "GSTIN": "",
+      "State": "UP",
+      "Country/Region": "IN"
+    },
+    {
+      "Customer/Vendor Code": "C00109",
+      "Customer/Vendor Name": "HIMANSHU",
+      "Group Name": "Local Customer",
+      "MSME Registration": "",
+      "GSTIN": "",
+      "State": "UK",
+      "Country/Region": "IN"
+    },
+    {
+      "Customer/Vendor Code": "C00110",
+      "Customer/Vendor Name": "AYYAPPA TEMPLE",
+      "Group Name": "Inter state Customer",
+      "MSME Registration": "",
+      "GSTIN": "",
+      "State": "DL",
+      "Country/Region": "IN"
+    },
+    {
+      "Customer/Vendor Code": "C00112",
+      "Customer/Vendor Name": "DR. SURENDRA",
+      "Group Name": "Inter state Customer",
+      "MSME Registration": "",
+      "GSTIN": "",
+      "State": "DL",
+      "Country/Region": "IN"
+    },
+    {
+      "Customer/Vendor Code": "C00113",
+      "Customer/Vendor Name": "VINIT",
+      "Group Name": "Inter state Customer",
+      "MSME Registration": "",
+      "GSTIN": "",
+      "State": "UP",
+      "Country/Region": "IN"
+    },
+    {
+      "Customer/Vendor Code": "C00117",
+      "Customer/Vendor Name": "PRANAV JAIN",
+      "Group Name": "Inter state Customer",
+      "MSME Registration": "",
+      "GSTIN": "",
+      "State": "DL",
+      "Country/Region": "IN"
+    },
+    {
+      "Customer/Vendor Code": "C00118",
+      "Customer/Vendor Name": "KALSHI",
+      "Group Name": "Inter state Customer",
+      "MSME Registration": "",
+      "GSTIN": "",
+      "State": "DL",
+      "Country/Region": "IN"
+    },
+    {
+      "Customer/Vendor Code": "C00120",
+      "Customer/Vendor Name": "RAJAT BEHAL",
+      "Group Name": "Inter state Customer",
+      "MSME Registration": "",
+      "GSTIN": "",
+      "State": "DL",
+      "Country/Region": "IN"
+    },
+    {
+      "Customer/Vendor Code": "C00121",
+      "Customer/Vendor Name": "TARUN SHARMA",
+      "Group Name": "Inter state Customer",
+      "MSME Registration": "",
+      "GSTIN": "",
+      "State": "UP",
+      "Country/Region": "IN"
+    },
+    {
+      "Customer/Vendor Code": "C00125",
+      "Customer/Vendor Name": "RESEARCH AND DEVELOPEMEMT",
+      "Group Name": "Inter state Customer",
+      "MSME Registration": "",
+      "GSTIN": "",
+      "State": "UP",
+      "Country/Region": "IN"
+    },
+    {
+      "Customer/Vendor Code": "C00127",
+      "Customer/Vendor Name": "SUNIL LODHA",
+      "Group Name": "Inter state Customer",
+      "MSME Registration": "",
+      "GSTIN": "",
+      "State": "UP",
+      "Country/Region": "IN"
+    },
+    {
+      "Customer/Vendor Code": "C00133",
+      "Customer/Vendor Name": "KG SIJU",
+      "Group Name": "Inter state Customer",
+      "MSME Registration": "",
+      "GSTIN": "",
+      "State": "KL",
+      "Country/Region": "IN"
+    },
+    {
+      "Customer/Vendor Code": "C00134",
+      "Customer/Vendor Name": "SUMESH",
+      "Group Name": "Inter state Customer",
+      "MSME Registration": "",
+      "GSTIN": "",
+      "State": "KL",
+      "Country/Region": "IN"
+    },
+    {
+      "Customer/Vendor Code": "C00135",
+      "Customer/Vendor Name": "UMESH",
+      "Group Name": "Inter state Customer",
+      "MSME Registration": "",
+      "GSTIN": "",
+      "State": "UP",
+      "Country/Region": "IN"
+    },
+    {
+      "Customer/Vendor Code": "C00138",
+      "Customer/Vendor Name": "Mukesh kundaliya",
+      "Group Name": "Inter state Customer",
+      "MSME Registration": "",
+      "GSTIN": "",
+      "State": "UP",
+      "Country/Region": "IN"
+    },
+    {
+      "Customer/Vendor Code": "C00139",
+      "Customer/Vendor Name": "SREE NARAYANE KENDRA",
+      "Group Name": "Inter state Customer",
+      "MSME Registration": "",
+      "GSTIN": "",
+      "State": "DL",
+      "Country/Region": "IN"
+    },
+    {
+      "Customer/Vendor Code": "C00140",
+      "Customer/Vendor Name": "SANJAY KAPOOR",
+      "Group Name": "Inter state Customer",
+      "MSME Registration": "",
+      "GSTIN": "",
+      "State": "DL",
+      "Country/Region": "IN"
+    },
+    {
+      "Customer/Vendor Code": "C00142",
+      "Customer/Vendor Name": "Lancet Architect",
+      "Group Name": "Inter state Customer",
+      "MSME Registration": "",
+      "GSTIN": "",
+      "State": "UP",
+      "Country/Region": "IN"
+    },
+    {
+      "Customer/Vendor Code": "C00143",
+      "Customer/Vendor Name": "RINKU GUPTA",
+      "Group Name": "Inter state Customer",
+      "MSME Registration": "",
+      "GSTIN": "",
+      "State": "UP",
+      "Country/Region": "IN"
+    },
+    {
+      "Customer/Vendor Code": "C00148",
+      "Customer/Vendor Name": "M/S. Light Fidelity",
+      "Group Name": "Inter state Customer",
+      "MSME Registration": "",
+      "GSTIN": "",
+      "State": "KT",
+      "Country/Region": "IN"
+    },
+    {
+      "Customer/Vendor Code": "C00149",
+      "Customer/Vendor Name": "DAG Enterprises",
+      "Group Name": "Inter state Customer",
+      "MSME Registration": "",
+      "GSTIN": "",
+      "State": "HR",
+      "Country/Region": "IN"
+    },
+    {
+      "Customer/Vendor Code": "C00150",
+      "Customer/Vendor Name": "RINKU",
+      "Group Name": "Inter state Customer",
+      "MSME Registration": "",
+      "GSTIN": "",
+      "State": "DL",
+      "Country/Region": "IN"
+    },
+    {
+      "Customer/Vendor Code": "C00153",
+      "Customer/Vendor Name": "SURMEET KAUR",
+      "Group Name": "Inter state Customer",
+      "MSME Registration": "",
+      "GSTIN": "",
+      "State": "DL",
+      "Country/Region": "IN"
+    },
+    {
+      "Customer/Vendor Code": "C00154",
+      "Customer/Vendor Name": "M.K PRINTPACK",
+      "Group Name": "Local Customer",
+      "MSME Registration": "",
+      "GSTIN": "",
+      "State": "UK",
+      "Country/Region": "IN"
+    },
+    {
+      "Customer/Vendor Code": "C00157",
+      "Customer/Vendor Name": "K.K DISTRIBUTORS",
+      "Group Name": "Inter state Customer",
+      "MSME Registration": "",
+      "GSTIN": "",
+      "State": "UP",
+      "Country/Region": "IN"
+    },
+    {
+      "Customer/Vendor Code": "C00158",
+      "Customer/Vendor Name": "Nilamani Ojha",
+      "Group Name": "Inter state Customer",
+      "MSME Registration": "",
+      "GSTIN": "",
+      "State": "UP",
+      "Country/Region": "IN"
+    },
+    {
+      "Customer/Vendor Code": "C00160",
+      "Customer/Vendor Name": "Mr. Kuldeep",
+      "Group Name": "Local Customer",
+      "MSME Registration": "",
+      "GSTIN": "",
+      "State": "UK",
+      "Country/Region": "IN"
+    },
+    {
+      "Customer/Vendor Code": "C00162",
+      "Customer/Vendor Name": "Mr. Manjeet",
+      "Group Name": "Local Customer",
+      "MSME Registration": "",
+      "GSTIN": "",
+      "State": "UK",
+      "Country/Region": "IN"
+    },
+    {
+      "Customer/Vendor Code": "C00163",
+      "Customer/Vendor Name": "Pramod Kumar uniyal",
+      "Group Name": "Local Customer",
+      "MSME Registration": "",
+      "GSTIN": "",
+      "State": "UK",
+      "Country/Region": "IN"
+    },
+    {
+      "Customer/Vendor Code": "C00167",
+      "Customer/Vendor Name": "MR KARANDEEP BINDRA",
+      "Group Name": "Inter state Customer",
+      "MSME Registration": "",
+      "GSTIN": "",
+      "State": "UP",
+      "Country/Region": "IN"
+    },
+    {
+      "Customer/Vendor Code": "C00168",
+      "Customer/Vendor Name": "Bharat Nandan Juyal",
+      "Group Name": "Local Customer",
+      "MSME Registration": "",
+      "GSTIN": "",
+      "State": "UP",
+      "Country/Region": "IN"
+    },
+    {
+      "Customer/Vendor Code": "C00169",
+      "Customer/Vendor Name": "Mr. Prabhjot Singh",
+      "Group Name": "Inter state Customer",
+      "MSME Registration": "",
+      "GSTIN": "",
+      "State": "UP",
+      "Country/Region": "IN"
+    },
+    {
+      "Customer/Vendor Code": "C00174",
+      "Customer/Vendor Name": "Ashish Vermani",
+      "Group Name": "Inter state Customer",
+      "MSME Registration": "",
+      "GSTIN": "",
+      "State": "HR",
+      "Country/Region": "IN"
+    },
+    {
+      "Customer/Vendor Code": "C00175",
+      "Customer/Vendor Name": "Shree Manmohan Corporation",
+      "Group Name": "Inter state Customer",
+      "MSME Registration": "",
+      "GSTIN": "",
+      "State": "WB",
+      "Country/Region": "IN"
+    },
+    {
+      "Customer/Vendor Code": "C00176",
+      "Customer/Vendor Name": "Durgapur Light Studio",
+      "Group Name": "Inter state Customer",
+      "MSME Registration": "",
+      "GSTIN": "",
+      "State": "WB",
+      "Country/Region": "IN"
+    },
+    {
+      "Customer/Vendor Code": "C00178",
+      "Customer/Vendor Name": "M/S SHRI OM SAI INDUS LLP",
+      "Group Name": "Inter state Customer",
+      "MSME Registration": "",
+      "GSTIN": "",
+      "State": "UP",
+      "Country/Region": "IN"
+    },
+    {
+      "Customer/Vendor Code": "C00179",
+      "Customer/Vendor Name": "Ali Mohammad & Sons",
+      "Group Name": "Inter state Customer",
+      "MSME Registration": "",
+      "GSTIN": "",
+      "State": "JK",
+      "Country/Region": "IN"
+    },
+    {
+      "Customer/Vendor Code": "C00182",
+      "Customer/Vendor Name": "Signify Innovatios India Limited",
+      "Group Name": "Inter state Customer",
+      "MSME Registration": "",
+      "GSTIN": "",
+      "State": "MH",
+      "Country/Region": "IN"
+    },
+    {
+      "Customer/Vendor Code": "C00185",
+      "Customer/Vendor Name": "Sushila Enterprises",
+      "Group Name": "Inter state Customer",
+      "MSME Registration": "",
+      "GSTIN": "",
+      "State": "BH",
+      "Country/Region": "IN"
+    },
+    {
+      "Customer/Vendor Code": "C00186",
+      "Customer/Vendor Name": "Muhammed Shameel K",
+      "Group Name": "Inter state Customer",
+      "MSME Registration": "",
+      "GSTIN": "",
+      "State": "KL",
+      "Country/Region": "IN"
+    },
+    {
+      "Customer/Vendor Code": "C00187",
+      "Customer/Vendor Name": "SAISALAVI T",
+      "Group Name": "Inter state Customer",
+      "MSME Registration": "",
+      "GSTIN": "",
+      "State": "KL",
+      "Country/Region": "IN"
+    },
+    {
+      "Customer/Vendor Code": "C00188",
+      "Customer/Vendor Name": "Mr. Varun",
+      "Group Name": "Inter state Customer",
+      "MSME Registration": "",
+      "GSTIN": "",
+      "State": "DL",
+      "Country/Region": "IN"
+    },
+    {
+      "Customer/Vendor Code": "C00192",
+      "Customer/Vendor Name": "Evergreen earthworks pvt ltd",
+      "Group Name": "Inter state Customer",
+      "MSME Registration": "",
+      "GSTIN": "",
+      "State": "UP",
+      "Country/Region": "IN"
+    },
+    {
+      "Customer/Vendor Code": "C00193",
+      "Customer/Vendor Name": "Mr. Sanjeev Arora",
+      "Group Name": "Inter state Customer",
+      "MSME Registration": "",
+      "GSTIN": "",
+      "State": "UP",
+      "Country/Region": "IN"
+    },
+    {
+      "Customer/Vendor Code": "C00194",
+      "Customer/Vendor Name": "Mr. Afzal",
+      "Group Name": "Inter state Customer",
+      "MSME Registration": "",
+      "GSTIN": "",
+      "State": "UP",
+      "Country/Region": "IN"
+    },
+    {
+      "Customer/Vendor Code": "C00197",
+      "Customer/Vendor Name": "Mr. Ashish Yadav",
+      "Group Name": "Inter state Customer",
+      "MSME Registration": "",
+      "GSTIN": "",
+      "State": "DL",
+      "Country/Region": "IN"
+    },
+    {
+      "Customer/Vendor Code": "C00199",
+      "Customer/Vendor Name": "MR. PANKAJ SHARMA",
+      "Group Name": "Inter state Customer",
+      "MSME Registration": "",
+      "GSTIN": "",
+      "State": "HR",
+      "Country/Region": "IN"
+    },
+    {
+      "Customer/Vendor Code": "C00200",
+      "Customer/Vendor Name": "VED ELECTRICALS LLP",
+      "Group Name": "Inter state Customer",
+      "MSME Registration": "",
+      "GSTIN": "",
+      "State": "TS",
+      "Country/Region": "IN"
+    },
+    {
+      "Customer/Vendor Code": "C00201",
+      "Customer/Vendor Name": "Ruchika",
+      "Group Name": "Inter state Customer",
+      "MSME Registration": "N",
+      "GSTIN": "",
+      "State": "UP",
+      "Country/Region": "IN"
+    },
+    {
+      "Customer/Vendor Code": "C00202",
+      "Customer/Vendor Name": "Mr. Rakesh",
+      "Group Name": "Inter state Customer",
+      "MSME Registration": "N",
+      "GSTIN": "",
+      "State": "UP",
+      "Country/Region": "IN"
+    },
+    {
+      "Customer/Vendor Code": "C00204",
+      "Customer/Vendor Name": "Ankit Sisodia",
+      "Group Name": "Inter state Customer",
+      "MSME Registration": "N",
+      "GSTIN": "",
+      "State": "UP",
+      "Country/Region": "IN"
+    },
+    {
+      "Customer/Vendor Code": "V00141",
+      "Customer/Vendor Name": "JAGAT INDIAN OIL",
+      "Group Name": "Local Vendor",
+      "MSME Registration": "N",
+      "GSTIN": "",
+      "State": "UK",
+      "Country/Region": "IN"
+    },
+    {
+      "Customer/Vendor Code": "V00211",
+      "Customer/Vendor Name": "LOCAL PURCHASE",
+      "Group Name": "Local Vendor",
+      "MSME Registration": "N",
+      "GSTIN": "",
+      "State": "UK",
+      "Country/Region": "IN"
+    },
+    {
+      "Customer/Vendor Code": "V00234",
+      "Customer/Vendor Name": "Tips & Targets Portfolios Pvt Ltd.",
+      "Group Name": "Inter State Vendor",
+      "MSME Registration": "N",
+      "GSTIN": "",
+      "State": "DL",
+      "Country/Region": "IN"
+    },
+    {
+      "Customer/Vendor Code": "V00235",
+      "Customer/Vendor Name": "Kanaiya Kumar Jha",
+      "Group Name": "Inter State Vendor",
+      "MSME Registration": "N",
+      "GSTIN": "",
+      "State": "UP",
+      "Country/Region": "IN"
+    },
+    {
+      "Customer/Vendor Code": "V00237",
+      "Customer/Vendor Name": "SAFFRON CATTERS AND CANTEEN",
+      "Group Name": "Local Vendor",
+      "MSME Registration": "N",
+      "GSTIN": "",
+      "State": "UK",
+      "Country/Region": "IN"
+    },
+    {
+      "Customer/Vendor Code": "V00238",
+      "Customer/Vendor Name": "SAI TIFFIN SERVICE",
+      "Group Name": "Local Vendor",
+      "MSME Registration": "N",
+      "GSTIN": "",
+      "State": "UK",
+      "Country/Region": "IN"
+    },
+    {
+      "Customer/Vendor Code": "V00243",
+      "Customer/Vendor Name": "RAVI  AUTO",
+      "Group Name": "Local Vendor",
+      "MSME Registration": "N",
+      "GSTIN": "",
+      "State": "UK",
+      "Country/Region": "IN"
+    },
+    {
+      "Customer/Vendor Code": "V00249",
+      "Customer/Vendor Name": "A. P. Graphics",
+      "Group Name": "Inter State Vendor",
+      "MSME Registration": "N",
+      "GSTIN": "",
+      "State": "DL",
+      "Country/Region": "IN"
+    },
+    {
+      "Customer/Vendor Code": "V00250",
+      "Customer/Vendor Name": "Anas Trading Co",
+      "Group Name": "Local Vendor",
+      "MSME Registration": "N",
+      "GSTIN": "",
+      "State": "UK",
+      "Country/Region": "IN"
+    },
+    {
+      "Customer/Vendor Code": "V00281",
+      "Customer/Vendor Name": "Padam Petroleum",
+      "Group Name": "Inter State Vendor",
+      "MSME Registration": "N",
+      "GSTIN": "",
+      "State": "UP",
+      "Country/Region": "IN"
+    },
+    {
+      "Customer/Vendor Code": "V00286",
+      "Customer/Vendor Name": "Raina Metal Pvt Ltd",
+      "Group Name": "Inter State Vendor",
+      "MSME Registration": "N",
+      "GSTIN": "",
+      "State": "UP",
+      "Country/Region": "IN"
+    },
+    {
+      "Customer/Vendor Code": "V00287",
+      "Customer/Vendor Name": "RAJENDRA LOGISTICS",
+      "Group Name": "Inter State Vendor",
+      "MSME Registration": "N",
+      "GSTIN": "",
+      "State": "UP",
+      "Country/Region": "IN"
+    },
+    {
+      "Customer/Vendor Code": "V00288",
+      "Customer/Vendor Name": "Rajesh Tempo Service",
+      "Group Name": "Inter State Vendor",
+      "MSME Registration": "N",
+      "GSTIN": "",
+      "State": "UP",
+      "Country/Region": "IN"
+    },
+    {
+      "Customer/Vendor Code": "V00291",
+      "Customer/Vendor Name": "S N TRAVELS",
+      "Group Name": "Inter State Vendor",
+      "MSME Registration": "N",
+      "GSTIN": "",
+      "State": "DL",
+      "Country/Region": "IN"
+    },
+    {
+      "Customer/Vendor Code": "V00301",
+      "Customer/Vendor Name": "Spoton Logistics Pvt Ltd",
+      "Group Name": "Local Vendor",
+      "MSME Registration": "N",
+      "GSTIN": "",
+      "State": "UK",
+      "Country/Region": "IN"
+    },
+    {
+      "Customer/Vendor Code": "V00315",
+      "Customer/Vendor Name": "Kwality Forex Pvt Ltd",
+      "Group Name": "Inter State Vendor",
+      "MSME Registration": "N",
+      "GSTIN": "",
+      "State": "DL",
+      "Country/Region": "IN"
+    },
+    {
+      "Customer/Vendor Code": "V00318",
+      "Customer/Vendor Name": "Shradha Tour and Travels",
+      "Group Name": "Local Vendor",
+      "MSME Registration": "N",
+      "GSTIN": "",
+      "State": "UK",
+      "Country/Region": "IN"
+    },
+    {
+      "Customer/Vendor Code": "V00319",
+      "Customer/Vendor Name": "Sohan Lal & Associate",
+      "Group Name": "Local Vendor",
+      "MSME Registration": "N",
+      "GSTIN": "",
+      "State": "UK",
+      "Country/Region": "IN"
+    },
+    {
+      "Customer/Vendor Code": "V00320",
+      "Customer/Vendor Name": "Tata Aig General  Insurance Co Ltd",
+      "Group Name": "Local Vendor",
+      "MSME Registration": "N",
+      "GSTIN": "",
+      "State": "UK",
+      "Country/Region": "IN"
+    },
+    {
+      "Customer/Vendor Code": "V00326",
+      "Customer/Vendor Name": "DIYA PHARMA",
+      "Group Name": "Inter State Vendor",
+      "MSME Registration": "N",
+      "GSTIN": "",
+      "State": "UP",
+      "Country/Region": "IN"
+    },
+    {
+      "Customer/Vendor Code": "V00336",
+      "Customer/Vendor Name": "RAMESH CHANDRA",
+      "Group Name": "Inter State Vendor",
+      "MSME Registration": "N",
+      "GSTIN": "",
+      "State": "UP",
+      "Country/Region": "IN"
+    },
+    {
+      "Customer/Vendor Code": "V00337",
+      "Customer/Vendor Name": "UMESH KUMAR GOEL",
+      "Group Name": "Local Vendor",
+      "MSME Registration": "N",
+      "GSTIN": "",
+      "State": "UK",
+      "Country/Region": "IN"
+    },
+    {
+      "Customer/Vendor Code": "V00339",
+      "Customer/Vendor Name": "KANHAIYA KUMAR JHA",
+      "Group Name": "Inter State Vendor",
+      "MSME Registration": "N",
+      "GSTIN": "",
+      "State": "UP",
+      "Country/Region": "IN"
+    },
+    {
+      "Customer/Vendor Code": "V00357",
+      "Customer/Vendor Name": "Indian Customs",
+      "Group Name": "Inter State Vendor",
+      "MSME Registration": "N",
+      "GSTIN": "",
+      "State": "DL",
+      "Country/Region": "IN"
+    },
+    {
+      "Customer/Vendor Code": "V00377",
+      "Customer/Vendor Name": "SITA KANT JHA",
+      "Group Name": "Inter State Vendor",
+      "MSME Registration": "N",
+      "GSTIN": "",
+      "State": "UP",
+      "Country/Region": "IN"
+    },
+    {
+      "Customer/Vendor Code": "V00378",
+      "Customer/Vendor Name": "KULDEEP CARRYING CORPORATION",
+      "Group Name": "Local Vendor",
+      "MSME Registration": "N",
+      "GSTIN": "",
+      "State": "UK",
+      "Country/Region": "IN"
+    },
+    {
+      "Customer/Vendor Code": "V00380",
+      "Customer/Vendor Name": "REKHA DHIMAN",
+      "Group Name": "Local Vendor",
+      "MSME Registration": "N",
+      "GSTIN": "",
+      "State": "UK",
+      "Country/Region": "IN"
+    },
+    {
+      "Customer/Vendor Code": "V00401",
+      "Customer/Vendor Name": "JK ENTERPRISES",
+      "Group Name": "Inter State Vendor",
+      "MSME Registration": "N",
+      "GSTIN": "",
+      "State": "UP",
+      "Country/Region": "IN"
+    },
+    {
+      "Customer/Vendor Code": "V00421",
+      "Customer/Vendor Name": "JAISHREE P.S.",
+      "Group Name": "Inter State Vendor",
+      "MSME Registration": "N",
+      "GSTIN": "",
+      "State": "DL",
+      "Country/Region": "IN"
+    },
+    {
+      "Customer/Vendor Code": "V00437",
+      "Customer/Vendor Name": "Haldiram Ethnic Foods",
+      "Group Name": "Inter State Vendor",
+      "MSME Registration": "N",
+      "GSTIN": "",
+      "State": "UP",
+      "Country/Region": "IN"
+    },
+    {
+      "Customer/Vendor Code": "V00451",
+      "Customer/Vendor Name": "E- FILING SERVICES",
+      "Group Name": "Inter State Vendor",
+      "MSME Registration": "N",
+      "GSTIN": "",
+      "State": "DL",
+      "Country/Region": "IN"
+    },
+    {
+      "Customer/Vendor Code": "V00463",
+      "Customer/Vendor Name": "CHANDA TEMPO SERVICE",
+      "Group Name": "Inter State Vendor",
+      "MSME Registration": "N",
+      "GSTIN": "",
+      "State": "UP",
+      "Country/Region": "IN"
+    },
+    {
+      "Customer/Vendor Code": "V00496",
+      "Customer/Vendor Name": "PINAK INTERNATIONAL",
+      "Group Name": "Inter State Vendor",
+      "MSME Registration": "N",
+      "GSTIN": "",
+      "State": "DL",
+      "Country/Region": "IN"
+    },
+    {
+      "Customer/Vendor Code": "V00511",
+      "Customer/Vendor Name": "AASH LOGISTICS PVT LTD",
+      "Group Name": "Local Vendor",
+      "MSME Registration": "N",
+      "GSTIN": "",
+      "State": "UK",
+      "Country/Region": "IN"
+    },
+    {
+      "Customer/Vendor Code": "V00517",
+      "Customer/Vendor Name": "R.M. ENTERPRISES",
+      "Group Name": "Inter State Vendor",
+      "MSME Registration": "N",
+      "GSTIN": "",
+      "State": "UP",
+      "Country/Region": "IN"
+    },
+    {
+      "Customer/Vendor Code": "V00523",
+      "Customer/Vendor Name": "PANKAJ KUMAR",
+      "Group Name": "Inter State Vendor",
+      "MSME Registration": "N",
+      "GSTIN": "",
+      "State": "DL",
+      "Country/Region": "IN"
+    },
+    {
+      "Customer/Vendor Code": "V00538",
+      "Customer/Vendor Name": "Kuldeep Singh",
+      "Group Name": "Inter State Vendor",
+      "MSME Registration": "N",
+      "GSTIN": "",
+      "State": "DL",
+      "Country/Region": "IN"
+    },
+    {
+      "Customer/Vendor Code": "V00540",
+      "Customer/Vendor Name": "GALAXY AUTOMOBILES PVT LTD",
+      "Group Name": "Inter State Vendor",
+      "MSME Registration": "N",
+      "GSTIN": "",
+      "State": "DL",
+      "Country/Region": "IN"
+    },
+    {
+      "Customer/Vendor Code": "V00553",
+      "Customer/Vendor Name": "RAO ICE FACTORY",
+      "Group Name": "Local Vendor",
+      "MSME Registration": "N",
+      "GSTIN": "",
+      "State": "UK",
+      "Country/Region": "IN"
+    },
+    {
+      "Customer/Vendor Code": "V00559",
+      "Customer/Vendor Name": "Om Logistics Ltd",
+      "Group Name": "Local Vendor",
+      "MSME Registration": "N",
+      "GSTIN": "",
+      "State": "UK",
+      "Country/Region": "IN"
+    },
+    {
+      "Customer/Vendor Code": "V00573",
+      "Customer/Vendor Name": "KAILASH INTERNATIONAL (P) LTD",
+      "Group Name": "Inter State Vendor",
+      "MSME Registration": "N",
+      "GSTIN": "",
+      "State": "DL",
+      "Country/Region": "IN"
+    },
+    {
+      "Customer/Vendor Code": "V00585",
+      "Customer/Vendor Name": "KULDEEP HARDWARE STROE",
+      "Group Name": "Inter State Vendor",
+      "MSME Registration": "N",
+      "GSTIN": "",
+      "State": "UP",
+      "Country/Region": "IN"
+    },
+    {
+      "Customer/Vendor Code": "V00610",
+      "Customer/Vendor Name": "G.K ENTERPRISES PVT LTD",
+      "Group Name": "Inter State Vendor",
+      "MSME Registration": "N",
+      "GSTIN": "",
+      "State": "UP",
+      "Country/Region": "IN"
+    },
+    {
+      "Customer/Vendor Code": "V00615",
+      "Customer/Vendor Name": "SANJAY KAPOOR",
+      "Group Name": "Inter State Vendor",
+      "MSME Registration": "N",
+      "GSTIN": "",
+      "State": "DL",
+      "Country/Region": "IN"
+    },
+    {
+      "Customer/Vendor Code": "V00616",
+      "Customer/Vendor Name": "NIRMAL KAPOOR",
+      "Group Name": "Inter State Vendor",
+      "MSME Registration": "N",
+      "GSTIN": "",
+      "State": "DL",
+      "Country/Region": "IN"
+    },
+    {
+      "Customer/Vendor Code": "V00620",
+      "Customer/Vendor Name": "DAMANPREET SINGH (ADVOCATE)",
+      "Group Name": "Inter State Vendor",
+      "MSME Registration": "N",
+      "GSTIN": "",
+      "State": "DL",
+      "Country/Region": "IN"
+    },
+    {
+      "Customer/Vendor Code": "V00622",
+      "Customer/Vendor Name": "WEISZ FOREX PVT LTD",
+      "Group Name": "Inter State Vendor",
+      "MSME Registration": "N",
+      "GSTIN": "",
+      "State": "DL",
+      "Country/Region": "IN"
+    },
+    {
+      "Customer/Vendor Code": "V00626",
+      "Customer/Vendor Name": "KALEVA FOODS",
+      "Group Name": "Inter State Vendor",
+      "MSME Registration": "N",
+      "GSTIN": "",
+      "State": "UP",
+      "Country/Region": "IN"
+    },
+    {
+      "Customer/Vendor Code": "V00630",
+      "Customer/Vendor Name": "RAM PRAKASH/PRATAP SINGH",
+      "Group Name": "Inter State Vendor",
+      "MSME Registration": "N",
+      "GSTIN": "",
+      "State": "UP",
+      "Country/Region": "IN"
+    },
+    {
+      "Customer/Vendor Code": "V00638",
+      "Customer/Vendor Name": "TEXCARE INSTRUMENT",
+      "Group Name": "Inter State Vendor",
+      "MSME Registration": "N",
+      "GSTIN": "",
+      "State": "DL",
+      "Country/Region": "IN"
+    },
+    {
+      "Customer/Vendor Code": "V00659",
+      "Customer/Vendor Name": "KARRAN WORK CONTRACTS",
+      "Group Name": "Inter State Vendor",
+      "MSME Registration": "N",
+      "GSTIN": "",
+      "State": "UP",
+      "Country/Region": "IN"
+    },
+    {
+      "Customer/Vendor Code": "V00660",
+      "Customer/Vendor Name": "KDH TRAVELS PVT LTD",
+      "Group Name": "Inter State Vendor",
+      "MSME Registration": "N",
+      "GSTIN": "",
+      "State": "DL",
+      "Country/Region": "IN"
+    },
+    {
+      "Customer/Vendor Code": "V00662",
+      "Customer/Vendor Name": "RADHEY PRINT PACK",
+      "Group Name": "Inter State Vendor",
+      "MSME Registration": "N",
+      "GSTIN": "",
+      "State": "UP",
+      "Country/Region": "IN"
+    },
+    {
+      "Customer/Vendor Code": "V00665",
+      "Customer/Vendor Name": "DAKSH FREIGHT CARRIER",
+      "Group Name": "Local Vendor",
+      "MSME Registration": "N",
+      "GSTIN": "",
+      "State": "UK",
+      "Country/Region": "IN"
+    },
+    {
+      "Customer/Vendor Code": "V00691",
+      "Customer/Vendor Name": "NITCO LOGISTICS PVT LTD",
+      "Group Name": "Inter State Vendor",
+      "MSME Registration": "N",
+      "GSTIN": "",
+      "State": "MH",
+      "Country/Region": "IN"
+    },
+    {
+      "Customer/Vendor Code": "V00694",
+      "Customer/Vendor Name": "AKG & Co",
+      "Group Name": "Inter State Vendor",
+      "MSME Registration": "N",
+      "GSTIN": "",
+      "State": "DL",
+      "Country/Region": "IN"
+    },
+    {
+      "Customer/Vendor Code": "V00702",
+      "Customer/Vendor Name": "AKSHAT TRANSPORT CO",
+      "Group Name": "Inter State Vendor",
+      "MSME Registration": "N",
+      "GSTIN": "",
+      "State": "MH",
+      "Country/Region": "IN"
+    },
+    {
+      "Customer/Vendor Code": "V00703",
+      "Customer/Vendor Name": "SYED ALI (USA VISA)",
+      "Group Name": "Inter State Vendor",
+      "MSME Registration": "N",
+      "GSTIN": "",
+      "State": "DL",
+      "Country/Region": "IN"
+    },
+    {
+      "Customer/Vendor Code": "V00739",
+      "Customer/Vendor Name": "SUBHASH CHAND AGRAWAL",
+      "Group Name": "Local Vendor",
+      "MSME Registration": "N",
+      "GSTIN": "",
+      "State": "UK",
+      "Country/Region": "IN"
+    },
+    {
+      "Customer/Vendor Code": "V00740",
+      "Customer/Vendor Name": "PARVEEN KUMAR SAINI",
+      "Group Name": "Local Vendor",
+      "MSME Registration": "N",
+      "GSTIN": "",
+      "State": "UK",
+      "Country/Region": "IN"
+    },
+    {
+      "Customer/Vendor Code": "V00741",
+      "Customer/Vendor Name": "K.G. SIJU",
+      "Group Name": "Local Vendor",
+      "MSME Registration": "N",
+      "GSTIN": "",
+      "State": "UK",
+      "Country/Region": "IN"
+    },
+    {
+      "Customer/Vendor Code": "V00746",
+      "Customer/Vendor Name": "ASHIRWAR PATH LAB",
+      "Group Name": "Local Vendor",
+      "MSME Registration": "N",
+      "GSTIN": "",
+      "State": "UK",
+      "Country/Region": "IN"
+    },
+    {
+      "Customer/Vendor Code": "V00764",
+      "Customer/Vendor Name": "SWEETY BHATIA",
+      "Group Name": "Inter State Vendor",
+      "MSME Registration": "N",
+      "GSTIN": "",
+      "State": "HR",
+      "Country/Region": "IN"
+    },
+    {
+      "Customer/Vendor Code": "V00784",
+      "Customer/Vendor Name": "AMIT SHARMA",
+      "Group Name": "Local Vendor",
+      "MSME Registration": "N",
+      "GSTIN": "",
+      "State": "UK",
+      "Country/Region": "IN"
+    },
+    {
+      "Customer/Vendor Code": "V00797",
+      "Customer/Vendor Name": "HINDUSTAN ANTIBIOTCS LTD",
+      "Group Name": "Inter State Vendor",
+      "MSME Registration": "N",
+      "GSTIN": "",
+      "State": "UP",
+      "Country/Region": "IN"
+    },
+    {
+      "Customer/Vendor Code": "V00812",
+      "Customer/Vendor Name": "SHYAM PRAKASH TOUR & TRAVELS",
+      "Group Name": "Inter State Vendor",
+      "MSME Registration": "N",
+      "GSTIN": "",
+      "State": "UP",
+      "Country/Region": "IN"
+    },
+    {
+      "Customer/Vendor Code": "V00818",
+      "Customer/Vendor Name": "TEMPLETON DEVELOPERS PVT LTD",
+      "Group Name": "Inter State Vendor",
+      "MSME Registration": "N",
+      "GSTIN": "",
+      "State": "UP",
+      "Country/Region": "IN"
+    },
+    {
+      "Customer/Vendor Code": "V00821",
+      "Customer/Vendor Name": "AMP MOTORS PRIVATE LIMITED",
+      "Group Name": "Inter State Vendor",
+      "MSME Registration": "N",
+      "GSTIN": "",
+      "State": "HR",
+      "Country/Region": "IN"
+    },
+    {
+      "Customer/Vendor Code": "V00822",
+      "Customer/Vendor Name": "COINERA FOREX PVT LTD",
+      "Group Name": "Inter State Vendor",
+      "MSME Registration": "N",
+      "GSTIN": "",
+      "State": "UP",
+      "Country/Region": "IN"
+    },
+    {
+      "Customer/Vendor Code": "V00827",
+      "Customer/Vendor Name": "BALUNI CARGO MOVERS PVT LTD",
+      "Group Name": "Local Vendor",
+      "MSME Registration": "N",
+      "GSTIN": "",
+      "State": "UK",
+      "Country/Region": "IN"
+    },
+    {
+      "Customer/Vendor Code": "V00839",
+      "Customer/Vendor Name": "Deep Ganga Welfare Association P2",
+      "Group Name": "Local Vendor",
+      "MSME Registration": "N",
+      "GSTIN": "",
+      "State": "UK",
+      "Country/Region": "IN"
+    },
+    {
+      "Customer/Vendor Code": "V00840",
+      "Customer/Vendor Name": "HAWAII HOLIDAY TOUR",
+      "Group Name": "Inter State Vendor",
+      "MSME Registration": "N",
+      "GSTIN": "",
+      "State": "HR",
+      "Country/Region": "IN"
+    },
+    {
+      "Customer/Vendor Code": "V00843",
+      "Customer/Vendor Name": "NAYA SAVERA FOUNDATION",
+      "Group Name": "Inter State Vendor",
+      "MSME Registration": "N",
+      "GSTIN": "",
+      "State": "DL",
+      "Country/Region": "IN"
+    },
+    {
+      "Customer/Vendor Code": "V00856",
+      "Customer/Vendor Name": "Associated Road Carriers Limited",
+      "Group Name": "Inter State Vendor",
+      "MSME Registration": "N",
+      "GSTIN": "",
+      "State": "WB",
+      "Country/Region": "IN"
+    },
+    {
+      "Customer/Vendor Code": "V00857",
+      "Customer/Vendor Name": "KUMAR BHAGWAS & COMPANY",
+      "Group Name": "Inter State Vendor",
+      "MSME Registration": "N",
+      "GSTIN": "",
+      "State": "HR",
+      "Country/Region": "IN"
+    },
+    {
+      "Customer/Vendor Code": "V00876",
+      "Customer/Vendor Name": "JAY KASHYAP",
+      "Group Name": "Local Vendor",
+      "MSME Registration": "N",
+      "GSTIN": "",
+      "State": "UK",
+      "Country/Region": "IN"
+    },
+    {
+      "Customer/Vendor Code": "V00877",
+      "Customer/Vendor Name": "ASHOKA LAW ASSOCIATES",
+      "Group Name": "Inter State Vendor",
+      "MSME Registration": "N",
+      "GSTIN": "",
+      "State": "DL",
+      "Country/Region": "IN"
+    },
+    {
+      "Customer/Vendor Code": "V00882",
+      "Customer/Vendor Name": "SAI TOUR & TRAVELS",
+      "Group Name": "Local Vendor",
+      "MSME Registration": "N",
+      "GSTIN": "",
+      "State": "UK",
+      "Country/Region": "IN"
+    },
+    {
+      "Customer/Vendor Code": "V00904",
+      "Customer/Vendor Name": "CEVA LOGISTICS INDIA PRIVATE LIMITED",
+      "Group Name": "Inter State Vendor",
+      "MSME Registration": "N",
+      "GSTIN": "",
+      "State": "GJ",
+      "Country/Region": "IN"
+    },
+    {
+      "Customer/Vendor Code": "V00927",
+      "Customer/Vendor Name": "CHANDRA SHEKHAR VERMA(DIRECTER)",
+      "Group Name": "Inter State Vendor",
+      "MSME Registration": "N",
+      "GSTIN": "",
+      "State": "DL",
+      "Country/Region": "IN"
+    },
+    {
+      "Customer/Vendor Code": "V00928",
+      "Customer/Vendor Name": "Kishor Kumar Sansi(Directer)",
+      "Group Name": "Inter State Vendor",
+      "MSME Registration": "N",
+      "GSTIN": "",
+      "State": "DL",
+      "Country/Region": "IN"
+    },
+    {
+      "Customer/Vendor Code": "V00929",
+      "Customer/Vendor Name": "ROHIT SINGHAL(Director)",
+      "Group Name": "Inter State Vendor",
+      "MSME Registration": "N",
+      "GSTIN": "",
+      "State": "DL",
+      "Country/Region": "IN"
+    },
+    {
+      "Customer/Vendor Code": "V00932",
+      "Customer/Vendor Name": "AMIT RAGHAV",
+      "Group Name": "Local Vendor",
+      "MSME Registration": "N",
+      "GSTIN": "",
+      "State": "UK",
+      "Country/Region": "IN"
+    },
+    {
+      "Customer/Vendor Code": "V00934",
+      "Customer/Vendor Name": "PRAVESH GUPTA",
+      "Group Name": "Local Vendor",
+      "MSME Registration": "N",
+      "GSTIN": "",
+      "State": "UK",
+      "Country/Region": "IN"
+    },
+    {
+      "Customer/Vendor Code": "V00935",
+      "Customer/Vendor Name": "SANDEEP KUMAR AGARWAL",
+      "Group Name": "Local Vendor",
+      "MSME Registration": "N",
+      "GSTIN": "",
+      "State": "UK",
+      "Country/Region": "IN"
+    },
+    {
+      "Customer/Vendor Code": "V00936",
+      "Customer/Vendor Name": "RAHUL TYAGI",
+      "Group Name": "Local Vendor",
+      "MSME Registration": "N",
+      "GSTIN": "",
+      "State": "UK",
+      "Country/Region": "IN"
+    },
+    {
+      "Customer/Vendor Code": "V00952",
+      "Customer/Vendor Name": "NARAYAN SINGHAL",
+      "Group Name": "Local Vendor",
+      "MSME Registration": "N",
+      "GSTIN": "",
+      "State": "UK",
+      "Country/Region": "IN"
+    },
+    {
+      "Customer/Vendor Code": "V00953",
+      "Customer/Vendor Name": "DALJIT SINGH",
+      "Group Name": "Local Vendor",
+      "MSME Registration": "N",
+      "GSTIN": "",
+      "State": "UK",
+      "Country/Region": "IN"
+    },
+    {
+      "Customer/Vendor Code": "V00954",
+      "Customer/Vendor Name": "BG ELEVATORS",
+      "Group Name": "Local Vendor",
+      "MSME Registration": "N",
+      "GSTIN": "",
+      "State": "UK",
+      "Country/Region": "IN"
+    },
+    {
+      "Customer/Vendor Code": "V00957",
+      "Customer/Vendor Name": "MANISH KHANDELWAL",
+      "Group Name": "Local Vendor",
+      "MSME Registration": "N",
+      "GSTIN": "",
+      "State": "UK",
+      "Country/Region": "IN"
+    },
+    {
+      "Customer/Vendor Code": "V00966",
+      "Customer/Vendor Name": "PRADEEP SINGAL",
+      "Group Name": "Local Vendor",
+      "MSME Registration": "N",
+      "GSTIN": "",
+      "State": "UK",
+      "Country/Region": "IN"
+    },
+    {
+      "Customer/Vendor Code": "V00967",
+      "Customer/Vendor Name": "DEEPTI POKHRIYAL",
+      "Group Name": "Local Vendor",
+      "MSME Registration": "N",
+      "GSTIN": "",
+      "State": "UK",
+      "Country/Region": "IN"
+    },
+    {
+      "Customer/Vendor Code": "V00970",
+      "Customer/Vendor Name": "Sandeep Ghai HUF",
+      "Group Name": "Local Vendor",
+      "MSME Registration": "N",
+      "GSTIN": "",
+      "State": "UK",
+      "Country/Region": "IN"
+    },
+    {
+      "Customer/Vendor Code": "V00971",
+      "Customer/Vendor Name": "LIFE INSURANCE CORPORATION OF INDIA",
+      "Group Name": "Inter State Vendor",
+      "MSME Registration": "N",
+      "GSTIN": "",
+      "State": "UP",
+      "Country/Region": "IN"
+    },
+    {
+      "Customer/Vendor Code": "V00979",
+      "Customer/Vendor Name": "SKYWALK TRAVELS",
+      "Group Name": "Inter State Vendor",
+      "MSME Registration": "N",
+      "GSTIN": "",
+      "State": "DL",
+      "Country/Region": "IN"
+    },
+    {
+      "Customer/Vendor Code": "V00981",
+      "Customer/Vendor Name": "R.P SHUKLA",
+      "Group Name": "Local Vendor",
+      "MSME Registration": "N",
+      "GSTIN": "",
+      "State": "UK",
+      "Country/Region": "IN"
+    },
+    {
+      "Customer/Vendor Code": "V00983",
+      "Customer/Vendor Name": "RANGANATH M T",
+      "Group Name": "Inter State Vendor",
+      "MSME Registration": "N",
+      "GSTIN": "",
+      "State": "MH",
+      "Country/Region": "IN"
+    },
+    {
+      "Customer/Vendor Code": "V00993",
+      "Customer/Vendor Name": "NAMASTE FOODS",
+      "Group Name": "Local Vendor",
+      "MSME Registration": "N",
+      "GSTIN": "",
+      "State": "UK",
+      "Country/Region": "IN"
+    },
+    {
+      "Customer/Vendor Code": "V00996",
+      "Customer/Vendor Name": "TOSHNIWAL SENSING DEVICES  PVT LTD",
+      "Group Name": "Inter State Vendor",
+      "MSME Registration": "N",
+      "GSTIN": "",
+      "State": "UP",
+      "Country/Region": "IN"
+    },
+    {
+      "Customer/Vendor Code": "V01005",
+      "Customer/Vendor Name": "LALIT CHAUHAN",
+      "Group Name": "Local Vendor",
+      "MSME Registration": "N",
+      "GSTIN": "",
+      "State": "UK",
+      "Country/Region": "IN"
+    },
+    {
+      "Customer/Vendor Code": "V01011",
+      "Customer/Vendor Name": "MUNESH KUMAR RANA",
+      "Group Name": "Inter State Vendor",
+      "MSME Registration": "N",
+      "GSTIN": "",
+      "State": "UP",
+      "Country/Region": "IN"
+    },
+    {
+      "Customer/Vendor Code": "V01017",
+      "Customer/Vendor Name": "SHAILESH SHRIVASTAVA",
+      "Group Name": "Local Vendor",
+      "MSME Registration": "N",
+      "GSTIN": "",
+      "State": "UK",
+      "Country/Region": "IN"
+    },
+    {
+      "Customer/Vendor Code": "V01024",
+      "Customer/Vendor Name": "ARUN KUMAR",
+      "Group Name": "Local Vendor",
+      "MSME Registration": "N",
+      "GSTIN": "",
+      "State": "UK",
+      "Country/Region": "IN"
+    },
+    {
+      "Customer/Vendor Code": "V01081",
+      "Customer/Vendor Name": "LAKSHMIKUMARAN & SRIDHARAN",
+      "Group Name": "Inter State Vendor",
+      "MSME Registration": "N",
+      "GSTIN": "",
+      "State": "HR",
+      "Country/Region": "IN"
+    },
+    {
+      "Customer/Vendor Code": "V01086",
+      "Customer/Vendor Name": "MOHATARIN FEBRICATION",
+      "Group Name": "Local Vendor",
+      "MSME Registration": "N",
+      "GSTIN": "",
+      "State": "UK",
+      "Country/Region": "IN"
+    },
+    {
+      "Customer/Vendor Code": "V01088",
+      "Customer/Vendor Name": "CCL LOGISTICS LTD",
+      "Group Name": "Inter State Vendor",
+      "MSME Registration": "N",
+      "GSTIN": "",
+      "State": "WB",
+      "Country/Region": "IN"
+    },
+    {
+      "Customer/Vendor Code": "V01091",
+      "Customer/Vendor Name": "LAKHMI CHAND",
+      "Group Name": "Local Vendor",
+      "MSME Registration": "N",
+      "GSTIN": "",
+      "State": "UK",
+      "Country/Region": "IN"
+    },
+    {
+      "Customer/Vendor Code": "V01100",
+      "Customer/Vendor Name": "TALIM PAINTER",
+      "Group Name": "Local Vendor",
+      "MSME Registration": "N",
+      "GSTIN": "",
+      "State": "UK",
+      "Country/Region": "IN"
+    },
+    {
+      "Customer/Vendor Code": "V01102",
+      "Customer/Vendor Name": "MANOJ MISRA",
+      "Group Name": "Local Vendor",
+      "MSME Registration": "N",
+      "GSTIN": "",
+      "State": "UK",
+      "Country/Region": "IN"
+    },
+    {
+      "Customer/Vendor Code": "V01107",
+      "Customer/Vendor Name": "SINGHANIA & CO LLP",
+      "Group Name": "Inter State Vendor",
+      "MSME Registration": "N",
+      "GSTIN": "",
+      "State": "HR",
+      "Country/Region": "IN"
+    },
+    {
+      "Customer/Vendor Code": "V01111",
+      "Customer/Vendor Name": "HRIDESH KUMAR PACHAURI",
+      "Group Name": "Local Vendor",
+      "MSME Registration": "N",
+      "GSTIN": "",
+      "State": "UK",
+      "Country/Region": "IN"
+    },
+    {
+      "Customer/Vendor Code": "V01113",
+      "Customer/Vendor Name": "NARESH BABBAR(Commercial Tax Income )",
+      "Group Name": "Local Vendor",
+      "MSME Registration": "N",
+      "GSTIN": "",
+      "State": "UK",
+      "Country/Region": "IN"
+    },
+    {
+      "Customer/Vendor Code": "V01130",
+      "Customer/Vendor Name": "AMIT KUMAR CHOUHAN",
+      "Group Name": "Local Vendor",
+      "MSME Registration": "N",
+      "GSTIN": "",
+      "State": "UK",
+      "Country/Region": "IN"
+    },
+    {
+      "Customer/Vendor Code": "V01133",
+      "Customer/Vendor Name": "ROYAL SUPPORT SEVICES",
+      "Group Name": "Inter State Vendor",
+      "MSME Registration": "N",
+      "GSTIN": "",
+      "State": "DL",
+      "Country/Region": "IN"
+    },
+    {
+      "Customer/Vendor Code": "V01136",
+      "Customer/Vendor Name": "UTTAM TOYOTA",
+      "Group Name": "Inter State Vendor",
+      "MSME Registration": "N",
+      "GSTIN": "",
+      "State": "UP",
+      "Country/Region": "IN"
+    },
+    {
+      "Customer/Vendor Code": "V01138",
+      "Customer/Vendor Name": "SUMIT KUMAR FABRICATOR AND CONTRACTOR",
+      "Group Name": "Local Vendor",
+      "MSME Registration": "N",
+      "GSTIN": "",
+      "State": "UK",
+      "Country/Region": "IN"
+    },
+    {
+      "Customer/Vendor Code": "V01140",
+      "Customer/Vendor Name": "JANTA ENGINEERING WORK",
+      "Group Name": "Local Vendor",
+      "MSME Registration": "N",
+      "GSTIN": "",
+      "State": "UK",
+      "Country/Region": "IN"
+    },
+    {
+      "Customer/Vendor Code": "V01146",
+      "Customer/Vendor Name": "VDC BUSINESS SERVICES PVT LTD",
+      "Group Name": "Inter State Vendor",
+      "MSME Registration": "N",
+      "GSTIN": "",
+      "State": "UP",
+      "Country/Region": "IN"
+    },
+    {
+      "Customer/Vendor Code": "V01163",
+      "Customer/Vendor Name": "RACHANA CHOWDHARY",
+      "Group Name": "Local Vendor",
+      "MSME Registration": "N",
+      "GSTIN": "",
+      "State": "UK",
+      "Country/Region": "IN"
+    },
+    {
+      "Customer/Vendor Code": "V01173",
+      "Customer/Vendor Name": "Prabhat kumar",
+      "Group Name": "Local Vendor",
+      "MSME Registration": "N",
+      "GSTIN": "",
+      "State": "UK",
+      "Country/Region": "IN"
+    },
+    {
+      "Customer/Vendor Code": "V01174",
+      "Customer/Vendor Name": "Narender Prasad",
+      "Group Name": "Local Vendor",
+      "MSME Registration": "N",
+      "GSTIN": "",
+      "State": "UK",
+      "Country/Region": "IN"
+    },
+    {
+      "Customer/Vendor Code": "V01175",
+      "Customer/Vendor Name": "BRIJESH SINGH PARIHAR",
+      "Group Name": "Local Vendor",
+      "MSME Registration": "N",
+      "GSTIN": "",
+      "State": "UK",
+      "Country/Region": "IN"
+    },
+    {
+      "Customer/Vendor Code": "V01177",
+      "Customer/Vendor Name": "ATUL JAIN",
+      "Group Name": "Local Vendor",
+      "MSME Registration": "N",
+      "GSTIN": "",
+      "State": "UK",
+      "Country/Region": "IN"
+    },
+    {
+      "Customer/Vendor Code": "V01183",
+      "Customer/Vendor Name": "ABAN Electronics LLP",
+      "Group Name": "Inter State Vendor",
+      "MSME Registration": "N",
+      "GSTIN": "",
+      "State": "DL",
+      "Country/Region": "IN"
+    },
+    {
+      "Customer/Vendor Code": "V01190",
+      "Customer/Vendor Name": "Sarika Jain",
+      "Group Name": "Inter State Vendor",
+      "MSME Registration": "N",
+      "GSTIN": "",
+      "State": "DL",
+      "Country/Region": "IN"
+    },
+    {
+      "Customer/Vendor Code": "V01193",
+      "Customer/Vendor Name": "RUCHIKA RAWAT",
+      "Group Name": "Local Vendor",
+      "MSME Registration": "N",
+      "GSTIN": "",
+      "State": "UK",
+      "Country/Region": "IN"
+    },
+    {
+      "Customer/Vendor Code": "V01218",
+      "Customer/Vendor Name": "SHAHEED DESHRAJ FILLING STATION",
+      "Group Name": "Inter State Vendor",
+      "MSME Registration": "N",
+      "GSTIN": "",
+      "State": "UP",
+      "Country/Region": "IN"
+    },
+    {
+      "Customer/Vendor Code": "V01223",
+      "Customer/Vendor Name": "VIVEK VASHISTH",
+      "Group Name": "Local Vendor",
+      "MSME Registration": "N",
+      "GSTIN": "",
+      "State": "UK",
+      "Country/Region": "IN"
+    },
+    {
+      "Customer/Vendor Code": "V01241",
+      "Customer/Vendor Name": "SUNIL KUMAR MISHRA",
+      "Group Name": "Inter State Vendor",
+      "MSME Registration": "N",
+      "GSTIN": "",
+      "State": "DL",
+      "Country/Region": "IN"
+    },
+    {
+      "Customer/Vendor Code": "V01260",
+      "Customer/Vendor Name": "SEASHIELD TECHNOLOGY",
+      "Group Name": "Local Vendor",
+      "MSME Registration": "N",
+      "GSTIN": "",
+      "State": "UK",
+      "Country/Region": "IN"
+    },
+    {
+      "Customer/Vendor Code": "V01267",
+      "Customer/Vendor Name": "Zhurich Kotak General Insurance Company (I) LTD",
+      "Group Name": "Inter State Vendor",
+      "MSME Registration": "N",
+      "GSTIN": "",
+      "State": "MH",
+      "Country/Region": "IN"
+    },
+    {
+      "Customer/Vendor Code": "V01277",
+      "Customer/Vendor Name": "NAVEEN BHATIA",
+      "Group Name": "Local Vendor",
+      "MSME Registration": "N",
+      "GSTIN": "",
+      "State": "UK",
+      "Country/Region": "IN"
+    },
+    {
+      "Customer/Vendor Code": "V01282",
+      "Customer/Vendor Name": "ICICI Lombard General Insurance",
+      "Group Name": "Inter State Vendor",
+      "MSME Registration": "N",
+      "GSTIN": "",
+      "State": "UP",
+      "Country/Region": "IN"
+    },
+    {
+      "Customer/Vendor Code": "V01288",
+      "Customer/Vendor Name": "AMIT MITTAL",
+      "Group Name": "Inter State Vendor",
+      "MSME Registration": "N",
+      "GSTIN": "",
+      "State": "UP",
+      "Country/Region": "IN"
+    },
+    {
+      "Customer/Vendor Code": "V01310",
+      "Customer/Vendor Name": "SUMITRA DHYANI",
+      "Group Name": "Inter State Vendor",
+      "MSME Registration": "N",
+      "GSTIN": "",
+      "State": "UK",
+      "Country/Region": "IN"
+    },
+    {
+      "Customer/Vendor Code": "V01327",
+      "Customer/Vendor Name": "BINU MON K P",
+      "Group Name": "Inter State Vendor",
+      "MSME Registration": "N",
+      "GSTIN": "",
+      "State": "UP",
+      "Country/Region": "IN"
+    },
+    {
+      "Customer/Vendor Code": "V01343",
+      "Customer/Vendor Name": "MANOJ KUMAR SINGH",
+      "Group Name": "Local Vendor",
+      "MSME Registration": "N",
+      "GSTIN": "",
+      "State": "UK",
+      "Country/Region": "IN"
+    },
+    {
+      "Customer/Vendor Code": "V01349",
+      "Customer/Vendor Name": "DINESH KUMAR SONI",
+      "Group Name": "Local Vendor",
+      "MSME Registration": "N",
+      "GSTIN": "",
+      "State": "DL",
+      "Country/Region": "IN"
+    },
+    {
+      "Customer/Vendor Code": "V01356",
+      "Customer/Vendor Name": "PREETI BHATIA",
+      "Group Name": "Local Vendor",
+      "MSME Registration": "N",
+      "GSTIN": "",
+      "State": "DL",
+      "Country/Region": "IN"
+    },
+    {
+      "Customer/Vendor Code": "V01359",
+      "Customer/Vendor Name": "SHIVAM GOYAL AND ASSOCIATES",
+      "Group Name": "Inter State Vendor",
+      "MSME Registration": "N",
+      "GSTIN": "",
+      "State": "HR",
+      "Country/Region": "IN"
+    },
+    {
+      "Customer/Vendor Code": "V01378",
+      "Customer/Vendor Name": "Vikas Sani",
+      "Group Name": "Local Vendor",
+      "MSME Registration": "N",
+      "GSTIN": "",
+      "State": "UK",
+      "Country/Region": "IN"
+    }
+  ]
+}

@@ -1,0 +1,3555 @@
+{
+  "table_name": "A.  GRPO POSTED BUT NO AP INVOICE  –  DATA LIST",
+  "body": [
+    {
+      "GRPO No.": 252610832,
+      "Internal Number": 54588,
+      "GRPO Date": "05-Jan-2026",
+      "Customer/Vendor Code": "V00195",
+      "Customer/Vendor Name": "NOVATEUR ELECTRICAL & DIGITAL SYSTEMS PVT. LTD",
+      "AP No.": "",
+      "AP Date": "",
+      "BP Reference No.": "HDA000007"
+    },
+    {
+      "GRPO No.": 252610833,
+      "Internal Number": 54589,
+      "GRPO Date": "05-Jan-2026",
+      "Customer/Vendor Code": "V00195",
+      "Customer/Vendor Name": "NOVATEUR ELECTRICAL & DIGITAL SYSTEMS PVT. LTD",
+      "AP No.": "",
+      "AP Date": "",
+      "BP Reference No.": "HDA000006(25-26)"
+    },
+    {
+      "GRPO No.": 252610831,
+      "Internal Number": 54587,
+      "GRPO Date": "05-Jan-2026",
+      "Customer/Vendor Code": "V00195",
+      "Customer/Vendor Name": "NOVATEUR ELECTRICAL & DIGITAL SYSTEMS PVT. LTD",
+      "AP No.": "",
+      "AP Date": "",
+      "BP Reference No.": "HDA000008(25-26)"
+    },
+    {
+      "GRPO No.": 252610835,
+      "Internal Number": 54620,
+      "GRPO Date": "06-Jan-2026",
+      "Customer/Vendor Code": "V00195",
+      "Customer/Vendor Name": "NOVATEUR ELECTRICAL & DIGITAL SYSTEMS PVT. LTD",
+      "AP No.": "",
+      "AP Date": "",
+      "BP Reference No.": "HDA000027"
+    },
+    {
+      "GRPO No.": 252610830,
+      "Internal Number": 54577,
+      "GRPO Date": "03-Jan-2026",
+      "Customer/Vendor Code": "V00195",
+      "Customer/Vendor Name": "NOVATEUR ELECTRICAL & DIGITAL SYSTEMS PVT. LTD",
+      "AP No.": "",
+      "AP Date": "",
+      "BP Reference No.": "HDA000003"
+    },
+    {
+      "GRPO No.": 252610837,
+      "Internal Number": 54665,
+      "GRPO Date": "07-Jan-2026",
+      "Customer/Vendor Code": "V00195",
+      "Customer/Vendor Name": "NOVATEUR ELECTRICAL & DIGITAL SYSTEMS PVT. LTD",
+      "AP No.": "",
+      "AP Date": "",
+      "BP Reference No.": "HDA000054"
+    },
+    {
+      "GRPO No.": 252610841,
+      "Internal Number": 54686,
+      "GRPO Date": "08-Jan-2026",
+      "Customer/Vendor Code": "V00195",
+      "Customer/Vendor Name": "NOVATEUR ELECTRICAL & DIGITAL SYSTEMS PVT. LTD",
+      "AP No.": "",
+      "AP Date": "",
+      "BP Reference No.": "HDA000056"
+    },
+    {
+      "GRPO No.": 252610843,
+      "Internal Number": 54706,
+      "GRPO Date": "08-Jan-2026",
+      "Customer/Vendor Code": "V00195",
+      "Customer/Vendor Name": "NOVATEUR ELECTRICAL & DIGITAL SYSTEMS PVT. LTD",
+      "AP No.": "",
+      "AP Date": "",
+      "BP Reference No.": "HDA000069(25-26)"
+    },
+    {
+      "GRPO No.": 252640132,
+      "Internal Number": 54604,
+      "GRPO Date": "05-Jan-2026",
+      "Customer/Vendor Code": "V00737",
+      "Customer/Vendor Name": "IKIO SOLUTIONS PVT LTD",
+      "AP No.": "",
+      "AP Date": "",
+      "BP Reference No.": "RGP25261793"
+    },
+    {
+      "GRPO No.": 252610845,
+      "Internal Number": 54708,
+      "GRPO Date": "08-Jan-2026",
+      "Customer/Vendor Code": "V00195",
+      "Customer/Vendor Name": "NOVATEUR ELECTRICAL & DIGITAL SYSTEMS PVT. LTD",
+      "AP No.": "",
+      "AP Date": "",
+      "BP Reference No.": "HDA000068(25-26)"
+    },
+    {
+      "GRPO No.": 252640133,
+      "Internal Number": 54739,
+      "GRPO Date": "09-Jan-2026",
+      "Customer/Vendor Code": "V00737",
+      "Customer/Vendor Name": "IKIO SOLUTIONS PVT LTD",
+      "AP No.": "",
+      "AP Date": "",
+      "BP Reference No.": "rgp25261814"
+    },
+    {
+      "GRPO No.": 252610846,
+      "Internal Number": 54742,
+      "GRPO Date": "09-Jan-2026",
+      "Customer/Vendor Code": "V00195",
+      "Customer/Vendor Name": "NOVATEUR ELECTRICAL & DIGITAL SYSTEMS PVT. LTD",
+      "AP No.": "",
+      "AP Date": "",
+      "BP Reference No.": "HDA000082(25-26)"
+    },
+    {
+      "GRPO No.": 252610848,
+      "Internal Number": 54770,
+      "GRPO Date": "10-Jan-2026",
+      "Customer/Vendor Code": "V00195",
+      "Customer/Vendor Name": "NOVATEUR ELECTRICAL & DIGITAL SYSTEMS PVT. LTD",
+      "AP No.": "",
+      "AP Date": "",
+      "BP Reference No.": "HDA000097"
+    },
+    {
+      "GRPO No.": 252610838,
+      "Internal Number": 54670,
+      "GRPO Date": "07-Jan-2026",
+      "Customer/Vendor Code": "V00195",
+      "Customer/Vendor Name": "NOVATEUR ELECTRICAL & DIGITAL SYSTEMS PVT. LTD",
+      "AP No.": "",
+      "AP Date": "",
+      "BP Reference No.": "HDA000036"
+    },
+    {
+      "GRPO No.": 252610840,
+      "Internal Number": 54685,
+      "GRPO Date": "08-Jan-2026",
+      "Customer/Vendor Code": "V00195",
+      "Customer/Vendor Name": "NOVATEUR ELECTRICAL & DIGITAL SYSTEMS PVT. LTD",
+      "AP No.": "",
+      "AP Date": "",
+      "BP Reference No.": "HDA000057(25-26)"
+    },
+    {
+      "GRPO No.": 252610842,
+      "Internal Number": 54687,
+      "GRPO Date": "08-Jan-2026",
+      "Customer/Vendor Code": "V00195",
+      "Customer/Vendor Name": "NOVATEUR ELECTRICAL & DIGITAL SYSTEMS PVT. LTD",
+      "AP No.": "",
+      "AP Date": "",
+      "BP Reference No.": "HDA000055"
+    },
+    {
+      "GRPO No.": 252610850,
+      "Internal Number": 54792,
+      "GRPO Date": "12-Jan-2026",
+      "Customer/Vendor Code": "V00195",
+      "Customer/Vendor Name": "NOVATEUR ELECTRICAL & DIGITAL SYSTEMS PVT. LTD",
+      "AP No.": "",
+      "AP Date": "",
+      "BP Reference No.": "HDA000120"
+    },
+    {
+      "GRPO No.": 252610852,
+      "Internal Number": 54804,
+      "GRPO Date": "12-Jan-2026",
+      "Customer/Vendor Code": "V00195",
+      "Customer/Vendor Name": "NOVATEUR ELECTRICAL & DIGITAL SYSTEMS PVT. LTD",
+      "AP No.": "",
+      "AP Date": "",
+      "BP Reference No.": "HDA000114(25-26)"
+    },
+    {
+      "GRPO No.": 252610856,
+      "Internal Number": 54858,
+      "GRPO Date": "14-Jan-2026",
+      "Customer/Vendor Code": "V00195",
+      "Customer/Vendor Name": "NOVATEUR ELECTRICAL & DIGITAL SYSTEMS PVT. LTD",
+      "AP No.": "",
+      "AP Date": "",
+      "BP Reference No.": "HDA000143"
+    },
+    {
+      "GRPO No.": 252610844,
+      "Internal Number": 54707,
+      "GRPO Date": "08-Jan-2026",
+      "Customer/Vendor Code": "V00195",
+      "Customer/Vendor Name": "NOVATEUR ELECTRICAL & DIGITAL SYSTEMS PVT. LTD",
+      "AP No.": "",
+      "AP Date": "",
+      "BP Reference No.": "HDA000066"
+    },
+    {
+      "GRPO No.": 252640134,
+      "Internal Number": 54744,
+      "GRPO Date": "09-Jan-2026",
+      "Customer/Vendor Code": "V00737",
+      "Customer/Vendor Name": "IKIO SOLUTIONS PVT LTD",
+      "AP No.": "",
+      "AP Date": "",
+      "BP Reference No.": "RGP25261808"
+    },
+    {
+      "GRPO No.": 252610851,
+      "Internal Number": 54793,
+      "GRPO Date": "12-Jan-2026",
+      "Customer/Vendor Code": "V00195",
+      "Customer/Vendor Name": "NOVATEUR ELECTRICAL & DIGITAL SYSTEMS PVT. LTD",
+      "AP No.": "",
+      "AP Date": "",
+      "BP Reference No.": "HDA000121"
+    },
+    {
+      "GRPO No.": 252610855,
+      "Internal Number": 54856,
+      "GRPO Date": "14-Jan-2026",
+      "Customer/Vendor Code": "V00195",
+      "Customer/Vendor Name": "NOVATEUR ELECTRICAL & DIGITAL SYSTEMS PVT. LTD",
+      "AP No.": "",
+      "AP Date": "",
+      "BP Reference No.": "HDA000144"
+    },
+    {
+      "GRPO No.": 252610857,
+      "Internal Number": 54869,
+      "GRPO Date": "15-Jan-2026",
+      "Customer/Vendor Code": "V00195",
+      "Customer/Vendor Name": "NOVATEUR ELECTRICAL & DIGITAL SYSTEMS PVT. LTD",
+      "AP No.": "",
+      "AP Date": "",
+      "BP Reference No.": "HDA000152"
+    },
+    {
+      "GRPO No.": 252610861,
+      "Internal Number": 54895,
+      "GRPO Date": "16-Jan-2026",
+      "Customer/Vendor Code": "V00195",
+      "Customer/Vendor Name": "NOVATEUR ELECTRICAL & DIGITAL SYSTEMS PVT. LTD",
+      "AP No.": "",
+      "AP Date": "",
+      "BP Reference No.": "HDA000164"
+    },
+    {
+      "GRPO No.": 252610862,
+      "Internal Number": 54898,
+      "GRPO Date": "16-Jan-2026",
+      "Customer/Vendor Code": "V00195",
+      "Customer/Vendor Name": "NOVATEUR ELECTRICAL & DIGITAL SYSTEMS PVT. LTD",
+      "AP No.": "",
+      "AP Date": "",
+      "BP Reference No.": "HDA000178"
+    },
+    {
+      "GRPO No.": 252610863,
+      "Internal Number": 54914,
+      "GRPO Date": "16-Jan-2026",
+      "Customer/Vendor Code": "V00195",
+      "Customer/Vendor Name": "NOVATEUR ELECTRICAL & DIGITAL SYSTEMS PVT. LTD",
+      "AP No.": "",
+      "AP Date": "",
+      "BP Reference No.": "HDA000180(25-26)"
+    },
+    {
+      "GRPO No.": 252610865,
+      "Internal Number": 54919,
+      "GRPO Date": "17-Jan-2026",
+      "Customer/Vendor Code": "V00195",
+      "Customer/Vendor Name": "NOVATEUR ELECTRICAL & DIGITAL SYSTEMS PVT. LTD",
+      "AP No.": "",
+      "AP Date": "",
+      "BP Reference No.": "HDA000183"
+    },
+    {
+      "GRPO No.": 252610867,
+      "Internal Number": 54935,
+      "GRPO Date": "17-Jan-2026",
+      "Customer/Vendor Code": "V00195",
+      "Customer/Vendor Name": "NOVATEUR ELECTRICAL & DIGITAL SYSTEMS PVT. LTD",
+      "AP No.": "",
+      "AP Date": "",
+      "BP Reference No.": "hda000199"
+    },
+    {
+      "GRPO No.": 252610834,
+      "Internal Number": 54594,
+      "GRPO Date": "05-Jan-2026",
+      "Customer/Vendor Code": "V00195",
+      "Customer/Vendor Name": "NOVATEUR ELECTRICAL & DIGITAL SYSTEMS PVT. LTD",
+      "AP No.": "",
+      "AP Date": "",
+      "BP Reference No.": "HDA000019"
+    },
+    {
+      "GRPO No.": 252610868,
+      "Internal Number": 54954,
+      "GRPO Date": "19-Jan-2026",
+      "Customer/Vendor Code": "V00195",
+      "Customer/Vendor Name": "NOVATEUR ELECTRICAL & DIGITAL SYSTEMS PVT. LTD",
+      "AP No.": "",
+      "AP Date": "",
+      "BP Reference No.": "HDA000198"
+    },
+    {
+      "GRPO No.": 252610869,
+      "Internal Number": 54976,
+      "GRPO Date": "19-Jan-2026",
+      "Customer/Vendor Code": "V00195",
+      "Customer/Vendor Name": "NOVATEUR ELECTRICAL & DIGITAL SYSTEMS PVT. LTD",
+      "AP No.": "",
+      "AP Date": "",
+      "BP Reference No.": "HDA000216(25-26)"
+    },
+    {
+      "GRPO No.": 252610870,
+      "Internal Number": 54978,
+      "GRPO Date": "19-Jan-2026",
+      "Customer/Vendor Code": "V00195",
+      "Customer/Vendor Name": "NOVATEUR ELECTRICAL & DIGITAL SYSTEMS PVT. LTD",
+      "AP No.": "",
+      "AP Date": "",
+      "BP Reference No.": "HDA000215(25-26)"
+    },
+    {
+      "GRPO No.": 252610872,
+      "Internal Number": 55020,
+      "GRPO Date": "21-Jan-2026",
+      "Customer/Vendor Code": "V00195",
+      "Customer/Vendor Name": "NOVATEUR ELECTRICAL & DIGITAL SYSTEMS PVT. LTD",
+      "AP No.": "",
+      "AP Date": "",
+      "BP Reference No.": "HDA000245"
+    },
+    {
+      "GRPO No.": 252610873,
+      "Internal Number": 55034,
+      "GRPO Date": "22-Jan-2026",
+      "Customer/Vendor Code": "V00195",
+      "Customer/Vendor Name": "NOVATEUR ELECTRICAL & DIGITAL SYSTEMS PVT. LTD",
+      "AP No.": "",
+      "AP Date": "",
+      "BP Reference No.": "HDA000247(25-26)"
+    },
+    {
+      "GRPO No.": 252610875,
+      "Internal Number": 55050,
+      "GRPO Date": "22-Jan-2026",
+      "Customer/Vendor Code": "V00195",
+      "Customer/Vendor Name": "NOVATEUR ELECTRICAL & DIGITAL SYSTEMS PVT. LTD",
+      "AP No.": "",
+      "AP Date": "",
+      "BP Reference No.": "HDA000263(25-26)"
+    },
+    {
+      "GRPO No.": 252610877,
+      "Internal Number": 55054,
+      "GRPO Date": "22-Jan-2026",
+      "Customer/Vendor Code": "V00195",
+      "Customer/Vendor Name": "NOVATEUR ELECTRICAL & DIGITAL SYSTEMS PVT. LTD",
+      "AP No.": "",
+      "AP Date": "",
+      "BP Reference No.": "HDA000257"
+    },
+    {
+      "GRPO No.": 252610880,
+      "Internal Number": 55080,
+      "GRPO Date": "23-Jan-2026",
+      "Customer/Vendor Code": "V00195",
+      "Customer/Vendor Name": "NOVATEUR ELECTRICAL & DIGITAL SYSTEMS PVT. LTD",
+      "AP No.": "",
+      "AP Date": "",
+      "BP Reference No.": "HDA000277"
+    },
+    {
+      "GRPO No.": 252610882,
+      "Internal Number": 55082,
+      "GRPO Date": "23-Jan-2026",
+      "Customer/Vendor Code": "V00195",
+      "Customer/Vendor Name": "NOVATEUR ELECTRICAL & DIGITAL SYSTEMS PVT. LTD",
+      "AP No.": "",
+      "AP Date": "",
+      "BP Reference No.": "HDA000275"
+    },
+    {
+      "GRPO No.": 252610883,
+      "Internal Number": 55101,
+      "GRPO Date": "24-Jan-2026",
+      "Customer/Vendor Code": "V00195",
+      "Customer/Vendor Name": "NOVATEUR ELECTRICAL & DIGITAL SYSTEMS PVT. LTD",
+      "AP No.": "",
+      "AP Date": "",
+      "BP Reference No.": "HDA000298"
+    },
+    {
+      "GRPO No.": 252610885,
+      "Internal Number": 55120,
+      "GRPO Date": "25-Jan-2026",
+      "Customer/Vendor Code": "V00195",
+      "Customer/Vendor Name": "NOVATEUR ELECTRICAL & DIGITAL SYSTEMS PVT. LTD",
+      "AP No.": "",
+      "AP Date": "",
+      "BP Reference No.": "HDA000309"
+    },
+    {
+      "GRPO No.": 252610886,
+      "Internal Number": 55129,
+      "GRPO Date": "27-Jan-2026",
+      "Customer/Vendor Code": "V00195",
+      "Customer/Vendor Name": "NOVATEUR ELECTRICAL & DIGITAL SYSTEMS PVT. LTD",
+      "AP No.": "",
+      "AP Date": "",
+      "BP Reference No.": "HDA000317"
+    },
+    {
+      "GRPO No.": 252610887,
+      "Internal Number": 55130,
+      "GRPO Date": "27-Jan-2026",
+      "Customer/Vendor Code": "V00195",
+      "Customer/Vendor Name": "NOVATEUR ELECTRICAL & DIGITAL SYSTEMS PVT. LTD",
+      "AP No.": "",
+      "AP Date": "",
+      "BP Reference No.": "HDA000318"
+    },
+    {
+      "GRPO No.": 252610889,
+      "Internal Number": 55149,
+      "GRPO Date": "28-Jan-2026",
+      "Customer/Vendor Code": "V00195",
+      "Customer/Vendor Name": "NOVATEUR ELECTRICAL & DIGITAL SYSTEMS PVT. LTD",
+      "AP No.": "",
+      "AP Date": "",
+      "BP Reference No.": "HDA000331"
+    },
+    {
+      "GRPO No.": 252610890,
+      "Internal Number": 55160,
+      "GRPO Date": "28-Jan-2026",
+      "Customer/Vendor Code": "V00195",
+      "Customer/Vendor Name": "NOVATEUR ELECTRICAL & DIGITAL SYSTEMS PVT. LTD",
+      "AP No.": "",
+      "AP Date": "",
+      "BP Reference No.": "HDA000332"
+    },
+    {
+      "GRPO No.": 252641000,
+      "Internal Number": 55170,
+      "GRPO Date": "29-Jan-2026",
+      "Customer/Vendor Code": "V00204",
+      "Customer/Vendor Name": "Signify Innovations India Limited",
+      "AP No.": "",
+      "AP Date": "",
+      "BP Reference No.": "FOC-01"
+    },
+    {
+      "GRPO No.": 252610859,
+      "Internal Number": 54893,
+      "GRPO Date": "16-Jan-2026",
+      "Customer/Vendor Code": "V00195",
+      "Customer/Vendor Name": "NOVATEUR ELECTRICAL & DIGITAL SYSTEMS PVT. LTD",
+      "AP No.": "",
+      "AP Date": "",
+      "BP Reference No.": "HDA000165"
+    },
+    {
+      "GRPO No.": 252610894,
+      "Internal Number": 55177,
+      "GRPO Date": "29-Jan-2026",
+      "Customer/Vendor Code": "V00195",
+      "Customer/Vendor Name": "NOVATEUR ELECTRICAL & DIGITAL SYSTEMS PVT. LTD",
+      "AP No.": "",
+      "AP Date": "",
+      "BP Reference No.": "HDA000359"
+    },
+    {
+      "GRPO No.": 252640138,
+      "Internal Number": 55185,
+      "GRPO Date": "30-Jan-2026",
+      "Customer/Vendor Code": "V00737",
+      "Customer/Vendor Name": "IKIO SOLUTIONS PVT LTD",
+      "AP No.": "",
+      "AP Date": "",
+      "BP Reference No.": "RGP25261889"
+    },
+    {
+      "GRPO No.": 252610897,
+      "Internal Number": 55208,
+      "GRPO Date": "30-Jan-2026",
+      "Customer/Vendor Code": "V00195",
+      "Customer/Vendor Name": "NOVATEUR ELECTRICAL & DIGITAL SYSTEMS PVT. LTD",
+      "AP No.": "",
+      "AP Date": "",
+      "BP Reference No.": "HDA000373"
+    },
+    {
+      "GRPO No.": 252610853,
+      "Internal Number": 54836,
+      "GRPO Date": "14-Jan-2026",
+      "Customer/Vendor Code": "V00195",
+      "Customer/Vendor Name": "NOVATEUR ELECTRICAL & DIGITAL SYSTEMS PVT. LTD",
+      "AP No.": "",
+      "AP Date": "",
+      "BP Reference No.": "HDA000140(25-26)"
+    },
+    {
+      "GRPO No.": 252610898,
+      "Internal Number": 55210,
+      "GRPO Date": "30-Jan-2026",
+      "Customer/Vendor Code": "V00195",
+      "Customer/Vendor Name": "NOVATEUR ELECTRICAL & DIGITAL SYSTEMS PVT. LTD",
+      "AP No.": "",
+      "AP Date": "",
+      "BP Reference No.": "HDA000375"
+    },
+    {
+      "GRPO No.": 252610899,
+      "Internal Number": 55222,
+      "GRPO Date": "31-Jan-2026",
+      "Customer/Vendor Code": "V00195",
+      "Customer/Vendor Name": "NOVATEUR ELECTRICAL & DIGITAL SYSTEMS PVT. LTD",
+      "AP No.": "",
+      "AP Date": "",
+      "BP Reference No.": "HDA000382"
+    },
+    {
+      "GRPO No.": 252610900,
+      "Internal Number": 55232,
+      "GRPO Date": "31-Jan-2026",
+      "Customer/Vendor Code": "V00195",
+      "Customer/Vendor Name": "NOVATEUR ELECTRICAL & DIGITAL SYSTEMS PVT. LTD",
+      "AP No.": "",
+      "AP Date": "",
+      "BP Reference No.": "HDA000385"
+    },
+    {
+      "GRPO No.": 252610901,
+      "Internal Number": 55233,
+      "GRPO Date": "31-Jan-2026",
+      "Customer/Vendor Code": "V00195",
+      "Customer/Vendor Name": "NOVATEUR ELECTRICAL & DIGITAL SYSTEMS PVT. LTD",
+      "AP No.": "",
+      "AP Date": "",
+      "BP Reference No.": "HDA000386"
+    },
+    {
+      "GRPO No.": 252610902,
+      "Internal Number": 55234,
+      "GRPO Date": "31-Jan-2026",
+      "Customer/Vendor Code": "V00195",
+      "Customer/Vendor Name": "NOVATEUR ELECTRICAL & DIGITAL SYSTEMS PVT. LTD",
+      "AP No.": "",
+      "AP Date": "",
+      "BP Reference No.": "HDA000388"
+    },
+    {
+      "GRPO No.": 252610903,
+      "Internal Number": 55253,
+      "GRPO Date": "02-Feb-2026",
+      "Customer/Vendor Code": "V00195",
+      "Customer/Vendor Name": "NOVATEUR ELECTRICAL & DIGITAL SYSTEMS PVT. LTD",
+      "AP No.": "",
+      "AP Date": "",
+      "BP Reference No.": "HDB000002"
+    },
+    {
+      "GRPO No.": 252610904,
+      "Internal Number": 55298,
+      "GRPO Date": "03-Feb-2026",
+      "Customer/Vendor Code": "V00195",
+      "Customer/Vendor Name": "NOVATEUR ELECTRICAL & DIGITAL SYSTEMS PVT. LTD",
+      "AP No.": "",
+      "AP Date": "",
+      "BP Reference No.": "HDA000353"
+    },
+    {
+      "GRPO No.": 252610908,
+      "Internal Number": 55318,
+      "GRPO Date": "03-Feb-2026",
+      "Customer/Vendor Code": "V00195",
+      "Customer/Vendor Name": "NOVATEUR ELECTRICAL & DIGITAL SYSTEMS PVT. LTD",
+      "AP No.": "",
+      "AP Date": "",
+      "BP Reference No.": "HDB000014"
+    },
+    {
+      "GRPO No.": 252610910,
+      "Internal Number": 55371,
+      "GRPO Date": "05-Feb-2026",
+      "Customer/Vendor Code": "V00195",
+      "Customer/Vendor Name": "NOVATEUR ELECTRICAL & DIGITAL SYSTEMS PVT. LTD",
+      "AP No.": "",
+      "AP Date": "",
+      "BP Reference No.": "HDB000028"
+    },
+    {
+      "GRPO No.": 252610913,
+      "Internal Number": 55385,
+      "GRPO Date": "05-Feb-2026",
+      "Customer/Vendor Code": "V00195",
+      "Customer/Vendor Name": "NOVATEUR ELECTRICAL & DIGITAL SYSTEMS PVT. LTD",
+      "AP No.": "",
+      "AP Date": "",
+      "BP Reference No.": "HDB000047"
+    },
+    {
+      "GRPO No.": 252610914,
+      "Internal Number": 55386,
+      "GRPO Date": "05-Feb-2026",
+      "Customer/Vendor Code": "V00195",
+      "Customer/Vendor Name": "NOVATEUR ELECTRICAL & DIGITAL SYSTEMS PVT. LTD",
+      "AP No.": "",
+      "AP Date": "",
+      "BP Reference No.": "HDB000049"
+    },
+    {
+      "GRPO No.": 252610918,
+      "Internal Number": 55431,
+      "GRPO Date": "07-Feb-2026",
+      "Customer/Vendor Code": "V00195",
+      "Customer/Vendor Name": "NOVATEUR ELECTRICAL & DIGITAL SYSTEMS PVT. LTD",
+      "AP No.": "",
+      "AP Date": "",
+      "BP Reference No.": "HDB000068(25-26)"
+    },
+    {
+      "GRPO No.": 252610919,
+      "Internal Number": 55434,
+      "GRPO Date": "07-Feb-2026",
+      "Customer/Vendor Code": "V00195",
+      "Customer/Vendor Name": "NOVATEUR ELECTRICAL & DIGITAL SYSTEMS PVT. LTD",
+      "AP No.": "",
+      "AP Date": "",
+      "BP Reference No.": "HDB000067(25-26)"
+    },
+    {
+      "GRPO No.": 252610920,
+      "Internal Number": 55437,
+      "GRPO Date": "07-Feb-2026",
+      "Customer/Vendor Code": "V00195",
+      "Customer/Vendor Name": "NOVATEUR ELECTRICAL & DIGITAL SYSTEMS PVT. LTD",
+      "AP No.": "",
+      "AP Date": "",
+      "BP Reference No.": "HDB000089"
+    },
+    {
+      "GRPO No.": 252610921,
+      "Internal Number": 55441,
+      "GRPO Date": "07-Feb-2026",
+      "Customer/Vendor Code": "V00195",
+      "Customer/Vendor Name": "NOVATEUR ELECTRICAL & DIGITAL SYSTEMS PVT. LTD",
+      "AP No.": "",
+      "AP Date": "",
+      "BP Reference No.": "HDB000091"
+    },
+    {
+      "GRPO No.": 252610926,
+      "Internal Number": 55476,
+      "GRPO Date": "09-Feb-2026",
+      "Customer/Vendor Code": "V00195",
+      "Customer/Vendor Name": "NOVATEUR ELECTRICAL & DIGITAL SYSTEMS PVT. LTD",
+      "AP No.": "",
+      "AP Date": "",
+      "BP Reference No.": "HDB0000103"
+    },
+    {
+      "GRPO No.": 252610928,
+      "Internal Number": 55492,
+      "GRPO Date": "10-Feb-2026",
+      "Customer/Vendor Code": "V00195",
+      "Customer/Vendor Name": "NOVATEUR ELECTRICAL & DIGITAL SYSTEMS PVT. LTD",
+      "AP No.": "",
+      "AP Date": "",
+      "BP Reference No.": "HDB0000108"
+    },
+    {
+      "GRPO No.": 252610929,
+      "Internal Number": 55539,
+      "GRPO Date": "11-Feb-2026",
+      "Customer/Vendor Code": "V00195",
+      "Customer/Vendor Name": "NOVATEUR ELECTRICAL & DIGITAL SYSTEMS PVT. LTD",
+      "AP No.": "",
+      "AP Date": "",
+      "BP Reference No.": "HDB000124(25-26)"
+    },
+    {
+      "GRPO No.": 252610931,
+      "Internal Number": 55541,
+      "GRPO Date": "11-Feb-2026",
+      "Customer/Vendor Code": "V00195",
+      "Customer/Vendor Name": "NOVATEUR ELECTRICAL & DIGITAL SYSTEMS PVT. LTD",
+      "AP No.": "",
+      "AP Date": "",
+      "BP Reference No.": "HDB000127"
+    },
+    {
+      "GRPO No.": 252610932,
+      "Internal Number": 55542,
+      "GRPO Date": "11-Feb-2026",
+      "Customer/Vendor Code": "V00195",
+      "Customer/Vendor Name": "NOVATEUR ELECTRICAL & DIGITAL SYSTEMS PVT. LTD",
+      "AP No.": "",
+      "AP Date": "",
+      "BP Reference No.": "HDB000153"
+    },
+    {
+      "GRPO No.": 252610933,
+      "Internal Number": 55549,
+      "GRPO Date": "11-Feb-2026",
+      "Customer/Vendor Code": "V00195",
+      "Customer/Vendor Name": "NOVATEUR ELECTRICAL & DIGITAL SYSTEMS PVT. LTD",
+      "AP No.": "",
+      "AP Date": "",
+      "BP Reference No.": "HDB000137"
+    },
+    {
+      "GRPO No.": 252610934,
+      "Internal Number": 55558,
+      "GRPO Date": "11-Feb-2026",
+      "Customer/Vendor Code": "V00195",
+      "Customer/Vendor Name": "NOVATEUR ELECTRICAL & DIGITAL SYSTEMS PVT. LTD",
+      "AP No.": "",
+      "AP Date": "",
+      "BP Reference No.": "HDB000149"
+    },
+    {
+      "GRPO No.": 252610935,
+      "Internal Number": 55567,
+      "GRPO Date": "12-Feb-2026",
+      "Customer/Vendor Code": "V00195",
+      "Customer/Vendor Name": "NOVATEUR ELECTRICAL & DIGITAL SYSTEMS PVT. LTD",
+      "AP No.": "",
+      "AP Date": "",
+      "BP Reference No.": "HDB000160"
+    },
+    {
+      "GRPO No.": 252610849,
+      "Internal Number": 54781,
+      "GRPO Date": "11-Jan-2026",
+      "Customer/Vendor Code": "V00195",
+      "Customer/Vendor Name": "NOVATEUR ELECTRICAL & DIGITAL SYSTEMS PVT. LTD",
+      "AP No.": "",
+      "AP Date": "",
+      "BP Reference No.": "HDA000113"
+    },
+    {
+      "GRPO No.": 252610938,
+      "Internal Number": 55592,
+      "GRPO Date": "13-Feb-2026",
+      "Customer/Vendor Code": "V00195",
+      "Customer/Vendor Name": "NOVATEUR ELECTRICAL & DIGITAL SYSTEMS PVT. LTD",
+      "AP No.": "",
+      "AP Date": "",
+      "BP Reference No.": "HDB000173"
+    },
+    {
+      "GRPO No.": 252610943,
+      "Internal Number": 55618,
+      "GRPO Date": "13-Feb-2026",
+      "Customer/Vendor Code": "V00195",
+      "Customer/Vendor Name": "NOVATEUR ELECTRICAL & DIGITAL SYSTEMS PVT. LTD",
+      "AP No.": "",
+      "AP Date": "",
+      "BP Reference No.": "HDB000193"
+    },
+    {
+      "GRPO No.": 252610944,
+      "Internal Number": 55620,
+      "GRPO Date": "13-Feb-2026",
+      "Customer/Vendor Code": "V00195",
+      "Customer/Vendor Name": "NOVATEUR ELECTRICAL & DIGITAL SYSTEMS PVT. LTD",
+      "AP No.": "",
+      "AP Date": "",
+      "BP Reference No.": "HDB000195"
+    },
+    {
+      "GRPO No.": 252610945,
+      "Internal Number": 55661,
+      "GRPO Date": "15-Feb-2026",
+      "Customer/Vendor Code": "V00195",
+      "Customer/Vendor Name": "NOVATEUR ELECTRICAL & DIGITAL SYSTEMS PVT. LTD",
+      "AP No.": "",
+      "AP Date": "",
+      "BP Reference No.": "HDB000207(25-26)"
+    },
+    {
+      "GRPO No.": 252610948,
+      "Internal Number": 55665,
+      "GRPO Date": "16-Feb-2026",
+      "Customer/Vendor Code": "V00195",
+      "Customer/Vendor Name": "NOVATEUR ELECTRICAL & DIGITAL SYSTEMS PVT. LTD",
+      "AP No.": "",
+      "AP Date": "",
+      "BP Reference No.": "HDB000208(25-26)"
+    },
+    {
+      "GRPO No.": 252610952,
+      "Internal Number": 55703,
+      "GRPO Date": "16-Feb-2026",
+      "Customer/Vendor Code": "V00195",
+      "Customer/Vendor Name": "NOVATEUR ELECTRICAL & DIGITAL SYSTEMS PVT. LTD",
+      "AP No.": "",
+      "AP Date": "",
+      "BP Reference No.": "HDB000240"
+    },
+    {
+      "GRPO No.": 252610953,
+      "Internal Number": 55705,
+      "GRPO Date": "16-Feb-2026",
+      "Customer/Vendor Code": "V00195",
+      "Customer/Vendor Name": "NOVATEUR ELECTRICAL & DIGITAL SYSTEMS PVT. LTD",
+      "AP No.": "",
+      "AP Date": "",
+      "BP Reference No.": "HDB000232"
+    },
+    {
+      "GRPO No.": 252610955,
+      "Internal Number": 55707,
+      "GRPO Date": "17-Feb-2026",
+      "Customer/Vendor Code": "V00195",
+      "Customer/Vendor Name": "NOVATEUR ELECTRICAL & DIGITAL SYSTEMS PVT. LTD",
+      "AP No.": "",
+      "AP Date": "",
+      "BP Reference No.": "HDB000017"
+    },
+    {
+      "GRPO No.": 252610956,
+      "Internal Number": 55708,
+      "GRPO Date": "17-Feb-2026",
+      "Customer/Vendor Code": "V00195",
+      "Customer/Vendor Name": "NOVATEUR ELECTRICAL & DIGITAL SYSTEMS PVT. LTD",
+      "AP No.": "",
+      "AP Date": "",
+      "BP Reference No.": "HDB000242"
+    },
+    {
+      "GRPO No.": 252610957,
+      "Internal Number": 55709,
+      "GRPO Date": "17-Feb-2026",
+      "Customer/Vendor Code": "V00195",
+      "Customer/Vendor Name": "NOVATEUR ELECTRICAL & DIGITAL SYSTEMS PVT. LTD",
+      "AP No.": "",
+      "AP Date": "",
+      "BP Reference No.": "HDB000227(25-26)"
+    },
+    {
+      "GRPO No.": 252610961,
+      "Internal Number": 55725,
+      "GRPO Date": "17-Feb-2026",
+      "Customer/Vendor Code": "V00195",
+      "Customer/Vendor Name": "NOVATEUR ELECTRICAL & DIGITAL SYSTEMS PVT. LTD",
+      "AP No.": "",
+      "AP Date": "",
+      "BP Reference No.": "HDB000257"
+    },
+    {
+      "GRPO No.": 252610965,
+      "Internal Number": 55740,
+      "GRPO Date": "18-Feb-2026",
+      "Customer/Vendor Code": "V00195",
+      "Customer/Vendor Name": "NOVATEUR ELECTRICAL & DIGITAL SYSTEMS PVT. LTD",
+      "AP No.": "",
+      "AP Date": "",
+      "BP Reference No.": "HDB000253(25-26)"
+    },
+    {
+      "GRPO No.": 252610967,
+      "Internal Number": 55760,
+      "GRPO Date": "18-Feb-2026",
+      "Customer/Vendor Code": "V00195",
+      "Customer/Vendor Name": "NOVATEUR ELECTRICAL & DIGITAL SYSTEMS PVT. LTD",
+      "AP No.": "",
+      "AP Date": "",
+      "BP Reference No.": "HDB000262"
+    },
+    {
+      "GRPO No.": 252610968,
+      "Internal Number": 55763,
+      "GRPO Date": "18-Feb-2026",
+      "Customer/Vendor Code": "V00195",
+      "Customer/Vendor Name": "NOVATEUR ELECTRICAL & DIGITAL SYSTEMS PVT. LTD",
+      "AP No.": "",
+      "AP Date": "",
+      "BP Reference No.": "HDB000261(25-26)"
+    },
+    {
+      "GRPO No.": 252610971,
+      "Internal Number": 55800,
+      "GRPO Date": "20-Feb-2026",
+      "Customer/Vendor Code": "V00195",
+      "Customer/Vendor Name": "NOVATEUR ELECTRICAL & DIGITAL SYSTEMS PVT. LTD",
+      "AP No.": "",
+      "AP Date": "",
+      "BP Reference No.": "HDB000278"
+    },
+    {
+      "GRPO No.": 252610973,
+      "Internal Number": 55802,
+      "GRPO Date": "20-Feb-2026",
+      "Customer/Vendor Code": "V00195",
+      "Customer/Vendor Name": "NOVATEUR ELECTRICAL & DIGITAL SYSTEMS PVT. LTD",
+      "AP No.": "",
+      "AP Date": "",
+      "BP Reference No.": "HDB000275"
+    },
+    {
+      "GRPO No.": 252610974,
+      "Internal Number": 55812,
+      "GRPO Date": "20-Feb-2026",
+      "Customer/Vendor Code": "V00195",
+      "Customer/Vendor Name": "NOVATEUR ELECTRICAL & DIGITAL SYSTEMS PVT. LTD",
+      "AP No.": "",
+      "AP Date": "",
+      "BP Reference No.": "HDB000295"
+    },
+    {
+      "GRPO No.": 252610975,
+      "Internal Number": 55813,
+      "GRPO Date": "20-Feb-2026",
+      "Customer/Vendor Code": "V00195",
+      "Customer/Vendor Name": "NOVATEUR ELECTRICAL & DIGITAL SYSTEMS PVT. LTD",
+      "AP No.": "",
+      "AP Date": "",
+      "BP Reference No.": "HDB000296"
+    },
+    {
+      "GRPO No.": 252610978,
+      "Internal Number": 55817,
+      "GRPO Date": "20-Feb-2026",
+      "Customer/Vendor Code": "V00195",
+      "Customer/Vendor Name": "NOVATEUR ELECTRICAL & DIGITAL SYSTEMS PVT. LTD",
+      "AP No.": "",
+      "AP Date": "",
+      "BP Reference No.": "HDB000294"
+    },
+    {
+      "GRPO No.": 252610982,
+      "Internal Number": 55862,
+      "GRPO Date": "22-Feb-2026",
+      "Customer/Vendor Code": "V00195",
+      "Customer/Vendor Name": "NOVATEUR ELECTRICAL & DIGITAL SYSTEMS PVT. LTD",
+      "AP No.": "",
+      "AP Date": "",
+      "BP Reference No.": "HDB000317"
+    },
+    {
+      "GRPO No.": 252610984,
+      "Internal Number": 55864,
+      "GRPO Date": "22-Feb-2026",
+      "Customer/Vendor Code": "V00195",
+      "Customer/Vendor Name": "NOVATEUR ELECTRICAL & DIGITAL SYSTEMS PVT. LTD",
+      "AP No.": "",
+      "AP Date": "",
+      "BP Reference No.": "HDB000316"
+    },
+    {
+      "GRPO No.": 252610986,
+      "Internal Number": 55885,
+      "GRPO Date": "23-Feb-2026",
+      "Customer/Vendor Code": "V00195",
+      "Customer/Vendor Name": "NOVATEUR ELECTRICAL & DIGITAL SYSTEMS PVT. LTD",
+      "AP No.": "",
+      "AP Date": "",
+      "BP Reference No.": "HDB000346"
+    },
+    {
+      "GRPO No.": 252610987,
+      "Internal Number": 55886,
+      "GRPO Date": "23-Feb-2026",
+      "Customer/Vendor Code": "V00195",
+      "Customer/Vendor Name": "NOVATEUR ELECTRICAL & DIGITAL SYSTEMS PVT. LTD",
+      "AP No.": "",
+      "AP Date": "",
+      "BP Reference No.": "HDB000345"
+    },
+    {
+      "GRPO No.": 252610988,
+      "Internal Number": 55889,
+      "GRPO Date": "23-Feb-2026",
+      "Customer/Vendor Code": "V00195",
+      "Customer/Vendor Name": "NOVATEUR ELECTRICAL & DIGITAL SYSTEMS PVT. LTD",
+      "AP No.": "",
+      "AP Date": "",
+      "BP Reference No.": "HDB000324(25-26)"
+    },
+    {
+      "GRPO No.": 252610992,
+      "Internal Number": 55929,
+      "GRPO Date": "25-Feb-2026",
+      "Customer/Vendor Code": "V00195",
+      "Customer/Vendor Name": "NOVATEUR ELECTRICAL & DIGITAL SYSTEMS PVT. LTD",
+      "AP No.": "",
+      "AP Date": "",
+      "BP Reference No.": "HDB000356"
+    },
+    {
+      "GRPO No.": 252610995,
+      "Internal Number": 55980,
+      "GRPO Date": "27-Feb-2026",
+      "Customer/Vendor Code": "V00195",
+      "Customer/Vendor Name": "NOVATEUR ELECTRICAL & DIGITAL SYSTEMS PVT. LTD",
+      "AP No.": "",
+      "AP Date": "",
+      "BP Reference No.": "HDB000385"
+    },
+    {
+      "GRPO No.": 252610996,
+      "Internal Number": 55981,
+      "GRPO Date": "27-Feb-2026",
+      "Customer/Vendor Code": "V00195",
+      "Customer/Vendor Name": "NOVATEUR ELECTRICAL & DIGITAL SYSTEMS PVT. LTD",
+      "AP No.": "",
+      "AP Date": "",
+      "BP Reference No.": "HDB000384(25-26)"
+    },
+    {
+      "GRPO No.": 252610997,
+      "Internal Number": 55982,
+      "GRPO Date": "27-Feb-2026",
+      "Customer/Vendor Code": "V00195",
+      "Customer/Vendor Name": "NOVATEUR ELECTRICAL & DIGITAL SYSTEMS PVT. LTD",
+      "AP No.": "",
+      "AP Date": "",
+      "BP Reference No.": "HDB000383"
+    },
+    {
+      "GRPO No.": 252610998,
+      "Internal Number": 55993,
+      "GRPO Date": "27-Feb-2026",
+      "Customer/Vendor Code": "V00195",
+      "Customer/Vendor Name": "NOVATEUR ELECTRICAL & DIGITAL SYSTEMS PVT. LTD",
+      "AP No.": "",
+      "AP Date": "",
+      "BP Reference No.": "HDB000395"
+    },
+    {
+      "GRPO No.": 252611001,
+      "Internal Number": 56001,
+      "GRPO Date": "27-Feb-2026",
+      "Customer/Vendor Code": "V00195",
+      "Customer/Vendor Name": "NOVATEUR ELECTRICAL & DIGITAL SYSTEMS PVT. LTD",
+      "AP No.": "",
+      "AP Date": "",
+      "BP Reference No.": "HDB000397"
+    },
+    {
+      "GRPO No.": 252611002,
+      "Internal Number": 56007,
+      "GRPO Date": "27-Feb-2026",
+      "Customer/Vendor Code": "V00195",
+      "Customer/Vendor Name": "NOVATEUR ELECTRICAL & DIGITAL SYSTEMS PVT. LTD",
+      "AP No.": "",
+      "AP Date": "",
+      "BP Reference No.": "HDB000398"
+    },
+    {
+      "GRPO No.": 252611003,
+      "Internal Number": 56021,
+      "GRPO Date": "28-Feb-2026",
+      "Customer/Vendor Code": "V00195",
+      "Customer/Vendor Name": "NOVATEUR ELECTRICAL & DIGITAL SYSTEMS PVT. LTD",
+      "AP No.": "",
+      "AP Date": "",
+      "BP Reference No.": "HDB000420(25-26)"
+    },
+    {
+      "GRPO No.": 252611007,
+      "Internal Number": 56033,
+      "GRPO Date": "28-Feb-2026",
+      "Customer/Vendor Code": "V00195",
+      "Customer/Vendor Name": "NOVATEUR ELECTRICAL & DIGITAL SYSTEMS PVT. LTD",
+      "AP No.": "",
+      "AP Date": "",
+      "BP Reference No.": "HDA000423"
+    },
+    {
+      "GRPO No.": 252611009,
+      "Internal Number": 56054,
+      "GRPO Date": "01-Mar-2026",
+      "Customer/Vendor Code": "V00195",
+      "Customer/Vendor Name": "NOVATEUR ELECTRICAL & DIGITAL SYSTEMS PVT. LTD",
+      "AP No.": "",
+      "AP Date": "",
+      "BP Reference No.": "HDB000438"
+    },
+    {
+      "GRPO No.": 252611010,
+      "Internal Number": 56055,
+      "GRPO Date": "01-Mar-2026",
+      "Customer/Vendor Code": "V00195",
+      "Customer/Vendor Name": "NOVATEUR ELECTRICAL & DIGITAL SYSTEMS PVT. LTD",
+      "AP No.": "",
+      "AP Date": "",
+      "BP Reference No.": "HDB000425"
+    },
+    {
+      "GRPO No.": 252611013,
+      "Internal Number": 56059,
+      "GRPO Date": "02-Mar-2026",
+      "Customer/Vendor Code": "V00195",
+      "Customer/Vendor Name": "NOVATEUR ELECTRICAL & DIGITAL SYSTEMS PVT. LTD",
+      "AP No.": "",
+      "AP Date": "",
+      "BP Reference No.": "HDC000004"
+    },
+    {
+      "GRPO No.": 252611014,
+      "Internal Number": 56060,
+      "GRPO Date": "02-Mar-2026",
+      "Customer/Vendor Code": "V00195",
+      "Customer/Vendor Name": "NOVATEUR ELECTRICAL & DIGITAL SYSTEMS PVT. LTD",
+      "AP No.": "",
+      "AP Date": "",
+      "BP Reference No.": "HDC000002"
+    },
+    {
+      "GRPO No.": 252611015,
+      "Internal Number": 56061,
+      "GRPO Date": "02-Mar-2026",
+      "Customer/Vendor Code": "V00195",
+      "Customer/Vendor Name": "NOVATEUR ELECTRICAL & DIGITAL SYSTEMS PVT. LTD",
+      "AP No.": "",
+      "AP Date": "",
+      "BP Reference No.": "HDC000003"
+    },
+    {
+      "GRPO No.": 252611017,
+      "Internal Number": 56077,
+      "GRPO Date": "02-Mar-2026",
+      "Customer/Vendor Code": "V00195",
+      "Customer/Vendor Name": "NOVATEUR ELECTRICAL & DIGITAL SYSTEMS PVT. LTD",
+      "AP No.": "",
+      "AP Date": "",
+      "BP Reference No.": "HDC000014(25-26)"
+    },
+    {
+      "GRPO No.": 252611018,
+      "Internal Number": 56079,
+      "GRPO Date": "03-Mar-2026",
+      "Customer/Vendor Code": "V00195",
+      "Customer/Vendor Name": "NOVATEUR ELECTRICAL & DIGITAL SYSTEMS PVT. LTD",
+      "AP No.": "",
+      "AP Date": "",
+      "BP Reference No.": "HDC000010"
+    },
+    {
+      "GRPO No.": 252611020,
+      "Internal Number": 56081,
+      "GRPO Date": "03-Mar-2026",
+      "Customer/Vendor Code": "V00195",
+      "Customer/Vendor Name": "NOVATEUR ELECTRICAL & DIGITAL SYSTEMS PVT. LTD",
+      "AP No.": "",
+      "AP Date": "",
+      "BP Reference No.": "HDC000012(25-26)"
+    },
+    {
+      "GRPO No.": 252611023,
+      "Internal Number": 56132,
+      "GRPO Date": "06-Mar-2026",
+      "Customer/Vendor Code": "V00195",
+      "Customer/Vendor Name": "NOVATEUR ELECTRICAL & DIGITAL SYSTEMS PVT. LTD",
+      "AP No.": "",
+      "AP Date": "",
+      "BP Reference No.": "HDC000044(25-26)"
+    },
+    {
+      "GRPO No.": 252611025,
+      "Internal Number": 56135,
+      "GRPO Date": "06-Mar-2026",
+      "Customer/Vendor Code": "V00195",
+      "Customer/Vendor Name": "NOVATEUR ELECTRICAL & DIGITAL SYSTEMS PVT. LTD",
+      "AP No.": "",
+      "AP Date": "",
+      "BP Reference No.": "HDC000045"
+    },
+    {
+      "GRPO No.": 252611027,
+      "Internal Number": 56163,
+      "GRPO Date": "07-Mar-2026",
+      "Customer/Vendor Code": "V00195",
+      "Customer/Vendor Name": "NOVATEUR ELECTRICAL & DIGITAL SYSTEMS PVT. LTD",
+      "AP No.": "",
+      "AP Date": "",
+      "BP Reference No.": "HDC000058"
+    },
+    {
+      "GRPO No.": 252611028,
+      "Internal Number": 56168,
+      "GRPO Date": "07-Mar-2026",
+      "Customer/Vendor Code": "V00195",
+      "Customer/Vendor Name": "NOVATEUR ELECTRICAL & DIGITAL SYSTEMS PVT. LTD",
+      "AP No.": "",
+      "AP Date": "",
+      "BP Reference No.": "HDC000050"
+    },
+    {
+      "GRPO No.": 252611033,
+      "Internal Number": 56209,
+      "GRPO Date": "09-Mar-2026",
+      "Customer/Vendor Code": "V00195",
+      "Customer/Vendor Name": "NOVATEUR ELECTRICAL & DIGITAL SYSTEMS PVT. LTD",
+      "AP No.": "",
+      "AP Date": "",
+      "BP Reference No.": "HDC000075"
+    },
+    {
+      "GRPO No.": 252611034,
+      "Internal Number": 56210,
+      "GRPO Date": "09-Mar-2026",
+      "Customer/Vendor Code": "V00195",
+      "Customer/Vendor Name": "NOVATEUR ELECTRICAL & DIGITAL SYSTEMS PVT. LTD",
+      "AP No.": "",
+      "AP Date": "",
+      "BP Reference No.": "HDC000076"
+    },
+    {
+      "GRPO No.": 252611035,
+      "Internal Number": 56224,
+      "GRPO Date": "10-Mar-2026",
+      "Customer/Vendor Code": "V00195",
+      "Customer/Vendor Name": "NOVATEUR ELECTRICAL & DIGITAL SYSTEMS PVT. LTD",
+      "AP No.": "",
+      "AP Date": "",
+      "BP Reference No.": "HDC000091"
+    },
+    {
+      "GRPO No.": 252611036,
+      "Internal Number": 56225,
+      "GRPO Date": "10-Mar-2026",
+      "Customer/Vendor Code": "V00195",
+      "Customer/Vendor Name": "NOVATEUR ELECTRICAL & DIGITAL SYSTEMS PVT. LTD",
+      "AP No.": "",
+      "AP Date": "",
+      "BP Reference No.": "HDC000097(25-26)"
+    },
+    {
+      "GRPO No.": 252611038,
+      "Internal Number": 56249,
+      "GRPO Date": "11-Mar-2026",
+      "Customer/Vendor Code": "V00195",
+      "Customer/Vendor Name": "NOVATEUR ELECTRICAL & DIGITAL SYSTEMS PVT. LTD",
+      "AP No.": "",
+      "AP Date": "",
+      "BP Reference No.": "HDC000093"
+    },
+    {
+      "GRPO No.": 252611039,
+      "Internal Number": 56250,
+      "GRPO Date": "11-Mar-2026",
+      "Customer/Vendor Code": "V00195",
+      "Customer/Vendor Name": "NOVATEUR ELECTRICAL & DIGITAL SYSTEMS PVT. LTD",
+      "AP No.": "",
+      "AP Date": "",
+      "BP Reference No.": "HDC000094"
+    },
+    {
+      "GRPO No.": 252611041,
+      "Internal Number": 56270,
+      "GRPO Date": "11-Mar-2026",
+      "Customer/Vendor Code": "V00195",
+      "Customer/Vendor Name": "NOVATEUR ELECTRICAL & DIGITAL SYSTEMS PVT. LTD",
+      "AP No.": "",
+      "AP Date": "",
+      "BP Reference No.": "HDC000116"
+    },
+    {
+      "GRPO No.": 252611042,
+      "Internal Number": 56271,
+      "GRPO Date": "11-Mar-2026",
+      "Customer/Vendor Code": "V00195",
+      "Customer/Vendor Name": "NOVATEUR ELECTRICAL & DIGITAL SYSTEMS PVT. LTD",
+      "AP No.": "",
+      "AP Date": "",
+      "BP Reference No.": "HDC000114"
+    },
+    {
+      "GRPO No.": 252611044,
+      "Internal Number": 56280,
+      "GRPO Date": "12-Mar-2026",
+      "Customer/Vendor Code": "V00195",
+      "Customer/Vendor Name": "NOVATEUR ELECTRICAL & DIGITAL SYSTEMS PVT. LTD",
+      "AP No.": "",
+      "AP Date": "",
+      "BP Reference No.": "HDC000118"
+    },
+    {
+      "GRPO No.": 252611045,
+      "Internal Number": 56284,
+      "GRPO Date": "12-Mar-2026",
+      "Customer/Vendor Code": "V00195",
+      "Customer/Vendor Name": "NOVATEUR ELECTRICAL & DIGITAL SYSTEMS PVT. LTD",
+      "AP No.": "",
+      "AP Date": "",
+      "BP Reference No.": "HDC000143(25-26)"
+    },
+    {
+      "GRPO No.": 252611048,
+      "Internal Number": 56299,
+      "GRPO Date": "13-Mar-2026",
+      "Customer/Vendor Code": "V00195",
+      "Customer/Vendor Name": "NOVATEUR ELECTRICAL & DIGITAL SYSTEMS PVT. LTD",
+      "AP No.": "",
+      "AP Date": "",
+      "BP Reference No.": "HDC000134"
+    },
+    {
+      "GRPO No.": 252610839,
+      "Internal Number": 54684,
+      "GRPO Date": "08-Jan-2026",
+      "Customer/Vendor Code": "V00195",
+      "Customer/Vendor Name": "NOVATEUR ELECTRICAL & DIGITAL SYSTEMS PVT. LTD",
+      "AP No.": "",
+      "AP Date": "",
+      "BP Reference No.": "HDA000058"
+    },
+    {
+      "GRPO No.": 252611051,
+      "Internal Number": 56326,
+      "GRPO Date": "13-Mar-2026",
+      "Customer/Vendor Code": "V00195",
+      "Customer/Vendor Name": "NOVATEUR ELECTRICAL & DIGITAL SYSTEMS PVT. LTD",
+      "AP No.": "",
+      "AP Date": "",
+      "BP Reference No.": "HDC000151"
+    },
+    {
+      "GRPO No.": 252611052,
+      "Internal Number": 56327,
+      "GRPO Date": "13-Mar-2026",
+      "Customer/Vendor Code": "V00195",
+      "Customer/Vendor Name": "NOVATEUR ELECTRICAL & DIGITAL SYSTEMS PVT. LTD",
+      "AP No.": "",
+      "AP Date": "",
+      "BP Reference No.": "HDC000149"
+    },
+    {
+      "GRPO No.": 252611053,
+      "Internal Number": 56341,
+      "GRPO Date": "14-Mar-2026",
+      "Customer/Vendor Code": "V00195",
+      "Customer/Vendor Name": "NOVATEUR ELECTRICAL & DIGITAL SYSTEMS PVT. LTD",
+      "AP No.": "",
+      "AP Date": "",
+      "BP Reference No.": "HDC000153"
+    },
+    {
+      "GRPO No.": 252611058,
+      "Internal Number": 56356,
+      "GRPO Date": "14-Mar-2026",
+      "Customer/Vendor Code": "V00195",
+      "Customer/Vendor Name": "NOVATEUR ELECTRICAL & DIGITAL SYSTEMS PVT. LTD",
+      "AP No.": "",
+      "AP Date": "",
+      "BP Reference No.": "HDC000170"
+    },
+    {
+      "GRPO No.": 252611059,
+      "Internal Number": 56357,
+      "GRPO Date": "14-Mar-2026",
+      "Customer/Vendor Code": "V00195",
+      "Customer/Vendor Name": "NOVATEUR ELECTRICAL & DIGITAL SYSTEMS PVT. LTD",
+      "AP No.": "",
+      "AP Date": "",
+      "BP Reference No.": "HDC000168"
+    },
+    {
+      "GRPO No.": 252611061,
+      "Internal Number": 56387,
+      "GRPO Date": "16-Mar-2026",
+      "Customer/Vendor Code": "V00195",
+      "Customer/Vendor Name": "NOVATEUR ELECTRICAL & DIGITAL SYSTEMS PVT. LTD",
+      "AP No.": "",
+      "AP Date": "",
+      "BP Reference No.": "HDC000187"
+    },
+    {
+      "GRPO No.": 252611064,
+      "Internal Number": 56397,
+      "GRPO Date": "16-Mar-2026",
+      "Customer/Vendor Code": "V00195",
+      "Customer/Vendor Name": "NOVATEUR ELECTRICAL & DIGITAL SYSTEMS PVT. LTD",
+      "AP No.": "",
+      "AP Date": "",
+      "BP Reference No.": "HDC000202(25-26)"
+    },
+    {
+      "GRPO No.": 252611066,
+      "Internal Number": 56399,
+      "GRPO Date": "16-Mar-2026",
+      "Customer/Vendor Code": "V00195",
+      "Customer/Vendor Name": "NOVATEUR ELECTRICAL & DIGITAL SYSTEMS PVT. LTD",
+      "AP No.": "",
+      "AP Date": "",
+      "BP Reference No.": "HDC000188"
+    },
+    {
+      "GRPO No.": 252611067,
+      "Internal Number": 56400,
+      "GRPO Date": "16-Mar-2026",
+      "Customer/Vendor Code": "V00195",
+      "Customer/Vendor Name": "NOVATEUR ELECTRICAL & DIGITAL SYSTEMS PVT. LTD",
+      "AP No.": "",
+      "AP Date": "",
+      "BP Reference No.": "HDC000193"
+    },
+    {
+      "GRPO No.": 252611068,
+      "Internal Number": 56413,
+      "GRPO Date": "17-Mar-2026",
+      "Customer/Vendor Code": "V00195",
+      "Customer/Vendor Name": "NOVATEUR ELECTRICAL & DIGITAL SYSTEMS PVT. LTD",
+      "AP No.": "",
+      "AP Date": "",
+      "BP Reference No.": "HDC000210"
+    },
+    {
+      "GRPO No.": 252611071,
+      "Internal Number": 56421,
+      "GRPO Date": "17-Mar-2026",
+      "Customer/Vendor Code": "V00195",
+      "Customer/Vendor Name": "NOVATEUR ELECTRICAL & DIGITAL SYSTEMS PVT. LTD",
+      "AP No.": "",
+      "AP Date": "",
+      "BP Reference No.": "HDC000215"
+    },
+    {
+      "GRPO No.": 252611072,
+      "Internal Number": 56422,
+      "GRPO Date": "17-Mar-2026",
+      "Customer/Vendor Code": "V00195",
+      "Customer/Vendor Name": "NOVATEUR ELECTRICAL & DIGITAL SYSTEMS PVT. LTD",
+      "AP No.": "",
+      "AP Date": "",
+      "BP Reference No.": "HDC000213(25-26)"
+    },
+    {
+      "GRPO No.": 252611073,
+      "Internal Number": 56423,
+      "GRPO Date": "17-Mar-2026",
+      "Customer/Vendor Code": "V00195",
+      "Customer/Vendor Name": "NOVATEUR ELECTRICAL & DIGITAL SYSTEMS PVT. LTD",
+      "AP No.": "",
+      "AP Date": "",
+      "BP Reference No.": "HDC000214(25-26)"
+    },
+    {
+      "GRPO No.": 252610858,
+      "Internal Number": 54892,
+      "GRPO Date": "16-Jan-2026",
+      "Customer/Vendor Code": "V00195",
+      "Customer/Vendor Name": "NOVATEUR ELECTRICAL & DIGITAL SYSTEMS PVT. LTD",
+      "AP No.": "",
+      "AP Date": "",
+      "BP Reference No.": "HDA000171"
+    },
+    {
+      "GRPO No.": 252610864,
+      "Internal Number": 54918,
+      "GRPO Date": "16-Jan-2026",
+      "Customer/Vendor Code": "V00195",
+      "Customer/Vendor Name": "NOVATEUR ELECTRICAL & DIGITAL SYSTEMS PVT. LTD",
+      "AP No.": "",
+      "AP Date": "",
+      "BP Reference No.": "HDA000190"
+    },
+    {
+      "GRPO No.": 252610871,
+      "Internal Number": 55001,
+      "GRPO Date": "20-Jan-2026",
+      "Customer/Vendor Code": "V00195",
+      "Customer/Vendor Name": "NOVATEUR ELECTRICAL & DIGITAL SYSTEMS PVT. LTD",
+      "AP No.": "",
+      "AP Date": "",
+      "BP Reference No.": "HDA000226"
+    },
+    {
+      "GRPO No.": 252610876,
+      "Internal Number": 55051,
+      "GRPO Date": "22-Jan-2026",
+      "Customer/Vendor Code": "V00195",
+      "Customer/Vendor Name": "NOVATEUR ELECTRICAL & DIGITAL SYSTEMS PVT. LTD",
+      "AP No.": "",
+      "AP Date": "",
+      "BP Reference No.": "HDA000256"
+    },
+    {
+      "GRPO No.": 252610874,
+      "Internal Number": 55035,
+      "GRPO Date": "22-Jan-2026",
+      "Customer/Vendor Code": "V00195",
+      "Customer/Vendor Name": "NOVATEUR ELECTRICAL & DIGITAL SYSTEMS PVT. LTD",
+      "AP No.": "",
+      "AP Date": "",
+      "BP Reference No.": "HDA000248"
+    },
+    {
+      "GRPO No.": 252610879,
+      "Internal Number": 55079,
+      "GRPO Date": "23-Jan-2026",
+      "Customer/Vendor Code": "V00195",
+      "Customer/Vendor Name": "NOVATEUR ELECTRICAL & DIGITAL SYSTEMS PVT. LTD",
+      "AP No.": "",
+      "AP Date": "",
+      "BP Reference No.": "HDA000278"
+    },
+    {
+      "GRPO No.": 252610881,
+      "Internal Number": 55081,
+      "GRPO Date": "23-Jan-2026",
+      "Customer/Vendor Code": "V00195",
+      "Customer/Vendor Name": "NOVATEUR ELECTRICAL & DIGITAL SYSTEMS PVT. LTD",
+      "AP No.": "",
+      "AP Date": "",
+      "BP Reference No.": "HDA000276"
+    },
+    {
+      "GRPO No.": 252610878,
+      "Internal Number": 55059,
+      "GRPO Date": "22-Jan-2026",
+      "Customer/Vendor Code": "V00195",
+      "Customer/Vendor Name": "NOVATEUR ELECTRICAL & DIGITAL SYSTEMS PVT. LTD",
+      "AP No.": "",
+      "AP Date": "",
+      "BP Reference No.": "HDA000265"
+    },
+    {
+      "GRPO No.": 252640136,
+      "Internal Number": 55062,
+      "GRPO Date": "23-Jan-2026",
+      "Customer/Vendor Code": "V00737",
+      "Customer/Vendor Name": "IKIO SOLUTIONS PVT LTD",
+      "AP No.": "",
+      "AP Date": "",
+      "BP Reference No.": "RGP25261873"
+    },
+    {
+      "GRPO No.": 252611077,
+      "Internal Number": 56455,
+      "GRPO Date": "18-Mar-2026",
+      "Customer/Vendor Code": "V00195",
+      "Customer/Vendor Name": "NOVATEUR ELECTRICAL & DIGITAL SYSTEMS PVT. LTD",
+      "AP No.": "",
+      "AP Date": "",
+      "BP Reference No.": "HDC000230"
+    },
+    {
+      "GRPO No.": 252611078,
+      "Internal Number": 56477,
+      "GRPO Date": "19-Mar-2026",
+      "Customer/Vendor Code": "V00195",
+      "Customer/Vendor Name": "NOVATEUR ELECTRICAL & DIGITAL SYSTEMS PVT. LTD",
+      "AP No.": "",
+      "AP Date": "",
+      "BP Reference No.": "HDC000236(25-26)"
+    },
+    {
+      "GRPO No.": 252611079,
+      "Internal Number": 56478,
+      "GRPO Date": "19-Mar-2026",
+      "Customer/Vendor Code": "V00195",
+      "Customer/Vendor Name": "NOVATEUR ELECTRICAL & DIGITAL SYSTEMS PVT. LTD",
+      "AP No.": "",
+      "AP Date": "",
+      "BP Reference No.": "HDC000237"
+    },
+    {
+      "GRPO No.": 252640158,
+      "Internal Number": 56493,
+      "GRPO Date": "19-Mar-2026",
+      "Customer/Vendor Code": "V00737",
+      "Customer/Vendor Name": "IKIO SOLUTIONS PVT LTD",
+      "AP No.": "",
+      "AP Date": "",
+      "BP Reference No.": "RGP25262087"
+    },
+    {
+      "GRPO No.": 252611084,
+      "Internal Number": 56502,
+      "GRPO Date": "19-Mar-2026",
+      "Customer/Vendor Code": "V00195",
+      "Customer/Vendor Name": "NOVATEUR ELECTRICAL & DIGITAL SYSTEMS PVT. LTD",
+      "AP No.": "",
+      "AP Date": "",
+      "BP Reference No.": "HDC000250(25-26)"
+    },
+    {
+      "GRPO No.": 252611085,
+      "Internal Number": 56508,
+      "GRPO Date": "20-Mar-2026",
+      "Customer/Vendor Code": "V00195",
+      "Customer/Vendor Name": "NOVATEUR ELECTRICAL & DIGITAL SYSTEMS PVT. LTD",
+      "AP No.": "",
+      "AP Date": "",
+      "BP Reference No.": "HDC000249"
+    },
+    {
+      "GRPO No.": 252610891,
+      "Internal Number": 55161,
+      "GRPO Date": "28-Jan-2026",
+      "Customer/Vendor Code": "V00195",
+      "Customer/Vendor Name": "NOVATEUR ELECTRICAL & DIGITAL SYSTEMS PVT. LTD",
+      "AP No.": "",
+      "AP Date": "",
+      "BP Reference No.": "HDA000330"
+    },
+    {
+      "GRPO No.": 252640135,
+      "Internal Number": 54843,
+      "GRPO Date": "14-Jan-2026",
+      "Customer/Vendor Code": "V00737",
+      "Customer/Vendor Name": "IKIO SOLUTIONS PVT LTD",
+      "AP No.": "",
+      "AP Date": "",
+      "BP Reference No.": "rgp25261832"
+    },
+    {
+      "GRPO No.": 252611087,
+      "Internal Number": 56544,
+      "GRPO Date": "20-Mar-2026",
+      "Customer/Vendor Code": "V00195",
+      "Customer/Vendor Name": "NOVATEUR ELECTRICAL & DIGITAL SYSTEMS PVT. LTD",
+      "AP No.": "",
+      "AP Date": "",
+      "BP Reference No.": "HDC000262"
+    },
+    {
+      "GRPO No.": 252610884,
+      "Internal Number": 55108,
+      "GRPO Date": "24-Jan-2026",
+      "Customer/Vendor Code": "V00195",
+      "Customer/Vendor Name": "NOVATEUR ELECTRICAL & DIGITAL SYSTEMS PVT. LTD",
+      "AP No.": "",
+      "AP Date": "",
+      "BP Reference No.": "HDA000301"
+    },
+    {
+      "GRPO No.": 252610888,
+      "Internal Number": 55136,
+      "GRPO Date": "27-Jan-2026",
+      "Customer/Vendor Code": "V00195",
+      "Customer/Vendor Name": "NOVATEUR ELECTRICAL & DIGITAL SYSTEMS PVT. LTD",
+      "AP No.": "",
+      "AP Date": "",
+      "BP Reference No.": "HDA000323(25-26)"
+    },
+    {
+      "GRPO No.": 252610893,
+      "Internal Number": 55173,
+      "GRPO Date": "29-Jan-2026",
+      "Customer/Vendor Code": "V00195",
+      "Customer/Vendor Name": "NOVATEUR ELECTRICAL & DIGITAL SYSTEMS PVT. LTD",
+      "AP No.": "",
+      "AP Date": "",
+      "BP Reference No.": "HDA000358"
+    },
+    {
+      "GRPO No.": 252610896,
+      "Internal Number": 55207,
+      "GRPO Date": "30-Jan-2026",
+      "Customer/Vendor Code": "V00195",
+      "Customer/Vendor Name": "NOVATEUR ELECTRICAL & DIGITAL SYSTEMS PVT. LTD",
+      "AP No.": "",
+      "AP Date": "",
+      "BP Reference No.": "HDA000374"
+    },
+    {
+      "GRPO No.": 252610860,
+      "Internal Number": 54894,
+      "GRPO Date": "16-Jan-2026",
+      "Customer/Vendor Code": "V00195",
+      "Customer/Vendor Name": "NOVATEUR ELECTRICAL & DIGITAL SYSTEMS PVT. LTD",
+      "AP No.": "",
+      "AP Date": "",
+      "BP Reference No.": "HDA000166"
+    },
+    {
+      "GRPO No.": 252607799,
+      "Internal Number": 55272,
+      "GRPO Date": "02-Feb-2026",
+      "Customer/Vendor Code": "V00346",
+      "Customer/Vendor Name": "OMEGA PRINTOPACK PVT LTD.",
+      "AP No.": "",
+      "AP Date": "",
+      "BP Reference No.": "UK5/25-26/004252"
+    },
+    {
+      "GRPO No.": 252610905,
+      "Internal Number": 55299,
+      "GRPO Date": "03-Feb-2026",
+      "Customer/Vendor Code": "V00195",
+      "Customer/Vendor Name": "NOVATEUR ELECTRICAL & DIGITAL SYSTEMS PVT. LTD",
+      "AP No.": "",
+      "AP Date": "",
+      "BP Reference No.": "HDA000354"
+    },
+    {
+      "GRPO No.": 252610906,
+      "Internal Number": 55316,
+      "GRPO Date": "03-Feb-2026",
+      "Customer/Vendor Code": "V00195",
+      "Customer/Vendor Name": "NOVATEUR ELECTRICAL & DIGITAL SYSTEMS PVT. LTD",
+      "AP No.": "",
+      "AP Date": "",
+      "BP Reference No.": "HDB000023"
+    },
+    {
+      "GRPO No.": 252640137,
+      "Internal Number": 55099,
+      "GRPO Date": "24-Jan-2026",
+      "Customer/Vendor Code": "V00737",
+      "Customer/Vendor Name": "IKIO SOLUTIONS PVT LTD",
+      "AP No.": "",
+      "AP Date": "",
+      "BP Reference No.": "RGP25261877"
+    },
+    {
+      "GRPO No.": 252640141,
+      "Internal Number": 55359,
+      "GRPO Date": "05-Feb-2026",
+      "Customer/Vendor Code": "V00737",
+      "Customer/Vendor Name": "IKIO SOLUTIONS PVT LTD",
+      "AP No.": "",
+      "AP Date": "",
+      "BP Reference No.": "RGP25261913"
+    },
+    {
+      "GRPO No.": 252610911,
+      "Internal Number": 55375,
+      "GRPO Date": "05-Feb-2026",
+      "Customer/Vendor Code": "V00195",
+      "Customer/Vendor Name": "NOVATEUR ELECTRICAL & DIGITAL SYSTEMS PVT. LTD",
+      "AP No.": "",
+      "AP Date": "",
+      "BP Reference No.": "HDB000050"
+    },
+    {
+      "GRPO No.": 252610892,
+      "Internal Number": 55172,
+      "GRPO Date": "29-Jan-2026",
+      "Customer/Vendor Code": "V00195",
+      "Customer/Vendor Name": "NOVATEUR ELECTRICAL & DIGITAL SYSTEMS PVT. LTD",
+      "AP No.": "",
+      "AP Date": "",
+      "BP Reference No.": "HDA000343(25-26)"
+    },
+    {
+      "GRPO No.": 252610925,
+      "Internal Number": 55475,
+      "GRPO Date": "09-Feb-2026",
+      "Customer/Vendor Code": "V00195",
+      "Customer/Vendor Name": "NOVATEUR ELECTRICAL & DIGITAL SYSTEMS PVT. LTD",
+      "AP No.": "",
+      "AP Date": "",
+      "BP Reference No.": "HDB000107"
+    },
+    {
+      "GRPO No.": 252610917,
+      "Internal Number": 55430,
+      "GRPO Date": "07-Feb-2026",
+      "Customer/Vendor Code": "V00195",
+      "Customer/Vendor Name": "NOVATEUR ELECTRICAL & DIGITAL SYSTEMS PVT. LTD",
+      "AP No.": "",
+      "AP Date": "",
+      "BP Reference No.": "HDB000090(25-26)"
+    },
+    {
+      "GRPO No.": 252640139,
+      "Internal Number": 55192,
+      "GRPO Date": "30-Jan-2026",
+      "Customer/Vendor Code": "V00737",
+      "Customer/Vendor Name": "IKIO SOLUTIONS PVT LTD",
+      "AP No.": "",
+      "AP Date": "",
+      "BP Reference No.": "RGP25261897"
+    },
+    {
+      "GRPO No.": 252610923,
+      "Internal Number": 55456,
+      "GRPO Date": "09-Feb-2026",
+      "Customer/Vendor Code": "V00195",
+      "Customer/Vendor Name": "NOVATEUR ELECTRICAL & DIGITAL SYSTEMS PVT. LTD",
+      "AP No.": "",
+      "AP Date": "",
+      "BP Reference No.": "HDB000099(25-26)"
+    },
+    {
+      "GRPO No.": 252610927,
+      "Internal Number": 55477,
+      "GRPO Date": "09-Feb-2026",
+      "Customer/Vendor Code": "V00195",
+      "Customer/Vendor Name": "NOVATEUR ELECTRICAL & DIGITAL SYSTEMS PVT. LTD",
+      "AP No.": "",
+      "AP Date": "",
+      "BP Reference No.": "HDB000102(25-26)"
+    },
+    {
+      "GRPO No.": 252611092,
+      "Internal Number": 56583,
+      "GRPO Date": "21-Mar-2026",
+      "Customer/Vendor Code": "V00195",
+      "Customer/Vendor Name": "NOVATEUR ELECTRICAL & DIGITAL SYSTEMS PVT. LTD",
+      "AP No.": "",
+      "AP Date": "",
+      "BP Reference No.": "HDC000282"
+    },
+    {
+      "GRPO No.": 252611094,
+      "Internal Number": 56586,
+      "GRPO Date": "21-Mar-2026",
+      "Customer/Vendor Code": "V00195",
+      "Customer/Vendor Name": "NOVATEUR ELECTRICAL & DIGITAL SYSTEMS PVT. LTD",
+      "AP No.": "",
+      "AP Date": "",
+      "BP Reference No.": "HDC000279"
+    },
+    {
+      "GRPO No.": 252611095,
+      "Internal Number": 56589,
+      "GRPO Date": "22-Mar-2026",
+      "Customer/Vendor Code": "V00195",
+      "Customer/Vendor Name": "NOVATEUR ELECTRICAL & DIGITAL SYSTEMS PVT. LTD",
+      "AP No.": "",
+      "AP Date": "",
+      "BP Reference No.": "HDC000295"
+    },
+    {
+      "GRPO No.": 252610930,
+      "Internal Number": 55540,
+      "GRPO Date": "11-Feb-2026",
+      "Customer/Vendor Code": "V00195",
+      "Customer/Vendor Name": "NOVATEUR ELECTRICAL & DIGITAL SYSTEMS PVT. LTD",
+      "AP No.": "",
+      "AP Date": "",
+      "BP Reference No.": "HDB000125"
+    },
+    {
+      "GRPO No.": 252610940,
+      "Internal Number": 55594,
+      "GRPO Date": "13-Feb-2026",
+      "Customer/Vendor Code": "V00195",
+      "Customer/Vendor Name": "NOVATEUR ELECTRICAL & DIGITAL SYSTEMS PVT. LTD",
+      "AP No.": "",
+      "AP Date": "",
+      "BP Reference No.": "HDB000188"
+    },
+    {
+      "GRPO No.": 252610942,
+      "Internal Number": 55617,
+      "GRPO Date": "13-Feb-2026",
+      "Customer/Vendor Code": "V00195",
+      "Customer/Vendor Name": "NOVATEUR ELECTRICAL & DIGITAL SYSTEMS PVT. LTD",
+      "AP No.": "",
+      "AP Date": "",
+      "BP Reference No.": "HDB000194"
+    },
+    {
+      "GRPO No.": 252610946,
+      "Internal Number": 55663,
+      "GRPO Date": "16-Feb-2026",
+      "Customer/Vendor Code": "V00195",
+      "Customer/Vendor Name": "NOVATEUR ELECTRICAL & DIGITAL SYSTEMS PVT. LTD",
+      "AP No.": "",
+      "AP Date": "",
+      "BP Reference No.": "HDB000176(25-26)"
+    },
+    {
+      "GRPO No.": 252610954,
+      "Internal Number": 55706,
+      "GRPO Date": "16-Feb-2026",
+      "Customer/Vendor Code": "V00195",
+      "Customer/Vendor Name": "NOVATEUR ELECTRICAL & DIGITAL SYSTEMS PVT. LTD",
+      "AP No.": "",
+      "AP Date": "",
+      "BP Reference No.": "HDB000230"
+    },
+    {
+      "GRPO No.": 252610958,
+      "Internal Number": 55710,
+      "GRPO Date": "17-Feb-2026",
+      "Customer/Vendor Code": "V00195",
+      "Customer/Vendor Name": "NOVATEUR ELECTRICAL & DIGITAL SYSTEMS PVT. LTD",
+      "AP No.": "",
+      "AP Date": "",
+      "BP Reference No.": "HDB000228"
+    },
+    {
+      "GRPO No.": 252610959,
+      "Internal Number": 55717,
+      "GRPO Date": "17-Feb-2026",
+      "Customer/Vendor Code": "V00195",
+      "Customer/Vendor Name": "NOVATEUR ELECTRICAL & DIGITAL SYSTEMS PVT. LTD",
+      "AP No.": "",
+      "AP Date": "",
+      "BP Reference No.": "HDB000033"
+    },
+    {
+      "GRPO No.": 252610962,
+      "Internal Number": 55727,
+      "GRPO Date": "17-Feb-2026",
+      "Customer/Vendor Code": "V00195",
+      "Customer/Vendor Name": "NOVATEUR ELECTRICAL & DIGITAL SYSTEMS PVT. LTD",
+      "AP No.": "",
+      "AP Date": "",
+      "BP Reference No.": "HDB000251"
+    },
+    {
+      "GRPO No.": 252610972,
+      "Internal Number": 55801,
+      "GRPO Date": "20-Feb-2026",
+      "Customer/Vendor Code": "V00195",
+      "Customer/Vendor Name": "NOVATEUR ELECTRICAL & DIGITAL SYSTEMS PVT. LTD",
+      "AP No.": "",
+      "AP Date": "",
+      "BP Reference No.": "HDB000276(25-26)"
+    },
+    {
+      "GRPO No.": 252610981,
+      "Internal Number": 55861,
+      "GRPO Date": "22-Feb-2026",
+      "Customer/Vendor Code": "V00195",
+      "Customer/Vendor Name": "NOVATEUR ELECTRICAL & DIGITAL SYSTEMS PVT. LTD",
+      "AP No.": "",
+      "AP Date": "",
+      "BP Reference No.": "HDB000332"
+    },
+    {
+      "GRPO No.": 252610895,
+      "Internal Number": 55206,
+      "GRPO Date": "30-Jan-2026",
+      "Customer/Vendor Code": "V00195",
+      "Customer/Vendor Name": "NOVATEUR ELECTRICAL & DIGITAL SYSTEMS PVT. LTD",
+      "AP No.": "",
+      "AP Date": "",
+      "BP Reference No.": "HDA000372"
+    },
+    {
+      "GRPO No.": 252610854,
+      "Internal Number": 54855,
+      "GRPO Date": "14-Jan-2026",
+      "Customer/Vendor Code": "V00195",
+      "Customer/Vendor Name": "NOVATEUR ELECTRICAL & DIGITAL SYSTEMS PVT. LTD",
+      "AP No.": "",
+      "AP Date": "",
+      "BP Reference No.": "HDA000137"
+    },
+    {
+      "GRPO No.": 252611008,
+      "Internal Number": 56034,
+      "GRPO Date": "28-Feb-2026",
+      "Customer/Vendor Code": "V00195",
+      "Customer/Vendor Name": "NOVATEUR ELECTRICAL & DIGITAL SYSTEMS PVT. LTD",
+      "AP No.": "",
+      "AP Date": "",
+      "BP Reference No.": "HDB000427"
+    },
+    {
+      "GRPO No.": 252611012,
+      "Internal Number": 56058,
+      "GRPO Date": "02-Mar-2026",
+      "Customer/Vendor Code": "V00195",
+      "Customer/Vendor Name": "NOVATEUR ELECTRICAL & DIGITAL SYSTEMS PVT. LTD",
+      "AP No.": "",
+      "AP Date": "",
+      "BP Reference No.": "HDC000005(25-26)"
+    },
+    {
+      "GRPO No.": 252611019,
+      "Internal Number": 56080,
+      "GRPO Date": "03-Mar-2026",
+      "Customer/Vendor Code": "V00195",
+      "Customer/Vendor Name": "NOVATEUR ELECTRICAL & DIGITAL SYSTEMS PVT. LTD",
+      "AP No.": "",
+      "AP Date": "",
+      "BP Reference No.": "HDC000013"
+    },
+    {
+      "GRPO No.": 252611024,
+      "Internal Number": 56133,
+      "GRPO Date": "06-Mar-2026",
+      "Customer/Vendor Code": "V00195",
+      "Customer/Vendor Name": "NOVATEUR ELECTRICAL & DIGITAL SYSTEMS PVT. LTD",
+      "AP No.": "",
+      "AP Date": "",
+      "BP Reference No.": "HDC000040"
+    },
+    {
+      "GRPO No.": 252611030,
+      "Internal Number": 56194,
+      "GRPO Date": "09-Mar-2026",
+      "Customer/Vendor Code": "V00195",
+      "Customer/Vendor Name": "NOVATEUR ELECTRICAL & DIGITAL SYSTEMS PVT. LTD",
+      "AP No.": "",
+      "AP Date": "",
+      "BP Reference No.": "HDC000080"
+    },
+    {
+      "GRPO No.": 252611031,
+      "Internal Number": 56197,
+      "GRPO Date": "09-Mar-2026",
+      "Customer/Vendor Code": "V00195",
+      "Customer/Vendor Name": "NOVATEUR ELECTRICAL & DIGITAL SYSTEMS PVT. LTD",
+      "AP No.": "",
+      "AP Date": "",
+      "BP Reference No.": "HDC000073(25-26)"
+    },
+    {
+      "GRPO No.": 252610907,
+      "Internal Number": 55317,
+      "GRPO Date": "03-Feb-2026",
+      "Customer/Vendor Code": "V00195",
+      "Customer/Vendor Name": "NOVATEUR ELECTRICAL & DIGITAL SYSTEMS PVT. LTD",
+      "AP No.": "",
+      "AP Date": "",
+      "BP Reference No.": "HDA000015(25-26)"
+    },
+    {
+      "GRPO No.": 252611046,
+      "Internal Number": 56296,
+      "GRPO Date": "12-Mar-2026",
+      "Customer/Vendor Code": "V00195",
+      "Customer/Vendor Name": "NOVATEUR ELECTRICAL & DIGITAL SYSTEMS PVT. LTD",
+      "AP No.": "",
+      "AP Date": "",
+      "BP Reference No.": "HDC000139(25-26)"
+    },
+    {
+      "GRPO No.": 252611047,
+      "Internal Number": 56297,
+      "GRPO Date": "12-Mar-2026",
+      "Customer/Vendor Code": "V00195",
+      "Customer/Vendor Name": "NOVATEUR ELECTRICAL & DIGITAL SYSTEMS PVT. LTD",
+      "AP No.": "",
+      "AP Date": "",
+      "BP Reference No.": "HDC000135"
+    },
+    {
+      "GRPO No.": 252611049,
+      "Internal Number": 56315,
+      "GRPO Date": "13-Mar-2026",
+      "Customer/Vendor Code": "V00195",
+      "Customer/Vendor Name": "NOVATEUR ELECTRICAL & DIGITAL SYSTEMS PVT. LTD",
+      "AP No.": "",
+      "AP Date": "",
+      "BP Reference No.": "HDC000157"
+    },
+    {
+      "GRPO No.": 252611050,
+      "Internal Number": 56323,
+      "GRPO Date": "13-Mar-2026",
+      "Customer/Vendor Code": "V00195",
+      "Customer/Vendor Name": "NOVATEUR ELECTRICAL & DIGITAL SYSTEMS PVT. LTD",
+      "AP No.": "",
+      "AP Date": "",
+      "BP Reference No.": "HDC000152"
+    },
+    {
+      "GRPO No.": 252610909,
+      "Internal Number": 55351,
+      "GRPO Date": "05-Feb-2026",
+      "Customer/Vendor Code": "V00195",
+      "Customer/Vendor Name": "NOVATEUR ELECTRICAL & DIGITAL SYSTEMS PVT. LTD",
+      "AP No.": "",
+      "AP Date": "",
+      "BP Reference No.": "HDB000025"
+    },
+    {
+      "GRPO No.": 252610936,
+      "Internal Number": 55575,
+      "GRPO Date": "12-Feb-2026",
+      "Customer/Vendor Code": "V00195",
+      "Customer/Vendor Name": "NOVATEUR ELECTRICAL & DIGITAL SYSTEMS PVT. LTD",
+      "AP No.": "",
+      "AP Date": "",
+      "BP Reference No.": "HDB000137."
+    },
+    {
+      "GRPO No.": 252610937,
+      "Internal Number": 55576,
+      "GRPO Date": "12-Feb-2026",
+      "Customer/Vendor Code": "V00195",
+      "Customer/Vendor Name": "NOVATEUR ELECTRICAL & DIGITAL SYSTEMS PVT. LTD",
+      "AP No.": "",
+      "AP Date": "",
+      "BP Reference No.": "HDB000150(25-26)"
+    },
+    {
+      "GRPO No.": 252610939,
+      "Internal Number": 55593,
+      "GRPO Date": "13-Feb-2026",
+      "Customer/Vendor Code": "V00195",
+      "Customer/Vendor Name": "NOVATEUR ELECTRICAL & DIGITAL SYSTEMS PVT. LTD",
+      "AP No.": "",
+      "AP Date": "",
+      "BP Reference No.": "HDB000177"
+    },
+    {
+      "GRPO No.": 252610866,
+      "Internal Number": 54920,
+      "GRPO Date": "16-Jan-2026",
+      "Customer/Vendor Code": "V00195",
+      "Customer/Vendor Name": "NOVATEUR ELECTRICAL & DIGITAL SYSTEMS PVT. LTD",
+      "AP No.": "",
+      "AP Date": "",
+      "BP Reference No.": "HDA000191"
+    },
+    {
+      "GRPO No.": 252610951,
+      "Internal Number": 55690,
+      "GRPO Date": "16-Feb-2026",
+      "Customer/Vendor Code": "V00195",
+      "Customer/Vendor Name": "NOVATEUR ELECTRICAL & DIGITAL SYSTEMS PVT. LTD",
+      "AP No.": "",
+      "AP Date": "",
+      "BP Reference No.": "HDB000233"
+    },
+    {
+      "GRPO No.": 252610966,
+      "Internal Number": 55758,
+      "GRPO Date": "18-Feb-2026",
+      "Customer/Vendor Code": "V00195",
+      "Customer/Vendor Name": "NOVATEUR ELECTRICAL & DIGITAL SYSTEMS PVT. LTD",
+      "AP No.": "",
+      "AP Date": "",
+      "BP Reference No.": "HDB000263"
+    },
+    {
+      "GRPO No.": 252611054,
+      "Internal Number": 56343,
+      "GRPO Date": "14-Mar-2026",
+      "Customer/Vendor Code": "V00195",
+      "Customer/Vendor Name": "NOVATEUR ELECTRICAL & DIGITAL SYSTEMS PVT. LTD",
+      "AP No.": "",
+      "AP Date": "",
+      "BP Reference No.": "HDC000163"
+    },
+    {
+      "GRPO No.": 252611056,
+      "Internal Number": 56345,
+      "GRPO Date": "14-Mar-2026",
+      "Customer/Vendor Code": "V00195",
+      "Customer/Vendor Name": "NOVATEUR ELECTRICAL & DIGITAL SYSTEMS PVT. LTD",
+      "AP No.": "",
+      "AP Date": "",
+      "BP Reference No.": "HDC000174(25-26)"
+    },
+    {
+      "GRPO No.": 252611060,
+      "Internal Number": 56360,
+      "GRPO Date": "14-Mar-2026",
+      "Customer/Vendor Code": "V00195",
+      "Customer/Vendor Name": "NOVATEUR ELECTRICAL & DIGITAL SYSTEMS PVT. LTD",
+      "AP No.": "",
+      "AP Date": "",
+      "BP Reference No.": "HDC000169"
+    },
+    {
+      "GRPO No.": 252610980,
+      "Internal Number": 55852,
+      "GRPO Date": "21-Feb-2026",
+      "Customer/Vendor Code": "V00195",
+      "Customer/Vendor Name": "NOVATEUR ELECTRICAL & DIGITAL SYSTEMS PVT. LTD",
+      "AP No.": "",
+      "AP Date": "",
+      "BP Reference No.": "HDB000315"
+    },
+    {
+      "GRPO No.": 252611063,
+      "Internal Number": 56396,
+      "GRPO Date": "16-Mar-2026",
+      "Customer/Vendor Code": "V00195",
+      "Customer/Vendor Name": "NOVATEUR ELECTRICAL & DIGITAL SYSTEMS PVT. LTD",
+      "AP No.": "",
+      "AP Date": "",
+      "BP Reference No.": "HDC00198"
+    },
+    {
+      "GRPO No.": 252640156,
+      "Internal Number": 56429,
+      "GRPO Date": "17-Mar-2026",
+      "Customer/Vendor Code": "V00737",
+      "Customer/Vendor Name": "IKIO SOLUTIONS PVT LTD",
+      "AP No.": "",
+      "AP Date": "",
+      "BP Reference No.": "RGP25262080"
+    },
+    {
+      "GRPO No.": 252611083,
+      "Internal Number": 56501,
+      "GRPO Date": "19-Mar-2026",
+      "Customer/Vendor Code": "V00195",
+      "Customer/Vendor Name": "NOVATEUR ELECTRICAL & DIGITAL SYSTEMS PVT. LTD",
+      "AP No.": "",
+      "AP Date": "",
+      "BP Reference No.": "HDC000257"
+    },
+    {
+      "GRPO No.": 252611086,
+      "Internal Number": 56543,
+      "GRPO Date": "20-Mar-2026",
+      "Customer/Vendor Code": "V00195",
+      "Customer/Vendor Name": "NOVATEUR ELECTRICAL & DIGITAL SYSTEMS PVT. LTD",
+      "AP No.": "",
+      "AP Date": "",
+      "BP Reference No.": "HDC000263(25-26)"
+    },
+    {
+      "GRPO No.": 252610990,
+      "Internal Number": 55927,
+      "GRPO Date": "25-Feb-2026",
+      "Customer/Vendor Code": "V00195",
+      "Customer/Vendor Name": "NOVATEUR ELECTRICAL & DIGITAL SYSTEMS PVT. LTD",
+      "AP No.": "",
+      "AP Date": "",
+      "BP Reference No.": "HDB000364"
+    },
+    {
+      "GRPO No.": 252610991,
+      "Internal Number": 55928,
+      "GRPO Date": "25-Feb-2026",
+      "Customer/Vendor Code": "V00195",
+      "Customer/Vendor Name": "NOVATEUR ELECTRICAL & DIGITAL SYSTEMS PVT. LTD",
+      "AP No.": "",
+      "AP Date": "",
+      "BP Reference No.": "HDB000357"
+    },
+    {
+      "GRPO No.": 252611090,
+      "Internal Number": 56567,
+      "GRPO Date": "21-Mar-2026",
+      "Customer/Vendor Code": "V00195",
+      "Customer/Vendor Name": "NOVATEUR ELECTRICAL & DIGITAL SYSTEMS PVT. LTD",
+      "AP No.": "",
+      "AP Date": "",
+      "BP Reference No.": "HDC000278"
+    },
+    {
+      "GRPO No.": 252611091,
+      "Internal Number": 56579,
+      "GRPO Date": "21-Mar-2026",
+      "Customer/Vendor Code": "V00195",
+      "Customer/Vendor Name": "NOVATEUR ELECTRICAL & DIGITAL SYSTEMS PVT. LTD",
+      "AP No.": "",
+      "AP Date": "",
+      "BP Reference No.": "HDC000292"
+    },
+    {
+      "GRPO No.": 252611093,
+      "Internal Number": 56585,
+      "GRPO Date": "21-Mar-2026",
+      "Customer/Vendor Code": "V00195",
+      "Customer/Vendor Name": "NOVATEUR ELECTRICAL & DIGITAL SYSTEMS PVT. LTD",
+      "AP No.": "",
+      "AP Date": "",
+      "BP Reference No.": "HDC000280"
+    },
+    {
+      "GRPO No.": 252611096,
+      "Internal Number": 56614,
+      "GRPO Date": "23-Mar-2026",
+      "Customer/Vendor Code": "V00195",
+      "Customer/Vendor Name": "NOVATEUR ELECTRICAL & DIGITAL SYSTEMS PVT. LTD",
+      "AP No.": "",
+      "AP Date": "",
+      "BP Reference No.": "HDC000310"
+    },
+    {
+      "GRPO No.": 252610916,
+      "Internal Number": 55429,
+      "GRPO Date": "07-Feb-2026",
+      "Customer/Vendor Code": "V00195",
+      "Customer/Vendor Name": "NOVATEUR ELECTRICAL & DIGITAL SYSTEMS PVT. LTD",
+      "AP No.": "",
+      "AP Date": "",
+      "BP Reference No.": "HDB000069"
+    },
+    {
+      "GRPO No.": 252610924,
+      "Internal Number": 55474,
+      "GRPO Date": "09-Feb-2026",
+      "Customer/Vendor Code": "V00195",
+      "Customer/Vendor Name": "NOVATEUR ELECTRICAL & DIGITAL SYSTEMS PVT. LTD",
+      "AP No.": "",
+      "AP Date": "",
+      "BP Reference No.": "HDB000111"
+    },
+    {
+      "GRPO No.": 252611102,
+      "Internal Number": 56652,
+      "GRPO Date": "24-Mar-2026",
+      "Customer/Vendor Code": "V00195",
+      "Customer/Vendor Name": "NOVATEUR ELECTRICAL & DIGITAL SYSTEMS PVT. LTD",
+      "AP No.": "",
+      "AP Date": "",
+      "BP Reference No.": "HDC000320"
+    },
+    {
+      "GRPO No.": 252611103,
+      "Internal Number": 56653,
+      "GRPO Date": "24-Mar-2026",
+      "Customer/Vendor Code": "V00195",
+      "Customer/Vendor Name": "NOVATEUR ELECTRICAL & DIGITAL SYSTEMS PVT. LTD",
+      "AP No.": "",
+      "AP Date": "",
+      "BP Reference No.": "HDC000305(25-26)"
+    },
+    {
+      "GRPO No.": 252611105,
+      "Internal Number": 56656,
+      "GRPO Date": "24-Mar-2026",
+      "Customer/Vendor Code": "V00195",
+      "Customer/Vendor Name": "NOVATEUR ELECTRICAL & DIGITAL SYSTEMS PVT. LTD",
+      "AP No.": "",
+      "AP Date": "",
+      "BP Reference No.": "HDC000306"
+    },
+    {
+      "GRPO No.": 252611108,
+      "Internal Number": 56667,
+      "GRPO Date": "25-Mar-2026",
+      "Customer/Vendor Code": "V00195",
+      "Customer/Vendor Name": "NOVATEUR ELECTRICAL & DIGITAL SYSTEMS PVT. LTD",
+      "AP No.": "",
+      "AP Date": "",
+      "BP Reference No.": "HDC000329"
+    },
+    {
+      "GRPO No.": 252611109,
+      "Internal Number": 56668,
+      "GRPO Date": "25-Mar-2026",
+      "Customer/Vendor Code": "V00195",
+      "Customer/Vendor Name": "NOVATEUR ELECTRICAL & DIGITAL SYSTEMS PVT. LTD",
+      "AP No.": "",
+      "AP Date": "",
+      "BP Reference No.": "HDC000330(25-26)"
+    },
+    {
+      "GRPO No.": 252611112,
+      "Internal Number": 56675,
+      "GRPO Date": "25-Mar-2026",
+      "Customer/Vendor Code": "V00195",
+      "Customer/Vendor Name": "NOVATEUR ELECTRICAL & DIGITAL SYSTEMS PVT. LTD",
+      "AP No.": "",
+      "AP Date": "",
+      "BP Reference No.": "HDC000328"
+    },
+    {
+      "GRPO No.": 252611113,
+      "Internal Number": 56680,
+      "GRPO Date": "25-Mar-2026",
+      "Customer/Vendor Code": "V00195",
+      "Customer/Vendor Name": "NOVATEUR ELECTRICAL & DIGITAL SYSTEMS PVT. LTD",
+      "AP No.": "",
+      "AP Date": "",
+      "BP Reference No.": "HDC000350(25-26)"
+    },
+    {
+      "GRPO No.": 252611114,
+      "Internal Number": 56683,
+      "GRPO Date": "25-Mar-2026",
+      "Customer/Vendor Code": "V00195",
+      "Customer/Vendor Name": "NOVATEUR ELECTRICAL & DIGITAL SYSTEMS PVT. LTD",
+      "AP No.": "",
+      "AP Date": "",
+      "BP Reference No.": "HDC000348(25-26)"
+    },
+    {
+      "GRPO No.": 252611115,
+      "Internal Number": 56684,
+      "GRPO Date": "25-Mar-2026",
+      "Customer/Vendor Code": "V00195",
+      "Customer/Vendor Name": "NOVATEUR ELECTRICAL & DIGITAL SYSTEMS PVT. LTD",
+      "AP No.": "",
+      "AP Date": "",
+      "BP Reference No.": "HDC000351(25-26)"
+    },
+    {
+      "GRPO No.": 252611121,
+      "Internal Number": 56730,
+      "GRPO Date": "26-Mar-2026",
+      "Customer/Vendor Code": "V00195",
+      "Customer/Vendor Name": "NOVATEUR ELECTRICAL & DIGITAL SYSTEMS PVT. LTD",
+      "AP No.": "",
+      "AP Date": "",
+      "BP Reference No.": "HDC000373(25-26)"
+    },
+    {
+      "GRPO No.": 252611123,
+      "Internal Number": 56734,
+      "GRPO Date": "26-Mar-2026",
+      "Customer/Vendor Code": "V00195",
+      "Customer/Vendor Name": "NOVATEUR ELECTRICAL & DIGITAL SYSTEMS PVT. LTD",
+      "AP No.": "",
+      "AP Date": "",
+      "BP Reference No.": "HDC000362"
+    },
+    {
+      "GRPO No.": 252611125,
+      "Internal Number": 56745,
+      "GRPO Date": "27-Mar-2026",
+      "Customer/Vendor Code": "V00195",
+      "Customer/Vendor Name": "NOVATEUR ELECTRICAL & DIGITAL SYSTEMS PVT. LTD",
+      "AP No.": "",
+      "AP Date": "",
+      "BP Reference No.": "HDC000372"
+    },
+    {
+      "GRPO No.": 252611126,
+      "Internal Number": 56746,
+      "GRPO Date": "27-Mar-2026",
+      "Customer/Vendor Code": "V00195",
+      "Customer/Vendor Name": "NOVATEUR ELECTRICAL & DIGITAL SYSTEMS PVT. LTD",
+      "AP No.": "",
+      "AP Date": "",
+      "BP Reference No.": "HDC000371"
+    },
+    {
+      "GRPO No.": 252611128,
+      "Internal Number": 56764,
+      "GRPO Date": "27-Mar-2026",
+      "Customer/Vendor Code": "V00195",
+      "Customer/Vendor Name": "NOVATEUR ELECTRICAL & DIGITAL SYSTEMS PVT. LTD",
+      "AP No.": "",
+      "AP Date": "",
+      "BP Reference No.": "HDC000388"
+    },
+    {
+      "GRPO No.": 252611129,
+      "Internal Number": 56765,
+      "GRPO Date": "27-Mar-2026",
+      "Customer/Vendor Code": "V00195",
+      "Customer/Vendor Name": "NOVATEUR ELECTRICAL & DIGITAL SYSTEMS PVT. LTD",
+      "AP No.": "",
+      "AP Date": "",
+      "BP Reference No.": "HDC000389(25-26)"
+    },
+    {
+      "GRPO No.": 252611130,
+      "Internal Number": 56771,
+      "GRPO Date": "27-Mar-2026",
+      "Customer/Vendor Code": "V00195",
+      "Customer/Vendor Name": "NOVATEUR ELECTRICAL & DIGITAL SYSTEMS PVT. LTD",
+      "AP No.": "",
+      "AP Date": "",
+      "BP Reference No.": "HDC000390(25-26)"
+    },
+    {
+      "GRPO No.": 252611099,
+      "Internal Number": 56647,
+      "GRPO Date": "24-Mar-2026",
+      "Customer/Vendor Code": "V00195",
+      "Customer/Vendor Name": "NOVATEUR ELECTRICAL & DIGITAL SYSTEMS PVT. LTD",
+      "AP No.": "",
+      "AP Date": "",
+      "BP Reference No.": "HDC000323"
+    },
+    {
+      "GRPO No.": 252611101,
+      "Internal Number": 56649,
+      "GRPO Date": "24-Mar-2026",
+      "Customer/Vendor Code": "V00195",
+      "Customer/Vendor Name": "NOVATEUR ELECTRICAL & DIGITAL SYSTEMS PVT. LTD",
+      "AP No.": "",
+      "AP Date": "",
+      "BP Reference No.": "HDC000307(25-26)"
+    },
+    {
+      "GRPO No.": 252611133,
+      "Internal Number": 56798,
+      "GRPO Date": "28-Mar-2026",
+      "Customer/Vendor Code": "V00195",
+      "Customer/Vendor Name": "NOVATEUR ELECTRICAL & DIGITAL SYSTEMS PVT. LTD",
+      "AP No.": "",
+      "AP Date": "",
+      "BP Reference No.": "HDC000408"
+    },
+    {
+      "GRPO No.": 252611134,
+      "Internal Number": 56803,
+      "GRPO Date": "28-Mar-2026",
+      "Customer/Vendor Code": "V00195",
+      "Customer/Vendor Name": "NOVATEUR ELECTRICAL & DIGITAL SYSTEMS PVT. LTD",
+      "AP No.": "",
+      "AP Date": "",
+      "BP Reference No.": "HDC000321"
+    },
+    {
+      "GRPO No.": 252611135,
+      "Internal Number": 56822,
+      "GRPO Date": "29-Mar-2026",
+      "Customer/Vendor Code": "V00195",
+      "Customer/Vendor Name": "NOVATEUR ELECTRICAL & DIGITAL SYSTEMS PVT. LTD",
+      "AP No.": "",
+      "AP Date": "",
+      "BP Reference No.": "HDC000407"
+    },
+    {
+      "GRPO No.": 252611005,
+      "Internal Number": 56030,
+      "GRPO Date": "28-Feb-2026",
+      "Customer/Vendor Code": "V00195",
+      "Customer/Vendor Name": "NOVATEUR ELECTRICAL & DIGITAL SYSTEMS PVT. LTD",
+      "AP No.": "",
+      "AP Date": "",
+      "BP Reference No.": "HDB000431"
+    },
+    {
+      "GRPO No.": 252611137,
+      "Internal Number": 56827,
+      "GRPO Date": "29-Mar-2026",
+      "Customer/Vendor Code": "V00195",
+      "Customer/Vendor Name": "NOVATEUR ELECTRICAL & DIGITAL SYSTEMS PVT. LTD",
+      "AP No.": "",
+      "AP Date": "",
+      "BP Reference No.": "HDC000406(25-26)"
+    },
+    {
+      "GRPO No.": 252611141,
+      "Internal Number": 56837,
+      "GRPO Date": "30-Mar-2026",
+      "Customer/Vendor Code": "V00195",
+      "Customer/Vendor Name": "NOVATEUR ELECTRICAL & DIGITAL SYSTEMS PVT. LTD",
+      "AP No.": "",
+      "AP Date": "",
+      "BP Reference No.": "HDC000424"
+    },
+    {
+      "GRPO No.": 252611142,
+      "Internal Number": 56838,
+      "GRPO Date": "30-Mar-2026",
+      "Customer/Vendor Code": "V00195",
+      "Customer/Vendor Name": "NOVATEUR ELECTRICAL & DIGITAL SYSTEMS PVT. LTD",
+      "AP No.": "",
+      "AP Date": "",
+      "BP Reference No.": "HDC000421"
+    },
+    {
+      "GRPO No.": 252611146,
+      "Internal Number": 56860,
+      "GRPO Date": "30-Mar-2026",
+      "Customer/Vendor Code": "V00195",
+      "Customer/Vendor Name": "NOVATEUR ELECTRICAL & DIGITAL SYSTEMS PVT. LTD",
+      "AP No.": "",
+      "AP Date": "",
+      "BP Reference No.": "HDC000439"
+    },
+    {
+      "GRPO No.": 252611147,
+      "Internal Number": 56861,
+      "GRPO Date": "30-Mar-2026",
+      "Customer/Vendor Code": "V00195",
+      "Customer/Vendor Name": "NOVATEUR ELECTRICAL & DIGITAL SYSTEMS PVT. LTD",
+      "AP No.": "",
+      "AP Date": "",
+      "BP Reference No.": "HDC000436(25-26)"
+    },
+    {
+      "GRPO No.": 252611148,
+      "Internal Number": 56886,
+      "GRPO Date": "31-Mar-2026",
+      "Customer/Vendor Code": "V00195",
+      "Customer/Vendor Name": "NOVATEUR ELECTRICAL & DIGITAL SYSTEMS PVT. LTD",
+      "AP No.": "",
+      "AP Date": "",
+      "BP Reference No.": "HDC000464"
+    },
+    {
+      "GRPO No.": 252611152,
+      "Internal Number": 56899,
+      "GRPO Date": "31-Mar-2026",
+      "Customer/Vendor Code": "V00195",
+      "Customer/Vendor Name": "NOVATEUR ELECTRICAL & DIGITAL SYSTEMS PVT. LTD",
+      "AP No.": "",
+      "AP Date": "",
+      "BP Reference No.": "HDC000457"
+    },
+    {
+      "GRPO No.": 252611153,
+      "Internal Number": 56900,
+      "GRPO Date": "31-Mar-2026",
+      "Customer/Vendor Code": "V00195",
+      "Customer/Vendor Name": "NOVATEUR ELECTRICAL & DIGITAL SYSTEMS PVT. LTD",
+      "AP No.": "",
+      "AP Date": "",
+      "BP Reference No.": "HDC000458"
+    },
+    {
+      "GRPO No.": 252611116,
+      "Internal Number": 56685,
+      "GRPO Date": "25-Mar-2026",
+      "Customer/Vendor Code": "V00195",
+      "Customer/Vendor Name": "NOVATEUR ELECTRICAL & DIGITAL SYSTEMS PVT. LTD",
+      "AP No.": "",
+      "AP Date": "",
+      "BP Reference No.": "HDC000345"
+    },
+    {
+      "GRPO No.": 252611118,
+      "Internal Number": 56693,
+      "GRPO Date": "25-Mar-2026",
+      "Customer/Vendor Code": "V00195",
+      "Customer/Vendor Name": "NOVATEUR ELECTRICAL & DIGITAL SYSTEMS PVT. LTD",
+      "AP No.": "",
+      "AP Date": "",
+      "BP Reference No.": "HDC000349(25-26)"
+    },
+    {
+      "GRPO No.": 252611119,
+      "Internal Number": 56723,
+      "GRPO Date": "26-Mar-2026",
+      "Customer/Vendor Code": "V00195",
+      "Customer/Vendor Name": "NOVATEUR ELECTRICAL & DIGITAL SYSTEMS PVT. LTD",
+      "AP No.": "",
+      "AP Date": "",
+      "BP Reference No.": "HDC000377(25-26)"
+    },
+    {
+      "GRPO No.": 252611120,
+      "Internal Number": 56729,
+      "GRPO Date": "26-Mar-2026",
+      "Customer/Vendor Code": "V00195",
+      "Customer/Vendor Name": "NOVATEUR ELECTRICAL & DIGITAL SYSTEMS PVT. LTD",
+      "AP No.": "",
+      "AP Date": "",
+      "BP Reference No.": "HDC000366"
+    },
+    {
+      "GRPO No.": 252610941,
+      "Internal Number": 55598,
+      "GRPO Date": "13-Feb-2026",
+      "Customer/Vendor Code": "V00195",
+      "Customer/Vendor Name": "NOVATEUR ELECTRICAL & DIGITAL SYSTEMS PVT. LTD",
+      "AP No.": "",
+      "AP Date": "",
+      "BP Reference No.": "HDB000180(25-26)"
+    },
+    {
+      "GRPO No.": 252610915,
+      "Internal Number": 55428,
+      "GRPO Date": "07-Feb-2026",
+      "Customer/Vendor Code": "V00195",
+      "Customer/Vendor Name": "NOVATEUR ELECTRICAL & DIGITAL SYSTEMS PVT. LTD",
+      "AP No.": "",
+      "AP Date": "",
+      "BP Reference No.": "HDB000075"
+    },
+    {
+      "GRPO No.": 252611124,
+      "Internal Number": 56744,
+      "GRPO Date": "27-Mar-2026",
+      "Customer/Vendor Code": "V00195",
+      "Customer/Vendor Name": "NOVATEUR ELECTRICAL & DIGITAL SYSTEMS PVT. LTD",
+      "AP No.": "",
+      "AP Date": "",
+      "BP Reference No.": "HDC000370"
+    },
+    {
+      "GRPO No.": 252611127,
+      "Internal Number": 56763,
+      "GRPO Date": "27-Mar-2026",
+      "Customer/Vendor Code": "V00195",
+      "Customer/Vendor Name": "NOVATEUR ELECTRICAL & DIGITAL SYSTEMS PVT. LTD",
+      "AP No.": "",
+      "AP Date": "",
+      "BP Reference No.": "HDC000400"
+    },
+    {
+      "GRPO No.": 252611131,
+      "Internal Number": 56793,
+      "GRPO Date": "27-Mar-2026",
+      "Customer/Vendor Code": "V00195",
+      "Customer/Vendor Name": "NOVATEUR ELECTRICAL & DIGITAL SYSTEMS PVT. LTD",
+      "AP No.": "",
+      "AP Date": "",
+      "BP Reference No.": "HDC000387"
+    },
+    {
+      "GRPO No.": 252611132,
+      "Internal Number": 56797,
+      "GRPO Date": "28-Mar-2026",
+      "Customer/Vendor Code": "V00195",
+      "Customer/Vendor Name": "NOVATEUR ELECTRICAL & DIGITAL SYSTEMS PVT. LTD",
+      "AP No.": "",
+      "AP Date": "",
+      "BP Reference No.": "HDC000413"
+    },
+    {
+      "GRPO No.": 252611026,
+      "Internal Number": 56142,
+      "GRPO Date": "06-Mar-2026",
+      "Customer/Vendor Code": "V00195",
+      "Customer/Vendor Name": "NOVATEUR ELECTRICAL & DIGITAL SYSTEMS PVT. LTD",
+      "AP No.": "",
+      "AP Date": "",
+      "BP Reference No.": "HDC000039"
+    },
+    {
+      "GRPO No.": 252640145,
+      "Internal Number": 55673,
+      "GRPO Date": "16-Feb-2026",
+      "Customer/Vendor Code": "V00737",
+      "Customer/Vendor Name": "IKIO SOLUTIONS PVT LTD",
+      "AP No.": "",
+      "AP Date": "",
+      "BP Reference No.": "RGP25261965"
+    },
+    {
+      "GRPO No.": 252610949,
+      "Internal Number": 55670,
+      "GRPO Date": "16-Feb-2026",
+      "Customer/Vendor Code": "V00195",
+      "Customer/Vendor Name": "NOVATEUR ELECTRICAL & DIGITAL SYSTEMS PVT. LTD",
+      "AP No.": "",
+      "AP Date": "",
+      "BP Reference No.": "HDB000214"
+    },
+    {
+      "GRPO No.": 252640144,
+      "Internal Number": 55672,
+      "GRPO Date": "16-Feb-2026",
+      "Customer/Vendor Code": "V00737",
+      "Customer/Vendor Name": "IKIO SOLUTIONS PVT LTD",
+      "AP No.": "",
+      "AP Date": "",
+      "BP Reference No.": "RGP25261962"
+    },
+    {
+      "GRPO No.": 252611145,
+      "Internal Number": 56859,
+      "GRPO Date": "30-Mar-2026",
+      "Customer/Vendor Code": "V00195",
+      "Customer/Vendor Name": "NOVATEUR ELECTRICAL & DIGITAL SYSTEMS PVT. LTD",
+      "AP No.": "",
+      "AP Date": "",
+      "BP Reference No.": "HDC000445"
+    },
+    {
+      "GRPO No.": 252611151,
+      "Internal Number": 56898,
+      "GRPO Date": "31-Mar-2026",
+      "Customer/Vendor Code": "V00195",
+      "Customer/Vendor Name": "NOVATEUR ELECTRICAL & DIGITAL SYSTEMS PVT. LTD",
+      "AP No.": "",
+      "AP Date": "",
+      "BP Reference No.": "HDC000455"
+    },
+    {
+      "GRPO No.": 252611043,
+      "Internal Number": 56272,
+      "GRPO Date": "11-Mar-2026",
+      "Customer/Vendor Code": "V00195",
+      "Customer/Vendor Name": "NOVATEUR ELECTRICAL & DIGITAL SYSTEMS PVT. LTD",
+      "AP No.": "",
+      "AP Date": "",
+      "BP Reference No.": "HDC000115"
+    },
+    {
+      "GRPO No.": 252610963,
+      "Internal Number": 55731,
+      "GRPO Date": "17-Feb-2026",
+      "Customer/Vendor Code": "V00195",
+      "Customer/Vendor Name": "NOVATEUR ELECTRICAL & DIGITAL SYSTEMS PVT. LTD",
+      "AP No.": "",
+      "AP Date": "",
+      "BP Reference No.": "HDB000252"
+    },
+    {
+      "GRPO No.": 252610969,
+      "Internal Number": 55766,
+      "GRPO Date": "19-Feb-2026",
+      "Customer/Vendor Code": "V00195",
+      "Customer/Vendor Name": "NOVATEUR ELECTRICAL & DIGITAL SYSTEMS PVT. LTD",
+      "AP No.": "",
+      "AP Date": "",
+      "BP Reference No.": "HDB000270"
+    },
+    {
+      "GRPO No.": 252640149,
+      "Internal Number": 55785,
+      "GRPO Date": "19-Feb-2026",
+      "Customer/Vendor Code": "V00737",
+      "Customer/Vendor Name": "IKIO SOLUTIONS PVT LTD",
+      "AP No.": "",
+      "AP Date": "",
+      "BP Reference No.": "RGP25261955"
+    },
+    {
+      "GRPO No.": 252610970,
+      "Internal Number": 55799,
+      "GRPO Date": "20-Feb-2026",
+      "Customer/Vendor Code": "V00195",
+      "Customer/Vendor Name": "NOVATEUR ELECTRICAL & DIGITAL SYSTEMS PVT. LTD",
+      "AP No.": "",
+      "AP Date": "",
+      "BP Reference No.": "HDB000279"
+    },
+    {
+      "GRPO No.": 252611075,
+      "Internal Number": 56443,
+      "GRPO Date": "18-Mar-2026",
+      "Customer/Vendor Code": "V00195",
+      "Customer/Vendor Name": "NOVATEUR ELECTRICAL & DIGITAL SYSTEMS PVT. LTD",
+      "AP No.": "",
+      "AP Date": "",
+      "BP Reference No.": "HDC0000229"
+    },
+    {
+      "GRPO No.": 252611080,
+      "Internal Number": 56479,
+      "GRPO Date": "19-Mar-2026",
+      "Customer/Vendor Code": "V00195",
+      "Customer/Vendor Name": "NOVATEUR ELECTRICAL & DIGITAL SYSTEMS PVT. LTD",
+      "AP No.": "",
+      "AP Date": "",
+      "BP Reference No.": "HDC000238"
+    },
+    {
+      "GRPO No.": 252610985,
+      "Internal Number": 55868,
+      "GRPO Date": "23-Feb-2026",
+      "Customer/Vendor Code": "V00195",
+      "Customer/Vendor Name": "NOVATEUR ELECTRICAL & DIGITAL SYSTEMS PVT. LTD",
+      "AP No.": "",
+      "AP Date": "",
+      "BP Reference No.": "HDB000339"
+    },
+    {
+      "GRPO No.": 252611088,
+      "Internal Number": 56546,
+      "GRPO Date": "21-Mar-2026",
+      "Customer/Vendor Code": "V00195",
+      "Customer/Vendor Name": "NOVATEUR ELECTRICAL & DIGITAL SYSTEMS PVT. LTD",
+      "AP No.": "",
+      "AP Date": "",
+      "BP Reference No.": "HDC000274(25-26)"
+    },
+    {
+      "GRPO No.": 252610964,
+      "Internal Number": 55739,
+      "GRPO Date": "18-Feb-2026",
+      "Customer/Vendor Code": "V00195",
+      "Customer/Vendor Name": "NOVATEUR ELECTRICAL & DIGITAL SYSTEMS PVT. LTD",
+      "AP No.": "",
+      "AP Date": "",
+      "BP Reference No.": "HDB000258(25-26)"
+    },
+    {
+      "GRPO No.": 252610912,
+      "Internal Number": 55379,
+      "GRPO Date": "05-Feb-2026",
+      "Customer/Vendor Code": "V00195",
+      "Customer/Vendor Name": "NOVATEUR ELECTRICAL & DIGITAL SYSTEMS PVT. LTD",
+      "AP No.": "",
+      "AP Date": "",
+      "BP Reference No.": "HDB000057"
+    },
+    {
+      "GRPO No.": 252640140,
+      "Internal Number": 55358,
+      "GRPO Date": "05-Feb-2026",
+      "Customer/Vendor Code": "V00737",
+      "Customer/Vendor Name": "IKIO SOLUTIONS PVT LTD",
+      "AP No.": "",
+      "AP Date": "",
+      "BP Reference No.": "RGP25261910"
+    },
+    {
+      "GRPO No.": 252611139,
+      "Internal Number": 56832,
+      "GRPO Date": "29-Mar-2026",
+      "Customer/Vendor Code": "V00195",
+      "Customer/Vendor Name": "NOVATEUR ELECTRICAL & DIGITAL SYSTEMS PVT. LTD",
+      "AP No.": "",
+      "AP Date": "",
+      "BP Reference No.": "HDC000430"
+    },
+    {
+      "GRPO No.": 252611143,
+      "Internal Number": 56840,
+      "GRPO Date": "30-Mar-2026",
+      "Customer/Vendor Code": "V00195",
+      "Customer/Vendor Name": "NOVATEUR ELECTRICAL & DIGITAL SYSTEMS PVT. LTD",
+      "AP No.": "",
+      "AP Date": "",
+      "BP Reference No.": "HDC000425"
+    },
+    {
+      "GRPO No.": 252640143,
+      "Internal Number": 55490,
+      "GRPO Date": "10-Feb-2026",
+      "Customer/Vendor Code": "V00737",
+      "Customer/Vendor Name": "IKIO SOLUTIONS PVT LTD",
+      "AP No.": "",
+      "AP Date": "",
+      "BP Reference No.": "RGP25261940"
+    },
+    {
+      "GRPO No.": 252611154,
+      "Internal Number": 56904,
+      "GRPO Date": "31-Mar-2026",
+      "Customer/Vendor Code": "V00195",
+      "Customer/Vendor Name": "NOVATEUR ELECTRICAL & DIGITAL SYSTEMS PVT. LTD",
+      "AP No.": "",
+      "AP Date": "",
+      "BP Reference No.": "HDC000471"
+    },
+    {
+      "GRPO No.": 252611000,
+      "Internal Number": 56000,
+      "GRPO Date": "27-Feb-2026",
+      "Customer/Vendor Code": "V00195",
+      "Customer/Vendor Name": "NOVATEUR ELECTRICAL & DIGITAL SYSTEMS PVT. LTD",
+      "AP No.": "",
+      "AP Date": "",
+      "BP Reference No.": "HDB000401(25-26)"
+    },
+    {
+      "GRPO No.": 252611016,
+      "Internal Number": 56065,
+      "GRPO Date": "02-Mar-2026",
+      "Customer/Vendor Code": "V00195",
+      "Customer/Vendor Name": "NOVATEUR ELECTRICAL & DIGITAL SYSTEMS PVT. LTD",
+      "AP No.": "",
+      "AP Date": "",
+      "BP Reference No.": "HDC000011(25-26)"
+    },
+    {
+      "GRPO No.": 252611022,
+      "Internal Number": 56112,
+      "GRPO Date": "05-Mar-2026",
+      "Customer/Vendor Code": "V00195",
+      "Customer/Vendor Name": "NOVATEUR ELECTRICAL & DIGITAL SYSTEMS PVT. LTD",
+      "AP No.": "",
+      "AP Date": "",
+      "BP Reference No.": "HDC000035(25-26)"
+    },
+    {
+      "GRPO No.": 252610977,
+      "Internal Number": 55815,
+      "GRPO Date": "20-Feb-2026",
+      "Customer/Vendor Code": "V00195",
+      "Customer/Vendor Name": "NOVATEUR ELECTRICAL & DIGITAL SYSTEMS PVT. LTD",
+      "AP No.": "",
+      "AP Date": "",
+      "BP Reference No.": "HDB000289"
+    },
+    {
+      "GRPO No.": 252640151,
+      "Internal Number": 55891,
+      "GRPO Date": "24-Feb-2026",
+      "Customer/Vendor Code": "V00737",
+      "Customer/Vendor Name": "IKIO SOLUTIONS PVT LTD",
+      "AP No.": "",
+      "AP Date": "",
+      "BP Reference No.": "RGP25261993"
+    },
+    {
+      "GRPO No.": 252611057,
+      "Internal Number": 56346,
+      "GRPO Date": "14-Mar-2026",
+      "Customer/Vendor Code": "V00195",
+      "Customer/Vendor Name": "NOVATEUR ELECTRICAL & DIGITAL SYSTEMS PVT. LTD",
+      "AP No.": "",
+      "AP Date": "",
+      "BP Reference No.": "HDC000175"
+    },
+    {
+      "GRPO No.": 252640155,
+      "Internal Number": 56363,
+      "GRPO Date": "15-Mar-2026",
+      "Customer/Vendor Code": "V00737",
+      "Customer/Vendor Name": "IKIO SOLUTIONS PVT LTD",
+      "AP No.": "",
+      "AP Date": "",
+      "BP Reference No.": "RGP25262076"
+    },
+    {
+      "GRPO No.": 252610989,
+      "Internal Number": 55914,
+      "GRPO Date": "25-Feb-2026",
+      "Customer/Vendor Code": "V00195",
+      "Customer/Vendor Name": "NOVATEUR ELECTRICAL & DIGITAL SYSTEMS PVT. LTD",
+      "AP No.": "",
+      "AP Date": "",
+      "BP Reference No.": "HDB000353"
+    },
+    {
+      "GRPO No.": 252611062,
+      "Internal Number": 56392,
+      "GRPO Date": "16-Mar-2026",
+      "Customer/Vendor Code": "V00195",
+      "Customer/Vendor Name": "NOVATEUR ELECTRICAL & DIGITAL SYSTEMS PVT. LTD",
+      "AP No.": "",
+      "AP Date": "",
+      "BP Reference No.": "HDC000201(25-26)"
+    },
+    {
+      "GRPO No.": 252611076,
+      "Internal Number": 56454,
+      "GRPO Date": "18-Mar-2026",
+      "Customer/Vendor Code": "V00195",
+      "Customer/Vendor Name": "NOVATEUR ELECTRICAL & DIGITAL SYSTEMS PVT. LTD",
+      "AP No.": "",
+      "AP Date": "",
+      "BP Reference No.": "HDC000240(25-26)"
+    },
+    {
+      "GRPO No.": 252611082,
+      "Internal Number": 56488,
+      "GRPO Date": "19-Mar-2026",
+      "Customer/Vendor Code": "V00195",
+      "Customer/Vendor Name": "NOVATEUR ELECTRICAL & DIGITAL SYSTEMS PVT. LTD",
+      "AP No.": "",
+      "AP Date": "",
+      "BP Reference No.": "HDC000251"
+    },
+    {
+      "GRPO No.": 252610993,
+      "Internal Number": 55954,
+      "GRPO Date": "26-Feb-2026",
+      "Customer/Vendor Code": "V00195",
+      "Customer/Vendor Name": "NOVATEUR ELECTRICAL & DIGITAL SYSTEMS PVT. LTD",
+      "AP No.": "",
+      "AP Date": "",
+      "BP Reference No.": "HDB000377"
+    },
+    {
+      "GRPO No.": 252611089,
+      "Internal Number": 56548,
+      "GRPO Date": "21-Mar-2026",
+      "Customer/Vendor Code": "V00195",
+      "Customer/Vendor Name": "NOVATEUR ELECTRICAL & DIGITAL SYSTEMS PVT. LTD",
+      "AP No.": "",
+      "AP Date": "",
+      "BP Reference No.": "HDC000259(25-26)"
+    },
+    {
+      "GRPO No.": 252611107,
+      "Internal Number": 56662,
+      "GRPO Date": "24-Mar-2026",
+      "Customer/Vendor Code": "V00195",
+      "Customer/Vendor Name": "NOVATEUR ELECTRICAL & DIGITAL SYSTEMS PVT. LTD",
+      "AP No.": "",
+      "AP Date": "",
+      "BP Reference No.": "HDC000341"
+    },
+    {
+      "GRPO No.": 252611110,
+      "Internal Number": 56673,
+      "GRPO Date": "25-Mar-2026",
+      "Customer/Vendor Code": "V00195",
+      "Customer/Vendor Name": "NOVATEUR ELECTRICAL & DIGITAL SYSTEMS PVT. LTD",
+      "AP No.": "",
+      "AP Date": "",
+      "BP Reference No.": "HDC000346"
+    },
+    {
+      "GRPO No.": 252611117,
+      "Internal Number": 56692,
+      "GRPO Date": "25-Mar-2026",
+      "Customer/Vendor Code": "V00195",
+      "Customer/Vendor Name": "NOVATEUR ELECTRICAL & DIGITAL SYSTEMS PVT. LTD",
+      "AP No.": "",
+      "AP Date": "",
+      "BP Reference No.": "HDC000363"
+    },
+    {
+      "GRPO No.": 252611140,
+      "Internal Number": 56836,
+      "GRPO Date": "30-Mar-2026",
+      "Customer/Vendor Code": "V00195",
+      "Customer/Vendor Name": "NOVATEUR ELECTRICAL & DIGITAL SYSTEMS PVT. LTD",
+      "AP No.": "",
+      "AP Date": "",
+      "BP Reference No.": "HDC000423"
+    },
+    {
+      "GRPO No.": 252610983,
+      "Internal Number": 55863,
+      "GRPO Date": "22-Feb-2026",
+      "Customer/Vendor Code": "V00195",
+      "Customer/Vendor Name": "NOVATEUR ELECTRICAL & DIGITAL SYSTEMS PVT. LTD",
+      "AP No.": "",
+      "AP Date": "",
+      "BP Reference No.": "HDB000322"
+    },
+    {
+      "GRPO No.": 252610994,
+      "Internal Number": 55960,
+      "GRPO Date": "26-Feb-2026",
+      "Customer/Vendor Code": "V00195",
+      "Customer/Vendor Name": "NOVATEUR ELECTRICAL & DIGITAL SYSTEMS PVT. LTD",
+      "AP No.": "",
+      "AP Date": "",
+      "BP Reference No.": "HDB000378"
+    },
+    {
+      "GRPO No.": 252610922,
+      "Internal Number": 55455,
+      "GRPO Date": "09-Feb-2026",
+      "Customer/Vendor Code": "V00195",
+      "Customer/Vendor Name": "NOVATEUR ELECTRICAL & DIGITAL SYSTEMS PVT. LTD",
+      "AP No.": "",
+      "AP Date": "",
+      "BP Reference No.": "HDB0000100"
+    },
+    {
+      "GRPO No.": 252611004,
+      "Internal Number": 56029,
+      "GRPO Date": "28-Feb-2026",
+      "Customer/Vendor Code": "V00195",
+      "Customer/Vendor Name": "NOVATEUR ELECTRICAL & DIGITAL SYSTEMS PVT. LTD",
+      "AP No.": "",
+      "AP Date": "",
+      "BP Reference No.": "HDB000429"
+    },
+    {
+      "GRPO No.": 252640146,
+      "Internal Number": 55749,
+      "GRPO Date": "18-Feb-2026",
+      "Customer/Vendor Code": "V00737",
+      "Customer/Vendor Name": "IKIO SOLUTIONS PVT LTD",
+      "AP No.": "",
+      "AP Date": "",
+      "BP Reference No.": "RGO25261975"
+    },
+    {
+      "GRPO No.": 252640147,
+      "Internal Number": 55750,
+      "GRPO Date": "18-Feb-2026",
+      "Customer/Vendor Code": "V00737",
+      "Customer/Vendor Name": "IKIO SOLUTIONS PVT LTD",
+      "AP No.": "",
+      "AP Date": "",
+      "BP Reference No.": "RGP25261971"
+    },
+    {
+      "GRPO No.": 252640148,
+      "Internal Number": 55784,
+      "GRPO Date": "19-Feb-2026",
+      "Customer/Vendor Code": "V00737",
+      "Customer/Vendor Name": "IKIO SOLUTIONS PVT LTD",
+      "AP No.": "",
+      "AP Date": "",
+      "BP Reference No.": "RGP25261978"
+    },
+    {
+      "GRPO No.": 252610976,
+      "Internal Number": 55814,
+      "GRPO Date": "20-Feb-2026",
+      "Customer/Vendor Code": "V00195",
+      "Customer/Vendor Name": "NOVATEUR ELECTRICAL & DIGITAL SYSTEMS PVT. LTD",
+      "AP No.": "",
+      "AP Date": "",
+      "BP Reference No.": "HDB000290"
+    },
+    {
+      "GRPO No.": 252640152,
+      "Internal Number": 55892,
+      "GRPO Date": "24-Feb-2026",
+      "Customer/Vendor Code": "V00737",
+      "Customer/Vendor Name": "IKIO SOLUTIONS PVT LTD",
+      "AP No.": "",
+      "AP Date": "",
+      "BP Reference No.": "RGP25262005"
+    },
+    {
+      "GRPO No.": 252610999,
+      "Internal Number": 55999,
+      "GRPO Date": "27-Feb-2026",
+      "Customer/Vendor Code": "V00195",
+      "Customer/Vendor Name": "NOVATEUR ELECTRICAL & DIGITAL SYSTEMS PVT. LTD",
+      "AP No.": "",
+      "AP Date": "",
+      "BP Reference No.": "HDB000399"
+    },
+    {
+      "GRPO No.": 252640154,
+      "Internal Number": 56017,
+      "GRPO Date": "28-Feb-2026",
+      "Customer/Vendor Code": "V00737",
+      "Customer/Vendor Name": "IKIO SOLUTIONS PVT LTD",
+      "AP No.": "",
+      "AP Date": "",
+      "BP Reference No.": "RGP25262028"
+    },
+    {
+      "GRPO No.": 252611040,
+      "Internal Number": 56255,
+      "GRPO Date": "11-Mar-2026",
+      "Customer/Vendor Code": "V00195",
+      "Customer/Vendor Name": "NOVATEUR ELECTRICAL & DIGITAL SYSTEMS PVT. LTD",
+      "AP No.": "",
+      "AP Date": "",
+      "BP Reference No.": "HDC000119"
+    },
+    {
+      "GRPO No.": 252611021,
+      "Internal Number": 56111,
+      "GRPO Date": "05-Mar-2026",
+      "Customer/Vendor Code": "V00195",
+      "Customer/Vendor Name": "NOVATEUR ELECTRICAL & DIGITAL SYSTEMS PVT. LTD",
+      "AP No.": "",
+      "AP Date": "",
+      "BP Reference No.": "HDC000036(25-26)"
+    },
+    {
+      "GRPO No.": 252611070,
+      "Internal Number": 56420,
+      "GRPO Date": "17-Mar-2026",
+      "Customer/Vendor Code": "V00195",
+      "Customer/Vendor Name": "NOVATEUR ELECTRICAL & DIGITAL SYSTEMS PVT. LTD",
+      "AP No.": "",
+      "AP Date": "",
+      "BP Reference No.": "HDC000220"
+    },
+    {
+      "GRPO No.": 252640157,
+      "Internal Number": 56451,
+      "GRPO Date": "18-Mar-2026",
+      "Customer/Vendor Code": "V00737",
+      "Customer/Vendor Name": "IKIO SOLUTIONS PVT LTD",
+      "AP No.": "",
+      "AP Date": "",
+      "BP Reference No.": "RGP25262084"
+    },
+    {
+      "GRPO No.": 252611029,
+      "Internal Number": 56182,
+      "GRPO Date": "08-Mar-2026",
+      "Customer/Vendor Code": "V00195",
+      "Customer/Vendor Name": "NOVATEUR ELECTRICAL & DIGITAL SYSTEMS PVT. LTD",
+      "AP No.": "",
+      "AP Date": "",
+      "BP Reference No.": "HDC000071"
+    },
+    {
+      "GRPO No.": 252610979,
+      "Internal Number": 55851,
+      "GRPO Date": "22-Feb-2026",
+      "Customer/Vendor Code": "V00195",
+      "Customer/Vendor Name": "NOVATEUR ELECTRICAL & DIGITAL SYSTEMS PVT. LTD",
+      "AP No.": "",
+      "AP Date": "",
+      "BP Reference No.": "HDB000313"
+    },
+    {
+      "GRPO No.": 252611037,
+      "Internal Number": 56243,
+      "GRPO Date": "11-Mar-2026",
+      "Customer/Vendor Code": "V00195",
+      "Customer/Vendor Name": "NOVATEUR ELECTRICAL & DIGITAL SYSTEMS PVT. LTD",
+      "AP No.": "",
+      "AP Date": "",
+      "BP Reference No.": "HDC000111"
+    },
+    {
+      "GRPO No.": 252611104,
+      "Internal Number": 56655,
+      "GRPO Date": "24-Mar-2026",
+      "Customer/Vendor Code": "V00195",
+      "Customer/Vendor Name": "NOVATEUR ELECTRICAL & DIGITAL SYSTEMS PVT. LTD",
+      "AP No.": "",
+      "AP Date": "",
+      "BP Reference No.": "HDC000326"
+    },
+    {
+      "GRPO No.": 252611111,
+      "Internal Number": 56674,
+      "GRPO Date": "25-Mar-2026",
+      "Customer/Vendor Code": "V00195",
+      "Customer/Vendor Name": "NOVATEUR ELECTRICAL & DIGITAL SYSTEMS PVT. LTD",
+      "AP No.": "",
+      "AP Date": "",
+      "BP Reference No.": "HDC000344(25-26)"
+    },
+    {
+      "GRPO No.": 252640142,
+      "Internal Number": 55451,
+      "GRPO Date": "08-Feb-2026",
+      "Customer/Vendor Code": "V00737",
+      "Customer/Vendor Name": "IKIO SOLUTIONS PVT LTD",
+      "AP No.": "",
+      "AP Date": "",
+      "BP Reference No.": "RGP25261934"
+    },
+    {
+      "GRPO No.": 252611081,
+      "Internal Number": 56480,
+      "GRPO Date": "19-Mar-2026",
+      "Customer/Vendor Code": "V00195",
+      "Customer/Vendor Name": "NOVATEUR ELECTRICAL & DIGITAL SYSTEMS PVT. LTD",
+      "AP No.": "",
+      "AP Date": "",
+      "BP Reference No.": "HDC000243"
+    },
+    {
+      "GRPO No.": 252610947,
+      "Internal Number": 55664,
+      "GRPO Date": "16-Feb-2026",
+      "Customer/Vendor Code": "V00195",
+      "Customer/Vendor Name": "NOVATEUR ELECTRICAL & DIGITAL SYSTEMS PVT. LTD",
+      "AP No.": "",
+      "AP Date": "",
+      "BP Reference No.": "HDB000200"
+    },
+    {
+      "GRPO No.": 252610950,
+      "Internal Number": 55671,
+      "GRPO Date": "16-Feb-2026",
+      "Customer/Vendor Code": "V00195",
+      "Customer/Vendor Name": "NOVATEUR ELECTRICAL & DIGITAL SYSTEMS PVT. LTD",
+      "AP No.": "",
+      "AP Date": "",
+      "BP Reference No.": "HDB000214."
+    },
+    {
+      "GRPO No.": 252610960,
+      "Internal Number": 55718,
+      "GRPO Date": "17-Feb-2026",
+      "Customer/Vendor Code": "V00195",
+      "Customer/Vendor Name": "NOVATEUR ELECTRICAL & DIGITAL SYSTEMS PVT. LTD",
+      "AP No.": "",
+      "AP Date": "",
+      "BP Reference No.": "HDB000019(25-26)"
+    },
+    {
+      "GRPO No.": 252640161,
+      "Internal Number": 56748,
+      "GRPO Date": "27-Mar-2026",
+      "Customer/Vendor Code": "V00737",
+      "Customer/Vendor Name": "IKIO SOLUTIONS PVT LTD",
+      "AP No.": "",
+      "AP Date": "",
+      "BP Reference No.": "RGP25262126"
+    },
+    {
+      "GRPO No.": 252640150,
+      "Internal Number": 55809,
+      "GRPO Date": "20-Feb-2026",
+      "Customer/Vendor Code": "V00737",
+      "Customer/Vendor Name": "IKIO SOLUTIONS PVT LTD",
+      "AP No.": "",
+      "AP Date": "",
+      "BP Reference No.": "RGP25261985"
+    },
+    {
+      "GRPO No.": 252611100,
+      "Internal Number": 56648,
+      "GRPO Date": "24-Mar-2026",
+      "Customer/Vendor Code": "V00195",
+      "Customer/Vendor Name": "NOVATEUR ELECTRICAL & DIGITAL SYSTEMS PVT. LTD",
+      "AP No.": "",
+      "AP Date": "",
+      "BP Reference No.": "HDC000322(25-26)"
+    },
+    {
+      "GRPO No.": 252611006,
+      "Internal Number": 56032,
+      "GRPO Date": "28-Feb-2026",
+      "Customer/Vendor Code": "V00195",
+      "Customer/Vendor Name": "NOVATEUR ELECTRICAL & DIGITAL SYSTEMS PVT. LTD",
+      "AP No.": "",
+      "AP Date": "",
+      "BP Reference No.": "HDB000432"
+    },
+    {
+      "GRPO No.": 252611097,
+      "Internal Number": 56622,
+      "GRPO Date": "23-Mar-2026",
+      "Customer/Vendor Code": "V00195",
+      "Customer/Vendor Name": "NOVATEUR ELECTRICAL & DIGITAL SYSTEMS PVT. LTD",
+      "AP No.": "",
+      "AP Date": "",
+      "BP Reference No.": "HDC000317"
+    },
+    {
+      "GRPO No.": 252611011,
+      "Internal Number": 56057,
+      "GRPO Date": "02-Mar-2026",
+      "Customer/Vendor Code": "V00195",
+      "Customer/Vendor Name": "NOVATEUR ELECTRICAL & DIGITAL SYSTEMS PVT. LTD",
+      "AP No.": "",
+      "AP Date": "",
+      "BP Reference No.": "HDC000006"
+    },
+    {
+      "GRPO No.": 252640153,
+      "Internal Number": 56014,
+      "GRPO Date": "28-Feb-2026",
+      "Customer/Vendor Code": "V00737",
+      "Customer/Vendor Name": "IKIO SOLUTIONS PVT LTD",
+      "AP No.": "",
+      "AP Date": "",
+      "BP Reference No.": "RGP25262022"
+    },
+    {
+      "GRPO No.": 252611032,
+      "Internal Number": 56207,
+      "GRPO Date": "09-Mar-2026",
+      "Customer/Vendor Code": "V00195",
+      "Customer/Vendor Name": "NOVATEUR ELECTRICAL & DIGITAL SYSTEMS PVT. LTD",
+      "AP No.": "",
+      "AP Date": "",
+      "BP Reference No.": "HDC000084(25-26)"
+    },
+    {
+      "GRPO No.": 252611136,
+      "Internal Number": 56826,
+      "GRPO Date": "29-Mar-2026",
+      "Customer/Vendor Code": "V00195",
+      "Customer/Vendor Name": "NOVATEUR ELECTRICAL & DIGITAL SYSTEMS PVT. LTD",
+      "AP No.": "",
+      "AP Date": "",
+      "BP Reference No.": "HDC000416"
+    },
+    {
+      "GRPO No.": 252611144,
+      "Internal Number": 56844,
+      "GRPO Date": "30-Mar-2026",
+      "Customer/Vendor Code": "V00195",
+      "Customer/Vendor Name": "NOVATEUR ELECTRICAL & DIGITAL SYSTEMS PVT. LTD",
+      "AP No.": "",
+      "AP Date": "",
+      "BP Reference No.": "HDC000437"
+    },
+    {
+      "GRPO No.": 252611149,
+      "Internal Number": 56896,
+      "GRPO Date": "31-Mar-2026",
+      "Customer/Vendor Code": "V00195",
+      "Customer/Vendor Name": "NOVATEUR ELECTRICAL & DIGITAL SYSTEMS PVT. LTD",
+      "AP No.": "",
+      "AP Date": "",
+      "BP Reference No.": "HDC000461"
+    },
+    {
+      "GRPO No.": 252611150,
+      "Internal Number": 56897,
+      "GRPO Date": "31-Mar-2026",
+      "Customer/Vendor Code": "V00195",
+      "Customer/Vendor Name": "NOVATEUR ELECTRICAL & DIGITAL SYSTEMS PVT. LTD",
+      "AP No.": "",
+      "AP Date": "",
+      "BP Reference No.": "HDC000456"
+    },
+    {
+      "GRPO No.": 252611065,
+      "Internal Number": 56398,
+      "GRPO Date": "16-Mar-2026",
+      "Customer/Vendor Code": "V00195",
+      "Customer/Vendor Name": "NOVATEUR ELECTRICAL & DIGITAL SYSTEMS PVT. LTD",
+      "AP No.": "",
+      "AP Date": "",
+      "BP Reference No.": "HDC000203(25-26)"
+    },
+    {
+      "GRPO No.": 252611055,
+      "Internal Number": 56344,
+      "GRPO Date": "14-Mar-2026",
+      "Customer/Vendor Code": "V00195",
+      "Customer/Vendor Name": "NOVATEUR ELECTRICAL & DIGITAL SYSTEMS PVT. LTD",
+      "AP No.": "",
+      "AP Date": "",
+      "BP Reference No.": "HDC000164"
+    },
+    {
+      "GRPO No.": 252640162,
+      "Internal Number": 56881,
+      "GRPO Date": "31-Mar-2026",
+      "Customer/Vendor Code": "V00737",
+      "Customer/Vendor Name": "IKIO SOLUTIONS PVT LTD",
+      "AP No.": "",
+      "AP Date": "",
+      "BP Reference No.": "RGP25262149"
+    },
+    {
+      "GRPO No.": 252611069,
+      "Internal Number": 56419,
+      "GRPO Date": "17-Mar-2026",
+      "Customer/Vendor Code": "V00195",
+      "Customer/Vendor Name": "NOVATEUR ELECTRICAL & DIGITAL SYSTEMS PVT. LTD",
+      "AP No.": "",
+      "AP Date": "",
+      "BP Reference No.": "HDC000219(25-26)"
+    },
+    {
+      "GRPO No.": 252611074,
+      "Internal Number": 56425,
+      "GRPO Date": "17-Mar-2026",
+      "Customer/Vendor Code": "V00195",
+      "Customer/Vendor Name": "NOVATEUR ELECTRICAL & DIGITAL SYSTEMS PVT. LTD",
+      "AP No.": "",
+      "AP Date": "",
+      "BP Reference No.": "HDC000212"
+    },
+    {
+      "GRPO No.": 252611106,
+      "Internal Number": 56659,
+      "GRPO Date": "24-Mar-2026",
+      "Customer/Vendor Code": "V00195",
+      "Customer/Vendor Name": "NOVATEUR ELECTRICAL & DIGITAL SYSTEMS PVT. LTD",
+      "AP No.": "",
+      "AP Date": "",
+      "BP Reference No.": "HDC000338"
+    },
+    {
+      "GRPO No.": 252640159,
+      "Internal Number": 56639,
+      "GRPO Date": "24-Mar-2026",
+      "Customer/Vendor Code": "V00737",
+      "Customer/Vendor Name": "IKIO SOLUTIONS PVT LTD",
+      "AP No.": "",
+      "AP Date": "",
+      "BP Reference No.": "RGP25262100"
+    },
+    {
+      "GRPO No.": 252640160,
+      "Internal Number": 56643,
+      "GRPO Date": "24-Mar-2026",
+      "Customer/Vendor Code": "V00737",
+      "Customer/Vendor Name": "IKIO SOLUTIONS PVT LTD",
+      "AP No.": "",
+      "AP Date": "",
+      "BP Reference No.": "RGP25262106"
+    },
+    {
+      "GRPO No.": 252611122,
+      "Internal Number": 56731,
+      "GRPO Date": "26-Mar-2026",
+      "Customer/Vendor Code": "V00195",
+      "Customer/Vendor Name": "NOVATEUR ELECTRICAL & DIGITAL SYSTEMS PVT. LTD",
+      "AP No.": "",
+      "AP Date": "",
+      "BP Reference No.": "HDC000364"
+    },
+    {
+      "GRPO No.": 252611138,
+      "Internal Number": 56828,
+      "GRPO Date": "29-Mar-2026",
+      "Customer/Vendor Code": "V00195",
+      "Customer/Vendor Name": "NOVATEUR ELECTRICAL & DIGITAL SYSTEMS PVT. LTD",
+      "AP No.": "",
+      "AP Date": "",
+      "BP Reference No.": "HDC000391"
+    }
+  ]
+}

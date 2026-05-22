@@ -1,0 +1,20 @@
+{
+  "body": [
+    {
+      "Document Status": "Closed",
+      "PO_Lines": "6,325",
+      "Unique_POs": "1,079",
+      "Unique_Vendors": "226",
+      "Total_Value": "228,610,696.86",
+      "Open_Qty_Total": "75,191,888"
+    },
+    {
+      "Document Status": "OPEN",
+      "PO_Lines": "925",
+      "Unique_POs": "116",
+      "Unique_Vendors": "52",
+      "Total_Value": "16,391,608.60",
+      "Open_Qty_Total": "183,823,158"
+    }
+  ]
+}

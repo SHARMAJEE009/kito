@@ -1,0 +1,25 @@
+{
+  "body": [
+    {
+      "Bucket": "Within Tolerance (0-5%)",
+      "PO Lines": 6018,
+      "Goods Lines": 6000,
+      "Services Lines": 17,
+      "% of Total": "83.01%"
+    },
+    {
+      "Bucket": "Above 5% (Out of Tolerance)",
+      "PO Lines": 1232,
+      "Goods Lines": 1227,
+      "Services Lines": 5,
+      "% of Total": "16.99%"
+    },
+    {
+      "Bucket": "Total",
+      "PO Lines": 7250,
+      "Goods Lines": 7227,
+      "Services Lines": 22,
+      "% of Total": "100.00%"
+    }
+  ]
+}
